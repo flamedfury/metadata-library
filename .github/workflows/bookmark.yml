@@ -29,8 +29,8 @@ jobs:
         uses: katydecorah/bookmark-action@v5.2.0
         with:
           fileName: _data/bookmarks.json
-      - name: Download the thumbnail image
-        run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
+#       - name: Download the thumbnail image
+#         run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
       - name: Commit files
         run: |
           git pull
