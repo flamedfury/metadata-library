@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "title": "Build your metadata library",
+    "site": "Katy DeCorah",
+    "author": "Katy DeCorah",
+    "date": "2023-01-19",
+    "description": "Last year, I started to track new recipes I tried and books I read by saving their metadata to YAML files. I had already been saving Spotify playlists in the...",
+    "url": "https://katydecorah.com/code/build-your-metadata-library/",
+    "image": "bookmark-build-your-metadata-library.png",
+    "type": "blog",
+    "notes": "An exciting new approach to collecting metadata for books, music and websites."
+  }
+]
