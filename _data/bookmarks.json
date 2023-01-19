@@ -9,5 +9,16 @@
     "image": "bookmark-build-your-metadata-library.png",
     "type": "blog",
     "notes": "An exciting new approach to collecting metadata for books, music and websites."
+  },
+  {
+    "title": "Organizing the Eleventy config file",
+    "site": "Lene Saile",
+    "author": "",
+    "date": "2023-01-19",
+    "description": "Eleventy lets you create a file called eleventy.js to configure the SSG to your own project’s needs. This article is all about organizing your config file!",
+    "url": "https://www.lenesaile.com/en/blog/organizing-the-eleventy-config-file/",
+    "image": "bookmark-organizing-the-eleventy-config-file.jpg",
+    "type": "website",
+    "notes": "Great read on an approach to organising an 11ty project."
   }
 ]
