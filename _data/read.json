@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780399594199",
+    "dateFinished": "2022-07-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Sylvanas (World of Warcraft)",
+    "authors": [
+      "Christie Golden"
+    ],
+    "publishedDate": "2022-03-29",
+    "description": "NATIONAL BESTSELLER • The epic, definitive story of Sylvanas Windrunner, one of World of Warcraft’s most enduring and iconic characters, as chronicled by bestselling author Christie Golden. Ranger-General. Banshee Queen. Warchief. Sylvanas Windrunner has borne many titles. To some, she is a hero—to others, a villain. But whether in pursuit of justice, vengeance, or something more, Sylvanas has always sought to control her own destiny. The power to achieve her goals has never been closer, as Sylvanas works alongside the Jailer to liberate all Azeroth from the prison of fate. Her final task? Secure the fealty of their prisoner—King Anduin Wrynn. To succeed, Sylvanas will be forced to reflect on the harrowing path that brought her to the Jailer’s side and to reveal her truest self to her greatest rival. Here, Sylvanas’s complete story is laid bare: the breaking of the Windrunner family and her rise to Ranger- General; her own death at the hands of Arthas and her renewed purpose in founding the Forsaken; the moment she first beheld the Maw and understood the true consequences of what lay beyond the veil of death. But as her moment of victory draws near, Sylvanas Windrunner will make a choice that may ultimately come to define her. A choice that’s hers to make.",
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=NJYlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=NJYlEAAAQBAJ"
+  },
+  {
     "isbn": "9781405520782",
     "dateFinished": "2022-07-28",
     "status": "finished",
