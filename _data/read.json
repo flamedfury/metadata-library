@@ -137,6 +137,27 @@
     "link": "https://books.google.com/books/about/Skyward_Flight_The_Collection.html?hl=&id=OA9lEAAAQBAJ"
   },
   {
+    "isbn": "9781399602198",
+    "dateFinished": "2021-11-06",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "ReDawn",
+    "authors": [
+      "Brandon Sanderson",
+      "Janci Patterson"
+    ],
+    "publishedDate": "2021-10-26",
+    "description": "From #1 bestselling author Brandon Sanderson and Janci Patterson comes the second of three Skyward series novellas, set between Starsight and Cytonic. \"Don't trust their lies. Don't trust their false peace.\" That is the warning that Alanik of the planet ReDawn told the human pilot Spensa after Alanik's ship crash-landed on Detritus. While accepting an invitation to meet with her people's enemy, the Galactic Superiority, Alanik heard Spensa's cry for help across the vastness of space, and she used her cytonic powers to hyperjump her ship to the source of that cry. What she found there was a shock-a whole planet of free humans fighting against the Superiority. Could they be the allies her people desperately needed? When she recovered from her injuries and met the friendly humans Jorgen and FM of Skyward Flight, she found that her warning to Spensa had gone unheeded by the government of Detritus, and they were considering a peace overture from the Superiority. Now having returned to ReDawn, Alanik is dismayed to learn that her own people are falling into the exact same trap. The faction in ReDawn's government that wants to appease the Superiority has gained the upper hand. With Alanik's mentor Renakin captured, she has no one to turn to but Jorgen, FM, and their friend Rig. An ancient technology may have the power to save both of their planets from disaster, but can they discover its secrets before it's too late?",
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=F-NDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/ReDawn.html?hl=&id=F-NDEAAAQBAJ"
+  },
+  {
     "isbn": "9780399555855",
     "dateFinished": "2021-12-25",
     "status": "finished",
