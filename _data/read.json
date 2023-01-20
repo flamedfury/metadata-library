@@ -1,5 +1,26 @@
 [
   {
+    "isbn": "9781250769824",
+    "dateFinished": "2021-10-13",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Light Chaser",
+    "authors": [
+      "Peter F. Hamilton",
+      "Gareth L. Powell"
+    ],
+    "publishedDate": "2021-03-09",
+    "description": "Amahle is a Light Chaser – one of a number of explorers, who travel the universe alone (except for their onboard AI), trading trinkets for life stories. But when she listens to the stories sent down through the ages she hears the same voice talking directly to her from different times and on different worlds, and comes to understand that something terrible is happening, and only she is in a position to do anything about it. And it will cost everything to put it right.",
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=K2eKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Light_Chaser.html?hl=&id=K2eKzQEACAAJ"
+  },
+  {
     "isbn": "9780593566619",
     "dateFinished": "2021-10-30",
     "status": "finished",
