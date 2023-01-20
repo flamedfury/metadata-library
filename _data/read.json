@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780399555800",
+    "dateFinished": "2021-03-23",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Skyward",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publishedDate": "2019-10-08",
+    "description": "From the #1 New York Times bestselling author of the Reckoners series, Words of Radiance, and the Mistborn trilogy comes the first book in an epic new series about a girl who dreams of becoming a pilot in a dangerous world at war for humanity's future. Spensa's world has been under attack for decades. Now pilots are the heroes of what's left of the human race, and becoming one has always been Spensa's dream. Since she was a little girl, she has imagined soaring skyward and proving her bravery. But her fate is intertwined with her father's--a pilot himself who was killed years ago when he abruptly deserted his team, leaving Spensa's chances of attending flight school at slim to none. No one will let Spensa forget what her father did, yet fate works in mysterious ways. Flight school might be a long shot, but she is determined to fly. And an accidental discovery in a long-forgotten cavern might just provide her with a way to claim the stars. And don't miss the #1 New York Times bestselling sequel, Starsight! \"[A] nonstop, highflying opener.\" --Kirkus Reviews, starred review \"With this action-packed trilogy opener, Sanderson offers up a resourceful, fearless heroine and a memorable cast.\" --Publishers Weekly, starred review \"Sanderson delivers a cinematic adventure that explores the defining aspects of the individual versus the society. . . . Fans of Sanderson will not be disappointed.\" --SLJ \"It is impossible to turn the pages fast enough.\" --Booklist",
+    "pageCount": 546,
+    "printType": "BOOK",
+    "categories": [
+      "Young Adult Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=RPq0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Skyward.html?hl=&id=RPq0DwAAQBAJ"
+  },
+  {
     "isbn": "9781524720988",
     "dateFinished": "2021-04-07",
     "status": "finished",
