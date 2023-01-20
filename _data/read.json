@@ -1,5 +1,22 @@
 [
   {
+    "isbn": "9798595076845",
+    "dateFinished": "2021-07-29",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Threshold of Annihilation",
+    "authors": [
+      "T A White"
+    ],
+    "publishedDate": "2021-01-21",
+    "description": "When her most closely guarded secrets are laid bare, how will Kira survive the inevitable fall out-and will anybody be standing beside her in the end? Traveling to the planet of Jettie in the hopes of finding safe harbor for her niece, Kira arrives only to find their destination host to the quorum-a series of dangerous contests that hold the power to decide the fate of empires.With little choice but to participate, it doesn't take long for Kira to find herself knee deep in enemies. Surrounded on all sides, Kira will have to face her worst fear. Trusting others with the truth. Because it's becoming clear the tsavitee are no longer content to exist in the shadows. War is coming-and everything Kira thought she once knew is about to change.",
+    "pageCount": 470,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=Z8UszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Threshold_of_Annihilation.html?hl=&id=Z8UszgEACAAJ"
+  },
+  {
     "isbn": "9781937557782",
     "dateFinished": "2021-08-19",
     "status": "finished",
