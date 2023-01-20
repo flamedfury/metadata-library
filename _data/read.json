@@ -1,5 +1,22 @@
 [
   {
+    "isbn": "9780356508191",
+    "dateFinished": "2022-04-29",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Fifth Season",
+    "authors": [
+      "N. K. Jemisin"
+    ],
+    "publishedDate": "2016-07-26",
+    "description": "A New York Times Notable Book of 2015 Shortlisted for the Hugo, World Fantasy, Nebula, Kitschies, Audie and Locus Awards The inaugural Wired.com book club pick THIS IS THE WAY THE WORLD ENDS . . . FOR THE LAST TIME. IT STARTS WITH THE GREAT RED RIFT across the heart of the world's sole continent, spewing ash that blots out the sun. IT STARTS WITH DEATH, with a murdered son and a missing daughter. IT STARTS WITH BETRAYAL, and long dormant wounds rising up to fester. This is the Stillness, a land long familiar with catastrophe, where the power of the earth is wielded as a weapon. And where there is no mercy.",
+    "pageCount": 512,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=_XDxDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Fifth_Season.html?hl=&id=_XDxDAEACAAJ"
+  },
+  {
     "isbn": "9780316229265",
     "dateFinished": "2022-05-17",
     "status": "finished",
