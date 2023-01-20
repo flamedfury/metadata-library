@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780399555855",
+    "dateFinished": "2021-12-25",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Cytonic",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publishedDate": "2021-11-23",
+    "description": "NEW YORK TIMES BESTSELLER • The third book in an epic series about a girl who will travel beyond the stars to save the world she loves from destruction from the author of the Reckoners series, the Mistborn trilogy, and the Stormlight Archive. Spensa’s life as a Defiant Defense Force pilot has been far from ordinary. She proved herself one of the best starfighters in the human enclave of Detritus and she saved her people from extermination at the hands of the Krell—the enigmatic alien species that has been holding them captive for decades. What’s more, she traveled light-years from home as an undercover spy to infiltrate the Superiority, where she learned of the galaxy beyond her small, desolate planet home. Now, the Superiority—the governing galactic alliance bent on dominating all human life—has started a galaxy-wide war. And Spensa’s seen the weapons they plan to use to end it: the Delvers. Ancient, mysterious alien forces that can wipe out entire planetary systems in an instant. Spensa knows that no matter how many pilots the DDF has, there is no defeating this predator. Except that Spensa is Cytonic. She faced down a Delver and saw something eerily familiar about it. And maybe, if she’s able to figure out what she is, she could be more than just another pilot in this unfolding war. She could save the galaxy. The only way she can discover what she really is, though, is to leave behind all she knows and enter the Nowhere. A place from which few ever return. To have courage means facing fear. And this mission is terrifying.",
+    "pageCount": 433,
+    "printType": "BOOK",
+    "categories": [
+      "Young Adult Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=_U1KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Cytonic.html?hl=&id=_U1KEAAAQBAJ"
+  },
+  {
     "isbn": "9780316332910",
     "dateFinished": "2022-01-04",
     "status": "finished",
