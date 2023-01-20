@@ -1,5 +1,26 @@
 [
   {
+    "isbn": "9781399602211",
+    "dateFinished": "2022-03-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Evershore",
+    "authors": [
+      "Brandon Sanderson",
+      "Janci Patterson"
+    ],
+    "publishedDate": "2021-12-28",
+    "description": "From #1 bestselling author Brandon Sanderson and Janci Patterson comes the third of three Skyward series novellas, set after Cytonic. With the government of Detritus in disarray because of Superiority treachery, and with Spensa still away on her mission in the Nowhere, Jorgen must work together with the alien Alanik to pick up the pieces. They intercept a strange transmission from the planet Evershore and its Kitsen inhabitants, who say they have some of Jorgen's people and want to return them-but can the Kitsen be trusted? And can Jorgen learn to master his increasingly erratic cytonic powers before they spiral out of control and destroy all hope of forming an alliance against the Superiority?",
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=GeNDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Evershore.html?hl=&id=GeNDEAAAQBAJ"
+  },
+  {
     "isbn": "9780356508191",
     "dateFinished": "2022-04-29",
     "status": "finished",
