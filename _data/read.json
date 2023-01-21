@@ -1,5 +1,22 @@
 [
   {
+    "isbn": "9780062953803",
+    "dateFinished": "2020-06-21",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Hustle Harder, Hustle Smarter",
+    "authors": [
+      "Curtis \"50 Cent\" Jackson"
+    ],
+    "publishedDate": "2020-04-28",
+    "description": "For the first time, Curtis \"50 Cent\" Jackson opens up about his amazing comeback--from tragic personal loss to thriving businessman and cable's highest-paid executive--in this unique self-help guide, his first since his blockbuster New York Times bestseller The 50th Law. In his early twenties Curtis Jackson, known as 50 Cent rose to the heights of fame and power in the cutthroat music business. A decade ago the multi-platinum selling rap artist decided to pivot. His ability to adapt to change was demonstrated when he became the executive producer and star of Power, a high-octane, gripping crime drama centered around a drug kingpin's family. The series quickly became \"appointment\" television, leading to Jackson inking a four-year, $150 million contract with the Starz network--the most lucrative deal in premium cable history. Now, in his most personal book, Jackson shakes up the self-help category with his unique, cutting-edge lessons and hard-earned advice on embracing change. Where The 50th Law tells readers \"fear nothing and you shall succeed,\" Hustle Harder, Hustle Smarter builds on this message, combining it with Jackson's street smarts and hard-learned corporate savvy to help readers successfully achieve their own comeback--and to learn to flow with the changes that disrupt their own lives.",
+    "pageCount": 224,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=u6MRygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Hustle_Harder_Hustle_Smarter.html?hl=&id=u6MRygEACAAJ"
+  },
+  {
     "isbn": "9781942788775",
     "dateFinished": "2020-06-29",
     "status": "finished",
