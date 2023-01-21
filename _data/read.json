@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780356504322",
+    "dateFinished": "2019-12-20",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Auberon",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2019-11-12",
+    "description": "A novella set in the universe of James S. A. Corey's New York Times bestselling Expanse series, Auberon explores a new and alien world and the age-old dangers that humanity has carried with it to the stars. Now a Prime Original series. Auberon is one of the first and most important colony worlds in humanity's reach, and the new conquering faction has come to claim it. Governor Rittenaur has come to bring civilization and order to the far outpost and guarantee the wealth and power of the Empire. But Auberon already has its own history, a complex culture, and a criminal kingpin named Erich with very different plans. In a world of deceit, violence, and corruption, the greatest danger Rittenaur faces is love. The Expanse Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath The Expanse Short Fiction The Butcher of Anderson Station Gods of Risk The Churn The Vital Abyss Strange Dogs Auberon",
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=LOZzDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Auberon.html?hl=&id=LOZzDQAAQBAJ"
+  },
+  {
     "isbn": "9780062953803",
     "dateFinished": "2020-06-21",
     "status": "finished",
