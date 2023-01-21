@@ -49,5 +49,15 @@
     "description": "If you’re reading this you’re probably a fan of Amazon Prime’s hit series The Expanse. If not, and you’re simply wondering who Amos Burton is and why people are calling him names",
     "url": "https://archive.ph/DkCwQ",
     "type": ""
+  },
+  {
+    "title": "Sonos / Spotify Vinyl Emulator",
+    "site": "Hackster.io",
+    "author": "",
+    "date": "2023-01-21",
+    "description": "Experience the tactile nature of a vinyl music collection (but without actually owning any vinyl) through Sonos, Spotify and NFC tags By Mark Hank.",
+    "url": "https://www.hackster.io/mark-hank/sonos-spotify-vinyl-emulator-3be63d",
+    "image": "bookmark-sonos-spotify-vinyl-emulator.jpg",
+    "type": "article"
   }
 ]
