@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780316388658",
+    "dateFinished": "2017-10-06",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Provenance",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "publishedDate": "2018-07-10",
+    "description": "Ann Leckie returns to the world of her record-breaking Imperial Radch trilogy, which won the Hugo, Nebula, and Arthur C. Clarke Awards, with an enthralling novel of power, privilege, and birthright. NOMINATED FOR THE HUGO AWARD FOR BEST NOVEL 2018 NOMINATED FOR THE LOCUS AWARD FOR BEST SCIENCE FICTION NOVEL 2018 A power-driven young woman has just one chance to secure the status she craves and regain priceless lost artifacts prized by her people. She must free their thief from a prison planet from which no one has ever returned. Ingray and her charge will return to her home world to find their planet in political turmoil, at the heart of an escalating interstellar conflict. Together, they must make a new plan to salvage Ingray's future, her family, and her world, before they are lost to her for good. For more from Ann Leckie, check out: Imperial RadchAncillary JusticeAncillary SwordAncillary Mercy",
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=wCboswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Provenance.html?hl=&id=wCboswEACAAJ"
+  },
+  {
     "isbn": "9780316332828",
     "dateFinished": "2017-12-20",
     "status": "finished",
