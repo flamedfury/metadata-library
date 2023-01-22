@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9781616554231",
+    "dateFinished": "2018-02-14",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "A Second Chance at Sarah",
+    "authors": [
+      "Neil Druckmann"
+    ],
+    "publishedDate": "2014",
+    "description": "Given the chance to save Sarah, his dying wife, Johnny is transported to the past into his teenage body with just one day to prevent the events that led to her state.",
+    "pageCount": 99,
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=B1IBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_Second_Chance_at_Sarah.html?hl=&id=B1IBDAAAQBAJ"
+  },
+  {
     "isbn": "9780316452496",
     "dateFinished": "2018-04-16",
     "status": "finished",
