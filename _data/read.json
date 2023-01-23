@@ -1212,5 +1212,25 @@
     "thumbnail": "https://books.google.com/books/content?id=JwGfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=JwGfEAAAQBAJ"
+  },
+  {
+    "isbn": "9780316217583",
+    "dateFinished": "2015-06-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Nemesis Games",
+    "authors": [
+      "James S.A. Corey"
+    ],
+    "publishedDate": "2015-06-02",
+    "description": "The fifth novel in James S.A. Corey's New York Times bestselling Expanse series--now being produced for television by the Syfy Channel! A thousand worlds have opened, and the greatest land rush in human history has begun. As wave after wave of colonists leave, the power structures of the old solar system begin to buckle. Ships are disappearing without a trace. Private armies are being secretly formed. The sole remaining protomolecule sample is stolen. Terrorist attacks previously considered impossible bring the inner planets to their knees. The sins of the past are returning to exact a terrible price. And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left. The Expanse (soon to be a major Syfy Channel television series)Leviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis Games The Expanse Short Fiction The Butcher of Anderson StationGods of RiskThe Churn",
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=niPioQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Nemesis_Games.html?hl=&id=niPioQEACAAJ"
   }
 ]
