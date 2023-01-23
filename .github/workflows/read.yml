@@ -45,7 +45,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Read
-        uses: katydecorah/read-action@v6.6.0
+        uses: katydecorah/read-action@v6.6.2
         with:
           timeZone: Pacific/Auckland
       - name: Download the book thumbnail
