@@ -1,5 +1,20 @@
 [
   {
+    "isbn": "9780987434739",
+    "dateFinished": "2014-08-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Mothership",
+    "authors": [
+      "Stephen Renneberg"
+    ],
+    "publishedDate": "2013",
+    "pageCount": 585,
+    "printType": "BOOK",
+    "categories": [],
+    "language": "en"
+  },
+  {
     "isbn": "9781451684490",
     "dateFinished": "2014-09-06",
     "status": "finished",
