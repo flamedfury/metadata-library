@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9781410477149",
+    "dateFinished": "2015-01-06",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Ancillary Sword",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "publishedDate": "2015-03-25",
+    "description": "Now in a single body and with only a ship and a troublesome crew, Breq is sent to Atheok Station to protect the sister of Lieutenant Awn.",
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=6MvPrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Ancillary_Sword.html?hl=&id=6MvPrQEACAAJ"
+  },
+  {
     "isbn": "9780356514338",
     "dateFinished": "2015-02-19",
     "status": "finished",
