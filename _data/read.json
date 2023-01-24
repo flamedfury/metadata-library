@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780473387914",
+    "dateFinished": "2014-02-04",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Madness of Hallen",
+    "authors": [
+      "Russell Meek"
+    ],
+    "publishedDate": "2017-02-15",
+    "description": "An Arabic influenced adventure fantasy series, following two brothers, Ohrl and Faerl, in their quest against Na'ilah, blood heir to the mind of Husam al-Din. A 'swords and arrows' blend of the unification of the desert tribes by T.E Lawrence during WWI, and a less than romantic view of Islamic warrior Saladin during the 12th century crusades.",
+    "pageCount": 604,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=v2lsAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Madness_of_Hallen.html?hl=&id=v2lsAQAACAAJ"
+  },
+  {
     "isbn": "9781439196632",
     "dateFinished": "2014-02-18",
     "status": "finished",
