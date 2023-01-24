@@ -1364,5 +1364,23 @@
     "thumbnail": "https://books.google.com/books/content?id=niPioQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
     "link": "https://books.google.com/books/about/Nemesis_Games.html?hl=&id=niPioQEACAAJ"
+  },
+  {
+    "isbn": "9781937557744",
+    "dateFinished": "2023-01-12",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Everyday Information Architecture",
+    "authors": [
+      "Lisa Maria Martin"
+    ],
+    "publishedDate": "2019",
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+      "Human-computer interaction"
+    ],
+    "language": "en",
+    "link": "https://books.google.com/books/about/Everyday_Information_Architecture.html?hl=&id=wDb0xgEACAAJ"
   }
 ]
