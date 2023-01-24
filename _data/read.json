@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9781439196632",
+    "dateFinished": "2014-02-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "World of Warcraft: Thrall: Twilight of the Aspects",
+    "authors": [
+      "Christie Golden"
+    ],
+    "publishedDate": "2012-02-28",
+    "description": "The realm of Azeroth struggles to rally against a brutal dragon attack and the schemes of an evil Horde war chief.",
+    "pageCount": 436,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=glqL66cnYbYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/World_of_Warcraft_Thrall_Twilight_of_the.html?hl=&id=glqL66cnYbYC"
+  },
+  {
     "isbn": "9781451605761",
     "dateFinished": "2014-03-15",
     "status": "finished",
