@@ -544,6 +544,26 @@
     "link": "https://books.google.com/books/about/Trading_in_Danger.html?hl=&id=2WVNyAEACAAJ"
   },
   {
+    "isbn": "9780316217583",
+    "dateFinished": "2015-06-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Nemesis Games",
+    "authors": [
+      "James S.A. Corey"
+    ],
+    "publishedDate": "2015-06-02",
+    "description": "The fifth novel in James S.A. Corey's New York Times bestselling Expanse series--now being produced for television by the Syfy Channel! A thousand worlds have opened, and the greatest land rush in human history has begun. As wave after wave of colonists leave, the power structures of the old solar system begin to buckle. Ships are disappearing without a trace. Private armies are being secretly formed. The sole remaining protomolecule sample is stolen. Terrorist attacks previously considered impossible bring the inner planets to their knees. The sins of the past are returning to exact a terrible price. And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left. The Expanse (soon to be a major Syfy Channel television series)Leviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis Games The Expanse Short Fiction The Butcher of Anderson StationGods of RiskThe Churn",
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=niPioQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Nemesis_Games.html?hl=&id=niPioQEACAAJ"
+  },
+  {
     "isbn": "9781476702971",
     "dateFinished": "2015-08-06",
     "status": "finished",
@@ -1718,6 +1738,24 @@
     "link": "https://books.google.com/books/about/Facets_of_Revolution.html?hl=&id=DotnzwEACAAJ"
   },
   {
+    "isbn": "9781937557744",
+    "dateFinished": "2023-01-12",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Everyday Information Architecture",
+    "authors": [
+      "Lisa Maria Martin"
+    ],
+    "publishedDate": "2019",
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+      "Human-computer interaction"
+    ],
+    "language": "en",
+    "link": "https://books.google.com/books/about/Everyday_Information_Architecture.html?hl=&id=wDb0xgEACAAJ"
+  },
+  {
     "isbn": "9780691212326",
     "dateFinished": "2023-01-16",
     "status": "finished",
@@ -1759,41 +1797,23 @@
     "dateFinished": "2023-01-26"
   },
   {
-    "isbn": "9780316217583",
-    "dateFinished": "2015-06-18",
-    "status": "finished",
+    "isbn": "9780008296872",
+    "dateStarted": "2023-01-26",
+    "status": "started",
     "rating": "unrated",
-    "title": "Nemesis Games",
+    "title": "Uncanny Valley: Seduction and Disillusionment in San Francisco’s Startup Scene",
     "authors": [
-      "James S.A. Corey"
+      "Anna Wiener"
     ],
-    "publishedDate": "2015-06-02",
-    "description": "The fifth novel in James S.A. Corey's New York Times bestselling Expanse series--now being produced for television by the Syfy Channel! A thousand worlds have opened, and the greatest land rush in human history has begun. As wave after wave of colonists leave, the power structures of the old solar system begin to buckle. Ships are disappearing without a trace. Private armies are being secretly formed. The sole remaining protomolecule sample is stolen. Terrorist attacks previously considered impossible bring the inner planets to their knees. The sins of the past are returning to exact a terrible price. And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left. The Expanse (soon to be a major Syfy Channel television series)Leviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis Games The Expanse Short Fiction The Butcher of Anderson StationGods of RiskThe Churn",
-    "pageCount": 544,
+    "publishedDate": "2020-01-14",
+    "description": "‘Joan Didion at a startup’ Rebecca Solnit ‘Impossibly pleasurable’ Jia Tolentino ‘This is essential reading’ Stylist",
+    "pageCount": 304,
     "printType": "BOOK",
     "categories": [
-      "Fiction"
+      "Social Science"
     ],
-    "thumbnail": "https://books.google.com/books/content?id=niPioQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=aZCdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/Nemesis_Games.html?hl=&id=niPioQEACAAJ"
-  },
-  {
-    "isbn": "9781937557744",
-    "dateFinished": "2023-01-12",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Everyday Information Architecture",
-    "authors": [
-      "Lisa Maria Martin"
-    ],
-    "publishedDate": "2019",
-    "pageCount": 126,
-    "printType": "BOOK",
-    "categories": [
-      "Human-computer interaction"
-    ],
-    "language": "en",
-    "link": "https://books.google.com/books/about/Everyday_Information_Architecture.html?hl=&id=wDb0xgEACAAJ"
+    "link": "https://books.google.com/books/about/Uncanny_Valley_Seduction_and_Disillusion.html?hl=&id=aZCdDwAAQBAJ"
   }
 ]
