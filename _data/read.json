@@ -1,5 +1,21 @@
 [
   {
+    "isbn": "9780356504308",
+    "dateFinished": "2013-08-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Gods of Risk",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2013",
+    "description": "An Expanse Novella",
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [],
+    "language": "en"
+  },
+  {
     "isbn": "9780748110063",
     "dateFinished": "2013-09-11",
     "status": "finished",
