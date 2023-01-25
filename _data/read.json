@@ -1740,7 +1740,7 @@
   {
     "isbn": "9781801108454",
     "dateStarted": "2023-01-22",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "City of Last Chances",
     "authors": [
@@ -1755,7 +1755,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=JwGfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=JwGfEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=JwGfEAAAQBAJ",
+    "dateFinished": "2023-01-26"
   },
   {
     "isbn": "9780316217583",
