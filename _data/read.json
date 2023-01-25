@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780316202275",
+    "dateFinished": "2012-08-09",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Caliban's War",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2012-06-26",
+    "description": "The second book in the NYT bestselling Expanse series, Caliban's War shows a solar system on the brink of war, and the only hope of peace rests on James Holden and the crew of the Rocinante's shoulders. Now a Prime Original series. We are not alone. On Ganymede, breadbasket of the outer planets, a Martian marine watches as her platoon is slaughtered by a monstrous supersoldier. On Earth, a high-level politician struggles to prevent interplanetary war from reigniting. And on Venus, an alien protomolecule has overrun the planet, wreaking massive, mysterious changes and threatening to spread out into the solar system. In the vast wilderness of space, James Holden and the crew of the Rocinante have been keeping the peace for the Outer Planets Alliance. When they agree to help a scientist search war-torn Ganymede for a missing child, the future of humanity rests on whether a single ship can prevent an alien invasion that may have already begun . . .",
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=tXGRBgwxAHIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=tXGRBgwxAHIC"
+  },
+  {
     "isbn": "9780230765450",
     "dateFinished": "2012-11-06",
     "status": "finished",
