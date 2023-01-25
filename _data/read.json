@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780230765450",
+    "dateFinished": "2012-11-06",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Great North Road",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2012-09-27",
+    "description": "Great North Road is a standalone adventure from science fiction star Peter F. Hamilton, the author of The Night's Dawn trilogy. In Newcastle, AD 2142, Detective Sidney Hurst attends a brutal murder scene. The victim is one of the wealthy North family’s clones, but the most disturbing aspect is how he died. Twenty years ago, a North clone billionaire and his household were slaughtered in the exact same manner, on the tropical planet of St Libra. So was Angela Tramelo wrongly convicted back then? She’d never wavered under interrogation – claiming she alone survived an alien attack. With St Libran bio-fuel now powering Earth's economy, investigating this alien threat becomes top priority. A vast expedition is mounted via the planet’s Newcastle gateway – including Angela Tramelo, grudgingly released from prison. But the expedition is cut off, deep within St Libra's rainforests. Then the bloodshed begins.",
+    "pageCount": 600,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=gEQDgGVMZVEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Great_North_Road.html?hl=&id=gEQDgGVMZVEC"
+  },
+  {
     "isbn": "9780230747081",
     "dateFinished": "2013-03-26",
     "status": "finished",
