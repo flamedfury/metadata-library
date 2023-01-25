@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780062291851",
+    "dateFinished": "2013-05-26",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Magician's End",
+    "authors": [
+      "Raymond E. Feist"
+    ],
+    "publishedDate": "2013-05-14",
+    "description": "Three decades . . . Five Riftwars . . . One magnificent saga: From New York Times bestselling author Raymond E. Feist comes Magician's End, the final book in the epic Riftwar Cycle. Thirty years ago, Feist's first novel, Magician, introduced us to an orphan boy named Pug, who rises from slavery to become a Master Magician, and to Midkemia and the Riftwar, an epic series of battles between Good and Evil that have scarred Pug's world for generations. After twenty-nine books, Feist delivers the crowning achievement of his renowned bestselling career: Magician's End, the final chapter in The Chaos Wars, the climax of his extraordinary Riftwar Cycle. Pug, now the greatest magician of all time, must risk everything he has fought for and everything he cherishes in the hope of destroying an evil enemy once and for all. But to achieve peace and save untold millions of lives, he will have to pay the ultimate price.",
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=nKHPc2SQqScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=nKHPc2SQqScC"
+  },
+  {
     "isbn": "9780356504308",
     "dateFinished": "2013-08-18",
     "status": "finished",
