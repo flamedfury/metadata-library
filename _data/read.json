@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780230747081",
+    "dateFinished": "2013-03-26",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Nova War",
+    "authors": [
+      "Gary Gibson"
+    ],
+    "publishedDate": "2009-09-04",
+    "description": "Found adrift far from Consortium space, pilot Dakota Merrick and Lucas Corso are taken prisoner by the alien Bandati. There, Dakota discovers that humanity’s knowledge of the galaxy is frighteningly inaccurate. The Shoal has apparently been fighting a frontier war with a rival species, the Emissaries, for thousands of years. As yet, the latter seem unaware of their FTL technology’s full destructive capabilities. But the Bandati now have this information, and they will use it for profit. Dakota realises, to her shock, that the Shoal may therefore hold the Galaxy’s best chance for peace. Forging an alliance with Trader, a Shoal-member, she’s determined to prevent the Bandati’s deadly knowledge from reaching the Emissaries. Yet despite her efforts, a nova war now seems inevitable – a war that will destroy millions of inhabited worlds.",
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=jX4pH7HiTL4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=jX4pH7HiTL4C"
+  },
+  {
     "isbn": "9780230753723",
     "dateFinished": "2013-04-19",
     "status": "finished",
