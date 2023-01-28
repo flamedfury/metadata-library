@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780575087736",
+    "dateFinished": "2011-12-06",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Redemption Ark",
+    "authors": [
+      "Alastair Reynolds"
+    ],
+    "publishedDate": "2009-12-10",
+    "description": "The Inhibitors are back and Humanity is doomed! Many, many millennia ago, the Inhibitors seeded the universe with machines designed to detect intelligent life - and then to suppress it. But after hundreds of millions of years, the machines started to fail and intelligent cultures started to emerge. Then Dr Dan Sylveste and the crew of Infinity discovered what had happened to the long-vanished Amarantin race ... and awakened the Inhibitors. On Yellowstone, where no one is quite who they appear, the Inquisitor and the planet's Most Wanted War Criminal are watching as the Inhibitors turn a small group of planets into raw materials. Whatever they are building with those materials is not going to be good for Humanity. Once again, Al Reynolds has produced a stunning, universe-spanning space opera of mind-blowing proportions. Big in size, big in concepts, REDEMPTION ARK will leave you gasping at its audacity and breathless at its conclusion. This is British SF at its absolute best.",
+    "pageCount": 656,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=TcU3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Redemption_Ark.html?hl=&id=TcU3AgAAQBAJ"
+  },
+  {
     "isbn": "9780007290185",
     "dateFinished": "2012-03-30",
     "status": "finished",
