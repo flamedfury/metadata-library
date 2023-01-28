@@ -1,5 +1,25 @@
 [
   {
+    "isbn": "9780230761711",
+    "dateFinished": "2011-10-09",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Manhattan in Reverse",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2011-10-07",
+    "description": "In this collection of short stories, Peter F. Hamilton draws you into an array of captivating tales. These exciting glimpses into his worlds are not to be missed – and as Ken Follett says, ‘each short story has enough ideas for a whole novel’. Manhattan in Reverse features the author’s popular detective Paula Myo, from his bestselling Commonwealth books. Other stories include Watching Trees Grow – a murder mystery set in an alternative 1800s Oxford – and The Forever Kitten. This questions eternal youth and the sacrifices required to pursue it. With all his usual brilliantly conceived storytelling, Peter F. Hamilton’s talents are on full display.",
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=OqNE7Ru3IrIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Manhattan_in_Reverse.html?hl=&id=OqNE7Ru3IrIC"
+  },
+  {
     "isbn": "9781440673795",
     "dateFinished": "2011-10-18",
     "status": "finished",
