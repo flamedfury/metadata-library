@@ -1820,7 +1820,7 @@
   {
     "isbn": "9781473573666",
     "dateStarted": "2023-01-28",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Minimal",
     "authors": [
@@ -1835,6 +1835,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=AIaPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=AIaPDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=AIaPDwAAQBAJ",
+    "dateFinished": "2023-01-29"
   }
 ]
