@@ -1,5 +1,20 @@
 [
   {
+    "isbn": "9780007290185",
+    "dateFinished": "2012-03-30",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Crown Imperilled",
+    "authors": [
+      "Raymond E. Feist"
+    ],
+    "publishedDate": "2012",
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [],
+    "language": "en"
+  },
+  {
     "isbn": "9780575096684",
     "dateFinished": "2012-05-13",
     "status": "finished",
