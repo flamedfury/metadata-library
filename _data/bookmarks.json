@@ -162,5 +162,15 @@
     "image": "bookmark-bring-back-personal-blogging.jpg",
     "type": "article",
     "notes": "I whole heartedly agree with the message in this post, I share similar thoughts in my manifesto."
+  },
+  {
+    "title": "In Defense of a Fussy Website | CSS-Tricks",
+    "site": "CSS-Tricks",
+    "author": "",
+    "date": "2023-01-29",
+    "description": "The other day I was doom-scrolling twitter, and I saw a delightful article titled “The Case for Fussy Breakfasts.” I love food and especially breakfast, and",
+    "url": "https://css-tricks.com/in-defense-of-a-fussy-website/",
+    "image": "bookmark-in-defense-of-a-fussy-website-css-tricks.jpg",
+    "type": "article"
   }
 ]
