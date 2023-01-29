@@ -2132,7 +2132,7 @@
   {
     "isbn": "9780571368709",
     "dateStarted": "2023-01-29",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Small Things Like These",
     "authors": [
@@ -2143,6 +2143,7 @@
     "printType": "BOOK",
     "thumbnail": "https://books.google.com/books/content?id=rYPAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/Small_Things_Like_These.html?hl=&id=rYPAzgEACAAJ"
+    "link": "https://books.google.com/books/about/Small_Things_Like_These.html?hl=&id=rYPAzgEACAAJ",
+    "dateFinished": "2023-01-29"
   }
 ]
