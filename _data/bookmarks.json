@@ -140,5 +140,16 @@
     "description": "That magical place that is Hacker News managed to fish up this piece of content today, from the depths of the web. And I am very grateful for that. …",
     "url": "https://manuelmoreale.com/the-internet-is-not-broken-people-are",
     "type": ""
+  },
+  {
+    "title": "Welcome to the new Verge",
+    "site": "The Verge",
+    "author": "Nilay Patel",
+    "date": "2023-01-29",
+    "description": "A complete redesign of The Verge that marries the best of old-school blogging with a modern news feed experience.  ",
+    "url": "https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo",
+    "image": "bookmark-welcome-to-the-new-verge.png",
+    "type": "article",
+    "notes": "I’I’m interested to see how this works out for The Verge"
   }
 ]
