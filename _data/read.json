@@ -2145,5 +2145,21 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Small_Things_Like_These.html?hl=&id=rYPAzgEACAAJ",
     "dateFinished": "2023-01-29"
+  },
+  {
+    "isbn": "9781471145148",
+    "dateFinished": "2023-01-29",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Binge",
+    "authors": [
+      "Tyler Oakley"
+    ],
+    "publishedDate": "2015",
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [],
+    "thumbnail": "https://covers.openlibrary.org/b/id/10734015-S.jpg",
+    "language": "en"
   }
 ]
