@@ -2161,5 +2161,25 @@
     "categories": [],
     "thumbnail": "https://covers.openlibrary.org/b/id/10734015-S.jpg",
     "language": "en"
+  },
+  {
+    "isbn": "9780063051041",
+    "dateStarted": "2023-01-31",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Hunt the Stars",
+    "authors": [
+      "Jessie Mihalik"
+    ],
+    "publishedDate": "2022-02-01",
+    "description": "The critically acclaimed author of Polaris Rising takes readers on an exciting journey with the start of her brand-new series about a female bounty hunter and the man who is her sworn enemy. “Jessie Mihalik is an author to watch.” — Ilona Andrews, #1 New York Times bestselling author Octavia Zarola would do anything to keep her tiny, close-knit bounty hunting crew together—even if it means accepting a job from Torran Fletcher, a ruthless former general and her sworn enemy. When Torran offers her enough credits to not only keep her crew afloat but also hire someone to fix her ship, Tavi knows that she can’t refuse—no matter how much she’d like to. With so much money on the line, Torran and his crew insist on joining the hunt. Tavi reluctantly agrees because while the handsome, stoic leader pushes all of her buttons—for both anger and desire—she’s endured worse, and the massive bonus payment he’s promised for a completed job is reason enough to shut up and deal. But when they uncover a deeper plot that threatens the delicate peace between humans and Valoffs, Tavi suspects that Torran has been using her as the impetus for a new war. With the fate of her crew balanced on a knife’s edge, Tavi must decide where her loyalties lie—with the quiet Valoff who’s been lying to her, or with the human leaders who left her squad to die on the battlefield. And this time, she’s put her heart on the line.",
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=0nosEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=0nosEAAAQBAJ"
   }
 ]
