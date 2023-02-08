@@ -211,5 +211,15 @@
     "url": "https://coolguy.website/log",
     "image": "bookmark-smashmouths-white-magic.png",
     "type": ""
+  },
+  {
+    "title": "A Web Renaissance - Anil Dash",
+    "site": "",
+    "author": "undefined",
+    "date": "2023-02-07",
+    "description": "A blog about making culture. Since 1999.",
+    "url": "https://anildash.com/2022/04/13/a-web-renaissance/",
+    "image": "bookmark-a-web-renaissance-anil-dash.png",
+    "type": "article"
   }
 ]
