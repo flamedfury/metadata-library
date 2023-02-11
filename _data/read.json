@@ -2229,9 +2229,9 @@
   {
     "isbn": "9780062888471",
     "dateStarted": "2023-02-08",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
-    "notes": "Audiobook",
+    "notes": "Audiobook\n\nAudiobook",
     "title": "Everything Is F*cked",
     "authors": [
       "Mark Manson"
@@ -2245,6 +2245,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=XYdgDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=XYdgDwAAQBAJ",
+    "dateFinished": "2023-02-11"
   }
 ]
