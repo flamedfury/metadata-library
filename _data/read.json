@@ -2262,5 +2262,23 @@
     "printType": "BOOK",
     "categories": [],
     "language": "en"
+  },
+  {
+    "isbn": "9781501135934",
+    "dateStarted": "2023-02-13",
+    "status": "started",
+    "rating": "unrated",
+    "notes": "Audiobook",
+    "title": "Shoe Dog",
+    "authors": [
+      "Phil Knight"
+    ],
+    "publishedDate": "2016-04-26",
+    "description": "A Memoir by the Creator of Nike",
+    "pageCount": 386,
+    "printType": "BOOK",
+    "categories": [],
+    "thumbnail": "https://covers.openlibrary.org/b/id/12288384-S.jpg",
+    "language": "en"
   }
 ]
