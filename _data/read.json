@@ -2251,7 +2251,7 @@
   {
     "isbn": "9780008334611",
     "dateStarted": "2023-02-11",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "Audiobook\n\nAudiobook",
     "title": "Adults",
@@ -2261,7 +2261,8 @@
     "publishedDate": "2020",
     "printType": "BOOK",
     "categories": [],
-    "language": "en"
+    "language": "en",
+    "dateFinished": "2023-02-12"
   },
   {
     "isbn": "9781501135934",
