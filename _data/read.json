@@ -2267,9 +2267,9 @@
   {
     "isbn": "9781501135934",
     "dateStarted": "2023-02-13",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
-    "notes": "Audiobook",
+    "notes": "Audiobook\n\naudiobook",
     "title": "Shoe Dog",
     "authors": [
       "Phil Knight"
@@ -2280,6 +2280,7 @@
     "printType": "BOOK",
     "categories": [],
     "thumbnail": "https://covers.openlibrary.org/b/id/12288384-S.jpg",
-    "language": "en"
+    "language": "en",
+    "dateFinished": "2023-02-16"
   }
 ]
