@@ -2282,5 +2282,26 @@
     "thumbnail": "https://covers.openlibrary.org/b/id/12288384-S.jpg",
     "language": "en",
     "dateFinished": "2023-02-16"
+  },
+  {
+    "isbn": "9781087903934",
+    "dateFinished": "2023-02-21",
+    "status": "finished",
+    "rating": "unrated",
+    "notes": "audiobook",
+    "title": "Renegade Star",
+    "authors": [
+      "J. N. Chaney"
+    ],
+    "publishedDate": "2021-01-29",
+    "description": "They say the Earth is just a myth. Something to tell your children when you put them to sleep, the lost homeworld of humanity. Everyone knows it isn't real, though. It can't be. But when Captain Jace Hughes encounters a nun with a mysterious piece of cargo and a bold secret, he soon discovers that everything he thought he knew about Earth is wrong. So very, very wrong. Climb aboard The Renegade Star and assemble a crew, follow the clues, uncover the truth, and most importantly, try to stay alive. Experience the beginning of a sprawling galactic tale in this first entry to The Renegade Star series. If you're a fan of Firefly, Battlestar Galactica, or Indiana Jones, you'll love this epic, space opera thrill ride. Warning: This book contains action, cussing, and general badassery. Read at your own risk.",
+    "pageCount": 314,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=dD00zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Renegade_Star.html?hl=&id=dD00zgEACAAJ"
   }
 ]
