@@ -1,0 +1,14 @@
+# metadata-library/.github/workflows/trigger-ff-build.yml
+name: Trigger Flamed Fury Build
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Call Netlify build hook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl request
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/${{ secrets.NetlifyWebHook }}
