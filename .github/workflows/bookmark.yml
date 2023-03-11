@@ -41,5 +41,6 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
+          persist-credentials: false
           github_token: ${{ secrets.METADATA_PUSH }}
 
