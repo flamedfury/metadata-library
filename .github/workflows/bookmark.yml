@@ -26,6 +26,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          token: ${{ secrets.METADATA_PUSH }}
           persist-credentials: false
       - name: Bookmark action
         uses: katydecorah/bookmark-action@v5.2.0
@@ -40,8 +41,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A && git commit -m  "Bookmark ${{ env.BookmarkTitle }}"
           git push
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.METADATA_PUSH }}
 
