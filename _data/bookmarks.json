@@ -264,5 +264,16 @@
     "image": "bookmark-no-blogging-is-not-dying-anytime-soon-darius-foroux.png",
     "type": "article",
     "notes": "The author argues against video content creators' claim that blogging is dead. Video is not my favourite way to consume information. I still enjoy a well-written article. The key takeaway is to spend your time doing the thing you like."
+  },
+  {
+    "title": "I don’t want to log in to your website",
+    "site": "The Verge",
+    "author": "Elizabeth Lopatto",
+    "date": "2023-03-12",
+    "description": "Just say no to salesbros!",
+    "url": "https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell",
+    "image": "bookmark-i-dont-want-to-log-in-to-your-website.jpg",
+    "type": "article",
+    "notes": "This article examines how relying on tech giants for user authentication and advertising has complicated the web. Web developers should prioritise user privacy and find ways to reduce reliance on tech giants. I avoid participating with websites that push \"login with x\" prompts on me. I shouldn't have to log in to anything to read a simple page of text."
   }
 ]
