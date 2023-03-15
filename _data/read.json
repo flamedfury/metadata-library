@@ -2363,5 +2363,26 @@
     "thumbnail": "https://books.google.com/books/content?id=0lU8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
     "link": "https://books.google.com/books/about/INSPIRED.html?hl=&id=0lU8DwAAQBAJ"
+  },
+  {
+    "isbn": "9781621060406",
+    "dateStarted": "2023-03-15",
+    "status": "started",
+    "rating": "unrated",
+    "notes": "audiobook",
+    "title": "Unfuck Your Brain",
+    "authors": [
+      "Faith G. Harper, PhD, LPC-S, ACS, ACN"
+    ],
+    "publishedDate": "2017-11-07",
+    "description": "Our brains are doing our best to help us out, but they can be real assholes sometimes. Sometimes it seems like your own brain is out to get you—melting down in the middle of the grocery store, picking fights with your date, getting you addicted to something, or shutting down completely at the worst possible moments. You already told your brain firmly that it isn't good to do these things. But your brain has a mind of its own. That's where this book comes in. With humor, patience, and lots of swearing, Dr. Faith shows you the science behind what's going on in your skull and talks you through the process of retraining your brain to respond appropriately to the non-emergencies of everyday life. If you're working to deal with old traumas, or if you just want to have a more measured and chill response to situations you face all the time, this book can help you put the pieces of the puzzle together and get your life and brain back.Here's an excerpt from the book:Knowing what’s going on up in your brain is HUGE. So much of how we interact with the world around us is a completely normal response when we take into account our past experiences and how our brains work. • Freaking the fuck out • Avoiding important shit we need to take care of • Feeling pissed off all the time • Being a dick to people we care about • Putting shit in our bodies that we know isn’t good for us • Doing shit we know is dumb or pointlessNone of these things are fucking helpful. But they all make sense.Your brain has adapted to the circumstances in your life and started doing things to protect you, bless it. It’s not TRYING to fuck you over (even though it totally is, at times).As we navigate the world, nasty shit happens. The brain stores info about the nasty shit to try to avoid it in the future. Sometimes these responses are helpful. Sometimes the responses become a bigger problem than the actual problem was. It’s called a trauma reaction.And even if you aren’t dealing with a specific trauma? Adaptive coping strategies, bad habits, and funky behaviors all wire in similar ways. And research is showing that these issues are actually some of the easier ones to treat in therapy … if we address what’s really going on, rather than just the symptoms.",
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+      "Self-Help"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=1U0DDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=1U0DDgAAQBAJ"
   }
 ]
