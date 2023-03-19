@@ -2367,7 +2367,7 @@
   {
     "isbn": "9781621060406",
     "dateStarted": "2023-03-15",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "audiobook",
     "title": "Unfuck Your Brain",
@@ -2383,6 +2383,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=1U0DDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=1U0DDgAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=1U0DDgAAQBAJ",
+    "dateFinished": "2023-03-16"
   }
 ]
