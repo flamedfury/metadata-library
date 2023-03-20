@@ -1,10 +1,10 @@
 [
   {
-    "title": "I Got The Internet Going Nutz: Kreayshawn and 10 Years of SOMETHIN’ BOUT KREAY’ - MGRM",
+    "title": "I Got The Internet Going Nutz: Kreayshawn and 10 Years of SOMETHIN' BOUT KREAY' - MGRM",
     "site": "Merry-Go-Round Magazine",
     "author": "Jacqueline Codiga",
     "date": "2022-12-05",
-    "description": "Ten years after the release of Kreayshawn's SOMETHIN’ BOUT KREAY’, there are plenty of lessons to be learned about the era and the music.",
+    "description": "Ten years after the release of Kreayshawn's SOMETHIN' BOUT KREAY', there are plenty of lessons to be learned about the era and the music.",
     "url": "https://merrygoroundmagazine.com/i-got-the-internet-going-nutz-kreayshawn-and-the-10th-anniversary-of-somethin-bout-kreay/",
     "image": "bookmark-i-got-the-internet-going-nutz-kreayshawn-and-10-years-of-somethin-bout-kreay-mgrm.jpg",
     "type": "article",
@@ -15,7 +15,7 @@
     "site": "Andy Bell",
     "author": "",
     "date": "2022-12-29",
-    "description": "2023 is going to be the year of websites—specifically personal websites—and I’m here for it. It seems like the momentum for people to hyper-focus (or re-focus) on their personal home on the World W…",
+    "description": "2023 is going to be the year of websites—specifically personal websites—and I'm here for it. It seems like the momentum for people to hyper-focus (or re-focus) on their personal home on the World W…",
     "url": "https://andy-bell.co.uk/2023-the-year-of-websites/",
     "image": "bookmark-2023-the-year-of-websites.jpg",
     "type": "article"
@@ -34,9 +34,9 @@
   {
     "title": "Organizing the Eleventy config file",
     "site": "Lene Saile",
-    "author": "",
+    "author": "Lene Saile",
     "date": "2023-01-19",
-    "description": "Eleventy lets you create a file called eleventy.js to configure the SSG to your own project’s needs. This article is all about organizing your config file!",
+    "description": "Eleventy lets you create a file called eleventy.js to configure the SSG to your own project's needs. This article is all about organizing your config file!",
     "url": "https://www.lenesaile.com/en/blog/organizing-the-eleventy-config-file/",
     "image": "bookmark-organizing-the-eleventy-config-file.jpg",
     "type": "website",
@@ -57,7 +57,7 @@
     "site": "The Culture Corner",
     "author": "",
     "date": "2023-01-19",
-    "description": "If you’re reading this you’re probably a fan of Amazon Prime’s hit series The Expanse. If not, and you’re simply wondering who Amos Burton is and why people are calling him names",
+    "description": "If you're reading this you're probably a fan of Amazon Prime's hit series The Expanse. If not, and you're simply wondering who Amos Burton is and why people are calling him names",
     "url": "https://archive.ph/DkCwQ",
     "type": ""
   },
@@ -72,9 +72,9 @@
     "type": "article"
   },
   {
-    "title": "\n    \n    How to fix the internet\n    \n  ",
-    "site": "",
-    "author": "",
+    "title": "How to fix the internet",
+    "site": "Paul's Blog",
+    "author": "Paul J Miller",
     "date": "2023-01-23",
     "description": "",
     "url": "https://www.pauljmiller.com/posts/how-to-fix-the-internet.html",
@@ -82,9 +82,9 @@
     "notes": "A few good thoughts here. My take on it is how to get the benefit of big tech platforms without having to use the big tech platforms. A lot of the underlying infrastructure already exists in a way."
   },
   {
-    "title": "\n    \n    Maybe the web should die\n    \n  ",
-    "site": "",
-    "author": "",
+    "title": "Maybe the web should die",
+    "site": "Paul's Blog",
+    "author": "Paul J Miller",
     "date": "2023-01-23",
     "description": "",
     "url": "https://www.pauljmiller.com/posts/maybe-the-web-should-die.html",
@@ -92,8 +92,8 @@
     "notes": "The Web shouldn't die, but content that exists solely to sell ads should."
   },
   {
-    "title": "The Year of the Personal Website · Matthias Ott – User Experience Designer",
-    "site": "Matthias Ott – User Experience Designer",
+    "title": "The Year of the Personal Website",
+    "site": "Matthias Ott",
     "author": "Matthias Ott",
     "date": "2023-01-23",
     "description": "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel.",
@@ -103,21 +103,21 @@
     "notes": "Agree. Create your own homepage!"
   },
   {
-    "title": "Own your stuff | BryceWray.com",
-    "site": "",
-    "author": "",
+    "title": "Own your stuff",
+    "site": "BryceWray.com",
+    "author": "Bryce Wray",
     "date": "2023-01-23",
-    "description": "Because the only constant is change, you shouldn’t depend on others to keep your content online.",
+    "description": "Because the only constant is change, you shouldn't depend on others to keep your content online.",
     "url": "https://www.brycewray.com/posts/2022/11/own-your-stuff/",
     "image": "bookmark-own-your-stuff-brycewraycom.jpg",
     "type": "article"
   },
   {
-    "title": "Blasts from the past | BryceWray.com",
-    "site": "",
-    "author": "",
+    "title": "Blasts from the past",
+    "site": "BryceWray.com",
+    "author": "Bryce Wray",
     "date": "2023-01-23",
-    "description": "To save you the trouble, I revisit previous posts in search of useful info.",
+    "description": "To save you the trouble, I revisit previous posts in search of useful info.",
     "url": "https://www.brycewray.com/posts/2022/10/blasts-from-past/",
     "image": "bookmark-blasts-from-the-past-brycewraycom.jpg",
     "type": "article"
@@ -127,14 +127,14 @@
     "site": "Chris Coyier",
     "author": "Chris Coyier",
     "date": "2023-01-23",
-    "description": "When you hear me endlessly prattle on about how you should have your own site, publish your own feed, and the general power of writing, I mean it. But why? What’s the point of writing on your own site? So many. Not to mention it’s fun! But there can be money in blogging too: You […]",
+    "description": "When you hear me endlessly prattle on about how you should have your own site, publish your own feed, and the general power of writing, I mean it. But why? What's the point of writing on your own site? So many. Not to mention it's fun! But there can be money in blogging too: You […]",
     "url": "https://chriscoyier.net/2023/01/03/there-can-be-money-in-blogging/",
     "image": "bookmark-there-can-be-money-in-blogging-chris-coyier.png",
     "type": "article",
     "notes": "I don't care for the making money parts, but the other points are solid."
   },
   {
-    "title": "The internet is not broken. People are. – Manu",
+    "title": "The internet is not broken. People are. - Manu",
     "site": "",
     "author": "",
     "date": "2023-01-29",
@@ -151,7 +151,7 @@
     "url": "https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo",
     "image": "bookmark-welcome-to-the-new-verge.png",
     "type": "article",
-    "notes": "I’I’m interested to see how this works out for The Verge"
+    "notes": "I'm interested to see how this works out for The Verge"
   },
   {
     "title": "Bring back personal blogging",
@@ -165,7 +165,7 @@
     "notes": "I whole heartedly agree with the message in this post, I share similar thoughts in my manifesto."
   },
   {
-    "title": "In Defense of a Fussy Website | CSS-Tricks",
+    "title": "In Defense of a Fussy Website",
     "site": "CSS-Tricks",
     "author": "",
     "date": "2023-01-29",
@@ -175,8 +175,8 @@
     "type": "article"
   },
   {
-    "title": "Just Put Stuff Out There · Matthias Ott – User Experience Designer",
-    "site": "Matthias Ott – User Experience Designer",
+    "title": "Just Put Stuff Out There",
+    "site": "Matthias Ott - User Experience Designer",
     "author": "Matthias Ott",
     "date": "2023-01-29",
     "description": "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel.",
@@ -185,14 +185,15 @@
     "type": "website"
   },
   {
-    "title": "\n\n  \n  \n  \nA Web that Reflects People and their Val… — Jacky Alciné",
+    "title": "A Web that Reflects People and their Val… — Jacky Alciné",
     "site": "jackyalciné",
-    "author": "",
+    "author": "Jacky Alciné",
     "date": "2023-01-30",
     "description": "",
     "url": "https://jacky.wtf/2022/6/Cpq0?",
     "image": "bookmark-a-web-that-reflects-people-and-their-val-jacky-alcin.jpg",
-    "type": "website"
+    "type": "website",
+    "notes": ""
   },
   {
     "title": "Why is your site like this?",
@@ -201,22 +202,24 @@
     "date": "2023-01-31",
     "description": "",
     "url": "https://delovely.neocities.org/writing/why",
-    "type": ""
+    "type": "article",
+    "notes": "Fellow small web enthusiast Di explores why they write, including the desire to create something beautiful and meaningful, the need to process their thoughts and emotions, and the hope to connect with others through their writing. Writing is an act of self-discovery and a way to make sense of the world around them."
   },
   {
     "title": "Smashmouth's White Magic",
-    "site": "",
+    "site": "Cool Guy Website",
     "author": "Zach Mandeville",
     "date": "2023-01-31",
     "description": "Older esoteric standup piece",
-    "url": "https://coolguy.website/log",
+    "url": "https://coolguy.website/smashmouth-white-magic/",
     "image": "bookmark-smashmouths-white-magic.png",
-    "type": ""
+    "type": "article",
+    "notes": "Zach dives into Smashmouth's hidden, mystical significance, particularly the references to hermetic alchemy in their music. It hilariously ends with a warning of the dangers of bands like Third Eye Blind, who use the occult arts to obfuscate and block spiritual clarity."
   },
   {
-    "title": "A Web Renaissance - Anil Dash",
-    "site": "",
-    "author": "undefined",
+    "title": "A Web Renaissance",
+    "site": "Anil Dash",
+    "author": "Anil Dash",
     "date": "2023-02-07",
     "description": "A blog about making culture. Since 1999.",
     "url": "https://anildash.com/2022/04/13/a-web-renaissance/",
@@ -231,21 +234,22 @@
     "description": "Good things are coming to the web!",
     "url": "https://www.kooslooijesteijn.net/blog/future-of-blogging",
     "image": "bookmark-the-future-of-blogging.png",
-    "type": "article"
+    "type": "article",
+    "notes": "Koos discusses the challenges and opportunities for bloggers in a rapidly evolving online landscape, emphasizing the importance of adapting to changing trends and technologies and creating high-quality content that provides value to readers. He also explores the potential for emerging technologies, such as artificial intelligence and virtual reality, to shape the future of blogging. I can get behind this."
   },
   {
     "title": "Miley's Whole Career Has Been Building to This Moment",
     "site": "Rolling Stone",
     "author": "Rob Sheffield",
     "date": "2023-03-09",
-    "description": "Miley Cyrus’ smash hit “Flowers”— and ‘Endless Summer Vacation,’ due Friday — are the culmination of one of pop’s longest, most bizarre stories",
+    "description": "Miley Cyrus' smash hit “Flowers”— and 'Endless Summer Vacation,' due Friday — are the culmination of one of pop's longest, most bizarre stories",
     "url": "https://www.rollingstone.com/music/music-features/miley-cyrus-flowers-endless-summer-vacation-1234691827/",
     "image": "bookmark-mileys-whole-career-has-been-building-to-this-moment.jpg",
     "type": "article",
-    "notes": "I’m so happy that Miley is finally getting her flowers."
+    "notes": "I'm so happy that Miley is finally getting her flowers."
   },
   {
-    "title": "No, Blogging Is Not Dying Anytime Soon  - Darius Foroux",
+    "title": "No, Blogging Is Not Dying Anytime Soon  - Darius Foroux",
     "site": "Darius Foroux",
     "author": "Darius Foroux",
     "date": "2023-03-11",
@@ -256,18 +260,7 @@
     "notes": "The author argues against video content creators' claim that blogging is dead. Video is not my favourite way to consume information. I still enjoy a well-written article. The key takeaway is to spend your time doing the thing you like."
   },
   {
-    "title": "No, Blogging Is Not Dying Anytime Soon  - Darius Foroux",
-    "site": "Darius Foroux",
-    "author": "Darius Foroux",
-    "date": "2023-03-11",
-    "description": "A well-known author said, “Blogging is dead. People only watch videos.” Sure, visual content is popular. But there are still people who read.",
-    "url": "https://dariusforoux.com/blogging-not-dying/",
-    "image": "bookmark-no-blogging-is-not-dying-anytime-soon-darius-foroux.png",
-    "type": "article",
-    "notes": "The author argues against video content creators' claim that blogging is dead. Video is not my favourite way to consume information. I still enjoy a well-written article. The key takeaway is to spend your time doing the thing you like."
-  },
-  {
-    "title": "I don’t want to log in to your website",
+    "title": "I don't want to log in to your website",
     "site": "The Verge",
     "author": "Elizabeth Lopatto",
     "date": "2023-03-12",
