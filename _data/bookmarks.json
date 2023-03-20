@@ -8,17 +8,18 @@
     "url": "https://merrygoroundmagazine.com/i-got-the-internet-going-nutz-kreayshawn-and-the-10th-anniversary-of-somethin-bout-kreay/",
     "image": "bookmark-i-got-the-internet-going-nutz-kreayshawn-and-10-years-of-somethin-bout-kreay-mgrm.jpg",
     "type": "article",
-    "notes": "This article reflects on the 10th anniversary of rapper Kreayshawn's debut album Somethin Bout Kreay and how it marked a significant moment in internet culture.Kreayshawn really had it hard. She blew up on the Internet before there was a means to monitise it. It dives into the troubles she faced with the virality and her eventual departure from the spotlight."
+    "notes": "This article reflects on the 10th anniversary of rapper Kreayshawn's debut album Somethin Bout Kreay and how it marked a significant moment in internet culture. Kreayshawn really had it hard. She blew up on the Internet before there was a means to monitise it. It dives into the troubles she faced with the virality and her eventual departure from the spotlight."
   },
   {
     "title": "2023, the year of websites",
     "site": "Andy Bell",
-    "author": "",
+    "author": "Andy Bell",
     "date": "2022-12-29",
     "description": "2023 is going to be the year of websites—specifically personal websites—and I'm here for it. It seems like the momentum for people to hyper-focus (or re-focus) on their personal home on the World W…",
     "url": "https://andy-bell.co.uk/2023-the-year-of-websites/",
     "image": "bookmark-2023-the-year-of-websites.jpg",
-    "type": "article"
+    "type": "article",
+    "notes": "2023 will be the year of websites as people become more aware of the value of owning their content and digital identity. Andy, like myself, encourages everyone to start building their own websites to have more control over their online presence and the ability to showcase their work. Check out the article for tips and resources for building your own website."
   },
   {
     "title": "Build your metadata library",
@@ -29,7 +30,7 @@
     "url": "https://katydecorah.com/code/build-your-metadata-library/",
     "image": "bookmark-build-your-metadata-library.png",
     "type": "blog",
-    "notes": "An exciting new approach to collecting metadata for books, music and websites."
+    "notes": "This has kept me busy for the past 6 weeks. Katy explains the importance of metadata in web development and provides a step-by-step guide on creating and managing metadata using Github actions. She also emphasizes the need for developers to prioritize metadata in their workflow and explains how it can help improve search engine optimization and accessibility of websites. One thing that I have found while implementing my own metadata library is that metadata could be a lot better. I've had to do a lot of manual editing to get things looking nice."
   },
   {
     "title": "Organizing the Eleventy config file",
@@ -40,7 +41,7 @@
     "url": "https://www.lenesaile.com/en/blog/organizing-the-eleventy-config-file/",
     "image": "bookmark-organizing-the-eleventy-config-file.jpg",
     "type": "website",
-    "notes": "Great read on an approach to organising an 11ty project."
+    "notes": "Lene dives deep and discusses how you could approach organising your Eleventy config file."
   },
   {
     "title": "Firefox found a way to keep ad-blockers working with Manifest V3",
@@ -55,11 +56,12 @@
   {
     "title": "Is Amos Burton a Sociopath?",
     "site": "The Culture Corner",
-    "author": "",
+    "author": "Lane Zumoff",
     "date": "2023-01-19",
     "description": "If you're reading this you're probably a fan of Amazon Prime's hit series The Expanse. If not, and you're simply wondering who Amos Burton is and why people are calling him names",
-    "url": "https://archive.ph/DkCwQ",
-    "type": ""
+    "url": "https://medium.com/the-culture-corner/is-amos-burton-a-sociopath-b56feef7400e",
+    "type": "",
+    "notes": "At first glance yup, but this article dives deeper to discover that Amos is indeed a complex person."
   },
   {
     "title": "Sonos / Spotify Vinyl Emulator",
@@ -69,7 +71,8 @@
     "description": "Experience the tactile nature of a vinyl music collection (but without actually owning any vinyl) through Sonos, Spotify and NFC tags By Mark Hank.",
     "url": "https://www.hackster.io/mark-hank/sonos-spotify-vinyl-emulator-3be63d",
     "image": "bookmark-sonos-spotify-vinyl-emulator.jpg",
-    "type": "article"
+    "type": "article",
+    "note": "Have you ever wanted to build a vinyl emulator? This post will guide you through doing exactly that with a Raspberry Pi, a USB turn table and a Sonos sound system. Play vinyl records on the Sonos system and control the turntable remotely through the web."
   },
   {
     "title": "How to fix the internet",
@@ -79,7 +82,7 @@
     "description": "",
     "url": "https://www.pauljmiller.com/posts/how-to-fix-the-internet.html",
     "type": "",
-    "notes": "A few good thoughts here. My take on it is how to get the benefit of big tech platforms without having to use the big tech platforms. A lot of the underlying infrastructure already exists in a way."
+    "notes": "Written in 2015. Should the tech giants control user-created content like videos, podcasts, music and blogs? Think of a web where standard and open formats such as .video, .podcast, .blog, and .tweet exist. They are not tied to apps rented to you by the tech giants. An entire ecosystem exists for users to choose how to consume this open and free content. I love these ideas and would love to work on something to push this..."
   },
   {
     "title": "Maybe the web should die",
@@ -89,7 +92,7 @@
     "description": "",
     "url": "https://www.pauljmiller.com/posts/maybe-the-web-should-die.html",
     "type": "",
-    "notes": "The Web shouldn't die, but content that exists solely to sell ads should."
+    "notes": "Written in 2015, this seems even more relevant today in 2023. The Web shouldn't die, but content that exists solely to sell ads should. The current state of the Web is problematic due to issues like surveillance capitalism, monopolies, and social media's negative impact. Show the Web in its current form die so that something better can emerge in its place? This article is another call for people to take ownership of their data and participate in building a better web."
   },
   {
     "title": "The Year of the Personal Website",
@@ -100,7 +103,7 @@
     "url": "https://matthiasott.com/notes/the-year-of-the-personal-website",
     "image": "bookmark-the-year-of-the-personal-website-matthias-ott-user-experience-designer.png",
     "type": "website",
-    "notes": "Agree. Create your own homepage!"
+    "notes": "Have you heard me say 'create your own homepage!' before? Make 2023 the year we take back the web!"
   },
   {
     "title": "Own your stuff",
@@ -110,7 +113,8 @@
     "description": "Because the only constant is change, you shouldn't depend on others to keep your content online.",
     "url": "https://www.brycewray.com/posts/2022/11/own-your-stuff/",
     "image": "bookmark-own-your-stuff-brycewraycom.jpg",
-    "type": "article"
+    "type": "article",
+    "notes": "Another article stresses the importance of owning and controlling your digital content rather than relying on social media or other platforms. Owning your content gives control over its distribution and longevity and reduces the risk of losing it due to how the tech giants feel about a particular service. Bryce offers practical tips and tools to create and host your own website or blog."
   },
   {
     "title": "Blasts from the past",
@@ -120,7 +124,8 @@
     "description": "To save you the trouble, I revisit previous posts in search of useful info.",
     "url": "https://www.brycewray.com/posts/2022/10/blasts-from-past/",
     "image": "bookmark-blasts-from-the-past-brycewraycom.jpg",
-    "type": "article"
+    "type": "article",
+    "notes": "Is the Internet broken, or has the way use it created the issues we see today? We could all take accountability for how we engage with content on the Internet and each other to avoid things such as sharing misleading or false information and work to make the Internet a better place for everyone."
   },
   {
     "title": "There Can Be Money in Blogging - Chris Coyier",
@@ -135,12 +140,13 @@
   },
   {
     "title": "The internet is not broken. People are. - Manu",
-    "site": "",
-    "author": "",
+    "site": "Manuel Moreale",
+    "author": "Manu",
     "date": "2023-01-29",
     "description": "That magical place that is Hacker News managed to fish up this piece of content today, from the depths of the web. And I am very grateful for that. …",
     "url": "https://manuelmoreale.com/the-internet-is-not-broken-people-are",
-    "type": ""
+    "type": "",
+    "notes": ""
   },
   {
     "title": "Welcome to the new Verge",
@@ -151,7 +157,7 @@
     "url": "https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo",
     "image": "bookmark-welcome-to-the-new-verge.png",
     "type": "article",
-    "notes": "I'm interested to see how this works out for The Verge"
+    "notes": "I'm interested to see how this works out for The Verge. Their redesign aims to provide a better user experience by improving the navigation, reducing clutter, and emphasizing the content. I've enjoyed reading so far and paying attention to who the authors of the blog posts are."
   },
   {
     "title": "Bring back personal blogging",
@@ -167,12 +173,13 @@
   {
     "title": "In Defense of a Fussy Website",
     "site": "CSS-Tricks",
-    "author": "",
+    "author": "Sarah Drasner",
     "date": "2023-01-29",
     "description": "The other day I was doom-scrolling twitter, and I saw a delightful article titled “The Case for Fussy Breakfasts.” I love food and especially breakfast, and",
     "url": "https://css-tricks.com/in-defense-of-a-fussy-website/",
     "image": "bookmark-in-defense-of-a-fussy-website-css-tricks.jpg",
-    "type": "article"
+    "type": "article",
+    "notes": "It is evident when a website has been crafted with care and excitement. It can enhance user experience and improve the overall perception of a brand. I love discovering new websites where the webmaster has done just that. It's great to stand out from the crowd and helps me identify whether a real person is behind the website."
   },
   {
     "title": "Just Put Stuff Out There",
@@ -182,7 +189,8 @@
     "description": "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel.",
     "url": "https://matthiasott.com/notes/just-put-stuff-out-there",
     "image": "bookmark-just-put-stuff-out-there-matthias-ott-user-experience-designer.png",
-    "type": "website"
+    "type": "website",
+    "notes": "We all fall trap to this. Create and share your work with the world instead of holding back and waiting for perfection. Putting oneself out there and learning from mistakes is essential to the creative process. Learning in public is one of the fun things about the Web."
   },
   {
     "title": "A Web that Reflects People and their Val… — Jacky Alciné",
@@ -193,7 +201,7 @@
     "url": "https://jacky.wtf/2022/6/Cpq0?",
     "image": "bookmark-a-web-that-reflects-people-and-their-val-jacky-alcin.jpg",
     "type": "website",
-    "notes": ""
+    "notes": "Dive into the current state of the internet and the rise of decentralised projects attempting to offer an alternative to the tech giants. Jacky expresses their desire for an alternative social networking system that allows them to publish and share content while maintaining control over their data. I like emphasising this exact message in every conversation about posting your content online."
   },
   {
     "title": "Why is your site like this?",
@@ -224,7 +232,8 @@
     "description": "A blog about making culture. Since 1999.",
     "url": "https://anildash.com/2022/04/13/a-web-renaissance/",
     "image": "bookmark-a-web-renaissance-anil-dash.png",
-    "type": "article"
+    "type": "article",
+    "notes": "Written in 2022, Anil declares the internet is experiencing a new wave of innovation and creativity, similar to the early days of the web. Dash cites the proliferation of web-based apps, the rise of decentralized technologies like blockchain, and the increasing focus on privacy and security as signs of this renaissance. He also emphasizes the importance of building a web that is open and accessible to all rather than controlled by a few tech giants. Dash advocates for a renewed focus on the core values of the web, including decentralization, interoperability, and community-driven innovation."
   },
   {
     "title": "The future of blogging",
