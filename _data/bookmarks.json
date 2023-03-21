@@ -84,6 +84,16 @@
     "notes": "At first glance yup, but this article dives deeper to discover that Amos is indeed a complex person."
   },
   {
+    "title": "Firefox found a way to keep ad-blockers working with Manifest V3",
+    "site": "The Verge",
+    "author": "Mitchell Clark",
+    "date": "2023-01-19",
+    "description": "It plays nice with uBlock Origin.",
+    "url": "https://www.theverge.com/2023/1/17/23559234/firefox-manifest-v3-content-ad-blocker",
+    "image": "bookmark-firefox-found-a-way-to-keep-ad-blockers-working-with-manifest-v3.jpg",
+    "type": "article"
+  },
+  {
     "title": "Sonos / Spotify Vinyl Emulator",
     "site": "Hackster.io",
     "author": "",
