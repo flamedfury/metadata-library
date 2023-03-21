@@ -11,35 +11,15 @@
     "notes": "This article reflects on the 10th anniversary of rapper Kreayshawn's debut album Somethin Bout Kreay and how it marked a significant moment in internet culture. Kreayshawn really had it hard. She blew up on the Internet before there was a means to monitise it. It dives into the troubles she faced with the virality and her eventual departure from the spotlight."
   },
   {
-    "title": "I Got The Internet Going Nutz: Kreayshawn and 10 Years of SOMETHIN’ BOUT KREAY’ - MGRM",
-    "site": "Merry-Go-Round Magazine",
-    "author": "Jacqueline Codiga",
-    "date": "2022-12-05",
-    "description": "Ten years after the release of Kreayshawn's SOMETHIN’ BOUT KREAY’, there are plenty of lessons to be learned about the era and the music.",
-    "url": "https://merrygoroundmagazine.com/i-got-the-internet-going-nutz-kreayshawn-and-the-10th-anniversary-of-somethin-bout-kreay/",
-    "image": "bookmark-i-got-the-internet-going-nutz-kreayshawn-and-10-years-of-somethin-bout-kreay-mgrm.jpg",
-    "type": "article"
-  },
-  {
     "title": "2023, the year of websites",
     "site": "Andy Bell",
     "author": "Andy Bell",
     "date": "2022-12-29",
     "description": "2023 is going to be the year of websites—specifically personal websites—and I'm here for it. It seems like the momentum for people to hyper-focus (or re-focus) on their personal home on the World W…",
     "url": "https://andy-bell.co.uk/2023-the-year-of-websites/",
-    "image": "bookmark-2023-the-year-of-websites.jpg",
+    "image": "bookmark-2023-the-year-of-websites.png",
     "type": "article",
     "notes": "2023 will be the year of websites as people become more aware of the value of owning their content and digital identity. Andy, like myself, encourages everyone to start building their own websites to have more control over their online presence and the ability to showcase their work. Check out the article for tips and resources for building your own website."
-  },
-  {
-    "title": "2023, the year of websites",
-    "site": "Andy Bell",
-    "author": "",
-    "date": "2022-12-29",
-    "description": "2023 is going to be the year of websites—specifically personal websites—and I’m here for it. It seems like the momentum for people to hyper-focus (or re-focus) on their personal home on the World W…",
-    "url": "https://andy-bell.co.uk/2023-the-year-of-websites/",
-    "image": "bookmark-2023-the-year-of-websites.png",
-    "type": "article"
   },
   {
     "title": "Build your metadata library",
@@ -75,30 +55,10 @@
   },
   {
     "title": "Is Amos Burton a Sociopath?",
-    "site": "The Culture Corner",
-    "author": "Lane Zumoff",
-    "date": "2023-01-19",
-    "description": "If you're reading this you're probably a fan of Amazon Prime's hit series The Expanse. If not, and you're simply wondering who Amos Burton is and why people are calling him names",
-    "url": "https://medium.com/the-culture-corner/is-amos-burton-a-sociopath-b56feef7400e",
-    "type": "",
-    "notes": "At first glance yup, but this article dives deeper to discover that Amos is indeed a complex person."
-  },
-  {
-    "title": "Firefox found a way to keep ad-blockers working with Manifest V3",
-    "site": "The Verge",
-    "author": "Mitchell Clark",
-    "date": "2023-01-19",
-    "description": "It plays nice with uBlock Origin.",
-    "url": "https://www.theverge.com/2023/1/17/23559234/firefox-manifest-v3-content-ad-blocker",
-    "image": "bookmark-firefox-found-a-way-to-keep-ad-blockers-working-with-manifest-v3.jpg",
-    "type": "article"
-  },
-  {
-    "title": "Is Amos Burton a Sociopath?",
     "site": "Medium",
     "author": "Lane Zumoff",
     "date": "2023-01-19",
-    "description": "If you’re reading this, you’re probably a fan of Amazon Prime’s hit series The Expanse. If not, and you’re simply wondering who Amos…",
+    "description": "If you're reading this you're probably a fan of Amazon Prime's hit series The Expanse. If not, and you're simply wondering who Amos Burton is and why people are calling him names",
     "url": "https://medium.com/the-culture-corner/is-amos-burton-a-sociopath-b56feef7400e",
     "image": "bookmark-is-amos-burton-a-sociopath.jpg",
     "type": "article",
@@ -114,16 +74,6 @@
     "image": "bookmark-sonos-spotify-vinyl-emulator.jpg",
     "type": "article",
     "note": "Have you ever wanted to build a vinyl emulator? This post will guide you through doing exactly that with a Raspberry Pi, a USB turn table and a Sonos sound system. Play vinyl records on the Sonos system and control the turntable remotely through the web."
-  },
-  {
-    "title": "Sonos / Spotify Vinyl Emulator",
-    "site": "Hackster.io",
-    "author": "",
-    "date": "2023-01-21",
-    "description": "Experience the tactile nature of a vinyl music collection (but without actually owning any vinyl) through Sonos, Spotify and NFC tags By Mark Hank.",
-    "url": "https://www.hackster.io/mark-hank/sonos-spotify-vinyl-emulator-3be63d",
-    "image": "bookmark-sonos-spotify-vinyl-emulator.jpg",
-    "type": "article"
   },
   {
     "title": "How to fix the internet",
@@ -190,46 +140,6 @@
     "notes": "I don't care for the making money parts, but the other points are solid."
   },
   {
-    "title": "The Year of the Personal Website · Matthias Ott – User Experience Designer",
-    "site": "Matthias Ott – User Experience Designer",
-    "author": "Matthias Ott",
-    "date": "2023-01-23",
-    "description": "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel.",
-    "url": "https://matthiasott.com/notes/the-year-of-the-personal-website",
-    "image": "bookmark-the-year-of-the-personal-website-matthias-ott-user-experience-designer.png",
-    "type": "website"
-  },
-  {
-    "title": "Blasts from the past | BryceWray.com",
-    "site": "",
-    "author": "",
-    "date": "2023-01-23",
-    "description": "To save you the trouble, I revisit previous posts in search of useful info.",
-    "url": "https://www.brycewray.com/posts/2022/10/blasts-from-past/",
-    "image": "bookmark-blasts-from-the-past-brycewraycom.jpg",
-    "type": "article"
-  },
-  {
-    "title": "Own your stuff | BryceWray.com",
-    "site": "",
-    "author": "",
-    "date": "2023-01-23",
-    "description": "Because the only constant is change, you shouldn’t depend on others to keep your content online.",
-    "url": "https://www.brycewray.com/posts/2022/11/own-your-stuff/",
-    "image": "bookmark-own-your-stuff-brycewraycom.jpg",
-    "type": "article"
-  },
-  {
-    "title": "There Can Be Money in Blogging - Chris Coyier",
-    "site": "Chris Coyier",
-    "author": "Chris Coyier",
-    "date": "2023-01-23",
-    "description": "When you hear me endlessly prattle on about how you should have your own site, publish your own feed, and the general power of writing, I mean it. But why? What’s the point of writing on your own site? So many. Not to mention it’s fun! But there can be money in blogging too: You […]",
-    "url": "https://chriscoyier.net/2023/01/03/there-can-be-money-in-blogging/",
-    "image": "bookmark-there-can-be-money-in-blogging-chris-coyier.png",
-    "type": "article"
-  },
-  {
     "title": "The internet is not broken. People are. - Manu",
     "site": "Manuel Moreale",
     "author": "Manu",
@@ -284,46 +194,6 @@
     "notes": "We all fall trap to this. Create and share your work with the world instead of holding back and waiting for perfection. Putting oneself out there and learning from mistakes is essential to the creative process. Learning in public is one of the fun things about the Web."
   },
   {
-    "title": "Welcome to the new Verge",
-    "site": "The Verge",
-    "author": "Nilay Patel",
-    "date": "2023-01-29",
-    "description": "A complete redesign of The Verge that marries the best of old-school blogging with a modern news feed experience.  ",
-    "url": "https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo",
-    "image": "bookmark-welcome-to-the-new-verge.png",
-    "type": "article"
-  },
-  {
-    "title": "Bring back personal blogging",
-    "site": "The Verge",
-    "author": "Monique Judge",
-    "date": "2023-01-29",
-    "description": "The personal blog built the internet, and maybe it can fix it.",
-    "url": "https://www.theverge.com/23513418/bring-back-personal-blogging",
-    "image": "bookmark-bring-back-personal-blogging.jpg",
-    "type": "article"
-  },
-  {
-    "title": "In Defense of a Fussy Website | CSS-Tricks",
-    "site": "CSS-Tricks",
-    "author": "",
-    "date": "2023-01-29",
-    "description": "The other day I was doom-scrolling twitter, and I saw a delightful article titled “The Case for Fussy Breakfasts.” I love food and especially breakfast, and",
-    "url": "https://css-tricks.com/in-defense-of-a-fussy-website/",
-    "image": "bookmark-in-defense-of-a-fussy-website-css-tricks.jpg",
-    "type": "article"
-  },
-  {
-    "title": "Just Put Stuff Out There · Matthias Ott – User Experience Designer",
-    "site": "Matthias Ott – User Experience Designer",
-    "author": "Matthias Ott",
-    "date": "2023-01-29",
-    "description": "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel.",
-    "url": "https://matthiasott.com/notes/just-put-stuff-out-there",
-    "image": "bookmark-just-put-stuff-out-there-matthias-ott-user-experience-designer.png",
-    "type": "website"
-  },
-  {
     "title": "A Web that Reflects People and their Val… — Jacky Alciné",
     "site": "jackyalciné",
     "author": "Jacky Alciné",
@@ -335,19 +205,9 @@
     "notes": "Dive into the current state of the internet and the rise of decentralised projects attempting to offer an alternative to the tech giants. Jacky expresses their desire for an alternative social networking system that allows them to publish and share content while maintaining control over their data. I like emphasising this exact message in every conversation about posting your content online."
   },
   {
-    "title": "\n\n  \n  \n  \nA Web that Reflects People and their Val… — Jacky Alciné",
-    "site": "jackyalciné",
-    "author": "",
-    "date": "2023-01-30",
-    "description": "",
-    "url": "https://jacky.wtf/2022/6/Cpq0?",
-    "image": "bookmark-a-web-that-reflects-people-and-their-val-jacky-alcin.jpg",
-    "type": "website"
-  },
-  {
     "title": "Why is your site like this?",
-    "site": "",
-    "author": "",
+    "site": "delovely",
+    "author": "Di",
     "date": "2023-01-31",
     "description": "",
     "url": "https://delovely.neocities.org/writing/why",
@@ -377,16 +237,6 @@
     "notes": "Written in 2022, Anil declares the internet is experiencing a new wave of innovation and creativity, similar to the early days of the web. Dash cites the proliferation of web-based apps, the rise of decentralized technologies like blockchain, and the increasing focus on privacy and security as signs of this renaissance. He also emphasizes the importance of building a web that is open and accessible to all rather than controlled by a few tech giants. Dash advocates for a renewed focus on the core values of the web, including decentralization, interoperability, and community-driven innovation."
   },
   {
-    "title": "A Web Renaissance - Anil Dash",
-    "site": "",
-    "author": "undefined",
-    "date": "2023-02-07",
-    "description": "A blog about making culture. Since 1999.",
-    "url": "https://anildash.com/2022/04/13/a-web-renaissance/",
-    "image": "bookmark-a-web-renaissance-anil-dash.png",
-    "type": "article"
-  },
-  {
     "title": "The future of blogging",
     "site": "Koos Looijesteijn",
     "author": "Koos Looijesteijn",
@@ -406,7 +256,7 @@
     "url": "https://www.rollingstone.com/music/music-features/miley-cyrus-flowers-endless-summer-vacation-1234691827/",
     "image": "bookmark-mileys-whole-career-has-been-building-to-this-moment.jpg",
     "type": "article",
-    "notes": "I'm so happy that Miley is finally getting her flowers."
+    "notes": "I'm so happy that Miley is finally getting her flowers. How has Miley evolved as an artist over the years? How has she succeeded despite her personal struggles? Will Endless Summer Vacation be a hit?"
   },
   {
     "title": "No, Blogging Is Not Dying Anytime Soon  - Darius Foroux",
