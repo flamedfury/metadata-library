@@ -2426,5 +2426,26 @@
     "thumbnail": "https://books.google.com/books/content?id=zwuouaV8SWIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
     "link": "https://books.google.com/books/about/The_First_90_Days.html?hl=&id=zwuouaV8SWIC"
+  },
+  {
+    "isbn": "9780241251003",
+    "dateStarted": "2023-03-30",
+    "status": "started",
+    "rating": "unrated",
+    "notes": "audiobook",
+    "title": "How to be a Parent",
+    "authors": [
+      "Philippa Perry"
+    ],
+    "publishedDate": "2019-04-04",
+    "description": "This is a parenting book for people who don't buy parenting books With straight-talking advice from renowned Psychotherapist Philippa Perry, How to be a Parent is the definitive guide for any parent looking to navigate their past, avoid repeating mistakes, and ensure they don't land their own kids in therapy. Through the combination of case studies, and therapeutic insight gained from over 20 years of working directly with clients, Perry tackles the wider issues of what it actually means to be a parent, rather than getting bogged down in the little details. This isn't a book about meeting developmental milestones, training your child to have enviable manners, or how to get the much idealised 'perfect' family, it's about creating functional relationships with your children so that they grow up feeling secure, knowing who they are and what they want - giving both them and you a shot at real happiness. Full of refreshing, sage and sane advice on the bigger picture of parenthood, How to be a Parent is the only book you'll ever really need to ensure you don't mess your kids up.",
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+      "Family & Relationships"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=YHxqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/How_to_be_a_Parent.html?hl=&id=YHxqDwAAQBAJ"
   }
 ]
