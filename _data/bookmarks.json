@@ -279,5 +279,16 @@
     "image": "bookmark-i-dont-want-to-log-in-to-your-website.jpg",
     "type": "article",
     "notes": "This article examines how relying on tech giants for user authentication and advertising has complicated the web. Web developers should prioritise user privacy and find ways to reduce reliance on tech giants. I avoid participating with websites that push \"login with x\" prompts on me. I shouldn't have to log in to anything to read a simple page of text."
+  },
+  {
+    "title": "Dot-com – Vague, But Exciting",
+    "site": "",
+    "author": "",
+    "date": "2023-04-02",
+    "description": "",
+    "url": "https://thehistoryoftheweb.com/book/dot-com/",
+    "image": "bookmark-dot-com-vague-but-exciting.png",
+    "type": "",
+    "notes": "This article briefly analyses the dot-com boom and bust between 1995 and 2001. It also looks into the rise of Amazon and how Bezos made it a success amidst the dot-com bust."
   }
 ]
