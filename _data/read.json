@@ -2430,7 +2430,7 @@
   {
     "isbn": "9780241251003",
     "dateStarted": "2023-03-30",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "audiobook",
     "title": "How to be a Parent",
@@ -2446,6 +2446,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=YHxqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/How_to_be_a_Parent.html?hl=&id=YHxqDwAAQBAJ"
+    "link": "https://books.google.com/books/about/How_to_be_a_Parent.html?hl=&id=YHxqDwAAQBAJ",
+    "dateFinished": "2023-04-03"
   }
 ]
