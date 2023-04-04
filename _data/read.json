@@ -2452,7 +2452,7 @@
   {
     "isbn": "9780393609400",
     "dateStarted": "2023-04-03",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "audiobook",
     "title": "Astrophysics for People in a Hurry",
@@ -2468,6 +2468,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=hx5DDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=hx5DDQAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=hx5DDQAAQBAJ",
+    "dateFinished": "2023-04-04"
   }
 ]
