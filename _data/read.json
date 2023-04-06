@@ -2470,5 +2470,27 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=hx5DDQAAQBAJ",
     "dateFinished": "2023-04-04"
+  },
+  {
+    "isbn": "9781250186935",
+    "dateStarted": "2023-04-05",
+    "dateFinished": "2023-04-06",
+    "status": "finished",
+    "rating": "unrated",
+    "notes": "audiobook",
+    "title": "Artificial Condition",
+    "authors": [
+      "Martha Wells"
+    ],
+    "publishedDate": "2018-05-08",
+    "description": "A USA Today bestseller The \"I love Murderbot!\" —Ann Leckie Artificial Condition is the follow-up to Martha Wells's Hugo, Nebula, Alex, and Locus Award-winning, New York Times bestselling All Systems Red It has a dark past—one in which a number of humans were killed. A past that caused it to christen itself “Murderbot”. But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don’t want to know what the “A” stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks... At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=oTU0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=oTU0DwAAQBAJ"
   }
 ]
