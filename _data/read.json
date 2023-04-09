@@ -2518,7 +2518,7 @@
   {
     "isbn": "9781250185464",
     "dateStarted": "2023-04-09",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "Audiobook",
     "title": "Exit Strategy",
@@ -2534,6 +2534,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=hCBGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=hCBGDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=hCBGDwAAQBAJ",
+    "dateFinished": "2023-04-09"
   }
 ]
