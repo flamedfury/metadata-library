@@ -2496,7 +2496,7 @@
   {
     "isbn": "9781250185433",
     "dateStarted": "2023-04-06",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "audiobook",
     "title": "Rogue Protocol",
@@ -2512,6 +2512,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=JvAyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=JvAyDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=JvAyDwAAQBAJ",
+    "dateFinished": "2023-04-09"
   }
 ]
