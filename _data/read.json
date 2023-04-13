@@ -2540,7 +2540,7 @@
   {
     "isbn": "9780307396037",
     "dateStarted": "2023-04-09",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Doing What Matters",
     "authors": [
@@ -2557,6 +2557,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=asPy05-IzL4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=asPy05-IzL4C"
+    "link": "https://play.google.com/store/books/details?id=asPy05-IzL4C",
+    "dateFinished": "2023-04-13"
   }
 ]
