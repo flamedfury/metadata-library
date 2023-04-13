@@ -2559,5 +2559,25 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=asPy05-IzL4C",
     "dateFinished": "2023-04-13"
+  },
+  {
+    "isbn": "9781982187064",
+    "dateStarted": "2023-04-13",
+    "status": "started",
+    "rating": "unrated",
+    "title": "The Dawnhounds",
+    "authors": [
+      "Sascha Stronach"
+    ],
+    "publishedDate": "2022-06-14",
+    "description": "Gideon the Ninth meets Black Sun in this queer, Māori-inspired debut fantasy about a police officer who is murdered, brought back to life with a mysterious new power, and tasked with protecting her city from an insidious evil threatening to destroy it. The port city of Hainak is alive: its buildings, its fashion, even its weapons. But, after a devastating war and a sweeping biotech revolution, all its inhabitants want is peace, no one more so than Yat Jyn-Hok a reformed-thief-turned-cop who patrols the streets at night. Yat has recently been demoted on the force due to “lifestyle choices” after being caught at a gay club. She’s barely holding it together, haunted by memories of a lover who vanished and voices that float in and out of her head like radio signals. When she stumbles across a dead body on her patrol, two fellow officers gruesomely murder her and dump her into the harbor. Unfortunately for them, she wakes up. Resurrected by an ancient power, she finds herself with the new ability to manipulate life force. Quickly falling in with the pirate crew who has found her, she must race against time to stop a plague from being unleashed by the evil that has taken root in Hainak.",
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=zN9IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=zN9IEAAAQBAJ"
   }
 ]
