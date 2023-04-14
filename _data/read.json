@@ -2304,8 +2304,8 @@
   {
     "isbn": "9781982185824",
     "dateStarted": "2023-03-12",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "notes": "audiobook",
     "title": "I'm Glad My Mom Died",
     "authors": [
@@ -2320,7 +2320,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=13mAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/I_m_Glad_My_Mom_Died.html?hl=&id=13mAEAAAQBAJ"
+    "link": "https://books.google.com/books/about/I_m_Glad_My_Mom_Died.html?hl=&id=13mAEAAAQBAJ",
+    "dateFinished": "2023-03-12"
   },
   {
     "isbn": "9780143778646",
