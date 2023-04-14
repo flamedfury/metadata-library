@@ -1995,7 +1995,7 @@
   {
     "isbn": "9780525504986",
     "dateStarted": "2022-12-16",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "How To Raise A Boy",
     "authors": [
@@ -2010,7 +2010,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=hDM-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=hDM-DwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=hDM-DwAAQBAJ",
+    "dateFinished": "2022-12-16"
   },
   {
     "isbn": "9798201213633",
