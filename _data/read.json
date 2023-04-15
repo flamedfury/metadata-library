@@ -2566,8 +2566,8 @@
   {
     "isbn": "9781982187064",
     "dateStarted": "2023-04-13",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "The Dawnhounds",
     "authors": [
       "Sascha Stronach"
@@ -2581,6 +2581,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=zN9IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=zN9IEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=zN9IEAAAQBAJ",
+    "dateFinished": "2023-04-15"
   }
 ]
