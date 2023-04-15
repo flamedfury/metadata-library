@@ -2167,22 +2167,6 @@
     "dateFinished": "2023-02-11"
   },
   {
-    "isbn": "9780008334611",
-    "dateStarted": "2023-02-11",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️",
-    "notes": "Audiobook\n\nAudiobook",
-    "title": "Adults",
-    "authors": [
-      "Emma Jane Unsworth"
-    ],
-    "publishedDate": "2020",
-    "printType": "BOOK",
-    "categories": [],
-    "language": "en",
-    "dateFinished": "2023-02-12"
-  },
-  {
     "isbn": "9781501135934",
     "dateStarted": "2023-02-13",
     "status": "finished",
@@ -2524,7 +2508,7 @@
   {
     "isbn": "9781705245286",
     "dateStarted": "2023-01-12",
-    "dateFinished": "2023-12-15",
+    "dateFinished": "2023-02-15",
     "status": "finished",
     "rating": "unrated",
     "title": "A Hole In the Sky",
@@ -2545,7 +2529,7 @@
   {
     "isbn": "9781705245309",
     "dateStarted": "2023-01-17",
-    "dateFinished": "2023-12-19",
+    "dateFinished": "2023-01-19",
     "status": "finished",
     "rating": "unrated",
     "title": "The Captains Daughter",
@@ -2566,7 +2550,7 @@
   {
     "isbn": "9781705245323",
     "dateStarted": "2023-01-18",
-    "dateFinished": "2023-12-21",
+    "dateFinished": "2023-01-21",
     "status": "finished",
     "rating": "unrated",
     "title": "Queens of An Alien Sun",
