@@ -1986,6 +1986,27 @@
     "link": "https://books.google.com/books/about/Everyday_Information_Architecture.html?hl=&id=wDb0xgEACAAJ"
   },
   {
+    "isbn": "9781705245286",
+    "dateStarted": "2023-01-12",
+    "dateFinished": "2023-01-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "A Hole In the Sky",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2021-03-16",
+    "description": "From New York Times bestselling author Peter F. Hamilton comes his first audio original, A Hole in the Sky, Book 1 in the Arkship Trilogy. Sixteen-year-old Hazel lives in the Daedalus, a starship that is flying in search of a new world. The ship has been traveling for five hundred years, searching for a world to settle in after having to abandon its last world. Everyone on board Daedalus lives a very simple existence in farming villages. The age of machines supplying their needs was lost during a mutiny five hundred years ago. The captain regained control of the ship after a huge struggle. Now, with finite resources, everything in the habitat is Cycled, including humans, who essentially are suicided at sixty-five so they don't deplete the biosphere's resources. Hazel encounters the Cheaters, people who refused to Cycle, who tell her the Daedalus has been damaged and its atmosphere is leaking away. When her brother has a paralyzing accident which condemns him to be Cycled since he can no longer be productive, Hazel runs off with him to join the Cheaters. While with the Cheaters, she discovers that much of what has been told to the people living on Daedalus for the last five hundred years is untrue, and soon, Hazel is in a thrilling race to help repair the ship and help the people of the Daedalus.",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://kbimages1-a.akamaihd.net/483e1930-521f-4496-b4a8-adef6ef1aad4/353/569/90/False/a-hole-in-the-sky-2.jpg",
+    "language": "en",
+    "link": "https://www.kobo.com/nz/en/audiobook/a-hole-in-the-sky-2"
+  },
+  {
     "isbn": "9780691212326",
     "dateFinished": "2023-01-16",
     "status": "finished",
@@ -2004,6 +2025,48 @@
     "thumbnail": "https://books.google.com/books/content?id=6Z1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Internet_Is_Not_What_You_Think_It_Is.html?hl=&id=6Z1EEAAAQBAJ"
+  },
+  {
+    "isbn": "9781705245309",
+    "dateStarted": "2023-01-17",
+    "dateFinished": "2023-01-19",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Captains Daughter",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2022-02-22",
+    "description": "From critically acclaimed New York Times bestselling author Peter F. Hamilton comes The Captain's Daughter, Book 2 in his audio original Arkship trilogy. With the help of a command AI, the hole in the Daedalus has been fixed by Hazel and her friends. But in the process, they have antagonized the Yi, the aliens who are actually controlling the Daedalus. After a daring escape from the Yi, Hazel and her friends now must convince the people of the Daedalus villages and the village leaders that the Yi exist-and that they must fight back in order to survive. This proves tricky, as those in power don't want their authority challenged. In order to produce proof of their dire situation, Hazel and her friends have to return to the forward section of the Daedalus to find another surviving command AI so they can find where the Yi are hiding and what their goal is. What Hazel and her friends discover is the terrible secret of the Yi, and what they have been doing on board the Daedalus for the last five hundred years. The Captain's Daughter is a thrilling continuation of the story that unfolded in A Hole in the Sky, Peter F. Hamilton's first YA novel, that will appeal to all his legions of fans.",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://kbimages1-a.akamaihd.net/28ad997f-7662-45bd-a6da-756a67332b11/353/569/90/False/the-captain-s-daughter-24.jpg",
+    "language": "en",
+    "link": "https://www.kobo.com/nz/en/audiobook/the-captain-s-daughter-24"
+  },
+  {
+    "isbn": "9781705245323",
+    "dateStarted": "2023-01-18",
+    "dateFinished": "2023-01-21",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Queens of An Alien Sun",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2022-12-06",
+    "description": "Peter F. Hamilton presents Book 3 in the Arkship Trilogy.",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://kbimages1-a.akamaihd.net/7000d33a-602e-4250-92aa-d837c7a5b3d0/353/569/90/False/queens-of-an-alien-sun.jpg",
+    "language": "en",
+    "link": "https://www.kobo.com/nz/en/audiobook/queens-of-an-alien-sun"
   },
   {
     "isbn": "9781801108454",
@@ -2165,6 +2228,46 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=XYdgDwAAQBAJ",
     "dateFinished": "2023-02-11"
+  },
+  {
+    "isbn": "9781988575971",
+    "dateStarted": "2023-04-16",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Hell Yeah Or No",
+    "authors": [
+      "Derek Sivers"
+    ],
+    "publishedDate": "2022-05",
+    "description": "Useful wisdom. Simple profound mental models to guide your decisions. What's worth doing, fixing faulty thinking, and making things happen.",
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+      "Self-actualization (Psychology)"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ"
+  },
+  {
+    "isbn": "9780008334635",
+    "dateStarted": "2023-02-11",
+    "dateFinished": "2023-02-12",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "Adults",
+    "authors": [
+      "Emma Jane Unsworth"
+    ],
+    "publishedDate": "2021-02-18",
+    "description": "THE SUNDAY TIMES BESTSELLER 'HILARIOUS' Stylist 'DAZZLING' Marian Keyes 'WITTY' Guardian 'HEARTBREAKING' Dolly Alderton 'INCREDIBLE' Candice Carty-Williams Jenny McLaine: * can't afford her mortgage since her ex moved out * is about to get dumped by her best friend * spends all day online-stalking women with picture-perfect lives And now her mother has appeared on her doorstep, unbidden, to save the day... Is Jenny ready to grow up and rescue herself this time? UK's #6 bestselling hardback, The Sunday Times chart 9th February 2020",
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=UaM3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Adults.html?hl=&id=UaM3zQEACAAJ"
   },
   {
     "isbn": "9781501135934",
@@ -2506,106 +2609,22 @@
     "dateFinished": "2023-04-15"
   },
   {
-    "isbn": "9781705245286",
-    "dateStarted": "2023-01-12",
-    "dateFinished": "2023-01-15",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "A Hole In the Sky",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2021-03-16",
-    "description": "From New York Times bestselling author Peter F. Hamilton comes his first audio original, A Hole in the Sky, Book 1 in the Arkship Trilogy. Sixteen-year-old Hazel lives in the Daedalus, a starship that is flying in search of a new world. The ship has been traveling for five hundred years, searching for a world to settle in after having to abandon its last world. Everyone on board Daedalus lives a very simple existence in farming villages. The age of machines supplying their needs was lost during a mutiny five hundred years ago. The captain regained control of the ship after a huge struggle. Now, with finite resources, everything in the habitat is Cycled, including humans, who essentially are suicided at sixty-five so they don't deplete the biosphere's resources. Hazel encounters the Cheaters, people who refused to Cycle, who tell her the Daedalus has been damaged and its atmosphere is leaking away. When her brother has a paralyzing accident which condemns him to be Cycled since he can no longer be productive, Hazel runs off with him to join the Cheaters. While with the Cheaters, she discovers that much of what has been told to the people living on Daedalus for the last five hundred years is untrue, and soon, Hazel is in a thrilling race to help repair the ship and help the people of the Daedalus.",
-    "pageCount": 0,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://kbimages1-a.akamaihd.net/483e1930-521f-4496-b4a8-adef6ef1aad4/353/569/90/False/a-hole-in-the-sky-2.jpg",
-    "language": "en",
-    "link": "https://www.kobo.com/nz/en/audiobook/a-hole-in-the-sky-2"
-  },
-  {
-    "isbn": "9781705245309",
-    "dateStarted": "2023-01-17",
-    "dateFinished": "2023-01-19",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "The Captains Daughter",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2022-02-22",
-    "description": "From critically acclaimed New York Times bestselling author Peter F. Hamilton comes The Captain's Daughter, Book 2 in his audio original Arkship trilogy. With the help of a command AI, the hole in the Daedalus has been fixed by Hazel and her friends. But in the process, they have antagonized the Yi, the aliens who are actually controlling the Daedalus. After a daring escape from the Yi, Hazel and her friends now must convince the people of the Daedalus villages and the village leaders that the Yi exist-and that they must fight back in order to survive. This proves tricky, as those in power don't want their authority challenged. In order to produce proof of their dire situation, Hazel and her friends have to return to the forward section of the Daedalus to find another surviving command AI so they can find where the Yi are hiding and what their goal is. What Hazel and her friends discover is the terrible secret of the Yi, and what they have been doing on board the Daedalus for the last five hundred years. The Captain's Daughter is a thrilling continuation of the story that unfolded in A Hole in the Sky, Peter F. Hamilton's first YA novel, that will appeal to all his legions of fans.",
-    "pageCount": 0,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://kbimages1-a.akamaihd.net/28ad997f-7662-45bd-a6da-756a67332b11/353/569/90/False/the-captain-s-daughter-24.jpg",
-    "language": "en",
-    "link": "https://www.kobo.com/nz/en/audiobook/the-captain-s-daughter-24"
-  },
-  {
-    "isbn": "9781705245323",
-    "dateStarted": "2023-01-18",
-    "dateFinished": "2023-01-21",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Queens of An Alien Sun",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2022-12-06",
-    "description": "Peter F. Hamilton presents Book 3 in the Arkship Trilogy.",
-    "pageCount": 0,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://kbimages1-a.akamaihd.net/7000d33a-602e-4250-92aa-d837c7a5b3d0/353/569/90/False/queens-of-an-alien-sun.jpg",
-    "language": "en",
-    "link": "https://www.kobo.com/nz/en/audiobook/queens-of-an-alien-sun"
-  },
-  {
-    "isbn": "9781988575971",
-    "dateStarted": "2023-04-16",
+    "isbn": "9781937557102",
+    "dateStarted": "2023-04-14",
     "status": "started",
     "rating": "unrated",
-    "title": "Hell Yeah Or No",
+    "title": "Just enough research",
     "authors": [
-      "Derek Sivers"
+      "Erika Hall"
     ],
-    "publishedDate": "2022-05",
-    "description": "Useful wisdom. Simple profound mental models to guide your decisions. What's worth doing, fixing faulty thinking, and making things happen.",
-    "pageCount": 144,
+    "publishedDate": "2013",
+    "description": "In Just Enough Research, co-founder of Mule Design Erika Hall distills her experience into a brief cookbook of research methods. Learn how to discover your competitive advantages, spot your own blind spots and biases, understand and harness your findings, and why you should never, ever hold a focus group. You'll start doing good research faster than you can plan your next pitch. Erika Hall has been working in web design and development since the late 20th century. In 2001, she co-founded Mule Design Studio where she directs the research, interaction design, and strategy practices.",
+    "pageCount": 154,
     "printType": "BOOK",
     "categories": [
-      "Self-actualization (Psychology)"
+      "Human-computer interaction"
     ],
-    "thumbnail": "https://books.google.com/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ"
-  },
-  {
-    "isbn": "9780008334635",
-    "dateStarted": "2023-02-11",
-    "dateFinished": "2023-02-12",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️",
-    "title": "Adults",
-    "authors": [
-      "Emma Jane Unsworth"
-    ],
-    "publishedDate": "2021-02-18",
-    "description": "THE SUNDAY TIMES BESTSELLER 'HILARIOUS' Stylist 'DAZZLING' Marian Keyes 'WITTY' Guardian 'HEARTBREAKING' Dolly Alderton 'INCREDIBLE' Candice Carty-Williams Jenny McLaine: * can't afford her mortgage since her ex moved out * is about to get dumped by her best friend * spends all day online-stalking women with picture-perfect lives And now her mother has appeared on her doorstep, unbidden, to save the day... Is Jenny ready to grow up and rescue herself this time? UK's #6 bestselling hardback, The Sunday Times chart 9th February 2020",
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=UaM3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Adults.html?hl=&id=UaM3zQEACAAJ"
+    "link": "https://books.google.com/books/about/Just_enough_research.html?hl=&id=8jP_nQEACAAJ"
   }
 ]
