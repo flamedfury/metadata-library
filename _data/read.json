@@ -2230,28 +2230,6 @@
     "dateFinished": "2023-02-11"
   },
   {
-    "isbn": "9781988575971",
-    "dateStarted": "2023-04-16",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️",
-    "title": "Hell Yeah Or No",
-    "authors": [
-      "Derek Sivers"
-    ],
-    "publishedDate": "2022-05",
-    "description": "Useful wisdom. Simple profound mental models to guide your decisions. What's worth doing, fixing faulty thinking, and making things happen.",
-    "pageCount": 144,
-    "printType": "BOOK",
-    "categories": [
-      "Self-actualization (Psychology)"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ",
-    "dateFinished": "2023-04-17",
-    "notes": "A fantastic way to read/listen to his blog posts."
-  },
-  {
     "isbn": "9780008334635",
     "dateStarted": "2023-02-11",
     "dateFinished": "2023-02-12",
@@ -2611,6 +2589,28 @@
     "dateFinished": "2023-04-15"
   },
   {
+    "isbn": "9781988575971",
+    "dateStarted": "2023-04-16",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "Hell Yeah Or No",
+    "authors": [
+      "Derek Sivers"
+    ],
+    "publishedDate": "2022-05",
+    "description": "Useful wisdom. Simple profound mental models to guide your decisions. What's worth doing, fixing faulty thinking, and making things happen.",
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+      "Self-actualization (Psychology)"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ",
+    "dateFinished": "2023-04-17",
+    "notes": "A fantastic way to read/listen to his blog posts."
+  },
+  {
     "isbn": "9781937557102",
     "dateStarted": "2023-04-14",
     "status": "started",
@@ -2628,5 +2628,24 @@
     ],
     "language": "en",
     "link": "https://books.google.com/books/about/Just_enough_research.html?hl=&id=8jP_nQEACAAJ"
+  },
+  {
+    "isbn": "9781784704001",
+    "dateStarted": "2023-04-18",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Four Thousand Weeks",
+    "authors": [
+      "Oliver Burkeman"
+    ],
+    "publishedDate": "2022-04-07",
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+      "Self-Help"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=rsB8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ"
   }
 ]
