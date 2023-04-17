@@ -2232,8 +2232,8 @@
   {
     "isbn": "9781988575971",
     "dateStarted": "2023-04-16",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Hell Yeah Or No",
     "authors": [
       "Derek Sivers"
@@ -2247,7 +2247,9 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ"
+    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ",
+    "dateFinished": "2023-04-17",
+    "notes": "A fantastic way to read/listen to his blog posts."
   },
   {
     "isbn": "9780008334635",
