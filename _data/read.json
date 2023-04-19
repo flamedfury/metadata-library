@@ -2632,7 +2632,7 @@
   {
     "isbn": "9781784704001",
     "dateStarted": "2023-04-18",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Four Thousand Weeks",
     "authors": [
@@ -2646,6 +2646,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=rsB8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ"
+    "link": "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ",
+    "dateFinished": "2023-04-20",
+    "notes": "An interesting approach to time, time management, productivity and whether doing things actually matter. How might we allow our selves to do the things that satisfy or make us happy."
   }
 ]
