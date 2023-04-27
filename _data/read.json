@@ -2653,7 +2653,7 @@
   {
     "isbn": "9780063051072",
     "dateStarted": "2023-04-23",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "tags": [
       "audiobook"
@@ -2671,6 +2671,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=7nlHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=7nlHEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=7nlHEAAAQBAJ",
+    "dateFinished": "2023-04-27"
   }
 ]
