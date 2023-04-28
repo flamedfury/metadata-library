@@ -2613,7 +2613,7 @@
   {
     "isbn": "9781937557102",
     "dateStarted": "2023-04-14",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Just enough research",
     "authors": [
@@ -2627,7 +2627,8 @@
       "Human-computer interaction"
     ],
     "language": "en",
-    "link": "https://books.google.com/books/about/Just_enough_research.html?hl=&id=8jP_nQEACAAJ"
+    "link": "https://books.google.com/books/about/Just_enough_research.html?hl=&id=8jP_nQEACAAJ",
+    "dateFinished": "2023-04-28"
   },
   {
     "isbn": "9781784704001",
