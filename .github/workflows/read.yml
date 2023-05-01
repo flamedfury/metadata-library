@@ -50,9 +50,6 @@ jobs:
         uses: katydecorah/read-action@v6.6.2
         with:
           timeZone: Pacific/Auckland
-      - name: Download the book thumbnail
-        if: env.BookThumbOutput != ''
-        run: curl "${{ env.BookThumb }}" -o "img/${{ env.BookThumbOutput }}"
       - name: Commit files
         run: |
           git pull

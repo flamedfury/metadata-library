@@ -3,9 +3,40 @@ name: Trigger Flamed Fury Build
 on: [push]
 
 jobs:
+  update-book-thumbnails:
+    name: Update book thumbnails
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # Separating this into three steps is problematic because of
+      # newlines in the output we need to capture. It’s easier to
+      # combine it into one command.
+      - name: Setup jq environment
+        uses: urgn/setup-jq-action@v3.0.2
+      - name: Download non-existent thumbnails
+        env:
+          # Set this as desired to improve throughput (but beware of
+          # rate limiting by third parties).
+          PARALLEL_REQUESTS: 8
+          # Set this as desired. wget retries 20 times by default.
+          RETRIES: 20
+        run: |
+          set -euxo pipefail
+          jq -r '.[] | select(.thumbnail != null) | "img/book-\(.isbn).png \(.thumbnail)"' _data/read.json | tee jq.out
+          cat jq.out | perl -ne 'chomp; ($path, $url) = split; print "-O $_\n" unless /^$/ || -f $path' | tee perl.out
+          cat perl.out | xargs -n 3 -P $PARALLEL_REQUESTS wget -q -t $RETRIES
+          rm *.out
+      - name: Commit files
+        run: |
+          git pull
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A && git commit -m "Update thumbnails"
+          git push
   build:
     name: Call Netlify build hook
     runs-on: ubuntu-latest
+    needs: [update-book-thumbnails]
     steps:
       - name: Curl request
         run: curl -X POST -d {} "https://api.netlify.com/build_hooks/${TOKEN}"
