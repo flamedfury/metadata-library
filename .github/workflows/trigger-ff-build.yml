@@ -24,7 +24,7 @@ jobs:
           set -euxo pipefail
           jq -r '.[] | select(.thumbnail != null) | "img/book-\(.isbn).png \(.thumbnail)"' _data/read.json | tee jq.out
           cat jq.out | perl -ne 'chomp; ($path, $url) = split; print "-O $_\n" unless /^$/ || -f $path' | tee perl.out
-          cat perl.out | xargs -n 3 -P $PARALLEL_REQUESTS wget -q -t $RETRIES
+          cat perl.out | xargs -r -n 3 -P $PARALLEL_REQUESTS wget -q -t $RETRIES
           rm *.out
       - name: Commit files
         run: |
