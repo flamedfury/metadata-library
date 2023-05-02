@@ -256,19 +256,20 @@
     "link": "https://books.google.com/books/about/Redemption_Ark.html?hl=&id=TcU3AgAAQBAJ"
   },
   {
-    "isbn": "9780007290185",
+    "isbn": "9780007477180",
     "dateFinished": "2012-03-30",
     "status": "finished",
     "rating": "unrated",
-    "title": "Crown Imperilled",
+    "title": "A Crown Imperiled",
     "authors": [
-      "Raymond E. Feist"
+      "Raymond E Feist"
     ],
-    "publishedDate": "2012",
-    "pageCount": 400,
+    "publishedDate": "2013-02-01",
+    "description": "The ultimate battle for Midkemia continues in this second installment in the ChaoswarNthe fifth and final RiftwarNin the \"New York Times\"-bestselling author's legendary, action-adventure series.",
     "printType": "BOOK",
-    "categories": [],
-    "language": "en"
+    "thumbnail": "https://books.google.com/books/content?id=Lg9eMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_Crown_Imperiled.html?hl=&id=Lg9eMQAACAAJ"
   },
   {
     "isbn": "9780575083127",
@@ -2696,20 +2697,4 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=Tfo5DwAAQBAJ"
   },
-  {
-    "isbn": "9780007477180",
-    "dateFinished": "2012-03-30",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "A Crown Imperiled",
-    "authors": [
-      "Raymond E Feist"
-    ],
-    "publishedDate": "2013-02-01",
-    "description": "The ultimate battle for Midkemia continues in this second installment in the ChaoswarNthe fifth and final RiftwarNin the \"New York Times\"-bestselling author's legendary, action-adventure series.",
-    "printType": "BOOK",
-    "thumbnail": "https://books.google.com/books/content?id=Lg9eMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/A_Crown_Imperiled.html?hl=&id=Lg9eMQAACAAJ"
-  }
 ]
