@@ -2697,5 +2697,21 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=Tfo5DwAAQBAJ",
     "dateFinished": "2023-05-03"
+  },
+  {
+    "isbn": "9798985691900",
+    "dateStarted": "2023-05-03",
+    "status": "started",
+    "rating": "unrated",
+    "title": "The Song of the Marked",
+    "authors": [
+      "S. M. Gaither"
+    ],
+    "publishedDate": "2022-07-31",
+    "description": "The old gods are growing restless. An ancient evil is stirring. Can they stop the coming storm? Mercenary Casia Greythorne cares about two things: Completing whatever her latest job is, and earning enough coin to buy the expensive medicine that's keeping her mentor alive. So when the king himself offers her a job, she can't resist the massive reward he offers-even if it means working with Captain Elander, the arrogant, mysterious right-hand to that king. Her partner may be infuriating, but at least their mission seems simple and quick enough: Investigate the origins of the strange plague that's been ravaging their empire, help find a cure, and then call it a day. But in a land brimming with old magic and meddling gods, nothing is ever that simple, and nothing is ever what it seems. As the bodies pile up and strange monsters begin to wreak havoc throughout the realms, Cas and Elander will have to work together to protect their world whether they like it or not. Because one thing is clear: Something ancient and evil is stirring in the shadows of that world. And their empire will not survive its full unleashing.",
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=AOLpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Song_of_the_Marked.html?hl=&id=AOLpzgEACAAJ"
   }
 ]
