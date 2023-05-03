@@ -2680,7 +2680,7 @@
   {
     "isbn": "9780735210950",
     "dateStarted": "2023-04-29",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Because Internet",
     "authors": [
@@ -2695,6 +2695,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=Tfo5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=Tfo5DwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=Tfo5DwAAQBAJ",
+    "dateFinished": "2023-05-03"
   }
 ]
