@@ -2701,8 +2701,8 @@
   {
     "isbn": "9798985691900",
     "dateStarted": "2023-05-03",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "The Song of the Marked",
     "authors": [
       "S. M. Gaither"
@@ -2712,7 +2712,8 @@
     "printType": "BOOK",
     "thumbnail": "https://books.google.com/books/content?id=AOLpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "link": "https://books.google.com/books/about/The_Song_of_the_Marked.html?hl=&id=AOLpzgEACAAJ"
+    "link": "https://books.google.com/books/about/The_Song_of_the_Marked.html?hl=&id=AOLpzgEACAAJ",
+    "dateFinished": "2023-05-14"
   },
   {
     "isbn": "9781952616242",
