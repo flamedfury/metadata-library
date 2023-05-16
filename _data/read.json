@@ -2750,5 +2750,25 @@
     "thumbnail": "https://books.google.com/books/content?id=0AGrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=0AGrDwAAQBAJ"
+  },
+  {
+    "isbn": "9781743036204",
+    "dateFinished": "2005-03-06",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "title": "Pandora's Star: Commonwealth Saga 1",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2004-11-01",
+    "description": "The first part of the epic Commonwealth Saga, Pandora's Star by Peter F. Hamilton is a fantastic galaxy-spanning novel from the master of space opera. \"The depth and clarity of the future Hamilton envisions is as complex and involving as they come.\" Publishers Weekly Earth AD 2329: Humanity has colonized over four hundred planets, all interlinked by wormholes. For the first time in mankind's history there is peace. Then a star over a thousand light years away suddenly vanishes, imprisoned inside a force field of immense size. Only a faster-than-light starship, captained by ex-NASA astronaut Wilson Kime, can reach that distance to investigate. But there was a good reason for sealing off an entire star system. And getting in may not be as difficult as stopping something from getting out . . .",
+    "pageCount": 1152,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=NCSYZ41UBaYC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Pandora_s_Star_Commonwealth_Saga_1.html?hl=&id=NCSYZ41UBaYC"
   }
 ]
