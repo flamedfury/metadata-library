@@ -2851,5 +2851,26 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=0AGrDwAAQBAJ",
     "dateFinished": "2023-05-22"
+  },
+  {
+    "isbn": "9781788705257",
+    "dateStarted": "2023-05-22",
+    "status": "started",
+    "rating": "unrated",
+    "notes": "audiobook",
+    "title": "Being Britney",
+    "authors": [
+      "Jennifer Otter Bickerdike"
+    ],
+    "publishedDate": "2021-11-11",
+    "description": "'[An] astute reckoning with modern celebrity' - The Times 'A wild read' - The Guardian 'A well-researched, measured account' - The Sun Part biography, part social history, Being Britney pieces together a collage of stories, interviews, legends and fan experiences to construct a definitive portrait of one of the biggest stars in recent history. In her unique narrative, acclaimed music author Jennifer Otter Bickerdike provides a sympathetic yet objective re-examination of Britney's trajectory from girl next door to woman trapped by fame. Being Britney is the compelling account of a talented, troubled and talked-about modern icon, whose life, work and individual significance will be recognised for many decades to come. 'After years of being framed as a victim, Britney deserves to be celebrated as the fighter, inspiration and enigma she truly is.' - Jennifer Otter Bickerdike",
+    "pageCount": 263,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=vU9REAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Being_Britney.html?hl=&id=vU9REAAAQBAJ"
   }
 ]
