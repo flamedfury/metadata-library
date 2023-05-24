@@ -2855,7 +2855,7 @@
   {
     "isbn": "9781788705257",
     "dateStarted": "2023-05-22",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "notes": "audiobook",
     "title": "Being Britney",
@@ -2871,6 +2871,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=vU9REAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Being_Britney.html?hl=&id=vU9REAAAQBAJ"
+    "link": "https://books.google.com/books/about/Being_Britney.html?hl=&id=vU9REAAAQBAJ",
+    "dateFinished": "2023-05-23"
   }
 ]
