@@ -366,5 +366,16 @@
     "image": "bookmark-web-rings-an-alternative-to-search-engines-casey-college-research-libraries-news.jpg",
     "type": "",
     "notes": "Looking to explore topic-specific websites in a more organised and engaging way? Travel back to 1998 and Check out this article that introduces the concept of web rings. Back then, they were described as interconnected universes of websites, allowing you to navigate between them and discover related content. Say goodbye to dead links and hello to a more efficient and curated online exploration!"
+  },
+  {
+    "title": "The Strange Story of the Teens Behind the Mirai Botnet",
+    "site": "IEEE Spectrum",
+    "author": "",
+    "date": "2023-05-26",
+    "description": "Their DDoS malware threatened the entire Internet",
+    "url": "https://spectrum.ieee.org/mirai-botnet",
+    "image": "bookmark-the-strange-story-of-the-teens-behind-the-mirai-botnet.png",
+    "type": "article",
+    "notes": "A look into the fascinating world of the Mirai botnet. Read about the origins, capabilities, and impacts of this infamous botnet, which wreaked havoc on the internet by compromising vulnerable IoT devices."
   }
 ]
