@@ -2958,8 +2958,8 @@
   {
     "isbn": "9781743821213",
     "dateStarted": "2023-05-28",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "How to Do Nothing",
     "authors": [
       "Jenny Odell"
@@ -2973,6 +2973,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=ExqwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/How_to_Do_Nothing.html?hl=&id=ExqwDwAAQBAJ"
+    "link": "https://books.google.com/books/about/How_to_Do_Nothing.html?hl=&id=ExqwDwAAQBAJ",
+    "dateFinished": "2023-05-31"
   }
 ]
