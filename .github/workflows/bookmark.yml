@@ -28,7 +28,7 @@ jobs:
         with:
           token: ${{ secrets.METADATA_PUSH }}
       - name: Bookmark action
-        uses: katydecorah/bookmark-action@v5.2.0
+        uses: katydecorah/bookmark-action@v6.1.0
         with:
           fileName: _data/bookmarks.json
       - name: Download the thumbnail image
