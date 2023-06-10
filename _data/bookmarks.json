@@ -388,5 +388,15 @@
     "image": "bookmark-the-strange-story-of-the-teens-behind-the-mirai-botnet.png",
     "type": "article",
     "notes": "A look into the fascinating world of the Mirai botnet. Read about the origins, capabilities, and impacts of this infamous botnet, which wreaked havoc on the internet by compromising vulnerable IoT devices."
+  },
+  {
+    "title": "From the valley to the alley - The History of the Web",
+    "site": "The History of the Web",
+    "author": "Jay Hoffmann",
+    "date": "2023-06-10",
+    "description": "The Flatiron building is one of the most instantly recognizable buildings in New York City. Built at the beginning of […]",
+    "url": "https://thehistoryoftheweb.com/from-the-valley-to-the-alley/",
+    "image": "bookmark-from-the-valley-to-the-alley-the-history-of-the-web.jpg",
+    "type": "article"
   }
 ]
