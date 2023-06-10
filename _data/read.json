@@ -2999,8 +2999,8 @@
   {
     "isbn": "9781922586834",
     "dateStarted": "2023-06-08",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Chokepoint Capitalism",
     "authors": [
       "Rebecca Giblin",
@@ -3015,6 +3015,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=YH2CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Chokepoint_Capitalism.html?hl=&id=YH2CEAAAQBAJ"
+    "link": "https://books.google.com/books/about/Chokepoint_Capitalism.html?hl=&id=YH2CEAAAQBAJ",
+    "dateFinished": "2023-06-10"
   }
 ]
