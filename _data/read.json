@@ -3037,5 +3037,25 @@
     "thumbnail": "https://books.google.com/books/content?id=CbOLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Range.html?hl=&id=CbOLDwAAQBAJ"
+  },
+  {
+    "isbn": "9781668001226",
+    "dateStarted": "2023-06-11",
+    "status": "started",
+    "rating": "unrated",
+    "title": "It Starts with Us",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "publishedDate": "2022-10-18",
+    "description": "Lily and her ex-husband, Ryle, have just settled into a civil coparenting rhythm when she suddenly bumps into her first love, Atlas, again. After nearly two years separated, she is elated that for once, time is on their side, and she immediately says yes when Atlas asks her on a date. But her excitement is quickly hampered by the knowledge that, though they are no longer married, Ryle is still very much a part of her life--and Atlas Corrigan is the one man he will hate being in his ex-wife and daughter's life.",
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=CMeVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/It_Starts_with_Us.html?hl=&id=CMeVEAAAQBAJ"
   }
 ]
