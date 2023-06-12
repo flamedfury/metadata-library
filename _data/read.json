@@ -1,24 +1,5 @@
 [
   {
-    "isbn": "9781405000208",
-    "dateFinished": "2005-03-06",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Pandora's Star",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2004-01",
-    "pageCount": 881,
-    "printType": "BOOK",
-    "categories": [
-      "Life on other planets"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=PeNfQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Pandora_s_Star.html?hl=&id=PeNfQAAACAAJ"
-  },
-  {
     "isbn": "9781743036204",
     "dateFinished": "2005-03-06",
     "status": "finished",
@@ -37,26 +18,6 @@
     "thumbnail": "https://books.google.com/books/content?id=NCSYZ41UBaYC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Pandora_s_Star_Commonwealth_Saga_1.html?hl=&id=NCSYZ41UBaYC"
-  },
-  {
-    "isbn": "9780330493536",
-    "dateFinished": "2005-10-06",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Judas Unchained",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2006",
-    "description": "Science fiction roman.",
-    "pageCount": 1252,
-    "printType": "BOOK",
-    "categories": [
-      "Life on other planets"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=usTpubdgI8EC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Judas_Unchained.html?hl=&id=usTpubdgI8EC"
   },
   {
     "isbn": "9781743031827",
@@ -79,23 +40,6 @@
     "link": "https://books.google.com/books/about/Judas_Unchained_Commonwealth_Saga_2.html?hl=&id=91KttOWIL2kC"
   },
   {
-    "isbn": "9781509868636",
-    "dateFinished": "2008-09-30",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "The Dreaming Void: the Void Trilogy 1",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2021-08-05",
-    "description": "In the far future, a breakaway group of pilgrims seek the Void, a mysterious part of space - but it could prove their doom. The Dreaming Void is the first thrilling novel in the Void trilogy, set in the Commonwealth universe.",
-    "pageCount": 672,
-    "printType": "BOOK",
-    "thumbnail": "https://books.google.com/books/content?id=nQ-2zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Dreaming_Void_the_Void_Trilogy_1.html?hl=&id=nQ-2zAEACAAJ"
-  },
-  {
     "isbn": "9781743033135",
     "dateFinished": "2008-09-30",
     "status": "finished",
@@ -114,26 +58,6 @@
     "thumbnail": "https://books.google.com/books/content?id=ku9OSCWRN7wC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Dreaming_Void_The_Void_Trilogy_1.html?hl=&id=ku9OSCWRN7wC"
-  },
-  {
-    "isbn": "9781447279709",
-    "dateFinished": "2008-10-20",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "The Temporal Void",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2014-11-06",
-    "description": "The second book in Peter F. Hamilton's bestselling Void Trilogy",
-    "pageCount": 769,
-    "printType": "BOOK",
-    "categories": [
-      "Cults"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=jCOsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Temporal_Void.html?hl=&id=jCOsDAAAQBAJ"
   },
   {
     "isbn": "9781743037713",
@@ -156,26 +80,6 @@
     "link": "https://books.google.com/books/about/The_Temporal_Void_The_Void_Trilogy_2.html?hl=&id=yRa1Q4jQQi4C"
   },
   {
-    "isbn": "9781447279693",
-    "dateFinished": "2010-09-23",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "The Evolutionary Void",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2015-03",
-    "description": "In 'The Evolutionary Void', Peter K. Hamilton concludes the highly acclaimed 'Commonwealth Saga' that has unfolded in 'The Dreaming Void' and 'The Temporal Void'.",
-    "pageCount": 753,
-    "printType": "BOOK",
-    "categories": [
-      "Cults"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=qWHSDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Evolutionary_Void.html?hl=&id=qWHSDAAAQBAJ"
-  },
-  {
     "isbn": "9781743037010",
     "dateFinished": "2010-09-23",
     "status": "finished",
@@ -194,26 +98,6 @@
     "thumbnail": "https://books.google.com/books/content?id=O0Qgpgyf5E4C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Evolutionary_Void_The_Void_Trilogy_3.html?hl=&id=O0Qgpgyf5E4C"
-  },
-  {
-    "isbn": "9780553897845",
-    "dateFinished": "2011-05-20",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "A Game of Thrones",
-    "authors": [
-      "George R. R. Martin"
-    ],
-    "publishedDate": "2003-01-01",
-    "description": "NOW THE ACCLAIMED HBO SERIES GAME OF THRONES—THE MASTERPIECE THAT BECAME A CULTURAL PHENOMENON Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King’s Landing. There Eddard Stark of Winterfell rules in Robert’s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse—unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season. Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen’s brothers Jaime and Tyrion of the powerful and wealthy House Lannister—the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms. Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki—whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.",
-    "pageCount": 835,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=5NomkK4EV68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=5NomkK4EV68C"
   },
   {
     "isbn": "0553897845",
@@ -236,26 +120,6 @@
     "link": "https://play.google.com/store/books/details?id=5NomkK4EV68C"
   },
   {
-    "isbn": "9780553108033",
-    "dateFinished": "2011-06-19",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "A Clash of Kings",
-    "authors": [
-      "George R. R. Martin"
-    ],
-    "publishedDate": "1999-02-02",
-    "description": "THE BOOK BEHIND THE SECOND SEASON OF GAME OF THRONES, AN ORIGINAL SERIES NOW ON HBO. George R. R. Martin, a writer of unsurpassed vision, power, and imagination, has created a landmark of fantasy fiction. In his widely acclaimed A Game of Thrones, he introduced us to an extraordinary world of wonder, intrigue, and adventure. Now, in the eagerly awaited second volume in this epic saga, he once again proves himself a master myth-maker, setting a standard against which all other fantasy novels will be measured for years to come. Time is out of joint. The summer of peace and plenty, ten years long, is drawing to a close, and the harsh, chill winter approaches like an angry beast. Two great leaders—Lord Eddard Stark and Robert Baratheon—who held sway over an age of enforced peace are dead . . . victims of royal treachery. Now, from the ancient citadel of Dragonstone to the forbidding shores of Winterfell, chaos reigns, as pretenders to the Iron Throne of the Seven Kingdoms prepare to stake their claims through tempest, turmoil, and war. As a prophecy of doom cuts across the sky—a comet the color of blood and flame—six factions struggle for control of a divided land. Eddard’s son Robb has declared himself King in the North. In the south, Joffrey, the heir apparent, rules in name only, victim of the scheming courtiers who teem over King’s Landing. Robert’s two brothers each seek their own dominion, while a disfavored house turns once more to conquest. And a continent away, an exiled queen, the Mother of Dragons, risks everything to lead her precious brood across a hard hot desert to win back the crown that is rightfully hers. A Clash of Kings transports us into a magnificent, forgotten land of revelry and revenge, wizardry and warfare. It is a tale in which maidens cavort with madmen, brother plots against brother, and the dead rise to walk in the night. Here a princess masquerades as an orphan boy; a knight of the mind prepares a poison for a treacherous sorceress; and wild men descend from the Mountains of the Moon to ravage the countryside. Against a backdrop of incest and fratricide, alchemy and murder, the price of glory may be measured in blood. And the spoils of victory may just go to the men and women possessed of the coldest steel . . . and the coldest hearts. For when rulers clash, all of the land feels the tremors. Audacious, inventive, brilliantly imagined, A Clash of Kings is a novel of dazzling beauty and boundless enchantment—a tale of pure excitement you will never forget.",
-    "pageCount": 769,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=jH1jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/A_Clash_of_Kings.html?hl=&id=jH1jEAAAQBAJ"
-  },
-  {
     "isbn": "0553108034",
     "dateFinished": "2011-06-19",
     "status": "finished",
@@ -274,26 +138,6 @@
     "thumbnail": "https://books.google.com/books/content?id=jH1jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/A_Clash_of_Kings.html?hl=&id=jH1jEAAAQBAJ"
-  },
-  {
-    "isbn": "9780553106633",
-    "dateFinished": "2011-07-24",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "A Storm of Swords",
-    "authors": [
-      "George R. R. Martin"
-    ],
-    "publishedDate": "2000-10-31",
-    "description": "THE BOOK BEHIND THE THIRD SEASON OF GAME OF THRONES, AN ORIGINAL SERIES NOW ON HBO. Rarely has there been a tale as gripping, or one as likely to seize the minds and hearts of a generation, as George R. R. Martin's epic high fantasy series. In A Game of Thrones, an ancient kingdom was torn by the ambitions of ruthless men and women; in A Clash of Kings, war, sorcery, and madness swept over the kingdom like a voracious beast of prey. Now, as the brutal struggle for power nears its tumultuous climax, the battered and divided kingdom faces its most terrifying invasion—one that is being spearheaded from beyond the grave. . . . A STORM OF SWORDS Of the five contenders for power, one is dead, another in disfavor, and still the wars rage as violently as ever, as alliances are made and broken. Joffrey, of House Lannister, sits on the Iron Throne, the uneasy ruler of the land of the Seven Kingdoms. His most bitter rival, Lord Stannis, stands defeated and disgraced, the victim of the jealous sorceress who holds him in her evil thrall. But young Robb, of House Stark, still rules the North from the fortress of Riverrun. Robb plots against his despised Lannister enemies, even as they hold his sister hostage at King's Landing, the seat of the Iron Throne. Meanwhile, making her way across a blood-drenched continent is the exiled queen, Daenerys, mistress of the only three dragons still left in the world. Filled with the stench of death and decay from the destructive dynastic war, Daenerys is gathering allies and strength for an assault on King's Landing, hoping to win back the crown she believes is rightfully hers. But as opposing forces maneuver for the final titanic showdown, an army of barbaric wildlings bent on overwhelming the Seven Kingdoms arrives from the outermost line of civilization. In their vanguard is a horde of mythical Others—a supernatural army of the living dead whose animated corpses are unstoppable. And as the future of the land hangs in the balance, no one will rest in the quest for victory until the Seven Kingdoms have exploded in a veritable storm of swords. . . . Brilliantly conceived and grand in scope, A Storm of Swords is the incredible tale of a world of harsh beauty and powerful magic, torn by treachery, ravaged by brutality, and consumed by greed and ambition. It portrays a war-torn landscape in which nobles and commoners, heroes and villains, the freeborn and the enslaved, all struggle to survive and to find their destinies...along with the dazzling bounty and wondrous enchantment that was once their birthright in the Seven Kingdoms.",
-    "pageCount": 994,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=bjn_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/A_Storm_of_Swords.html?hl=&id=bjn_DwAAQBAJ"
   },
   {
     "isbn": "0553381709",
