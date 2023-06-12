@@ -3021,7 +3021,7 @@
   {
     "isbn": "9781760786700",
     "dateStarted": "2023-06-11",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Range",
     "authors": [
@@ -3036,7 +3036,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=CbOLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Range.html?hl=&id=CbOLDwAAQBAJ"
+    "link": "https://books.google.com/books/about/Range.html?hl=&id=CbOLDwAAQBAJ",
+    "dateFinished": "2023-06-12"
   },
   {
     "isbn": "9781668001226",
