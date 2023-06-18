@@ -2922,5 +2922,21 @@
     "thumbnail": "https://books.google.com/books/content?id=auhOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Internet_for_the_People.html?hl=&id=auhOEAAAQBAJ"
+  },
+  {
+    "isbn": "9781991006448",
+    "dateStarted": "2023-06-18",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Everything Is Beautiful and Everything Hurts",
+    "authors": [
+      "Josie Shapiro"
+    ],
+    "publishedDate": "2023-05-16",
+    "description": "The stunning debut novel by the winner of the Allen & Unwin Commercial Fiction Prize. If you loved Lessons in Chemistry and Eleanor Oliphant is Completely Fine, you will adore Everything is Beautiful, Everything Hurts.",
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=26OmzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Everything_Is_Beautiful_and_Everything_H.html?hl=&id=26OmzwEACAAJ"
   }
 ]
