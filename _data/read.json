@@ -2926,8 +2926,8 @@
   {
     "isbn": "9781991006448",
     "dateStarted": "2023-06-18",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Everything Is Beautiful and Everything Hurts",
     "authors": [
       "Josie Shapiro"
@@ -2937,6 +2937,7 @@
     "printType": "BOOK",
     "thumbnail": "https://books.google.com/books/content?id=26OmzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Everything_Is_Beautiful_and_Everything_H.html?hl=&id=26OmzwEACAAJ"
+    "link": "https://books.google.com/books/about/Everything_Is_Beautiful_and_Everything_H.html?hl=&id=26OmzwEACAAJ",
+    "dateFinished": "2023-03-19"
   }
 ]
