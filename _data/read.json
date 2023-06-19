@@ -2134,6 +2134,23 @@
     "link": "https://play.google.com/store/books/details?id=AIaPDwAAQBAJ"
   },
   {
+    "isbn": "9780571368709",
+    "dateStarted": "2023-01-29",
+    "dateFinished": "2023-01-29",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Small Things Like These",
+    "authors": [
+      "Claire Keegan"
+    ],
+    "publishedDate": "2022-10-05",
+    "description": "An exquisite winter tale of courage - and its cost, set in Catholic Ireland.",
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=rYPAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Small_Things_Like_These.html?hl=&id=rYPAzgEACAAJ"
+  },
+  {
     "isbn": "9781501135934",
     "dateStarted": "2023-02-13",
     "status": "finished",
