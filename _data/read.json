@@ -2176,6 +2176,27 @@
     "link": "https://play.google.com/store/books/details?id=0nosEAAAQBAJ"
   },
   {
+    "isbn": "9780062372123",
+    "dateStarted": "2023-02-06",
+    "dateFinished": "2023-02-08",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Down the Rabbit Hole",
+    "authors": [
+      "Holly Madison"
+    ],
+    "publishedDate": "2015-06-23",
+    "description": "The real, untold, and unvarnished story of life inside the legendary Playboy Mansion—and the man who holds the key—from the woman who was Hef’s #1 girlfriend and star of The Girls Next Door. A spontaneous decision at age twenty-one transformed small-town Oregon girl Holly Sue Cullen into Holly Madison, Hugh Hefner’s #1 girlfriend. But like Alice in Wonderland after she plunged down the rabbit hole, what seemed like a fairytale life inside the Playboy Mansion—including A-list celebrity parties and her own #1-rated television show—quickly devolved into an oppressive routine of strict rules, manipulation, and battles with ambitious, backstabbing bunnies. Losing her identity, her sense of self-worth, and her hope for the future, Holly found herself sitting alone in a bathtub contemplating suicide. But instead of ending her life, Holly chose to take charge of it. In this shockingly candid and surprisingly moving memoir, this thoughtful and introspective woman opens up about life inside the Mansion, the drugs, the sex and the infamous parties, as well as what her relationships with her Girls Next Door co-stars, Bridget and Kendra were really like. Holly talks candidly about a subsequent abusive relationship, her own successful television series, and the hard work of healing, including her turn on Dancing with the Stars. A cautionary tale and a celebration of personal empowerment, Down the Rabbit Hole reminds us of the importance of fighting for our dreams—and finding the life we deserve.",
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=Kl3VBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=Kl3VBgAAQBAJ"
+  },
+  {
     "isbn": "9781501135934",
     "dateStarted": "2023-02-13",
     "status": "finished",
