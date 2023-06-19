@@ -2014,6 +2014,26 @@
     "link": "https://www.kobo.com/nz/en/audiobook/a-hole-in-the-sky-2"
   },
   {
+    "isbn": "9780691212326",
+    "dateFinished": "2023-01-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Internet Is Not What You Think It Is",
+    "authors": [
+      "Justin E. H. Smith"
+    ],
+    "publishedDate": "2022-03-22",
+    "description": "A history of the internet, uncovering its origins in nature and centuries-old dreams of improving the quality of human life by creating thinking machines and allowing for communication across vast distances. Looks at what the internet is, where it came from, and where it might be taking us.",
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+      "Computers"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=6Z1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Internet_Is_Not_What_You_Think_It_Is.html?hl=&id=6Z1EEAAAQBAJ"
+  },
+  {
     "isbn": "9781705245309",
     "dateStarted": "2023-01-17",
     "dateFinished": "2023-01-19",
