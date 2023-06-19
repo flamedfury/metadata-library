@@ -1972,6 +1972,26 @@
     "link": "https://books.google.com/books/about/Everyday_Information_Architecture.html?hl=&id=wDb0xgEACAAJ"
   },
   {
+    "isbn": "9780691212326",
+    "dateFinished": "2023-01-09",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Internet Is Not What You Think It Is",
+    "authors": [
+      "Justin E. H. Smith"
+    ],
+    "publishedDate": "2022-03-22",
+    "description": "A history of the internet, uncovering its origins in nature and centuries-old dreams of improving the quality of human life by creating thinking machines and allowing for communication across vast distances. Looks at what the internet is, where it came from, and where it might be taking us.",
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+      "Computers"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=6Z1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Internet_Is_Not_What_You_Think_It_Is.html?hl=&id=6Z1EEAAAQBAJ"
+  },
+  {
     "isbn": "9781705245286",
     "dateStarted": "2023-01-12",
     "dateFinished": "2023-01-15",
@@ -1991,26 +2011,6 @@
     "thumbnail": "https://kbimages1-a.akamaihd.net/483e1930-521f-4496-b4a8-adef6ef1aad4/353/569/90/False/a-hole-in-the-sky-2.jpg",
     "language": "en",
     "link": "https://www.kobo.com/nz/en/audiobook/a-hole-in-the-sky-2"
-  },
-  {
-    "isbn": "9780691212326",
-    "dateFinished": "2023-01-09",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "The Internet Is Not What You Think It Is",
-    "authors": [
-      "Justin E. H. Smith"
-    ],
-    "publishedDate": "2022-03-22",
-    "description": "A history of the internet, uncovering its origins in nature and centuries-old dreams of improving the quality of human life by creating thinking machines and allowing for communication across vast distances. Looks at what the internet is, where it came from, and where it might be taking us.",
-    "pageCount": 208,
-    "printType": "BOOK",
-    "categories": [
-      "Computers"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=6Z1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Internet_Is_Not_What_You_Think_It_Is.html?hl=&id=6Z1EEAAAQBAJ"
   },
   {
     "isbn": "9781705245309",
@@ -2314,6 +2314,27 @@
     "thumbnail": "https://books.google.com/books/content?id=0lU8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/INSPIRED.html?hl=&id=0lU8DwAAQBAJ"
+  },
+  {
+    "isbn": "9781982185824",
+    "dateStarted": "2023-03-12",
+    "dateFinished": "2023-03-12",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "I'm Glad My Mom Died",
+    "authors": [
+      "Jennette McCurdy"
+    ],
+    "publishedDate": "2022-08-09",
+    "description": "\"Jennette McCurdy was six years old when she had her first acting audition. Her mother's dream was for her only daughter to become a star, and Jennette would do anything to make her mother happy. So she went along with what Mom called \"calorie restriction,\" eating little and weighing herself five times a day. She endured extensive at-home makeovers while Mom chided, \"Your eyelashes are invisible, okay? You think Dakota Fanning doesn't tint hers?\" She was even showered by Mom until age sixteen while sharing her diaries, email, and all her income. In I'm Glad My Mom Died, Jennette recounts all this in unflinching detail--just as she chronicles what happens when the dream finally comes true. Cast in a new Nickelodeon series called iCarly, she is thrust into fame. Though Mom is ecstatic, emailing fan club moderators and getting on a first-name basis with the paparazzi (\"Hi Gale!\"), Jennette is riddled with anxiety, shame, and self-loathing, which manifest into eating disorders, addiction, and a series of unhealthy relationships. These issues only get worse when, soon after taking the lead in the iCarly spinoff Sam & Cat alongside Ariana Grande, her mother dies of cancer. Finally, after discovering therapy and quitting acting, Jennette embarks on recovery and decides for the first time in her life what she really wants.\" -- Amazon.com.",
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=13mAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/I_m_Glad_My_Mom_Died.html?hl=&id=13mAEAAAQBAJ"
   },
   {
     "isbn": "9781621060406",
