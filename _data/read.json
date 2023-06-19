@@ -2014,26 +2014,6 @@
     "link": "https://www.kobo.com/nz/en/audiobook/a-hole-in-the-sky-2"
   },
   {
-    "isbn": "9780691212326",
-    "dateFinished": "2023-01-16",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "The Internet Is Not What You Think It Is",
-    "authors": [
-      "Justin E. H. Smith"
-    ],
-    "publishedDate": "2022-03-22",
-    "description": "A history of the internet, uncovering its origins in nature and centuries-old dreams of improving the quality of human life by creating thinking machines and allowing for communication across vast distances. Looks at what the internet is, where it came from, and where it might be taking us.",
-    "pageCount": 208,
-    "printType": "BOOK",
-    "categories": [
-      "Computers"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=6Z1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Internet_Is_Not_What_You_Think_It_Is.html?hl=&id=6Z1EEAAAQBAJ"
-  },
-  {
     "isbn": "9781705245309",
     "dateStarted": "2023-01-17",
     "dateFinished": "2023-01-19",
@@ -2076,86 +2056,6 @@
     "link": "https://www.kobo.com/nz/en/audiobook/queens-of-an-alien-sun"
   },
   {
-    "isbn": "9781801108454",
-    "dateStarted": "2023-01-22",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "City of Last Chances",
-    "authors": [
-      "Adrian Tchaikovsky"
-    ],
-    "publishedDate": "2022-12-08",
-    "description": "'Endlessly creative... so much invention peeking around every corner' Patrick Ness Arthur C. Clarke winner and Sunday Times bestseller Adrian Tchaikovsky's triumphant return to fantasy with a darkly inventive portrait of a city under occupation and on the verge of revolution. There has always been a darkness to Ilmar, but never more so than now. The city chafes under the heavy hand of the Palleseen occupation, the choke-hold of its criminal underworld, the boot of its factory owners, the weight of its wretched poor and the burden of its ancient curse. What will be the spark that lights the conflagration? Despite the city's refugees, wanderers, murderers, madmen, fanatics and thieves, the catalyst, as always, will be the Anchorwood – that dark grove of trees, that primeval remnant, that portal, when the moon is full, to strange and distant shores. Ilmar, some say, is the worst place in the world and the gateway to a thousand worse places. Ilmar, City of Long Shadows. City of Bad Decisions. City of Last Chances. 'Ilmar is vividly alive with ideas, conflicts, and a sense of its own history – a truly breathtaking fantasy city, down every street a compelling story.' David Towsey 'A master at the height of his powers. This is epic symphonic fantasy, weaving a breakneck plot through a sumptuously dangerous world.' Ian Green 'A wonderful twisty stew of a book with a cast of fascinating characters, set against the brilliantly realized city of Ilmar.' Django Wexler 'A triumph of a book: wildly imaginative, immediately immersive and hypnotically compelling.' Sharon Emmerichs",
-    "pageCount": 544,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=JwGfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=JwGfEAAAQBAJ",
-    "dateFinished": "2023-01-26"
-  },
-  {
-    "isbn": "9780008296872",
-    "dateStarted": "2023-01-26",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Uncanny Valley: Seduction and Disillusionment in San Francisco’s Startup Scene",
-    "authors": [
-      "Anna Wiener"
-    ],
-    "publishedDate": "2020-01-14",
-    "description": "‘Joan Didion at a startup’ Rebecca Solnit ‘Impossibly pleasurable’ Jia Tolentino ‘This is essential reading’ Stylist",
-    "pageCount": 304,
-    "printType": "BOOK",
-    "categories": [
-      "Social Science"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=aZCdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Uncanny_Valley_Seduction_and_Disillusion.html?hl=&id=aZCdDwAAQBAJ",
-    "dateFinished": "2023-01-28"
-  },
-  {
-    "isbn": "9781473573666",
-    "dateStarted": "2023-01-28",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Minimal",
-    "authors": [
-      "Madeleine Olivia"
-    ],
-    "publishedDate": "2020-01-09",
-    "description": "Love yourself. Love the planet. We are facing an urgent climate crisis and we must all take action now. However, it can be difficult to know where to start when bombarded with overwhelming facts and statistics every day. We all want to make a difference, but what can we do? Minimal makes simple and sustainable living attainable for everyone, using practical tips for all areas of everyday life to reduce your impact on the earth. Leading environmentalist Madeleine Olivia shares her insights on how to care for yourself in a more eco-friendly way, as well as how to introduce a mindful approach to your habits. This includes how to declutter your life, reduce your waste and consumption, recipes for eating seasonally and making your own natural beauty and cleaning products. Learn how to minimise the areas that aren’t giving you anything back and discover a happier and more fulfilled life, while looking after the Earth we share.",
-    "pageCount": 304,
-    "printType": "BOOK",
-    "categories": [
-      "Self-Help"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=AIaPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=AIaPDwAAQBAJ",
-    "dateFinished": "2023-01-29"
-  },
-  {
-    "isbn": "9780571368709",
-    "dateStarted": "2023-01-29",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Small Things Like These",
-    "authors": [
-      "Claire Keegan"
-    ],
-    "publishedDate": "2022-10-05",
-    "description": "An exquisite winter tale of courage - and its cost, set in Catholic Ireland.",
-    "printType": "BOOK",
-    "thumbnail": "https://books.google.com/books/content?id=rYPAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Small_Things_Like_These.html?hl=&id=rYPAzgEACAAJ",
-    "dateFinished": "2023-01-29"
-  },
-  {
     "isbn": "9781471145148",
     "dateFinished": "2023-01-29",
     "status": "finished",
@@ -2169,90 +2069,6 @@
     "printType": "BOOK",
     "categories": [],
     "language": "en"
-  },
-  {
-    "isbn": "9780063051041",
-    "dateStarted": "2023-01-31",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Hunt the Stars",
-    "authors": [
-      "Jessie Mihalik"
-    ],
-    "publishedDate": "2022-02-01",
-    "description": "The critically acclaimed author of Polaris Rising takes readers on an exciting journey with the start of her brand-new series about a female bounty hunter and the man who is her sworn enemy. “Jessie Mihalik is an author to watch.” — Ilona Andrews, #1 New York Times bestselling author Octavia Zarola would do anything to keep her tiny, close-knit bounty hunting crew together—even if it means accepting a job from Torran Fletcher, a ruthless former general and her sworn enemy. When Torran offers her enough credits to not only keep her crew afloat but also hire someone to fix her ship, Tavi knows that she can’t refuse—no matter how much she’d like to. With so much money on the line, Torran and his crew insist on joining the hunt. Tavi reluctantly agrees because while the handsome, stoic leader pushes all of her buttons—for both anger and desire—she’s endured worse, and the massive bonus payment he’s promised for a completed job is reason enough to shut up and deal. But when they uncover a deeper plot that threatens the delicate peace between humans and Valoffs, Tavi suspects that Torran has been using her as the impetus for a new war. With the fate of her crew balanced on a knife’s edge, Tavi must decide where her loyalties lie—with the quiet Valoff who’s been lying to her, or with the human leaders who left her squad to die on the battlefield. And this time, she’s put her heart on the line.",
-    "pageCount": 432,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=0nosEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=0nosEAAAQBAJ",
-    "dateFinished": "2023-02-06"
-  },
-  {
-    "isbn": "9780062372123",
-    "dateStarted": "2023-02-06",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Down the Rabbit Hole",
-    "authors": [
-      "Holly Madison"
-    ],
-    "publishedDate": "2015-06-23",
-    "description": "The real, untold, and unvarnished story of life inside the legendary Playboy Mansion—and the man who holds the key—from the woman who was Hef’s #1 girlfriend and star of The Girls Next Door. A spontaneous decision at age twenty-one transformed small-town Oregon girl Holly Sue Cullen into Holly Madison, Hugh Hefner’s #1 girlfriend. But like Alice in Wonderland after she plunged down the rabbit hole, what seemed like a fairytale life inside the Playboy Mansion—including A-list celebrity parties and her own #1-rated television show—quickly devolved into an oppressive routine of strict rules, manipulation, and battles with ambitious, backstabbing bunnies. Losing her identity, her sense of self-worth, and her hope for the future, Holly found herself sitting alone in a bathtub contemplating suicide. But instead of ending her life, Holly chose to take charge of it. In this shockingly candid and surprisingly moving memoir, this thoughtful and introspective woman opens up about life inside the Mansion, the drugs, the sex and the infamous parties, as well as what her relationships with her Girls Next Door co-stars, Bridget and Kendra were really like. Holly talks candidly about a subsequent abusive relationship, her own successful television series, and the hard work of healing, including her turn on Dancing with the Stars. A cautionary tale and a celebration of personal empowerment, Down the Rabbit Hole reminds us of the importance of fighting for our dreams—and finding the life we deserve.",
-    "pageCount": 352,
-    "printType": "BOOK",
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=Kl3VBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=Kl3VBgAAQBAJ",
-    "dateFinished": "2023-02-08",
-    "notes": "Audiobook"
-  },
-  {
-    "isbn": "9780062888471",
-    "dateStarted": "2023-02-08",
-    "status": "finished",
-    "rating": "unrated",
-    "notes": "Audiobook\n\nAudiobook",
-    "title": "Everything Is F*cked",
-    "authors": [
-      "Mark Manson"
-    ],
-    "publishedDate": "2019-05-14",
-    "description": "NEW YORK TIMES BESTSELLER From the author of the international mega-bestseller The Subtle Art of Not Giving A F*ck comes a counterintuitive guide to the problems of hope. We live in an interesting time. Materially, everything is the best it’s ever been—we are freer, healthier and wealthier than any people in human history. Yet, somehow everything seems to be irreparably and horribly f*cked—the planet is warming, governments are failing, economies are collapsing, and everyone is perpetually offended on Twitter. At this moment in history, when we have access to technology, education and communication our ancestors couldn’t even dream of, so many of us come back to an overriding feeling of hopelessness. What’s going on? If anyone can put a name to our current malaise and help fix it, it’s Mark Manson. In 2016, Manson published The Subtle Art of Not Giving A F*ck, a book that brilliantly gave shape to the ever-present, low-level hum of anxiety that permeates modern living. He showed us that technology had made it too easy to care about the wrong things, that our culture had convinced us that the world owed us something when it didn’t—and worst of all, that our modern and maddening urge to always find happiness only served to make us unhappier. Instead, the “subtle art” of that title turned out to be a bold challenge: to choose your struggle; to narrow and focus and find the pain you want to sustain. The result was a book that became an international phenomenon, selling millions of copies worldwide while becoming the #1 bestseller in 13 different countries. Now, in Everthing Is F*cked, Manson turns his gaze from the inevitable flaws within each individual self to the endless calamities taking place in the world around us. Drawing from the pool of psychological research on these topics, as well as the timeless wisdom of philosophers such as Plato, Nietzsche, and Tom Waits, he dissects religion and politics and the uncomfortable ways they have come to resemble one another. He looks at our relationships with money, entertainment and the internet, and how too much of a good thing can psychologically eat us alive. He openly defies our definitions of faith, happiness, freedom—and even of hope itself. With his usual mix of erudition and where-the-f*ck-did-that-come-from humor, Manson takes us by the collar and challenges us to be more honest with ourselves and connected with the world in ways we probably haven’t considered before. It’s another counterintuitive romp through the pain in our hearts and the stress of our soul. One of the great modern writers has produced another book that will set the agenda for years to come.",
-    "pageCount": 288,
-    "printType": "BOOK",
-    "categories": [
-      "Self-Help"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=XYdgDwAAQBAJ",
-    "dateFinished": "2023-02-11"
-  },
-  {
-    "isbn": "9780008334635",
-    "dateStarted": "2023-02-11",
-    "dateFinished": "2023-02-12",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️",
-    "title": "Adults",
-    "authors": [
-      "Emma Jane Unsworth"
-    ],
-    "publishedDate": "2021-02-18",
-    "description": "THE SUNDAY TIMES BESTSELLER 'HILARIOUS' Stylist 'DAZZLING' Marian Keyes 'WITTY' Guardian 'HEARTBREAKING' Dolly Alderton 'INCREDIBLE' Candice Carty-Williams Jenny McLaine: * can't afford her mortgage since her ex moved out * is about to get dumped by her best friend * spends all day online-stalking women with picture-perfect lives And now her mother has appeared on her doorstep, unbidden, to save the day... Is Jenny ready to grow up and rescue herself this time? UK's #6 bestselling hardback, The Sunday Times chart 9th February 2020",
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "language": "en",
-    "link": "https://books.google.com/books/about/Adults.html?hl=&id=UaM3zQEACAAJ"
   },
   {
     "isbn": "9781501135934",
@@ -2271,87 +2087,6 @@
     "categories": [],
     "language": "en",
     "dateFinished": "2023-02-16"
-  },
-  {
-    "isbn": "9781087903934",
-    "dateFinished": "2023-02-21",
-    "status": "finished",
-    "rating": "unrated",
-    "notes": "audiobook",
-    "title": "Renegade Star",
-    "authors": [
-      "J. N. Chaney"
-    ],
-    "publishedDate": "2021-01-29",
-    "description": "They say the Earth is just a myth. Something to tell your children when you put them to sleep, the lost homeworld of humanity. Everyone knows it isn't real, though. It can't be. But when Captain Jace Hughes encounters a nun with a mysterious piece of cargo and a bold secret, he soon discovers that everything he thought he knew about Earth is wrong. So very, very wrong. Climb aboard The Renegade Star and assemble a crew, follow the clues, uncover the truth, and most importantly, try to stay alive. Experience the beginning of a sprawling galactic tale in this first entry to The Renegade Star series. If you're a fan of Firefly, Battlestar Galactica, or Indiana Jones, you'll love this epic, space opera thrill ride. Warning: This book contains action, cussing, and general badassery. Read at your own risk.",
-    "pageCount": 314,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=dD00zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Renegade_Star.html?hl=&id=dD00zgEACAAJ"
-  },
-  {
-    "isbn": "9781734555615",
-    "dateFinished": "2023-02-27",
-    "status": "finished",
-    "rating": "unrated",
-    "notes": "Audiobook\n\nI've got to stop accidently reading these space porno books, lol.",
-    "title": "The Lasaran",
-    "authors": [
-      "Dianne Duvall"
-    ],
-    "publishedDate": "2020-04-20",
-    "description": "New York Times bestselling author Dianne Duvall brings readers the first novel in a thrilling new sci-fi romance series full of action, intrigue, humor, and happily-ever-afters.Taelon searches the galaxy for his younger sister, who mysteriously disappeared while on a diplomatic mission. When an ally reveals that she was seized and is being held prisoner on Earth, Taelon descends upon the blue planet, intent on freeing her and exacting vengeance. However, all does not go as planned. Before he can find her, Taelon is captured and becomes the subject of torturous experiments. For what feels like an eternity, all he knows is pain and fury... until a mind tentatively touches his own and a woman's voice forever changes his world.After suffering tragic losses, Lisa is finally beginning to carve out a future for herself when chance sends her to the Anomalous Cognition Research Institute. What at first appears to be a benign organization seeking participants for a psychic study instead turns out to be a government facility harboring a much darker intent. Lisa discovers this too late and soon becomes the unwilling subject of a terrifying experiment. Just as fear and desperation threaten to consume her, a deep, compelling voice penetrates the looming insanity and lends her hope.Having seen only the worst of humanity, Taelon is shocked when Lisa risks everything to free him. Together the two make their escape, and Taelon finds himself fascinated by the small human woman who-despite all she's suffered-can still laugh and tease and lure smiles from him. Friendship swiftly grows between them as they work together to evade soldiers intent on capturing them and find themselves hunted by mystifying preternatural beings. Through it all, Lisa steadfastly remains by his side, stealing more of his heart each day while she helps him unravel the mystery of his sister's fate. Can they find his sister before the hunters find them? If they survive their quest, will Taelon have to bid Lisa farewell... or can he coax her into leaving her planet and joining him for the adventure of a lifetime?",
-    "pageCount": 346,
-    "printType": "BOOK",
-    "thumbnail": "https://books.google.com/books/content?id=kiyHzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Lasaran.html?hl=&id=kiyHzQEACAAJ"
-  },
-  {
-    "isbn": "9780143778646",
-    "dateFinished": "2023-03-02",
-    "status": "finished",
-    "rating": "unrated",
-    "notes": "audiobook",
-    "title": "How to Loiter In a Turf War",
-    "authors": [
-      "Coco Solid"
-    ],
-    "publishedDate": "2022-05-03",
-    "description": "Like nothing you’ve read before, How to Loiter in a Turf War is a lucid, genre-bending, cinematic work of fiction from one of Aotearoa’s most versatile artists. It’s a day in the life of three friends beefing with their own city, Tamaki Makaurau. With gentrification closing in and racial tensions sweltering, the girls must cling to their friendship like a life raft, determined not to let their neighbourhood drift out to sea. Fast, ferociously brilliant, crack-up funny and unforgettably true. ‘This book paints a picture of the Auckland I grew up in — when waiting for the 025 to town was a gamble, and the answer to the question ‘where are you from?’ was an essay, not a sentence. Like everything she makes, Coco Solid imbues this book with fierce intelligence, laser-sharp specificity and cosmic warmth.’ — Rose Matafeo ‘Sharp, funny and dope as hell, How to Loiter in a Turf War is another Coco Solid work of genius. With her piercing prose and expansive worlds, Coco has long been a life-raft for brown kids swimming against the whirlpools of urban realities, and this work is no different. Painfully perceptive, familiar and hopeful.’ — Lana Lopesi ‘This is one of the most exciting books I’ve ever read. A celebration and a challenge and an impressive work of art and intelligence.’ — Pip Adam",
-    "pageCount": 176,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=eTdsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=eTdsEAAAQBAJ"
-  },
-  {
-    "isbn": "9781119387503",
-    "dateFinished": "2023-03-09",
-    "status": "finished",
-    "rating": "unrated",
-    "notes": "audiobook",
-    "title": "INSPIRED",
-    "authors": [
-      "Marty Cagan"
-    ],
-    "publishedDate": "2017-12-12",
-    "description": "Learn to design, build, and scale products consumers can’t get enough of How do today’s most successful tech companies―Amazon, Google, Facebook, Netflix, Tesla―design, develop, and deploy the products that have earned the love of literally billions of people around the world? Perhaps surprisingly, they do it very differently than most tech companies. In INSPIRED, technology product management thought leader Marty Cagan provides readers with a master class in how to structure and staff a vibrant and successful product organization, and how to discover and deliver technology products that your customers will love―and that will work for your business. With sections on assembling the right people and skillsets, discovering the right product, embracing an effective yet lightweight process, and creating a strong product culture, readers can take the information they learn and immediately leverage it within their own organizations―dramatically improving their own product efforts. Whether you’re an early-stage startup working to get to product/market fit, or a growth-stage company working to scale your product organization, or a large, long-established company trying to regain your ability to consistently deliver new value for your customers, INSPIRED will take you and your product organization to a new level of customer engagement, consistent innovation, and business success. Filled with the author’s own personal stories―and profiles of some of today’s most-successful product managers and technology-powered product companies, including Adobe, Apple, BBC, Google, Microsoft, and Netflix―INSPIRED will show you how to turn up the dial of your own product efforts, creating technology products your customers love. The first edition of INSPIRED, published ten years ago, established itself as the primary reference for technology product managers, and can be found on the shelves of nearly every successful technology product company worldwide. This thoroughly updated second edition shares the same objective of being the most valuable resource for technology product managers, yet it is completely new―sharing the latest practices and techniques of today’s most-successful tech product companies, and the men and women behind every great product.",
-    "pageCount": 375,
-    "printType": "BOOK",
-    "categories": [
-      "Business & Economics"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=0lU8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://books.google.com/books/about/INSPIRED.html?hl=&id=0lU8DwAAQBAJ"
   },
   {
     "isbn": "9781982185824",
@@ -2374,66 +2109,6 @@
     "language": "en",
     "link": "https://books.google.com/books/about/I_m_Glad_My_Mom_Died.html?hl=&id=13mAEAAAQBAJ",
     "dateFinished": "2023-03-12"
-  },
-  {
-    "isbn": "9781621060406",
-    "dateStarted": "2023-03-15",
-    "status": "finished",
-    "rating": "unrated",
-    "notes": "audiobook",
-    "title": "Unfuck Your Brain",
-    "authors": [
-      "Faith G. Harper, PhD, LPC-S, ACS, ACN"
-    ],
-    "publishedDate": "2017-11-07",
-    "description": "Our brains are doing our best to help us out, but they can be real assholes sometimes. Sometimes it seems like your own brain is out to get you—melting down in the middle of the grocery store, picking fights with your date, getting you addicted to something, or shutting down completely at the worst possible moments. You already told your brain firmly that it isn't good to do these things. But your brain has a mind of its own. That's where this book comes in. With humor, patience, and lots of swearing, Dr. Faith shows you the science behind what's going on in your skull and talks you through the process of retraining your brain to respond appropriately to the non-emergencies of everyday life. If you're working to deal with old traumas, or if you just want to have a more measured and chill response to situations you face all the time, this book can help you put the pieces of the puzzle together and get your life and brain back.Here's an excerpt from the book:Knowing what’s going on up in your brain is HUGE. So much of how we interact with the world around us is a completely normal response when we take into account our past experiences and how our brains work. • Freaking the fuck out • Avoiding important shit we need to take care of • Feeling pissed off all the time • Being a dick to people we care about • Putting shit in our bodies that we know isn’t good for us • Doing shit we know is dumb or pointlessNone of these things are fucking helpful. But they all make sense.Your brain has adapted to the circumstances in your life and started doing things to protect you, bless it. It’s not TRYING to fuck you over (even though it totally is, at times).As we navigate the world, nasty shit happens. The brain stores info about the nasty shit to try to avoid it in the future. Sometimes these responses are helpful. Sometimes the responses become a bigger problem than the actual problem was. It’s called a trauma reaction.And even if you aren’t dealing with a specific trauma? Adaptive coping strategies, bad habits, and funky behaviors all wire in similar ways. And research is showing that these issues are actually some of the easier ones to treat in therapy … if we address what’s really going on, rather than just the symptoms.",
-    "pageCount": 192,
-    "printType": "BOOK",
-    "categories": [
-      "Self-Help"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=1U0DDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=1U0DDgAAQBAJ",
-    "dateFinished": "2023-03-16"
-  },
-  {
-    "isbn": "9781839762024",
-    "dateStarted": "2023-06-15",
-    "status": "finished",
-    "rating": "unrated",
-    "title": "Internet for the People",
-    "authors": [
-      "Ben Tarnoff"
-    ],
-    "publishedDate": "2022-06-14",
-    "description": "Why is the internet so broken, and what could ever possibly fix it? In Internet for the People, leading tech writer Ben Tarnoff offers an answer. The internet is broken, he argues, because it is owned by private firms and run for profit. Google annihilates your privacy and Facebook amplifies right-wing propaganda because it is profitable to do so. But the internet wasn't always like this—it had to be remade for the purposes of profit maximization, through a years-long process of privatization that turned a small research network into a powerhouse of global capitalism. Tarnoff tells the story of the privatization that made the modern internet, and which set in motion the crises that consume it today. The solution to those crises is straightforward: deprivatize the internet. Deprivatization aims at creating an internet where people, and not profit, rule. It calls for shrinking the space of the market and diminishing the power of the profit motive. It calls for abolishing the walled gardens of Google, Facebook, and the other giants that dominate our digital lives and developing publicly and cooperatively owned alternatives that encode real democratic control. To build a better internet, we need to change how it is owned and organized. Not with an eye towards making markets work better, but towards making them less dominant. Not in order to create a more competitive or more rule-bound version of privatization, but to overturn it. Otherwise, a small number of executives and investors will continue to make choices on everyone’s behalf, and these choices will remain tightly bound by the demands of the market. It's time to demand an internet by, and for, the people now.",
-    "pageCount": 273,
-    "printType": "BOOK",
-    "categories": [
-      "Political Science"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=auhOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Internet_for_the_People.html?hl=&id=auhOEAAAQBAJ",
-    "dateFinished": "2023-03-19"
-  },
-  {
-    "isbn": "9781991006448",
-    "dateStarted": "2023-06-18",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️",
-    "title": "Everything Is Beautiful and Everything Hurts",
-    "authors": [
-      "Josie Shapiro"
-    ],
-    "publishedDate": "2023-05-16",
-    "description": "The stunning debut novel by the winner of the Allen & Unwin Commercial Fiction Prize. If you loved Lessons in Chemistry and Eleanor Oliphant is Completely Fine, you will adore Everything is Beautiful, Everything Hurts.",
-    "printType": "BOOK",
-    "thumbnail": "https://books.google.com/books/content?id=26OmzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Everything_Is_Beautiful_and_Everything_H.html?hl=&id=26OmzwEACAAJ",
-    "dateFinished": "2023-03-19"
   },
   {
     "isbn": "9780765397522",
@@ -2940,5 +2615,63 @@
     "language": "en",
     "link": "https://books.google.com/books/about/It_Starts_with_Us.html?hl=&id=CMeVEAAAQBAJ",
     "dateFinished": "2023-06-15"
+  },
+  {
+    "isbn": "9781839762024",
+    "dateStarted": "2023-06-15",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Internet for the People",
+    "authors": [
+      "Ben Tarnoff"
+    ],
+    "publishedDate": "2022-06-14",
+    "description": "Why is the internet so broken, and what could ever possibly fix it? In Internet for the People, leading tech writer Ben Tarnoff offers an answer. The internet is broken, he argues, because it is owned by private firms and run for profit. Google annihilates your privacy and Facebook amplifies right-wing propaganda because it is profitable to do so. But the internet wasn't always like this—it had to be remade for the purposes of profit maximization, through a years-long process of privatization that turned a small research network into a powerhouse of global capitalism. Tarnoff tells the story of the privatization that made the modern internet, and which set in motion the crises that consume it today. The solution to those crises is straightforward: deprivatize the internet. Deprivatization aims at creating an internet where people, and not profit, rule. It calls for shrinking the space of the market and diminishing the power of the profit motive. It calls for abolishing the walled gardens of Google, Facebook, and the other giants that dominate our digital lives and developing publicly and cooperatively owned alternatives that encode real democratic control. To build a better internet, we need to change how it is owned and organized. Not with an eye towards making markets work better, but towards making them less dominant. Not in order to create a more competitive or more rule-bound version of privatization, but to overturn it. Otherwise, a small number of executives and investors will continue to make choices on everyone’s behalf, and these choices will remain tightly bound by the demands of the market. It's time to demand an internet by, and for, the people now.",
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+      "Political Science"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=auhOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Internet_for_the_People.html?hl=&id=auhOEAAAQBAJ"
+  },
+  {
+    "isbn": "9781839762024",
+    "dateStarted": "2023-06-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Internet for the People",
+    "authors": [
+      "Ben Tarnoff"
+    ],
+    "publishedDate": "2022-06-14",
+    "description": "Why is the internet so broken, and what could ever possibly fix it? In Internet for the People, leading tech writer Ben Tarnoff offers an answer. The internet is broken, he argues, because it is owned by private firms and run for profit. Google annihilates your privacy and Facebook amplifies right-wing propaganda because it is profitable to do so. But the internet wasn't always like this—it had to be remade for the purposes of profit maximization, through a years-long process of privatization that turned a small research network into a powerhouse of global capitalism. Tarnoff tells the story of the privatization that made the modern internet, and which set in motion the crises that consume it today. The solution to those crises is straightforward: deprivatize the internet. Deprivatization aims at creating an internet where people, and not profit, rule. It calls for shrinking the space of the market and diminishing the power of the profit motive. It calls for abolishing the walled gardens of Google, Facebook, and the other giants that dominate our digital lives and developing publicly and cooperatively owned alternatives that encode real democratic control. To build a better internet, we need to change how it is owned and organized. Not with an eye towards making markets work better, but towards making them less dominant. Not in order to create a more competitive or more rule-bound version of privatization, but to overturn it. Otherwise, a small number of executives and investors will continue to make choices on everyone’s behalf, and these choices will remain tightly bound by the demands of the market. It's time to demand an internet by, and for, the people now.",
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+      "Political Science"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=auhOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Internet_for_the_People.html?hl=&id=auhOEAAAQBAJ",
+    "dateFinished": "2023-03-19"
+  },
+  {
+    "isbn": "9781991006448",
+    "dateStarted": "2023-06-18",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "Everything Is Beautiful and Everything Hurts",
+    "authors": [
+      "Josie Shapiro"
+    ],
+    "publishedDate": "2023-05-16",
+    "description": "The stunning debut novel by the winner of the Allen & Unwin Commercial Fiction Prize. If you loved Lessons in Chemistry and Eleanor Oliphant is Completely Fine, you will adore Everything is Beautiful, Everything Hurts.",
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=26OmzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Everything_Is_Beautiful_and_Everything_H.html?hl=&id=26OmzwEACAAJ",
+    "dateFinished": "2023-03-19"
   }
 ]
