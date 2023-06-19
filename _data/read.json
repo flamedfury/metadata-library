@@ -2134,6 +2134,27 @@
     "link": "https://play.google.com/store/books/details?id=AIaPDwAAQBAJ"
   },
   {
+    "isbn": "9780571368716",
+    "dateStarted": "2023-01-29",
+    "dateFinished": "2023-01-29",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Small Things Like These",
+    "authors": [
+      "Claire Keegan"
+    ],
+    "publishedDate": "2021-10-19",
+    "description": "** A Book of the Year in The Times - The New Statesman - Observer - Financial Times - Irish Times - Irish Independent - Times Literary Supplement **WINNER OF THE ORWELL PRIZE AND THE KERRY GROUP IRISH NOVEL OF THE YEAR AWARDSHORTLISTED FOR THE RATHBONES FOLIO PRIZE AND THE IRISH NOVEL OF THE YEAR AT THE DALKEY LITERARY AWARDS'Exquisite.' Damon Galgut'Masterly.' The Times'Miraculous.' Herald'Astonishing.' Colm Tóibín'Stunning.' Sunday Independent'Absolutely beautiful.' Douglas StuartIt is 1985, in an Irish town. During the weeks leading up to Christmas, Bill Furlong, a coal and timber merchant, faces into his busiest season. As he does the rounds, he feels the past rising up to meet him - and encounters the complicit silences of a people controlled by the Church.",
+    "pageCount": 86,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=xbIbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Small_Things_Like_These.html?hl=&id=xbIbEAAAQBAJ"
+  },
+  {
     "isbn": "9780063051041",
     "dateStarted": "2023-01-31",
     "dateFinished": "2023-02-06",
