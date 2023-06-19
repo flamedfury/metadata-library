@@ -2077,6 +2077,27 @@
     "link": "https://play.google.com/store/books/details?id=JwGfEAAAQBAJ"
   },
   {
+    "isbn": "9780008296872",
+    "dateStarted": "2023-01-26",
+    "dateFinished": "2023-01-28",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Uncanny Valley: Seduction and Disillusionment in San Francisco’s Startup Scene",
+    "authors": [
+      "Anna Wiener"
+    ],
+    "publishedDate": "2020-01-14",
+    "description": "‘Joan Didion at a startup’ Rebecca Solnit ‘Impossibly pleasurable’ Jia Tolentino ‘This is essential reading’ Stylist",
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+      "Social Science"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=aZCdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Uncanny_Valley_Seduction_and_Disillusion.html?hl=&id=aZCdDwAAQBAJ"
+  },
+  {
     "isbn": "9781471145148",
     "dateFinished": "2023-01-29",
     "status": "finished",
