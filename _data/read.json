@@ -2900,5 +2900,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Everything_Is_Beautiful_and_Everything_H.html?hl=&id=26OmzwEACAAJ",
     "dateFinished": "2023-06-19"
+  },
+  {
+    "isbn": "9780141998343",
+    "dateStarted": "2023-06-19",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Edible Economics",
+    "authors": [
+      "Ha-Joon Chang"
+    ],
+    "publishedDate": "2022-10-20",
+    "description": "RADIO 4 BOOK OF THE WEEK Economic thinking - about globalisation, climate change, immigration, austerity, automation and much more - in its most digestible form For decades, a single free market philosophy has dominated global economics. But this is bland and unhealthy - like British food in the 1980s, when bestselling author and economist Ha-Joon Chang first arrived in the UK from South Korea. Just as eating a wide range of cuisines contributes to a more interesting and balanced diet, so too is it essential we listen to a variety of economic perspectives. In Edible Economics, Chang makes challenging economic ideas more palatable by plating them alongside stories about food from around the world. He uses histories behind familiar food items - where they come from, how they are cooked and consumed, what they mean to different cultures - to explore economic theory. For Chang, chocolate is a life-long addiction, but more exciting are the insights it offers into post-industrial knowledge economies; and while okra makes Southern gumbo heart-meltingly smooth, it also speaks of capitalism's entangled relationship with freedom and unfreedom. Explaining everything from the hidden cost of care work to the misleading language of the free market as he cooks dishes like anchovy and egg toast, Gambas al Ajillo and Korean dotori mook, Ha-Joon Chang serves up an easy-to-digest feast of bold ideas. Myth-busting, witty and thought-provoking, Edible Economics shows that getting to grips with the economy is like learning a recipe: if we understand it, we can change it - and, with it, the world.",
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+      "Business & Economics"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=4CZhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Edible_Economics.html?hl=&id=4CZhEAAAQBAJ"
   }
 ]
