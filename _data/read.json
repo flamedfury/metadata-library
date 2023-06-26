@@ -2904,7 +2904,7 @@
   {
     "isbn": "9780141998343",
     "dateStarted": "2023-06-19",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Edible Economics",
     "authors": [
@@ -2919,6 +2919,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=4CZhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Edible_Economics.html?hl=&id=4CZhEAAAQBAJ"
+    "link": "https://books.google.com/books/about/Edible_Economics.html?hl=&id=4CZhEAAAQBAJ",
+    "dateFinished": "2023-06-25"
   }
 ]
