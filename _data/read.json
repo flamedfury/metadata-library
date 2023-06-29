@@ -2941,5 +2941,25 @@
     "thumbnail": "https://books.google.com/books/content?id=6CIZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Come_As_You_Are_Revised_and_Updated.html?hl=&id=6CIZEAAAQBAJ"
+  },
+  {
+    "isbn": "9781789094299",
+    "dateStarted": "2023-06-29",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Stars and Bones",
+    "authors": [
+      "Gareth L. Powell"
+    ],
+    "publishedDate": "2022-03-01",
+    "description": "A stunningly inventive action-packed science-fiction epic adventure for fans of Becky Chambers and Ann Leckie from the multi BSFA award-winner, Gareth L. Powell. Seventy-five years from today, the human race has been cast from a dying Earth to wander the stars in a vast fleet of arks—each shaped by its inhabitants into a diverse and fascinating new environment, with its own rules and eccentricities. When her sister disappears while responding to a mysterious alien distress call, Eryn insists on being part of the crew sent to look for her. What she discovers on Candidate-623 is both terrifying and deadly. When the threat follows her back to the fleet and people start dying, she is tasked with seeking out a legendary recluse who may just hold the key to humanity’s survival. Gareth L. Powell’s Embers of War won 2018 BSFA Award for Best Novel and was shortlisted for the 2019 Locus Awards and the 2021 Seiun Awards in Japan. Its sequels, Fleet of Knives and Light of Impossible Stars, were both shortlisted for the BSFA Award for Best Novel, and Fleet of Knives was also shortlisted for the 2020 Locus Awards.",
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=KWk2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=KWk2EAAAQBAJ"
   }
 ]
