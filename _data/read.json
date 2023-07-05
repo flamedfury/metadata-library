@@ -2962,5 +2962,21 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=KWk2EAAAQBAJ",
     "dateFinished": "2023-07-02"
+  },
+  {
+    "isbn": "9780908321070",
+    "dateStarted": "2023-07-05",
+    "status": "started",
+    "rating": "unrated",
+    "title": "The Post-Snowden Era",
+    "authors": [
+      "Kathleen Kuehn"
+    ],
+    "publishedDate": "2015-07",
+    "pageCount": 100,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=iftLrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Post_Snowden_Era.html?hl=&id=iftLrgEACAAJ"
   }
 ]
