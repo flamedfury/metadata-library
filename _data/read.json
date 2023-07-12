@@ -2984,7 +2984,7 @@
   {
     "isbn": "9781780896328",
     "dateStarted": "2023-07-09",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Bloodline",
     "authors": [
@@ -2999,6 +2999,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=QNElDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Bloodline.html?hl=&id=QNElDAAAQBAJ"
+    "link": "https://books.google.com/books/about/Bloodline.html?hl=&id=QNElDAAAQBAJ",
+    "dateFinished": "2023-07-12"
   }
 ]
