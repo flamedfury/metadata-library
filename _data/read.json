@@ -3021,5 +3021,25 @@
     "thumbnail": "https://books.google.com/books/content?id=52lzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Attention_Span_Finding_Focus_for_a_Fulfi.html?hl=&id=52lzEAAAQBAJ"
+  },
+  {
+    "isbn": "9781473552449",
+    "dateStarted": "2023-07-16",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Star Wars: Phasma",
+    "authors": [
+      "Delilah S. Dawson"
+    ],
+    "publishedDate": "2017-09-01",
+    "description": "Discover Captain Phasma’s mysterious history in the official prequel to The Last Jedi, the highly anticipated blockbuster film directed by Rian Johnson. One of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters. Deep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order. What the mysterious stormtrooper wants is Phasma’s past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won’t surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.",
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=G8yxDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Star_Wars_Phasma.html?hl=&id=G8yxDgAAQBAJ"
   }
 ]
