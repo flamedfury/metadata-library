@@ -3025,7 +3025,7 @@
   {
     "isbn": "9781473552449",
     "dateStarted": "2023-07-16",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Star Wars: Phasma",
     "authors": [
@@ -3040,6 +3040,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=G8yxDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Star_Wars_Phasma.html?hl=&id=G8yxDgAAQBAJ"
+    "link": "https://books.google.com/books/about/Star_Wars_Phasma.html?hl=&id=G8yxDgAAQBAJ",
+    "dateFinished": "2023-07-18"
   }
 ]
