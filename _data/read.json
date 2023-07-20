@@ -3042,5 +3042,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Star_Wars_Phasma.html?hl=&id=G8yxDgAAQBAJ",
     "dateFinished": "2023-07-18"
+  },
+  {
+    "isbn": "9781784750039",
+    "dateStarted": "2023-07-19",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Aftermath",
+    "authors": [
+      "Chuck Wendig"
+    ],
+    "publishedDate": "2016-05-26",
+    "description": "Journey to Star Wars: The Force Awakens The second Death Star has been destroyed, the Emperor killed, and Darth Vader struck down. Devastating blows against the Empire, and major victories for the Rebel Alliance. But the battle for freedom is far from over. As the Empire reels from its critical defeats at the Battle of Endor, the Rebel Alliance-now a fledgling New Republic-presses its advantage by hunting down the enemy's scattered forces before they can regroup and retaliate. But above the remote planet Akiva, an ominous show of the enemy's strength is unfolding. Out on a lone reconnaissance mission, pilot Wedge Antilles watches Imperial Star Destroyers gather like birds of prey circling for a kill, but he's taken captive before he can report back to the New Republic leaders. Meanwhile, on the planet's surface, former rebel fighter Norra Wexley has returned to her native world-war weary, ready to reunite with her estranged son, and eager to build a new life in some distant place. But when Norra intercepts Wedge Antilles's urgent distress call, she realizes her time as a freedom fighter is not yet over. What she doesn't know is just how close the enemy is-or how decisive and dangerous her new mission will be. Determined to preserve the Empire's power, the surviving Imperial elite are converging on Akiva for a top-secret emergency summit-to consolidate their forces and rally for a counterstrike. But they haven't reckoned on Norra and her newfound allies-her technical-genius son, a Zabrak bounty hunter, and a reprobate Imperial defector-who are prepared to do whatever they must to end the Empire's oppressive reign once and for all.",
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+      "Space warfare"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=dcMvDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Aftermath.html?hl=&id=dcMvDAAAQBAJ"
   }
 ]
