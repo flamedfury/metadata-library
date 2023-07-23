@@ -3046,7 +3046,7 @@
   {
     "isbn": "9781784750039",
     "dateStarted": "2023-07-19",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Aftermath",
     "authors": [
@@ -3061,6 +3061,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=dcMvDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Aftermath.html?hl=&id=dcMvDAAAQBAJ"
+    "link": "https://books.google.com/books/about/Aftermath.html?hl=&id=dcMvDAAAQBAJ",
+    "dateFinished": "2023-07-23"
   }
 ]
