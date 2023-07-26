@@ -3003,26 +3003,6 @@
     "dateFinished": "2023-07-12"
   },
   {
-    "isbn": "9780008525989",
-    "dateStarted": "2023-07-13",
-    "status": "started",
-    "rating": "unrated",
-    "title": "Attention Span: Finding Focus for a Fulfilling Life",
-    "authors": [
-      "Gloria Mark"
-    ],
-    "publishedDate": "2023-01-05",
-    "description": "A groundbreaking new look at how we pay attention that can help us perform better – and be happier – in the digital world.",
-    "pageCount": 361,
-    "printType": "BOOK",
-    "categories": [
-      "Business & Economics"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=52lzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Attention_Span_Finding_Focus_for_a_Fulfi.html?hl=&id=52lzEAAAQBAJ"
-  },
-  {
     "isbn": "9781473552449",
     "dateStarted": "2023-07-16",
     "status": "finished",
@@ -3063,6 +3043,27 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Aftermath.html?hl=&id=dcMvDAAAQBAJ",
     "dateFinished": "2023-07-23"
+  },
+  {
+    "isbn": "9780008525989",
+    "dateStarted": "2023-07-13",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Attention Span: Finding Focus for a Fulfilling Life",
+    "authors": [
+      "Gloria Mark"
+    ],
+    "publishedDate": "2023-01-05",
+    "description": "A groundbreaking new look at how we pay attention that can help us perform better – and be happier – in the digital world.",
+    "pageCount": 361,
+    "printType": "BOOK",
+    "categories": [
+      "Business & Economics"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=52lzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Attention_Span_Finding_Focus_for_a_Fulfi.html?hl=&id=52lzEAAAQBAJ",
+    "dateFinished": "2023-07-27"
   },
   {
     "isbn": "9781780893662",
