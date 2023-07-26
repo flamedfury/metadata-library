@@ -3067,7 +3067,7 @@
   {
     "isbn": "9781780893662",
     "dateStarted": "2023-07-23",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Life Debt",
     "authors": [
@@ -3082,6 +3082,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=JcegDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Life_Debt.html?hl=&id=JcegDAAAQBAJ"
+    "link": "https://books.google.com/books/about/Life_Debt.html?hl=&id=JcegDAAAQBAJ",
+    "dateFinished": "2023-07-27"
   }
 ]
