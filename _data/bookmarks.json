@@ -538,5 +538,15 @@
     "image": "bookmark-my-journey-away-from-the-jamstack.png",
     "type": "article",
     "notes": "Interesting take, for now Netlify still does what I need it to do without issue so I’ll be sticking around. At least for now."
+  },
+  {
+    "title": "Splitting the Web",
+    "site": "",
+    "author": "",
+    "date": "2023-08-02",
+    "description": "Splitting the Web écrit par Ploum, Lionel Dricot, ingénieur, écrivain de science-fiction, développeur de logiciels libres.",
+    "url": "https://ploum.net/2023-08-01-splitting-the-web.html",
+    "image": "bookmark-splitting-the-web.jpg",
+    "type": "article"
   }
 ]
