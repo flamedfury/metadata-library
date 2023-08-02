@@ -527,5 +527,16 @@
     "image": "bookmark-a-one-person-oral-history-of-geocities-html-chat.png",
     "type": "article",
     "notes:": "embark on a thrilling journey into the Monotonous Web!"
+  },
+  {
+    "title": "My Journey Away from the JAMstack",
+    "site": "The Spicy Web",
+    "author": "",
+    "date": "2023-08-01",
+    "description": "The name is all but dead, nerfed by the company who invented it. Here’s why Netlify was ahead of its time and where everything went wrong.",
+    "url": "https://www.spicyweb.dev/farewell-jamstack/",
+    "image": "bookmark-my-journey-away-from-the-jamstack.png",
+    "type": "article",
+    "notes": "Interesting take, for now Netlify still does what I need it to do without issue so I’ll be sticking around. At least for now."
   }
 ]
