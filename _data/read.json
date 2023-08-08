@@ -3089,7 +3089,7 @@
   {
     "isbn": "9781473505360",
     "dateStarted": "2023-07-27",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Star Wars: Aftermath: Empire's End",
     "authors": [
@@ -3104,6 +3104,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=jrSRDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Star_Wars_Aftermath_Empire_s_End.html?hl=&id=jrSRDQAAQBAJ"
+    "link": "https://books.google.com/books/about/Star_Wars_Aftermath_Empire_s_End.html?hl=&id=jrSRDQAAQBAJ",
+    "dateFinished": "2023-08-08"
   }
 ]
