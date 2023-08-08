@@ -3106,5 +3106,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Star_Wars_Aftermath_Empire_s_End.html?hl=&id=jrSRDQAAQBAJ",
     "dateFinished": "2023-08-08"
+  },
+  {
+    "isbn": "9781250851246",
+    "dateStarted": "2023-08-08",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Rubicon",
+    "authors": [
+      "J. S. Dewes"
+    ],
+    "publishedDate": "2023-03-28",
+    "description": "J. S. Dewes, author of The Last Watch and The Exiled Fleet, returns with another science fiction space opera, Rubicon, that melds elements of Scalzi's Old Man's War with Edge of Tomorrow. Sergeant Adriene Valero wants to die. She can't. After enduring a traumatic resurrection for the ninety-sixth time, Valero is reassigned to a special forces unit and outfitted with a cutting-edge virtual intelligence aid. They could turn the tide in the war against intelligent machines dedicated to the assimilation, or destruction, of humanity. When her VI suddenly achieves sentience, Valero is drawn into the machinations of an enigmatic major who’s hell-bent on ending the war—by any means necessary. The Divide series The Last Watch The Exiled Fleet At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=rZJpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=rZJpEAAAQBAJ"
   }
 ]
