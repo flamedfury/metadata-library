@@ -578,5 +578,15 @@
     "url": "https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/",
     "image": "bookmark-the-gamification-of-reading-is-changing-how-we-approach-books.jpg",
     "type": "article"
+  },
+  {
+    "title": "The Expanding Dark Forest and Generative AI",
+    "site": "Maggie Appleton",
+    "author": "",
+    "date": "2023-08-09",
+    "description": "Proving you're a human on a web flooded with generative AI content",
+    "url": "https://maggieappleton.com",
+    "image": "bookmark-the-expanding-dark-forest-and-generative-ai.png",
+    "type": "website"
   }
 ]
