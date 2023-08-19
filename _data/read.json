@@ -3127,5 +3127,25 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=rZJpEAAAQBAJ",
     "dateFinished": "2023-08-16"
+  },
+  {
+    "isbn": "9781473591912",
+    "dateStarted": "2023-08-19",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Doctor Aphra (Star Wars)",
+    "authors": [
+      "Sarah Kuhn"
+    ],
+    "publishedDate": "2021-04-06",
+    "description": "Dr. Aphra teams up with Darth Vader himself in this original script of the thrilling Star Wars audiobook production. Dr. Chelli Lona Aphra, rogue archaeologist, is in trouble again. A pioneer in the field of criminal xenoarchaeology, Aphra recognizes no law, has no fear, and possesses no impulse control. To her, the true worth of the galactic relics she discovers isn't found in a museum but in an arsenal. This viewpoint has led to a lot of misunderstandings. After her latest plan goes horribly wrong, her roguish ways are on the verge of catching up to her. That's when suddenly Darth Vader, terror of the galaxy, swoops in with his lightsaber and...saves her life? Don't get her wrong--it's not like she's ungrateful. Sure, her new boss is a lord of the Sith. And okay, she may have just become a pawn in a deadly game being played by him and his boss, who happens to be the Galactic Emperor. And yes, the life expectancy of anyone who disappoints Vader can be measured in seconds. But she's back doing what she does best. She's got a ship to fly, a heist to pull, and two unorthodox but effective metal buddies: Triple-Zero, a protocol droid specializing in etiquette, customs, translation, and torture, and BT-1, anastromech loaded with enough firepower to take down a battlecruiser. Together, they might just find a way to get the job done and avoid the deadly performance review that waits at its conclusion. Just kidding. She's doomed",
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=T0ULEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Doctor_Aphra_Star_Wars.html?hl=&id=T0ULEAAAQBAJ"
   }
 ]
