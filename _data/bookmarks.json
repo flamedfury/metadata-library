@@ -609,5 +609,16 @@
     "image": "bookmark-the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president.jpg",
     "type": "article",
     "notes": "Yes. There was a time where you could be online too much. The author recalls in 1998, a plea for restraint from their ISP reveals a lost world where the Net was an opt-in experience."
+  },
+  {
+    "title": "A look at search engines with their own indexes",
+    "site": "Seirdy's Home",
+    "author": "Rohan Kumar",
+    "date": "2023-08-26",
+    "description": "A cursory review of all the non-metasearch, indexing search engines I have been able to find.",
+    "url": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/",
+    "image": "bookmark-a-look-at-search-engines-with-their-own-indexes.png",
+    "type": "article",
+    "notes": "The author, Seirdy, takes a look at all of the non-meta search, indexing search engines that they’ve been able to find. Published in November 2022, it’s amazing the number that are already no longer available. "
   }
 ]
