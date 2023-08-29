@@ -3152,7 +3152,7 @@
   {
     "isbn": "9781473575585",
     "dateStarted": "2023-08-21",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Star Wars: Light of the Jedi (The High Republic)",
     "authors": [
@@ -3167,6 +3167,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=ja_SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Star_Wars_Light_of_the_Jedi_The_High_Rep.html?hl=&id=ja_SDwAAQBAJ"
+    "link": "https://books.google.com/books/about/Star_Wars_Light_of_the_Jedi_The_High_Rep.html?hl=&id=ja_SDwAAQBAJ",
+    "dateFinished": "2023-08-28"
   }
 ]
