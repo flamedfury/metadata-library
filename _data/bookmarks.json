@@ -1,24 +1,24 @@
 [
   {
     "title": "I Miss the Old Internet",
-    "site": "",
-    "author": "",
+    "site": "terraaeon.com",
+    "author": "Tie",
     "date": "2021-06-22",
     "description": "I miss the internet of the early 1990's.",
     "url": "http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/",
     "image": "bookmark-i-miss-the-old-internet.jpg",
-    "type": "",
+    "type": "article",
     "notes": "The author, Tie, misses the Internet of the early 1990's."
   },
   {
-    "title": "sadgrl.online",
-    "site": "",
-    "author": "",
+    "title": "manifesto",
+    "site": "sadgrl.online",
+    "author": "sadgrl",
     "date": "2021-06-22",
-    "description": "",
-    "url": "https://sadgrl.online/cyberspace/internet-manifesto",
+    "description": "The old web refers to the internet's former iteration. It includes Web 1.0 and the early parts of Web 2.0. It is known as the age of chat rooms, message boards, Myspace and Livejournal.",
+    "url": "https://web.archive.org/web/20210530075325/https://sadgrl.online/newoldweb/manifesto_full.html",
     "image": "bookmark-sadgrlonline.png",
-    "type": "",
+    "type": "article",
     "notes": "The page that started a... something... We, the people of the Internet, have the power to restore it to its former glory.",
     "tags": [
       "web"
