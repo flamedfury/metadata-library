@@ -3131,7 +3131,7 @@
   {
     "isbn": "9781473591912",
     "dateStarted": "2023-08-19",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Doctor Aphra (Star Wars)",
     "authors": [
@@ -3146,7 +3146,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=T0ULEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Doctor_Aphra_Star_Wars.html?hl=&id=T0ULEAAAQBAJ"
+    "link": "https://books.google.com/books/about/Doctor_Aphra_Star_Wars.html?hl=&id=T0ULEAAAQBAJ",
+    "dateFinished": "2023-08-20"
   },
   {
     "isbn": "9781473575585",
