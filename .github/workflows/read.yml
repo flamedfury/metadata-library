@@ -54,7 +54,7 @@ jobs:
           token: ${{ secrets.METADATA_PUSH }}
           
       - name: Read
-        uses: katydecorah/read-action@v7.1.0
+        uses: katydecorah/read-action@v7.2.0
         with:
           thumbnail-width: 1280
           time-zone: Pacific/Auckland
