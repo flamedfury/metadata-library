@@ -3169,5 +3169,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Star_Wars_Light_of_the_Jedi_The_High_Rep.html?hl=&id=ja_SDwAAQBAJ",
     "dateFinished": "2023-08-28"
+  },
+  {
+    "isbn": "9780593157671",
+    "dateStarted": "2023-08-29",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Dooku: Jedi Lost (Star Wars)",
+    "authors": [
+      "Cavan Scott"
+    ],
+    "publishedDate": "2019-10-01",
+    "description": "Delve into the history of the sinister Count Dooku in the original script to the thrilling Star Wars audio production! Darth Tyranus. Count of Serenno. Leader of the Separatists. A red saber, unsheathed in the dark. But who was he before he became the right hand of the Sith? As Dooku courts a new apprentice, the hidden truth of the Sith Lord's past begins to come to light. Dooku's life began as one of privilege—born within the stony walls of his family's estate, orbited by the Funeral Moon where the bones of his ancestors lie interred. But soon, his Jedi abilities are recognized, and he is taken from his home to be trained in the ways of the Force by the legendary Master Yoda. As he hones his power, Dooku rises through the ranks, befriending fellow Jedi Sifo-Dyas and taking a Padawan of his own, the promising Qui-Gon Jinn—and tries to forget the life that he once led. But he finds himself drawn by a strange fascination with the Jedi Master Lene Kostana, and the mission she undertakes for the Order: finding and studying ancient relics of the Sith, in preparation for the eventual return of the deadliest enemies the Jedi have ever faced. Caught between the world of the Jedi, the ancient responsibilities of his lost home, and the alluring power of the relics, Dooku struggles to stay in the light—even as the darkness begins to fall.",
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=piikDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=piikDwAAQBAJ"
   }
 ]
