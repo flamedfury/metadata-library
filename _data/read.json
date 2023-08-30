@@ -3190,5 +3190,25 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=piikDwAAQBAJ",
     "dateFinished": "2023-08-30"
+  },
+  {
+    "isbn": "9780099590880",
+    "dateStarted": "2023-08-30",
+    "status": "started",
+    "rating": "unrated",
+    "title": "A New Dawn",
+    "authors": [
+      "John Jackson Miller"
+    ],
+    "publishedDate": "2015-04-23",
+    "description": "A long time ago in a galaxy far, far away. . . . \"The war is over. The Separatists have been defeated, and the Jedi rebellion has been foiled. We stand on the threshold of a new beginning.\"-Emperor Palpatine, Star Wars: Episode III: Revenge of the Sith For a thousand generations, the Jedi Knights brought peace and order to the Galactic Republic, aided by their connection to the mystical energy field known as the Force. But they were betrayed-and the entire galaxy has paid the price. It is the Age of the Empire. Now Emperor Palpatine, once Chancellor of the Republic and secretly a Sith follower of the dark side of the Force, has brought his own peace and order to the galaxy. Peace through brutal repression, and order through increasing control of his subjects' lives. But even as the Emperor tightens his iron grip, others have begun to question his means and motives. And still others, whose lives were destroyed by Palpatine's machinations, lay scattered about the galaxy like unexploded bombs, waiting to go off. . . .",
+    "pageCount": 418,
+    "printType": "BOOK",
+    "categories": [
+      "Government, Resistance to"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=V_q0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_New_Dawn.html?hl=&id=V_q0CAAAQBAJ"
   }
 ]
