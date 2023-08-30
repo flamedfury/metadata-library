@@ -3173,7 +3173,7 @@
   {
     "isbn": "9780593157671",
     "dateStarted": "2023-08-29",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Dooku: Jedi Lost (Star Wars)",
     "authors": [
@@ -3188,6 +3188,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=piikDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=piikDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=piikDwAAQBAJ",
+    "dateFinished": "2023-08-30"
   }
 ]
