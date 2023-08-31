@@ -645,5 +645,16 @@
     "image": "bookmark-a-look-at-search-engines-with-their-own-indexes.png",
     "type": "article",
     "notes": "The author, Seirdy, takes a look at all of the non-meta search, indexing search engines that they’ve been able to find. Published in November 2022, it’s amazing the number that are already no longer available. "
+  },
+  {
+    "title": "The end of the Googleverse",
+    "site": "The Verge",
+    "author": "Ryan Broderick",
+    "date": "2023-08-31",
+    "description": "The last 25 years of Google’s history can be boiled down to a battle against the Google bomb. Is the search engine finally losing to its hijackers?",
+    "url": "https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords",
+    "image": "bookmark-the-end-of-the-googleverse.jpg",
+    "type": "article",
+    "notes": "“They were encouraging people to write on the web,” said Baio. Bloggers like Lenssen, Baio, and Beale felt like everything Google was doing was in service of making the internet better. The tools it kept launching felt tied to a mission of collecting the world’s information and helping people add more content to the web. "
   }
 ]
