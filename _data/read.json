@@ -3211,5 +3211,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/A_New_Dawn.html?hl=&id=V_q0CAAAQBAJ",
     "dateFinished": "2023-09-02"
+  },
+  {
+    "isbn": "9780099580133",
+    "dateStarted": "2023-09-02",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Dark Disciple",
+    "authors": [
+      "Christie Golden"
+    ],
+    "publishedDate": "2016-03-31",
+    "description": "When the Jedi decide to target Count Dooku-Darth Tryanus- himself, they turn to his ex-apprentice, Asajj Ventress, for help in getting close to the slippery Sith Lord. But when unexpected sparks fly between Ventress and Quinlan Vos, the unorthodox Jedi sent to work with her, the mission becomes a web of betrayal, alliances, secrets, and dark plotting that might just be the undoing of both Jedi and Sith - and everything in between!",
+    "pageCount": 338,
+    "printType": "BOOK",
+    "categories": [
+      "Good and evil"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=Qb_-CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Dark_Disciple.html?hl=&id=Qb_-CwAAQBAJ"
   }
 ]
