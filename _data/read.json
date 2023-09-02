@@ -3194,8 +3194,8 @@
   {
     "isbn": "9780099590880",
     "dateStarted": "2023-08-30",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "A New Dawn",
     "authors": [
       "John Jackson Miller"
@@ -3209,6 +3209,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=V_q0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/A_New_Dawn.html?hl=&id=V_q0CAAAQBAJ"
+    "link": "https://books.google.com/books/about/A_New_Dawn.html?hl=&id=V_q0CAAAQBAJ",
+    "dateFinished": "2023-09-02"
   }
 ]
