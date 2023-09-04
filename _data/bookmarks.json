@@ -141,6 +141,27 @@
     "notes": "Cheapskates goes hunting. The personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the Internet"
   },
   {
+    "title": "ZeroNet and the Future of the Internet",
+    "site": "",
+    "author": "",
+    "date": "2021-06-22",
+    "description": "A ZeroNet review that also asks, is ZeroNet the future of the Internet?",
+    "url": "https://cheapskatesguide.org/articles/zeronet.html",
+    "type": "",
+    "notes": "Cheapskates again takes a dive into alternet Internet protocols... Until recently, the conventional wisdom was that the Internet is beyond the control of governments. how naive the conventional wisdom sometimes is."
+  },
+  {
+    "title": "The Rise And Fall Of Grunge Typography",
+    "site": "The Awl",
+    "author": "",
+    "date": "2021-06-22",
+    "description": "The Rise And Fall Of Grunge Typographyby Sharan ShettyHop on the nostalgia train for a second. Think back to the 90s. To Nirvana, Linklater’s Slacker, and the flannel-clad rebels on the run from the 80s. To skateboards  ...",
+    "url": "https://www.theawl.com/2012/08/the-rise-and-fall-of-grunge-typography/",
+    "image": "bookmark-the-rise-and-fall-of-grunge-typography.jpg",
+    "type": "article",
+    "notes": "The Rise And Fall Of Grunge Typography by Sharan Shetty. Hop on the nostalgia train for a second. Think back to the 90s. To Nirvana, Linklater’s Slacker, and the flannel-clad rebels on the run from the 80s. To skateboards..."
+  },
+  {
     "title": "I Got The Internet Going Nutz: Kreayshawn and 10 Years of SOMETHIN' BOUT KREAY' - MGRM",
     "site": "Merry-Go-Round Magazine",
     "author": "Jacqueline Codiga",
@@ -833,15 +854,5 @@
     "image": "bookmark-the-end-of-the-googleverse.jpg",
     "type": "article",
     "notes": "“They were encouraging people to write on the web,” said Baio. Bloggers like Lenssen, Baio, and Beale felt like everything Google was doing was in service of making the internet better. The tools it kept launching felt tied to a mission of collecting the world’s information and helping people add more content to the web. "
-  },
-  {
-    "title": "ZeroNet and the Future of the Internet",
-    "site": "",
-    "author": "",
-    "date": "2021-06-22",
-    "description": "A ZeroNet review that also asks, is ZeroNet the future of the Internet?",
-    "url": "https://cheapskatesguide.org/articles/zeronet.html",
-    "type": "",
-    "notes": "Cheapskates again takes a dive into alternet Internet protocols... Until recently, the conventional wisdom was that the Internet is beyond the control of governments. how naive the conventional wisdom sometimes is."
   }
 ]
