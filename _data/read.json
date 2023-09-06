@@ -3215,8 +3215,8 @@
   {
     "isbn": "9780099580133",
     "dateStarted": "2023-09-02",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Dark Disciple",
     "authors": [
       "Christie Golden"
@@ -3230,6 +3230,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=Qb_-CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Dark_Disciple.html?hl=&id=Qb_-CwAAQBAJ"
+    "link": "https://books.google.com/books/about/Dark_Disciple.html?hl=&id=Qb_-CwAAQBAJ",
+    "dateFinished": "2023-09-05",
+    "notes": "One of my favourite Star Wars books so far!"
   }
 ]
