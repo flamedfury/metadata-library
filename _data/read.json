@@ -3233,5 +3233,25 @@
     "link": "https://books.google.com/books/about/Dark_Disciple.html?hl=&id=Qb_-CwAAQBAJ",
     "dateFinished": "2023-09-05",
     "notes": "One of my favourite Star Wars books so far!"
+  },
+  {
+    "isbn": "9780099594277",
+    "dateStarted": "2023-09-05",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Heir to the Jedi",
+    "authors": [
+      "Kevin Hearne"
+    ],
+    "publishedDate": "2015-11-26",
+    "description": "Luke Skywalker's game-changing destruction of the Death Star has made him not only a hero of the Rebel Alliance but a valuable asset in the ongoing battle against the Empire. Though he's a long way from mastering the power of the Force, there's no denying his phenomenal skills as a pilot-and in the eyes of Rebel leaders Princess Leia Organa and Admiral Ackbar, there's no one better qualified to carry out a daring rescue mission crucial to the Alliance cause. A brilliant alien cryptographer renowned for her ability to breach even the most advanced communications systems is being detained by Imperial agents determined to exploit her exceptional talents for the Empire's purposes. But the prospective spy's sympathies lie with the Rebels, and she's willing to join their effort in exchange for being reunited with her family. It's an opportunity to gain a critical edge against the Empire that's too precious to pass up. It's also a job that demands the element of surprise. So Luke and the ever-resourceful droid R2-D2 swap their trusty X-wing fighter for a sleek space yacht piloted by brash recruit Nakari Kelen, daughter of a biotech mogul, who's got a score of her own to settle with the Empire. Challenged by ruthless Imperial bodyguards, death-dealing enemy battleships, merciless bounty hunters, and monstrous brain-eating parasites, Luke plunges head-on into a high-stakes espionage operation that will push his abilities as a Rebel fighter and would-be Jedi to the limit. If ever he needed the wisdom of Obi-Wan Kenobi to shepherd him through danger, it's now. But Luke will have to rely on himself, his friends, and his own burgeoning relationship with the Force to survive.",
+    "pageCount": 322,
+    "printType": "BOOK",
+    "categories": [
+      "Adventure stories"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=8zrkCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Heir_to_the_Jedi.html?hl=&id=8zrkCgAAQBAJ"
   }
 ]
