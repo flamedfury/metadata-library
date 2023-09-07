@@ -868,5 +868,19 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "Kagi Small Web | Kagi Blog",
+    "site": "",
+    "author": "Vladimir Prelovac",
+    "date": "2023-09-07",
+    "description": "As a part of our ongoing pursuit to humanize the web, we are pleased to announce the launch of Kagi Small Web.\n\n-----------------------\nWhat is Kagi Small Web?\n-----------------------\n\nWhile there is no single definition, “small web” typically refers to the non-commercial part of the web, crafted by individuals to express themselves or share knowledge without seeking any financial gain.",
+    "url": "https://blog.kagi.com/small-web",
+    "image": "bookmark-kagi-small-web-kagi-blog.png",
+    "type": "",
+    "notes": "Great new Small Web features from Kagi! Unfortunately I’m not allowed to submit my own website though!",
+    "tags": [
+      "web"
+    ]
   }
 ]
