@@ -33,6 +33,17 @@
     "notes": "Desiree explores what gets us to build a website and tries to understand what a website actually is today."
   },
   {
+    "title": "Oh Hello Ana",
+    "site": "Jottings from Ana",
+    "author": "",
+    "date": "2020-03-04",
+    "description": "Ana's personal blog",
+    "url": "http://ohhelloana.blog",
+    "image": "bookmark-oh-hello-ana.jpg",
+    "type": "website",
+    "notes": "Ana reflects on her nostalgia for the old web and what she can learn from it."
+  },
+  {
     "title": "manifesto",
     "site": "sadgrl.online",
     "author": "sadgrl",
