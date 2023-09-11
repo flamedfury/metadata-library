@@ -3237,7 +3237,7 @@
   {
     "isbn": "9780099594277",
     "dateStarted": "2023-09-05",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Heir to the Jedi",
     "authors": [
@@ -3252,6 +3252,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=8zrkCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Heir_to_the_Jedi.html?hl=&id=8zrkCgAAQBAJ"
+    "link": "https://books.google.com/books/about/Heir_to_the_Jedi.html?hl=&id=8zrkCgAAQBAJ",
+    "dateFinished": "2023-09-10",
+    "notes": "Was this a Luke Skywalker romance novel?"
   }
 ]
