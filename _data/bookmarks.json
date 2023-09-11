@@ -1,5 +1,50 @@
 [
   {
+    "title": "manifesto",
+    "site": "sadgrl.online",
+    "author": "sadgrl",
+    "date": "2021-02-26",
+    "description": "The old web refers to the internet's former iteration. It includes Web 1.0 and the early parts of Web 2.0. It is known as the age of chat rooms, message boards, Myspace and Livejournal.",
+    "url": "https://web.archive.org/web/20210530075325/https://sadgrl.online/newoldweb/manifesto_full.html",
+    "image": "bookmark-sadgrlonline.png",
+    "type": "article",
+    "notes": "The page that started a... something... We, the people of the Internet, have the power to restore it to its former glory.",
+    "tags": [
+      "web"
+    ]
+  },
+  {
+    "title": "victoria.dev",
+    "site": "victoria.dev",
+    "author": "",
+    "date": "2021-02-26",
+    "description": "",
+    "url": "https://victoria.dev/",
+    "type": "website",
+    "notes": "Victoria shares how to make 2021 the year of the independent web...."
+  },
+  {
+    "title": "sadgrl | There's no place like the old internet",
+    "site": "",
+    "author": "",
+    "date": "2021-02-26",
+    "description": "",
+    "url": "https://sadgrl.dreamwidth.org/1051.html",
+    "type": "",
+    "notes": "I started on the Internet back in 1996. Sadness came later. In this blog post she explores what the old web looks like compared to the new web."
+  },
+  {
+    "title": "I Made a Linguistics Professor Listen to a Blink-182 Song and Analyze the Accent",
+    "site": "Atlas Obscura",
+    "author": "",
+    "date": "2021-02-26",
+    "description": "Two decades have passed since pop-punk exploded in the American music scene, yet the quintessentially suburban, teen-centric music still seems to bounce...",
+    "url": "http://www.atlasobscura.com/articles/i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent",
+    "image": "bookmark-i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent.jpg",
+    "type": "article",
+    "notes": "A linguistics professors analysis of the american pop punk accent. Great read."
+  },
+  {
     "title": "Ten Commandments of the Small Internet",
     "site": "",
     "author": "",
@@ -103,20 +148,6 @@
     "image": "bookmark-i-miss-the-old-internet.jpg",
     "type": "article",
     "notes": "The author, Tie, misses the Internet of the early 1990's."
-  },
-  {
-    "title": "manifesto",
-    "site": "sadgrl.online",
-    "author": "sadgrl",
-    "date": "2021-02-26",
-    "description": "The old web refers to the internet's former iteration. It includes Web 1.0 and the early parts of Web 2.0. It is known as the age of chat rooms, message boards, Myspace and Livejournal.",
-    "url": "https://web.archive.org/web/20210530075325/https://sadgrl.online/newoldweb/manifesto_full.html",
-    "image": "bookmark-sadgrlonline.png",
-    "type": "article",
-    "notes": "The page that started a... something... We, the people of the Internet, have the power to restore it to its former glory.",
-    "tags": [
-      "web"
-    ]
   },
   {
     "title": "Autonomy Online: A Case For The IndieWeb — Smashing Magazine",
@@ -261,16 +292,6 @@
     "notes": "Blockstack’s system would let you control your own personal data—for example, by revoking a site’s access to it..."
   },
   {
-    "title": "victoria.dev",
-    "site": "victoria.dev",
-    "author": "",
-    "date": "2021-02-26",
-    "description": "",
-    "url": "https://victoria.dev/",
-    "type": "website",
-    "notes": "Victoria shares how to make 2021 the year of the independent web...."
-  },
-  {
     "title": "The Organic Web",
     "site": "",
     "author": "Jim Nielsen",
@@ -355,16 +376,6 @@
     "image": "bookmark-2015-is-the-year-the-old-internet-finally-died.jpg",
     "type": "article",
     "notes": "The old blogosphere is being eaten alive by the rise of social media and the mobile web."
-  },
-  {
-    "title": "sadgrl | There's no place like the old internet",
-    "site": "",
-    "author": "",
-    "date": "2021-02-26",
-    "description": "",
-    "url": "https://sadgrl.dreamwidth.org/1051.html",
-    "type": "",
-    "notes": "I started on the Internet back in 1996. Sadness came later. In this blog post she explores what the old web looks like compared to the new web."
   },
   {
     "title": "How the Blog Broke the Web",
