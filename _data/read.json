@@ -3275,5 +3275,23 @@
     "thumbnail": "https://books.google.com/books/content?id=XbIHDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=XbIHDAAAQBAJ"
+  },
+  {
+    "isbn": "9781405287906",
+    "dateStarted": "2023-09-11",
+    "dateFinished": "2023-09-13",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "Star Wars: Ahsoka",
+    "authors": [
+      "E K Johnston"
+    ],
+    "publishedDate": "2017-03-09",
+    "description": "Ahsoka thought her war was over. But a new battle is just beginning... Fans have long wondered what happened to Anakin Skywalker's apprentice Ahsoka after she left the Jedi Order near the end of the Clone Wars, and before she re-appeared as the mysterious Rebel operative Fulcrum in Star Wars Rebels. Finally, Ahsoka's story will begin to be told. Following her experiences with the Jedi and the devastation of Order 66, Ahsoka is unsure she can be part of a larger whole ever again. But her desire to fight the evils of the Empire and protect those who need it will lead her right to Bail Organa, and the Rebel Alliance.... A thrilling Star Wars young adult novel by acclaimed author E.K. Johnston.",
+    "pageCount": 368,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=cj1uvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Star_Wars_Ahsoka.html?hl=&id=cj1uvgAACAAJ"
   }
 ]
