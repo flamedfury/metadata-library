@@ -1321,5 +1321,18 @@
     "tags": [
       "small-web"
     ]
+  },
+  {
+    "title": "Marginalia Search receives FUTO Grant",
+    "site": "",
+    "author": "",
+    "date": "2023-09-17",
+    "description": "I’m happy to announce that the generous people at FUTO have granted the project $15,000 with no strings attached to help the search engine out with some more server power.\nFUTO is a young Austin, TX-based organization “dedicated to developing, both through in-house engineering and investment, technologies that frustrate centralization and industry consolidation”. It’s one to keep an eye on, I believe their heart is in the right place and they have every possibility of making a real difference.",
+    "url": "https://www.marginalia.nu/log/88-futo-grant/",
+    "type": "article",
+    "notes": "Everybody’s favourite small web search engine receives a no strings grant to continue development. This means that the search engine will be able to move out of an apartment and into a rack in a data centre somewhere. Great news all round.",
+    "tags": [
+      "web"
+    ]
   }
 ]
