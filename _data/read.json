@@ -3291,5 +3291,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Star_Wars_Tarkin.html?hl=&id=3YIargEACAAJ",
     "dateFinished": "2023-09-18"
+  },
+  {
+    "isbn": "9780345532824",
+    "dateStarted": "2023-09-18",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Revan: Star Wars Legends (The Old Republic)",
+    "authors": [
+      "Drew Karpyshyn"
+    ],
+    "publishedDate": "2011-11-15",
+    "description": "There’s something out there: a juggernaut of evil bearing down to crush the Republic— unless one lone Jedi, shunned and reviled, can stop it. Revan: hero, traitor, conqueror, villain, savior. A Jedi who left Coruscant to defeat Mandalorians—and returned a disciple of the dark side, bent on destroying the Republic. The Jedi Council gave Revan his life back, but the price of redemption was high. His memories have been erased. All that’s left are nightmares—and deep, abiding fear. What exactly happened beyond the Outer Rim? Revan can’t quite remember, yet can’t entirely forget. Somehow he stumbled across a terrible secret that threatens the very existence of the Republic. With no idea what it is, or how to stop it, Revan may very well fail, for he’s never faced a more powerful and diabolic enemy. But only death can stop him from trying. Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=Q8mcJucrwnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=Q8mcJucrwnEC"
   }
 ]
