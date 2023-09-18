@@ -3277,7 +3277,7 @@
   {
     "isbn": "9781784750077",
     "dateStarted": "2023-09-13",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Star Wars: Tarkin",
     "authors": [
@@ -3289,6 +3289,7 @@
     "printType": "BOOK",
     "thumbnail": "https://books.google.com/books/content?id=3YIargEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Star_Wars_Tarkin.html?hl=&id=3YIargEACAAJ"
+    "link": "https://books.google.com/books/about/Star_Wars_Tarkin.html?hl=&id=3YIargEACAAJ",
+    "dateFinished": "2023-09-18"
   }
 ]
