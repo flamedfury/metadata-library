@@ -1348,5 +1348,19 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "Best Practices When Using Fonts",
+    "site": "Joy Of Code",
+    "author": "",
+    "date": "2023-09-19",
+    "description": "Everything I know about best practices when using fonts on the web.",
+    "url": "https://joyofcode.xyz/",
+    "image": "bookmark-best-practices-when-using-fonts.png",
+    "type": "",
+    "notes": "A detailed post on web fonts, how to host your own, how to deal with unstyled content, variable fonts, subset fonts… Long but great read.",
+    "tags": [
+      "web"
+    ]
   }
 ]
