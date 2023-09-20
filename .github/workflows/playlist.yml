@@ -14,8 +14,8 @@ jobs:
       - name: Save the playlist
         uses: katydecorah/spotify-to-yaml-action@v8.1.0
         with:
-          spotifyUser: "rqkyem9ef1fpabhbfdfynwapr"
-          seasonNames: Summer,Autumn,Winter,Spring
+          spotify-username: "rqkyem9ef1fpabhbfdfynwapr"
+          season-names: Summer,Autumn,Winter,Spring
         env:
           SpotifyClientID: ${{ secrets.SpotifyClientID }}
           SpotifyClientSecret: ${{ secrets.SpotifyClientSecret}}
