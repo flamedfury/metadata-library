@@ -3295,8 +3295,8 @@
   {
     "isbn": "9780345532824",
     "dateStarted": "2023-09-18",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Revan: Star Wars Legends (The Old Republic)",
     "authors": [
       "Drew Karpyshyn"
@@ -3310,6 +3310,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=Q8mcJucrwnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=Q8mcJucrwnEC"
+    "link": "https://play.google.com/store/books/details?id=Q8mcJucrwnEC",
+    "dateFinished": "2023-09-21"
   }
 ]
