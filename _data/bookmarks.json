@@ -1,22 +1,22 @@
 [
   {
-    "title": "Oh Hello Ana",
-    "site": "Jottings from Ana",
-    "author": "",
+    "title": "Blogging and me",
+    "site": "Oh Hello Ana",
+    "author": "Ana Rodrigues",
     "date": "2020-03-04",
     "description": "Ana's personal blog",
-    "url": "http://ohhelloana.blog",
+    "url": "https://ohhelloana.blog/blogging-and-me/",
     "image": "bookmark-oh-hello-ana.jpg",
     "type": "website",
     "notes": "Ana reflects on how blogging has been part of her life since the early 2000s."
   },
   {
-    "title": "Oh Hello Ana",
-    "site": "Jottings from Ana",
-    "author": "",
+    "title": "Overthinking my blog",
+    "site": "Oh Hello Ana",
+    "author": "Ana Rodrigues",
     "date": "2020-03-04",
     "description": "Ana's personal blog",
-    "url": "http://ohhelloana.blog",
+    "url": "https://ohhelloana.blog/overthinking-my-blog/",
     "image": "bookmark-oh-hello-ana.jpg",
     "type": "website",
     "notes": "Ana starts to over think her blog and needs to get it back on track."
@@ -33,12 +33,12 @@
     "notes": "Desiree explores what gets us to build a website and tries to understand what a website actually is today."
   },
   {
-    "title": "Oh Hello Ana",
-    "site": "Jottings from Ana",
-    "author": "",
+    "title": "Overthinking my nostalgia",
+    "site": "Oh Hello Ana",
+    "author": "Ana Rodrigues",
     "date": "2020-03-04",
     "description": "Ana's personal blog",
-    "url": "http://ohhelloana.blog",
+    "url": "https://ohhelloana.blog/overthinking-my-nostalgia",
     "image": "bookmark-oh-hello-ana.jpg",
     "type": "website",
     "notes": "Ana reflects on her nostalgia for the old web and what she can learn from it."
