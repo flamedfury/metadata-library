@@ -58,12 +58,12 @@
     ]
   },
   {
-    "title": "victoria.dev",
+    "title": "Make your own independent website",
     "site": "victoria.dev",
     "author": "",
     "date": "2021-02-26",
     "description": "",
-    "url": "https://victoria.dev/",
+    "url": "https://victoria.dev/blog/make-your-own-independent-website/",
     "type": "website",
     "notes": "Victoria shares how to make 2021 the year of the independent web...."
   },
@@ -1291,7 +1291,7 @@
     "author": "",
     "date": "2023-09-19",
     "description": "Everything I know about best practices when using fonts on the web.",
-    "url": "https://joyofcode.xyz/",
+    "url": "https://joyofcode.xyz/using-fonts-on-the-web",
     "image": "bookmark-best-practices-when-using-fonts.png",
     "type": "",
     "notes": "A detailed post on web fonts, how to host your own, how to deal with unstyled content, variable fonts, subset fonts… Long but great read.",
