@@ -3334,5 +3334,25 @@
     "link": "https://play.google.com/store/books/details?id=QXTOEAAAQBAJ",
     "dateFinished": "2023-09-25",
     "notes": "Liked it a lot"
+  },
+  {
+    "isbn": "9780143779872",
+    "dateStarted": "2023-09-28",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Poor People With Money",
+    "authors": [
+      "Dominic Hoey"
+    ],
+    "publishedDate": "2022-08-02",
+    "description": "Monday Woolridge is a fighter with a face covered in scars and life full of debt. Her Avondale flat has no furniture, her father’s dead, her catatonic mother’s in an expensive nursing home and her kickboxing gym is going to Thailand. Monday's shitty bartending job pays fifty cents over minimum wage, and she desperately needs another way to generate income. Dealing drugs off the dark web with her flatmate JJ looks like it's working – until it really doesn’t, and the pair have to flee Tamaki Makaurau to escape the gangsters, the vampires and the ghosts of Monday’s past. This is a pacy, heart-twisting, punch-in-the-guts, darkly comic novel that captures life on the poverty line in Aotearoa now. From the award-winning poet and playwright Dominic Hoey, author of Iceland, I Thought We’d Be Famous, and the 2021 SST Short Story Award winner, 1986. Praise for Iceland, his first book “It’s kind of renegade literature ... [this] book has an energy conspicuously absent in much New Zealand fiction.”– Steve Braunias, The Spinoff",
+    "pageCount": 253,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=6l56EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=6l56EAAAQBAJ"
   }
 ]
