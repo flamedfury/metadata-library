@@ -3316,8 +3316,8 @@
   {
     "isbn": "9781804292167",
     "dateStarted": "2023-09-23",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "The Internet Con",
     "authors": [
       "Cory Doctorow"
@@ -3331,6 +3331,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=QXTOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=QXTOEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=QXTOEAAAQBAJ",
+    "dateFinished": "2023-09-25",
+    "notes": "Liked it a lot"
   }
 ]
