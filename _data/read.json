@@ -3338,8 +3338,8 @@
   {
     "isbn": "9780143779872",
     "dateStarted": "2023-09-28",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Poor People With Money",
     "authors": [
       "Dominic Hoey"
@@ -3353,6 +3353,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=6l56EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=6l56EAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=6l56EAAAQBAJ",
+    "dateFinished": "2023-09-29",
+    "notes": "It was amazing!"
   }
 ]
