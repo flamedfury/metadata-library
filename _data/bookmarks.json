@@ -1308,5 +1308,18 @@
     "url": "https://robinrendle.com/notes/kobo-libra-2/",
     "type": "",
     "notes": "Mind blown, imagine if book readers supported RSS feeds?"
+  },
+  {
+    "title": "The Quiet Web | by Brian Koberlein",
+    "site": "",
+    "author": "Brian Koberlein",
+    "date": "2023-09-29",
+    "description": "If you filter out websites with ads, trackers, and noise, what of the Internet remains?",
+    "url": "https://briankoberlein.com/tech/quiet-web/",
+    "type": "",
+    "notes": "Another personal take on the quiet web. Touches upon adtech and how the quiet web avoids such nonsense.",
+    "tags": [
+      "web"
+    ]
   }
 ]
