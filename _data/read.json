@@ -3378,5 +3378,25 @@
     "link": "https://play.google.com/store/books/details?id=CreFEAAAQBAJ",
     "dateFinished": "2023-10-01",
     "notes": "Liked it"
+  },
+  {
+    "isbn": "9781647005221",
+    "dateStarted": "2023-10-01",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Most Dope",
+    "authors": [
+      "Paul Cantor"
+    ],
+    "publishedDate": "2022-01-18",
+    "description": "The first biography of rapper Mac Miller, the Pittsburgh cult favorite–turned–rap superstar who touched the lives of millions before tragically passing away at the age of 26—now in paperback Malcolm James McCormick was born on January 19, 1992. He began making music at a young age and by 15 was already releasing mixtapes. One of the first true viral superstars, his early records earned him a rabid legion of die-hard fans—as well as a few noteworthy detractors. But despite his undeniable success, Miller was plagued by struggles with substance abuse and depression, both of which fueled his raw and genre-defying music, yet ultimately led to his demise. Through detailed reporting and interviews with dozens of Miller’s confidants, Paul Cantor brings you to leafy Pittsburgh, seductive Los Angeles, and frenzied New York, where you will meet Miller’s collaborators, producers, business partners, best friends, and even his roommates. Traveling deep into Miller’s inner circle, behind the curtain, the velvet ropes, and studio doors, Most Dope tells the story of a passionate, gifted young man who achieved his life’s ambition, only to be undone by his personal demons. Most Dope is part love letter, part cautionary tale, never shying away from the raw, visceral way Mac Miller lived his life. Praise for Most Dope \"A tender, studious remembrance.\" —The New York Times Book Review \"An insightful exploration of his life . . . painstakingly reported by Cantor, who interviewed more than 100 people during a three-year process.\" —USA Today \"An inside look at Miller's life through the eyes of his friends and industry peers, tracking the musician's life journey as he quickly ascended the ranks.\" —Daily Beast",
+    "pageCount": 369,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=fDMlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=fDMlEAAAQBAJ"
   }
 ]
