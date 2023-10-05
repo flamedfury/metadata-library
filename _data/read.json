@@ -3382,8 +3382,8 @@
   {
     "isbn": "9781647005221",
     "dateStarted": "2023-10-01",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Most Dope",
     "authors": [
       "Paul Cantor"
@@ -3397,6 +3397,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=fDMlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=fDMlEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=fDMlEAAAQBAJ",
+    "dateFinished": "2023-10-05",
+    "notes": "It was amazing!"
   }
 ]
