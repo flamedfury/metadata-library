@@ -1336,5 +1336,18 @@
       "PersonalWebsite",
       "DigitalOwnership"
     ]
+  },
+  {
+    "title": "The OG Social Network: Other People’s Websites",
+    "site": "",
+    "author": "Jim Nielsen",
+    "date": "2023-10-05",
+    "description": "Writing about the big beautiful mess that is making things for the world wide web.",
+    "url": "https://blog.jim-nielsen.com/2022/other-peoples-websites/",
+    "type": "article",
+    "notes": "What would the web be like today if Google hadn't killed Reader? Jim touches on that the web could have been our social netowrk. This is something that I talk about often and hope to see become a reality again.",
+    "tags": [
+      "web"
+    ]
   }
 ]
