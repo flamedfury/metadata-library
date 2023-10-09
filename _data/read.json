@@ -3400,5 +3400,25 @@
     "link": "https://play.google.com/store/books/details?id=fDMlEAAAQBAJ",
     "dateFinished": "2023-10-05",
     "notes": "It was amazing!"
+  },
+  {
+    "isbn": "9780099410584",
+    "dateStarted": "2023-10-09",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Revenge of the Sith",
+    "authors": [
+      "Matthew Stover"
+    ],
+    "publishedDate": "2005",
+    "description": "The turning point for the entire Star Wars saga is at hand. . . . As combat escalates across the galaxy, the stage is set for an explosive endgame: Obi-Wan undertakes a perilous mission to destroy the dreaded Separatist military leader, General Grievous. Supreme Chancellor Palpatine continues to strip away constitutional liberties in the name of security while influencing public opinion to turn against the Jedi. And a conflicted Anakin fears that his secret love, Senator Padmé Amidala, will die. Tormented by unspeakable visions, Anakin edges closer to the brink of a galaxy-shaping decision. It remains only for Darth Sidious to strike the final staggering blow against the Republic-and to ordain a fearsome new Sith Lord: Darth Vader. Based on the screenplay of the final film in George Lucas's epic saga, bestselling Star Wars author Matthew Stover's novel crackles with action, captures the iconic characters in all their complexity, and brings a space opera masterpiece full circle in stunning style.",
+    "pageCount": 482,
+    "printType": "BOOK",
+    "categories": [
+      "Life on other planets"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=_ObSitwT2AgC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Revenge_of_the_Sith.html?hl=&id=_ObSitwT2AgC"
   }
 ]
