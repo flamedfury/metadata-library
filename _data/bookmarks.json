@@ -1317,7 +1317,7 @@
     "description": "If you filter out websites with ads, trackers, and noise, what of the Internet remains?",
     "url": "https://briankoberlein.com/tech/quiet-web/",
     "type": "",
-    "notes": "Another personal take on the quiet web. Touches upon adtech and how the quiet web avoids such nonsense.",
+    "notes": "Another personal take on the quiet web. Touches upon adtech and how the quiet web avoids such nonsense. Once you get used to the quiet web, you may never want to go back.",
     "tags": [
       "web"
     ]
@@ -1360,18 +1360,5 @@
     "image": "bookmark-taylor-lorenz-extremely-online-book-interview-the-mozilla-blog.jpg",
     "type": "",
     "notes": "Great interview with Taylor Lorenz. I'm looking forward to getting my hands on and reading her new book, Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet."
-  },
-  {
-    "title": "The Quiet Web | by Brian Koberlein",
-    "site": "",
-    "author": "Brian Koberlein",
-    "date": "2023-10-07",
-    "description": "If you filter out websites with ads, trackers, and noise, what of the Internet remains?",
-    "url": "https://briankoberlein.com/tech/quiet-web/",
-    "type": "",
-    "notes": "Once you get used to the quiet web, you may never want to go back.",
-    "tags": [
-      "web"
-    ]
   }
 ]
