@@ -1360,5 +1360,19 @@
     "image": "bookmark-taylor-lorenz-extremely-online-book-interview-the-mozilla-blog.jpg",
     "type": "",
     "notes": "Great interview with Taylor Lorenz. I'm looking forward to getting my hands on and reading her new book, Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet."
+  },
+  {
+    "title": "Rediscovering the Old Internet Vibe",
+    "site": "Noisy Deadlines",
+    "author": "Noisy Deadlines",
+    "date": "2023-10-13",
+    "description": "The Internet is awesome because it connects computers, which can then connect people. This allows people to share information and work an...",
+    "url": "https://noisydeadlines.net/rediscovering-the-old-internet-vibe",
+    "image": "bookmark-rediscovering-the-old-internet-vibe.png",
+    "type": "article",
+    "notes": "Another recount of someone finding those old Internet vibes.",
+    "tags": [
+      "web"
+    ]
   }
 ]
