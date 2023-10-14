@@ -1374,5 +1374,16 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "My Kobo Customizations",
+    "site": "",
+    "author": "",
+    "date": "2023-10-14",
+    "description": "Calibre Web syncing, new fonts, immersive reading, book covers, Pocket login, dark mode everywhere, Nickel Menu features",
+    "url": "https://code.mendhak.com/kobo-customizations/",
+    "image": "bookmark-my-kobo-customizations.jpg",
+    "type": "article",
+    "notes": "A great post with lots of great customisations and hacks for the Kobo for when I make my eventual upgrade to the Libra 2"
   }
 ]
