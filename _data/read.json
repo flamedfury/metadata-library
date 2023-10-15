@@ -3422,5 +3422,25 @@
     "link": "https://books.google.com/books/about/Revenge_of_the_Sith.html?hl=&id=_ObSitwT2AgC",
     "dateFinished": "2023-10-15",
     "notes": "Enjoyed it a lot."
+  },
+  {
+    "isbn": "9781982146894",
+    "dateStarted": "2023-10-15",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Extremely Online",
+    "authors": [
+      "Taylor Lorenz"
+    ],
+    "publishedDate": "2023-10-03",
+    "description": "Acclaimed Washington Post reporter Taylor Lorenz presents a groundbreaking social history of the internet—revealing how online influence and the creators who amass it have reshaped our world, online and off. For over a decade, Taylor Lorenz has been the authority on internet culture, documenting its far-reaching effects on all corners of our lives. Her reporting is serious yet entertaining and illuminates deep truths about ourselves and the lives we create online. In her debut book, Extremely Online, she reveals how online influence came to upend the world, demolishing traditional barriers and creating whole new sectors of the economy. Lorenz shows this phenomenon to be one of the most disruptive changes in modern capitalism. By tracing how the internet has changed what we want and how we go about getting it, Lorenz unearths how social platforms’ power users radically altered our expectations of content, connection, purchasing, and power. Lorenz documents how moms who started blogging were among the first to monetize their personal brands online, how bored teens who began posting selfie videos reinvented fame as we know it, and how young creators on TikTok are leveraging opportunities to opt out of the traditional career pipeline. It’s the real social history of the internet. Emerging seemingly out of nowhere, these shifts in how we use the internet seem easy to dismiss as fads. However, these social and economic transformations have resulted in a digital dynamic so unappreciated and insurgent that it ultimately created new approaches to work, entertainment, fame, and ambition in the 21st century. Extremely Online is the inside, untold story of what we have done to the internet, and what it has done to us.",
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+      "Social Science"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=HxSsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=HxSsEAAAQBAJ"
   }
 ]
