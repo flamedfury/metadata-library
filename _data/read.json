@@ -3404,8 +3404,8 @@
   {
     "isbn": "9780099410584",
     "dateStarted": "2023-10-09",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Revenge of the Sith",
     "authors": [
       "Matthew Stover"
@@ -3419,6 +3419,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=_ObSitwT2AgC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Revenge_of_the_Sith.html?hl=&id=_ObSitwT2AgC"
+    "link": "https://books.google.com/books/about/Revenge_of_the_Sith.html?hl=&id=_ObSitwT2AgC",
+    "dateFinished": "2023-10-15",
+    "notes": "Enjoyed it a lot."
   }
 ]
