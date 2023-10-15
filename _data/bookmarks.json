@@ -1385,5 +1385,19 @@
     "image": "bookmark-my-kobo-customizations.jpg",
     "type": "article",
     "notes": "A great post with lots of great customisations and hacks for the Kobo for when I make my eventual upgrade to the Libra 2"
+  },
+  {
+    "title": "Old Web, New Web, Indie Web - petermolnar.net",
+    "site": "",
+    "author": "Peter Molnar <mail@petermolnar.net>",
+    "date": "2023-10-15",
+    "description": "If you have to decide on the order of creative freedom vs data ownership, what order do you choose?",
+    "url": "https://petermolnar.net/article/old-web-new-web-indie-web/",
+    "type": "",
+    "notes": " If you have to decide on the order of creative freedom vs data ownership, what order do you choose? ",
+    "tags": [
+      "web",
+      "indieweb"
+    ]
   }
 ]
