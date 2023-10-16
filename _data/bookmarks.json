@@ -1410,5 +1410,19 @@
     "image": "bookmark-simple-truths-about-personal-websites-matthias-ott-user-experience-designer.png",
     "type": "website",
     "notes": "Write. Publish. Enjoy."
+  },
+  {
+    "title": "Educational Sensational Inspirational Foundational",
+    "site": "",
+    "author": "",
+    "date": "2023-10-16",
+    "description": "A historical record of foundational web development blog posts.",
+    "url": "https://esif.dev/",
+    "image": "bookmark-educational-sensational-inspirational-foundational.jpg",
+    "type": "website",
+    "notes": "A growing collection of blog posts and websites that are educational, sensational, inspirational, and foundational.",
+    "tags": [
+      "web"
+    ]
   }
 ]
