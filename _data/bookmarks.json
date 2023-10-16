@@ -1399,5 +1399,16 @@
       "web",
       "indieweb"
     ]
+  },
+  {
+    "title": "Simple Truths About Personal Websites · Matthias Ott – User Experience Designer",
+    "site": "Matthias Ott – User Experience Designer",
+    "author": "Matthias Ott",
+    "date": "2023-10-16",
+    "description": "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel.",
+    "url": "https://matthiasott.com/notes/simple-truths-about-personal-websites",
+    "image": "bookmark-simple-truths-about-personal-websites-matthias-ott-user-experience-designer.png",
+    "type": "website",
+    "notes": "Write. Publish. Enjoy."
   }
 ]
