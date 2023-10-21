@@ -3426,8 +3426,8 @@
   {
     "isbn": "9781982146894",
     "dateStarted": "2023-10-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Extremely Online",
     "authors": [
       "Taylor Lorenz"
@@ -3441,6 +3441,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=HxSsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=HxSsEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=HxSsEAAAQBAJ",
+    "dateFinished": "2023-10-21"
   }
 ]
