@@ -3443,5 +3443,25 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=HxSsEAAAQBAJ",
     "dateFinished": "2023-10-21"
+  },
+  {
+    "isbn": "9781444717617",
+    "dateStarted": "2023-10-22",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Mating in Captivity",
+    "authors": [
+      "Esther Perel"
+    ],
+    "publishedDate": "2012-02-16",
+    "description": "When you love someone, how does it feel? And when you desire someone, how is it different? In Mating in Captivity, Esther Perel looks at the story of sex in committed couples. Modern romance promises it all - a lifetime of togetherness, intimacy and erotic desire. In reality, it's hard to want what you already have. Our quest for secure love conflicts with our pursuit of passion. And often, the very thing that got us to into our relationships - lust - is the one thing that goes missing from them. Determined to reconcile the erotic and the domestic, Perel explains why democracy is a passion killer in the bedroom. Argues for playfulness, distance, and uncertainty. And shows what it takes to bring lust home. Smart, sexy and explosively original, Mating in Captivity is the monogamist's essential bedside read.",
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+      "Health & Fitness"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=h5Yh9ExByMkC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Mating_in_Captivity.html?hl=&id=h5Yh9ExByMkC"
   }
 ]
