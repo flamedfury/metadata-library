@@ -1435,5 +1435,16 @@
     "image": "bookmark-my-backup-strategy-notes-about-syncing-to-a-synology-nas.png",
     "type": "article",
     "notes": "A reminder to myself to setup my back ups..."
+  },
+  {
+    "title": "Internet Artifacts",
+    "site": "",
+    "author": "",
+    "date": "2023-10-25",
+    "description": "Browse through the old internet",
+    "url": "https://neal.fun/internet-artifacts/",
+    "image": "bookmark-internet-artifacts.png",
+    "type": "website",
+    "notes": "Check this one out on your phone for the best experience!"
   }
 ]
