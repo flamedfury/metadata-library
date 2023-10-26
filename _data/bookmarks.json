@@ -1446,5 +1446,16 @@
     "image": "bookmark-internet-artifacts.png",
     "type": "website",
     "notes": "Check this one out on your phone for the best experience!"
+  },
+  {
+    "title": "It's 2023, here is why your web design sucks.",
+    "site": "",
+    "author": "",
+    "date": "2023-10-26",
+    "description": "Exploring the reasons why we no longer have web designers.",
+    "url": "https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/",
+    "image": "bookmark-its-2023-here-is-why-your-web-design-sucks.png",
+    "type": "",
+    "notes": "What happened to the web designer role?"
   }
 ]
