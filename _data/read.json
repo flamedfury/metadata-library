@@ -3463,5 +3463,25 @@
     "thumbnail": "https://books.google.com/books/content?id=h5Yh9ExByMkC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Mating_in_Captivity.html?hl=&id=h5Yh9ExByMkC"
+  },
+  {
+    "isbn": "9781761107658",
+    "dateStarted": "2023-10-26",
+    "status": "started",
+    "rating": "unrated",
+    "title": "The Woman in Me",
+    "authors": [
+      "Britney Spears"
+    ],
+    "publishedDate": "2023-10-25",
+    "description": "The Woman in Me is a brave and astonishingly moving story about freedom, fame, motherhood, survival, faith, and hope. In June 2021, the whole world was listening as Britney Spears spoke in open court. The impact of sharing her voice—her truth—was undeniable, and it changed the course of her life and the lives of countless others. The Woman in Me reveals for the first time her incredible journey—and the strength at the core of one of the greatest performers in pop music history. Written with remarkable candor and humor, Spears’s groundbreaking book illuminates the enduring power of music and love—and the importance of a woman telling her own story, on her own terms, at last.",
+    "pageCount": 190,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=zq2bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Woman_in_Me.html?hl=&id=zq2bEAAAQBAJ"
   }
 ]
