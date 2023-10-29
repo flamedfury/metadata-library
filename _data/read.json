@@ -3484,5 +3484,25 @@
     "language": "en",
     "link": "https://books.google.com/books/about/The_Woman_in_Me.html?hl=&id=zq2bEAAAQBAJ",
     "dateFinished": "2023-10-28"
+  },
+  {
+    "isbn": "9780063051119",
+    "dateStarted": "2023-10-29",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Capture the Sun",
+    "authors": [
+      "Jessie Mihalik"
+    ],
+    "publishedDate": "2023-06-20",
+    "description": "Acclaimed author Jessie Mihalik returns with the thrilling conclusion to her Starlight’s Shadow trilogy. An intergalactic thief must join forces with the charming teleporter who stole her last job—and may now be her only hope for saving her former crew. As a recovery specialist, Lexi Bowen’s jobs typically require more trickery and thievery than honest work. Her former captain might not approve of her flexible morals, but stealing artifacts for rich assholes pays the bills, and Lexi’s had enough of war and death. The FHP left her to die once; she doesn’t plan to give them a chance to finish the job. Unfortunately, her latest contract takes her to Valovia itself—and right back into the orbit of Nilo Shoren, a Valovian teleporter who already cost her one payday and nearly stole her heart. Armored against his clever charm, Lexi plans to get in, get the job done, and get out. But when her former crew goes missing in Valovian space, Lexi will have to work with Nilo to figure out what happened—and stop it—before the galaxy’s two superpowers can use the disappearance as an excuse to return to war.",
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=FYSAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=FYSAEAAAQBAJ"
   }
 ]
