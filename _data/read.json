@@ -2965,23 +2965,6 @@
     "dateFinished": "2023-07-09"
   },
   {
-    "isbn": "9780908321070",
-    "dateStarted": "2023-07-05",
-    "status": "started",
-    "rating": "unrated",
-    "title": "The Post-Snowden Era",
-    "authors": [
-      "Kathleen Kuehn"
-    ],
-    "publishedDate": "2015-07",
-    "description": "Only sustained public pressure can prevent the complicit submission and cultural amnesia that seems to follow every new revelation about surveillance in everyday life. Recent revelations about the nature and extent of global surveillance programmes have shocked many. But what are their implications in the long-term - and for New Zealand? Mapping New Zealand's role in international intelligence gathering from World War Two to the present day, Kathleen Kuehn asks probing questions about the behaviour of both the state and corporations in our current 'surveillance society'. Ultimately these questions force us to confront the way we value our individual privacy and civil liberties, for - as we often hear - why should any of this matter if we have nothing to hide?",
-    "pageCount": 100,
-    "printType": "BOOK",
-    "thumbnail": "https://books.google.com/books/content?id=iftLrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Post_Snowden_Era.html?hl=&id=iftLrgEACAAJ"
-  },
-  {
     "isbn": "9781780896328",
     "dateStarted": "2023-07-09",
     "status": "finished",
@@ -3001,6 +2984,24 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Bloodline.html?hl=&id=QNElDAAAQBAJ",
     "dateFinished": "2023-07-12"
+  },
+  {
+    "isbn": "9780908321070",
+    "dateStarted": "2023-07-05",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
+    "title": "The Post-Snowden Era",
+    "authors": [
+      "Kathleen Kuehn"
+    ],
+    "publishedDate": "2015-07",
+    "description": "Only sustained public pressure can prevent the complicit submission and cultural amnesia that seems to follow every new revelation about surveillance in everyday life. Recent revelations about the nature and extent of global surveillance programmes have shocked many. But what are their implications in the long-term - and for New Zealand? Mapping New Zealand's role in international intelligence gathering from World War Two to the present day, Kathleen Kuehn asks probing questions about the behaviour of both the state and corporations in our current 'surveillance society'. Ultimately these questions force us to confront the way we value our individual privacy and civil liberties, for - as we often hear - why should any of this matter if we have nothing to hide?",
+    "pageCount": 100,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=iftLrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Post_Snowden_Era.html?hl=&id=iftLrgEACAAJ",
+    "dateFinished": "2023-07-15"
   },
   {
     "isbn": "9781473552449",
