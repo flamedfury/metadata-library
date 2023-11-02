@@ -1468,5 +1468,16 @@
     "image": "bookmark-everything-nothing.png",
     "type": "",
     "notes": "In the E/N world, the primary way of discovering more of these websites was through links from the sites you were already visiting."
+  },
+  {
+    "title": "Incredible Doom",
+    "site": "Incredible Doom",
+    "author": "",
+    "date": "2023-11-02",
+    "description": "Incredible Doom returns with Volume 3, introducing new characters and stories about finding connections in the wilds of the early web.",
+    "url": "https://www.incredibledoom.com/",
+    "image": "bookmark-incredible-doom.png",
+    "type": "website",
+    "notes": "A new comic series about finding connections in the wilds of the early web."
   }
 ]
