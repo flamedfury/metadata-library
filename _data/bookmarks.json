@@ -1479,5 +1479,16 @@
     "image": "bookmark-incredible-doom.png",
     "type": "website",
     "notes": "A new comic series about finding connections in the wilds of the early web."
+  },
+  {
+    "title": "Carl and the cookie and the Web",
+    "site": "MetaGrrrl",
+    "author": "",
+    "date": "2023-11-02",
+    "description": "It’s Friday and time for a story of the old Web, one man, and a cookie. A cookie which I still have almost 24 years later. Once upon a time there was a guy named Carl Steadman. ( Picture of C…",
+    "url": "https://metagrrrl.com/2023/08/18/carl-and-the-cookie-and-the-web/",
+    "image": "bookmark-carl-and-the-cookie-and-the-web.png",
+    "type": "article",
+    "notes": "A brief history of Carl Steadman of suck.com fame"
   }
 ]
