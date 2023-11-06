@@ -3490,8 +3490,8 @@
   {
     "isbn": "9780063051119",
     "dateStarted": "2023-10-29",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "Capture the Sun",
     "authors": [
       "Jessie Mihalik"
@@ -3505,7 +3505,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=FYSAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=FYSAEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=FYSAEAAAQBAJ",
+    "dateFinished": "2023-11-04"
   },
   {
     "isbn": "9780399594229",
