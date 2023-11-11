@@ -3527,5 +3527,25 @@
     "thumbnail": "https://books.google.com/books/content?id=QWhlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=QWhlEAAAQBAJ"
+  },
+  {
+    "isbn": "9780748126828",
+    "dateStarted": "2023-11-10",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Trading In Danger",
+    "authors": [
+      "Elizabeth Moon"
+    ],
+    "publishedDate": "2010-12-02",
+    "description": "The first volume in the Vatta's War series - action-packed military SF from the Nebula Award winning author of The Speed of Dark. Ky Vatta is a highly promising military cadet with a great future ahead of her, until an insignificant act of kindness makes her the focus of the Academy's wrath. She is forced to resign, her dreams shattered. For the child of a rich trading family, this should mean disgrace on a grand scale. And yet, to her surprise, Ky is offered the captaincy of a ship headed for scrap with its final cargo. Her orders are absolutely clear, but Ky quickly sees potential profit in altering the journey. Because, whatever the risks, it's in her blood to trade - even if the currency is extreme danger. 'I thoroughly enjoyed Trading in Danger and wholeheartedly recommend it' THE BOOK SMUGGLERS",
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=zGn7OQ8U9b4C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Trading_In_Danger.html?hl=&id=zGn7OQ8U9b4C"
   }
 ]
