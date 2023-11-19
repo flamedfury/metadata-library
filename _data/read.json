@@ -3531,7 +3531,7 @@
   {
     "isbn": "9780748126828",
     "dateStarted": "2023-11-10",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Trading In Danger",
     "authors": [
@@ -3546,6 +3546,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=zGn7OQ8U9b4C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Trading_In_Danger.html?hl=&id=zGn7OQ8U9b4C"
+    "link": "https://books.google.com/books/about/Trading_In_Danger.html?hl=&id=zGn7OQ8U9b4C",
+    "dateFinished": "2023-11-18"
   }
 ]
