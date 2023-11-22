@@ -1529,5 +1529,19 @@
     "image": "bookmark-how-gaming-rigs-grew-up-to-become-battle-stations.jpg",
     "type": "website",
     "notes": "How much time do you spend setting up your space rather than using it?"
+  },
+  {
+    "title": "Paying tribute to the web with View Source",
+    "site": "Signal v. Noise",
+    "author": "",
+    "date": "2023-11-22",
+    "description": "The web isn’t just another software platform. It’s the greatest software platform the world has ever seen. And yet even in its obvious glory, we’re still learning how to be grateful for all its con…",
+    "url": "https://m.signalvnoise.com/paying-tribute-to-the-web-with-view-source/",
+    "image": "bookmark-paying-tribute-to-the-web-with-view-source.png",
+    "type": "article",
+    "notes": "Being able to view source on a web page back in the day was a great learning tool for myself and many others. Still is, that is why I don’t bother with minification to ensure my source is readable by anyone who is curious",
+    "tags": [
+      "web"
+    ]
   }
 ]
