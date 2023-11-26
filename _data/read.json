@@ -3509,26 +3509,6 @@
     "dateFinished": "2023-11-04"
   },
   {
-    "isbn": "9780399594229",
-    "dateStarted": "2023-11-01",
-    "status": "started",
-    "rating": "unrated",
-    "title": "War of the Scaleborn (World of Warcraft: Dragonflight)",
-    "authors": [
-      "Courtney Alameda"
-    ],
-    "publishedDate": "2023-10-31",
-    "description": "Uncover the full story behind the War of the Scaleborn in this official companion novel to World of Warcraft: Dragonflight. When the world was young, all life shook before the might of Galakrond, a massive primal dragon whose hunger could not be sated. Five primal dragons rose valiantly beside the titan-forged Keeper Tyr to combat this threat. Though the fight was desperate, Galakrond fell by their teeth and talons, and the five were chosen to become protectors of Azeroth. The titans gifted Nozdormu, Ysera, Alexstrasza, Malygos, and Neltharion with Order magic, transforming them into the Aspects: powerful dragons with command of time, nature, life, magic, even the earth itself. Other primal dragons followed on their path, and, imbued with the titans’ power, the dragonflights rose to shape the world and serve the Aspects. That is the tale the dragonflights have always told . . . but it is not the whole story. For as Alexstrasza and her flights set to reshaping Azeroth, not all of dragonkind sees Order magic as a gift. Spurning the titans’ interference, a group of rebel primal dragons are imbued with the elemental powers of the planet and are reborn as the Incarnates. Led by Iridikron, the Incarnates believe that dragonkind should be subservient to no one. They foment a rebellion against the Aspects: what they are and all they represent. Despite the efforts of Alexstrasza and her primal friend Vyranoth to preserve peace, both sides slip closer to violence, as dragons are forced to choose a side or be swept up in the growing conflict. With battle lines and allegiances drawn, the war among dragonkind shakes the foundation of the world. Both sides realize they will have to make sacrifices to secure the future of their kind, sacrifices that will cascade through the ages.",
-    "pageCount": 409,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=QWhlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=QWhlEAAAQBAJ"
-  },
-  {
     "isbn": "9780748126828",
     "dateStarted": "2023-11-10",
     "status": "finished",
@@ -3548,6 +3528,27 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Trading_In_Danger.html?hl=&id=zGn7OQ8U9b4C",
     "dateFinished": "2023-11-18"
+  },
+  {
+    "isbn": "9780399594229",
+    "dateStarted": "2023-11-01",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "War of the Scaleborn (World of Warcraft: Dragonflight)",
+    "authors": [
+      "Courtney Alameda"
+    ],
+    "publishedDate": "2023-10-31",
+    "description": "Uncover the full story behind the War of the Scaleborn in this official companion novel to World of Warcraft: Dragonflight. When the world was young, all life shook before the might of Galakrond, a massive primal dragon whose hunger could not be sated. Five primal dragons rose valiantly beside the titan-forged Keeper Tyr to combat this threat. Though the fight was desperate, Galakrond fell by their teeth and talons, and the five were chosen to become protectors of Azeroth. The titans gifted Nozdormu, Ysera, Alexstrasza, Malygos, and Neltharion with Order magic, transforming them into the Aspects: powerful dragons with command of time, nature, life, magic, even the earth itself. Other primal dragons followed on their path, and, imbued with the titans’ power, the dragonflights rose to shape the world and serve the Aspects. That is the tale the dragonflights have always told . . . but it is not the whole story. For as Alexstrasza and her flights set to reshaping Azeroth, not all of dragonkind sees Order magic as a gift. Spurning the titans’ interference, a group of rebel primal dragons are imbued with the elemental powers of the planet and are reborn as the Incarnates. Led by Iridikron, the Incarnates believe that dragonkind should be subservient to no one. They foment a rebellion against the Aspects: what they are and all they represent. Despite the efforts of Alexstrasza and her primal friend Vyranoth to preserve peace, both sides slip closer to violence, as dragons are forced to choose a side or be swept up in the growing conflict. With battle lines and allegiances drawn, the war among dragonkind shakes the foundation of the world. Both sides realize they will have to make sacrifices to secure the future of their kind, sacrifices that will cascade through the ages.",
+    "pageCount": 409,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=QWhlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=QWhlEAAAQBAJ",
+    "dateFinished": "2023-11-26"
   },
   {
     "isbn": "9781250826985",
