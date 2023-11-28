@@ -3574,7 +3574,7 @@
   {
     "isbn": "9781982168568",
     "dateStarted": "2023-11-27",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Sure, I'll Join Your Cult",
     "authors": [
@@ -3589,6 +3589,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=muPPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Sure_I_ll_Join_Your_Cult.html?hl=&id=muPPEAAAQBAJ"
+    "link": "https://books.google.com/books/about/Sure_I_ll_Join_Your_Cult.html?hl=&id=muPPEAAAQBAJ",
+    "dateFinished": "2023-11-28",
+    "notes": "Abandoned"
   }
 ]
