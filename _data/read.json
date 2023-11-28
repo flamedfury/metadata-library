@@ -3592,5 +3592,25 @@
     "link": "https://books.google.com/books/about/Sure_I_ll_Join_Your_Cult.html?hl=&id=muPPEAAAQBAJ",
     "dateFinished": "2023-11-28",
     "notes": "Abandoned"
+  },
+  {
+    "isbn": "9781501159510",
+    "dateStarted": "2023-11-28",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Muslim Girl",
+    "authors": [
+      "Amani Al-Khatahtbeh"
+    ],
+    "publishedDate": "2017-09-12",
+    "description": "At nine years old, Amani Al-Khatahtbeh watched from her home in New Jersey as two planes crashed into the World Trade Center on September 11, 2001. That same year, she heard her first racial slur. Muslim Girl: A Coming of Age is the extraordinary account of Amani's coming of age in a country that too often seeks to marginalize women like her. Her spirited voice and unflinching honesty offer a fresh, deeply necessary counterpoint to current rhetoric about the place of Muslims in American life.",
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=fys0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Muslim_Girl.html?hl=&id=fys0DwAAQBAJ"
   }
 ]
