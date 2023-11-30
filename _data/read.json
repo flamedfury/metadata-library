@@ -3596,8 +3596,8 @@
   {
     "isbn": "9781501159510",
     "dateStarted": "2023-11-28",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Muslim Girl",
     "authors": [
       "Amani Al-Khatahtbeh"
@@ -3611,6 +3611,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=fys0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Muslim_Girl.html?hl=&id=fys0DwAAQBAJ"
+    "link": "https://books.google.com/books/about/Muslim_Girl.html?hl=&id=fys0DwAAQBAJ",
+    "dateFinished": "2023-11-29"
   }
 ]
