@@ -1565,5 +1565,16 @@
     "image": "bookmark-the-village-effect-of-the-greater-web.png",
     "type": "Digital Garden",
     "notes": "The corporate web is fucking up, big time. Except for perhaps TikTok (give it time), users have retreated to the DMs à la the \"cozy web.\""
+  },
+  {
+    "title": "The UX of HTML - HTMHell",
+    "site": "The UX of HTML - HTMHell",
+    "author": "",
+    "date": "2023-12-01",
+    "description": "A collection of bad practices in HTML, copied from real websites.",
+    "url": "/adventcalendar/2023/1/",
+    "image": "bookmark-the-ux-of-html-htmhell.png",
+    "type": "website",
+    "notes": "\"Semantics and shit\", lol! "
   }
 ]
