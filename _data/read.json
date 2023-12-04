@@ -3634,5 +3634,22 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=xRCqDwAAQBAJ",
     "dateFinished": "2023-12-04"
+  },
+  {
+    "isbn": "9781952616150",
+    "dateStarted": "2023-12-04",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Inclusive Design Communities",
+    "authors": [
+      "Sameera Kapila"
+    ],
+    "publishedDate": "2022-10-04",
+    "description": "What does it mean to be a member of a community? And how do we ensure that our communities-from classrooms to workplaces to meetups-are welcoming to all who want to be a part of them? Sameera Kapila answers those questions and more by examining how our identities intersect with our design practices. Whether you're a student, educator, practicing designer, manager, recruiter, mentor, or organizer, you'll learn to notice subconscious bias, interrogate your values, and actively create welcoming spaces for all. Inclusive Design Communities will empower you to build the design industry you want to see-the one we all deserve.",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=M2WVzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Inclusive_Design_Communities.html?hl=&id=M2WVzwEACAAJ"
   }
 ]
