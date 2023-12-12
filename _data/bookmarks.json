@@ -1609,5 +1609,20 @@
     "image": "bookmark-blakewatsoncom-omglol-an-oasis-on-the-internet.png",
     "type": "",
     "notes": "omg.lol is a gateway into the fun side of the web. It is one of many places on the modern web doing things right."
+  },
+  {
+    "title": "My complete blogging workflow | Michael Harley",
+    "site": "",
+    "author": "",
+    "date": "2023-12-12",
+    "description": "Here is my complete blogging workflow from how I manage ideas all the way to publishing and sharing.",
+    "url": "https://michaelharley.net/posts/2022/01/29/my-complete-blogging-workflow/",
+    "image": "bookmark-my-complete-blogging-workflow-michael-harley.jpg",
+    "type": "website",
+    "notes": "I love reading about other peoples workflows. Michael provides great detail into his, with a similar tech stack. I almost want to try hosting my site on a VPS again. The front matter extension sounds like a great addition as I’m not currently populating time attributes to my posts and this causes issues with my feeds when I post multiple times a day!",
+    "tags": [
+      "blogging",
+      "web"
+    ]
   }
 ]
