@@ -1635,5 +1635,16 @@
     "image": "bookmark-css-in-real-life-what-to-blog-about-when-you-dont-know-what-to-blog-about.png",
     "type": "website",
     "notes": "I really like 13. Here’s an interesting thing someone else has to say. Here’s my take on it. I’d love to do more of 16. This is what I’ve been reading/watching/listening to recently."
+  },
+  {
+    "title": "CSS { In Real Life } | Choosing a Green Web Host",
+    "site": "CSS { In Real Life } | Choosing a Green Web Host",
+    "author": "",
+    "date": "2023-12-13",
+    "description": "",
+    "url": "https://css-irl.info/choosing-a-green-web-host/",
+    "image": "bookmark-css-in-real-life-choosing-a-green-web-host.png",
+    "type": "website",
+    "notes": "I’ve always been interested in green web hosting but it seems difficult to determine whether or not a host really is “green”…"
   }
 ]
