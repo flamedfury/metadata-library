@@ -14,7 +14,7 @@
     "title": "Overthinking my blog",
     "site": "Oh Hello Ana",
     "author": "Ana Rodrigues",
-    "date": "2020-03-04",
+    "date": "2020-03-04",z
     "description": "Ana's personal blog",
     "url": "https://ohhelloana.blog/overthinking-my-blog/",
     "image": "bookmark-oh-hello-ana.jpg",
@@ -1626,8 +1626,8 @@
     ]
   },
   {
-    "title": "CSS { In Real Life } | What to Blog About When You Don’t Know What to Blog About",
-    "site": "CSS { In Real Life } | What to Blog About When You Don’t Know What to Blog About",
+    "title": "What to Blog About When You Don’t Know What to Blog About",
+    "site": "CSS In Real Life",
     "author": "",
     "date": "2023-12-13",
     "description": "",
@@ -1637,8 +1637,8 @@
     "notes": "I really like 13. Here’s an interesting thing someone else has to say. Here’s my take on it. I’d love to do more of 16. This is what I’ve been reading/watching/listening to recently."
   },
   {
-    "title": "CSS { In Real Life } | Choosing a Green Web Host",
-    "site": "CSS { In Real Life } | Choosing a Green Web Host",
+    "title": "Choosing a Green Web Host",
+    "site": "CSS In Real Life",
     "author": "",
     "date": "2023-12-13",
     "description": "",
