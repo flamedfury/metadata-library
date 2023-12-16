@@ -4,6 +4,7 @@ run-name: Book (${{ inputs.isbn }})
 # Grant the action permission to write to the repository
 permissions:
   contents: write
+  pull-requests: write
 
 # Trigger the action
 on:
@@ -54,7 +55,7 @@ jobs:
           token: ${{ secrets.METADATA_PUSH }}
           
       - name: Read
-        uses: katydecorah/read-action@v7.2.0
+        uses: katydecorah/read-action@v7.4.0
         with:
           thumbnail-width: 1280
           time-zone: Pacific/Auckland
@@ -89,3 +90,8 @@ jobs:
           gh pr create -B main -H "review-book-${{env.BookIsbn}}" --fill
         env:
           GH_TOKEN: ${{ github.token }}
+
+      - name: Now reading
+        if: steps.read_action.outputs.nowReading != ''
+        run: |
+          echo "Now reading: ${{ steps.read_action.outputs.nowReading }}"
