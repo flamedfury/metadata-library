@@ -1626,6 +1626,21 @@
     ]
   },
   {
+    "title": "Page not found",
+    "site": "",
+    "author": "",
+    "date": "2023-12-12",
+    "description": "Maker of web things, Lego builder, sometimes blogger, sporadic pizzaiolo, fortnightly podcaster. Cat dad and human dad.",
+    "url": "https://rknight.me/404.html",
+    "image": "bookmark-page-not-found.png",
+    "type": "article",
+    "notes": "Expose your RSS feed. I have a link up the top, and down below.",
+    "tags": [
+      "web",
+      "blogging"
+    ]
+  },
+  {
     "title": "Choosing a Green Web Host",
     "site": "CSS { In Real Life }",
     "author": "",
