@@ -1387,6 +1387,20 @@
     "notes": "A great post with lots of great customisations and hacks for the Kobo for when I make my eventual upgrade to the Libra 2"
   },
   {
+    "title": "The internet used to be fun",
+    "site": "",
+    "author": "",
+    "date": "2023-10-14",
+    "description": "",
+    "url": "https://projects.kwon.nyc/internet-is-fun/",
+    "type": "",
+    "notes": "A continually updated collection of posts and blogs about the Internet. Lots of great reads in there, including my one of my own.",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20231128132347/https://projects.kwon.nyc/internet-is-fun/"
+  },
+  {
     "title": "Old Web, New Web, Indie Web - petermolnar.net",
     "site": "",
     "author": "Peter Molnar <mail@petermolnar.net>",
