@@ -1674,5 +1674,19 @@
     "image": "bookmark-let-us-forget-that-the-internet-exists.jpg",
     "type": "article",
     "notes": "Let us forget that the internet exists"
+  },
+  {
+    "title": "A Linux evening",
+    "site": "",
+    "author": "",
+    "date": "2023-12-17",
+    "description": "",
+    "url": "https://fabiensanglard.net/a_linux_evening/index.html",
+    "type": "",
+    "notes": "This was a fantastic read, the final paragraph sums it up nicely, \"The author, dkozel, never came back to answer. I imagine they typed the solution on a 40% keyboard featuring unmarked keys and then rolled into the sunset on a Segway for which they had compiled the kernel themselves. Completely oblivious of their awesomeness and of how many people would later find solace in their prose.\"",
+    "tags": [
+      "linux"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20230710081118/https://fabiensanglard.net/a_linux_evening/index.html"
   }
 ]
