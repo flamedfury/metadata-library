@@ -19,14 +19,12 @@ on:
         type: string
 
 jobs:
-  add_bookmark:
+  add-bookmark:
     runs-on: macOS-latest
     name: Add bookmark
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.METADATA_PUSH }}
       - name: Bookmark action
         uses: katydecorah/bookmark-action@v6.3.0
         with:
@@ -41,4 +39,3 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A && git commit -m  "Bookmark ${{ env.BookmarkTitle }}"
           git push
-
