@@ -3676,8 +3676,8 @@
   {
     "isbn": "9781405528252",
     "dateStarted": "2023-12-11",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "The First Fifteen Lives of Harry August",
     "authors": [
       "Claire North"
@@ -3691,6 +3691,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=AZShAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/The_First_Fifteen_Lives_of_Harry_August.html?hl=&id=AZShAQAAQBAJ"
+    "link": "https://books.google.com/books/about/The_First_Fifteen_Lives_of_Harry_August.html?hl=&id=AZShAQAAQBAJ",
+    "dateFinished": "2023-12-18",
+    "notes": "What a fantastic book. I wasn't sure I was going to enjoy it at the start. Super glad I stuck with it."
   }
 ]
