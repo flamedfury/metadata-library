@@ -3638,7 +3638,7 @@
   {
     "isbn": "9781952616150",
     "dateStarted": "2023-12-04",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Inclusive Design Communities",
     "authors": [
@@ -3650,7 +3650,8 @@
     "printType": "BOOK",
     "thumbnail": "https://books.google.com/books/content?id=M2WVzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Inclusive_Design_Communities.html?hl=&id=M2WVzwEACAAJ"
+    "link": "https://books.google.com/books/about/Inclusive_Design_Communities.html?hl=&id=M2WVzwEACAAJ",
+    "dateFinished": "2023-12-08"
   },
   {
     "isbn": "9781541762374",
