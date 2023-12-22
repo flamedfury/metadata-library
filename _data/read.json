@@ -3695,5 +3695,25 @@
     "link": "https://books.google.com/books/about/The_First_Fifteen_Lives_of_Harry_August.html?hl=&id=AZShAQAAQBAJ",
     "dateFinished": "2023-12-18",
     "notes": "What a fantastic book. I wasn't sure I was going to enjoy it at the start. Super glad I stuck with it."
+  },
+  {
+    "isbn": "9781982101954",
+    "dateStarted": "2023-12-22",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Idiot",
+    "authors": [
+      "Laura Clery"
+    ],
+    "publishedDate": "2020-12-01",
+    "description": "From nationally bestselling author, YouTube star, and Facebook Video sensation Laura Clery comes a collection of comedic essays that paint “an honest, complicated portrait of how your life can change” (SheKnows). Laura Clery makes a living by sharing inappropriate comedy sketches with millions of strangers on the internet. She writes songs about her anatomy, talks trash about her one-eyed rescue pug, and sexually harasses her husband, Stephen. And it pays the bills! Now, in her first-ever book, Laura recounts how she went from being a dangerously impulsive, broke, unemployable, suicidal, cocaine-addicted narcissist, crippled by fear and hopping from one toxic romance to the next…to a more-happy-than-not, somewhat rational, meditating, vegan yogi with good credit, a great marriage, a fantastic career, and four unfortunate-looking rescue animals. Still, above all, Laura remains an amazingly talented, adorable, and vulnerable, self-described…Idiot. With her signature brand of offbeat, no-holds-barred humor, Idiot introduces you to a wildly original—and undeniably relatable—new voice.",
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+      "Humor"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=aOgGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Idiot.html?hl=&id=aOgGEAAAQBAJ"
   }
 ]
