@@ -3715,5 +3715,25 @@
     "thumbnail": "https://books.google.com/books/content?id=aOgGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Idiot.html?hl=&id=aOgGEAAAQBAJ"
+  },
+  {
+    "isbn": "9780609610930",
+    "dateStarted": "2023-12-25",
+    "status": "started",
+    "rating": "unrated",
+    "title": "All the Rave",
+    "authors": [
+      "Joseph Menn"
+    ],
+    "publishedDate": "2003",
+    "description": "At age seventeen, Shawn Fanning designed a computer program that transformed the Internet into an unlimited library of free music. Tens of millions of young people quickly signed on, Time magazine put Fanning on its cover, and his company, Napster, became a household name. It did not take long for the music industry to declare war, one that has now engulfed the biggest entertainment and technology companies on the planet. ForAll the Rave, top cyberculture journalist Joseph Menn gained unprecedented access to Fanning, other key Napster and music executives, reams of internal e-mails, unpublished court records, and other resources. The result is the definitive account of the Napster saga, for the first time revealing secret take-over and settlement talks, the unseen role of Shawn’s uncle in controlling Napster, and hidden agendas and infighting from Napster’s trenches to the top ranks of the German media giant Bertelsmann. All the Raveis a riveting account of genius and greed, visionary leaps and disastrous business decisions, and the clash of the hacker and investor cultures with that of the copyright establishment. Napster left a generation of music fans feeling that paying the recording industry close to twenty dollars for a CD was a foolish and unnecessary extravagance, which provoked a still-growing backlash against digital media consumers that might leave them with less control than ever. Here is the inside story of the young visionary and the company that made it happen.",
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+      "Music trade"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=vz4UAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/All_the_Rave.html?hl=&id=vz4UAQAAIAAJ"
   }
 ]
