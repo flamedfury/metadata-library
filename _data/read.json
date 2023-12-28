@@ -3699,7 +3699,7 @@
   {
     "isbn": "9781982101954",
     "dateStarted": "2023-12-22",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Idiot",
     "authors": [
@@ -3714,7 +3714,9 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=aOgGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Idiot.html?hl=&id=aOgGEAAAQBAJ"
+    "link": "https://books.google.com/books/about/Idiot.html?hl=&id=aOgGEAAAQBAJ",
+    "dateFinished": "2023-12-28",
+    "notes": "Didn't know anything about Laura before reading this. Was interesting enough. Classic battling with addiction before making it type life story."
   },
   {
     "isbn": "9780609610930",
