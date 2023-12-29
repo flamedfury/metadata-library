@@ -1703,5 +1703,19 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20231104232643/http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html"
+  },
+  {
+    "title": "The Web is Fantastic",
+    "site": "",
+    "author": "",
+    "date": "2023-12-29",
+    "description": "No not that web. The real web.",
+    "url": "https://rknight.me/blog/the-web-is-fantastic/",
+    "image": "bookmark-the-web-is-fantastic.png",
+    "type": "article",
+    "notes": "The Web is fantastic. I agree with Robb. He covers a lot of stuff that makes the Web a fantastic place. If you read my site, you'll see me saying the same things!",
+    "tags": [
+      "web"
+    ]
   }
 ]
