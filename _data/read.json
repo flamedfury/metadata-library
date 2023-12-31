@@ -199,25 +199,25 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=7Q4R3RHe8AQC"
   },
-  {
-    "isbn": "9780230761711",
+    {
+    "isbn": "9781742629612",
     "dateFinished": "2011-10-09",
     "status": "finished",
-    "rating": "unrated",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Manhattan in Reverse",
     "authors": [
       "Peter F. Hamilton"
     ],
-    "publishedDate": "2011-10-07",
-    "description": "In this collection of short stories, Peter F. Hamilton draws you into an array of captivating tales. These exciting glimpses into his worlds are not to be missed – and as Ken Follett says, ‘each short story has enough ideas for a whole novel’. Manhattan in Reverse features the author’s popular detective Paula Myo, from his bestselling Commonwealth books. Other stories include Watching Trees Grow – a murder mystery set in an alternative 1800s Oxford – and The Forever Kitten. This questions eternal youth and the sacrifices required to pursue it. With all his usual brilliantly conceived storytelling, Peter F. Hamilton’s talents are on full display.",
+    "publishedDate": "2011-10-01",
+    "description": "A short story collection from one of the world's bestselling science-fiction writers. A collection of short stories from the master of space opera. Peter F. Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a brand new story featuring Paula Mayo, Deputy Director of the Intersolar Commonwealth's Serious Crimes Directorate. Dealing with intricate themes and topical subjects, this top ten bestselling author is at the top of his game.",
     "pageCount": 262,
     "printType": "BOOK",
     "categories": [
       "Fiction"
     ],
-    "thumbnail": "https://books.google.com/books/content?id=OqNE7Ru3IrIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=N0ff2-h6l_0C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Manhattan_in_Reverse.html?hl=&id=OqNE7Ru3IrIC"
+    "link": "https://books.google.com/books/about/Manhattan_in_Reverse.html?hl=&id=N0ff2-h6l_0C"
   },
   {
     "isbn": "9780316462433",
@@ -3737,25 +3737,5 @@
     "thumbnail": "https://books.google.com/books/content?id=vz4UAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/All_the_Rave.html?hl=&id=vz4UAQAAIAAJ"
-  },
-  {
-    "isbn": "9781742629612",
-    "dateFinished": "2011-10-09",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️⭐️",
-    "title": "Manhattan in Reverse",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "publishedDate": "2011-10-01",
-    "description": "A short story collection from one of the world's bestselling science-fiction writers. A collection of short stories from the master of space opera. Peter F. Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a brand new story featuring Paula Mayo, Deputy Director of the Intersolar Commonwealth's Serious Crimes Directorate. Dealing with intricate themes and topical subjects, this top ten bestselling author is at the top of his game.",
-    "pageCount": 262,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=N0ff2-h6l_0C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Manhattan_in_Reverse.html?hl=&id=N0ff2-h6l_0C"
   }
 ]
