@@ -199,7 +199,7 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=7Q4R3RHe8AQC"
   },
-    {
+  {
     "isbn": "9781742629612",
     "dateFinished": "2011-10-09",
     "status": "finished",
@@ -3721,8 +3721,8 @@
   {
     "isbn": "9780609610930",
     "dateStarted": "2023-12-25",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "All the Rave",
     "authors": [
       "Joseph Menn"
@@ -3736,6 +3736,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=vz4UAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/All_the_Rave.html?hl=&id=vz4UAQAAIAAJ"
+    "link": "https://books.google.com/books/about/All_the_Rave.html?hl=&id=vz4UAQAAIAAJ",
+    "dateFinished": "2023-12-31",
+    "notes": "I wanted more Napster story and less lawsuit info!"
   }
 ]
