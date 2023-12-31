@@ -3737,5 +3737,25 @@
     "thumbnail": "https://books.google.com/books/content?id=vz4UAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/All_the_Rave.html?hl=&id=vz4UAQAAIAAJ"
+  },
+  {
+    "isbn": "9781742629612",
+    "dateFinished": "2011-10-09",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "title": "Manhattan in Reverse",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2011-10-01",
+    "description": "A short story collection from one of the world's bestselling science-fiction writers. A collection of short stories from the master of space opera. Peter F. Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a brand new story featuring Paula Mayo, Deputy Director of the Intersolar Commonwealth's Serious Crimes Directorate. Dealing with intricate themes and topical subjects, this top ten bestselling author is at the top of his game.",
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=N0ff2-h6l_0C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Manhattan_in_Reverse.html?hl=&id=N0ff2-h6l_0C"
   }
 ]
