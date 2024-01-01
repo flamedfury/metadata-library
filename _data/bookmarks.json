@@ -1745,5 +1745,18 @@
       "web",
       "blogging"
     ]
+  },
+  {
+    "title": "Ashton",
+    "site": "",
+    "author": "",
+    "date": "2024-01-01",
+    "description": "",
+    "url": "https://aiston.scungled.gay/projects/thoughts/web",
+    "type": "",
+    "notes": "“ We ought to be able not only to find any kind of document on the Web, but also to create any kind of document, easily. We should be able not only to follow links, but to create them - between all sorts of media. We should be able not only to interact with other people, but to create with other people.” And “ My takeaway after reading a lot of Tim's work was very much of the idea that the web is about the connections we make and about creating more strands to form those connections with. The web isn't just about having information readily available, but having the option to readily make available your own information, and linking that information with other information. The web isn't just meant to be about consuming media but rather it is meant to be a tool to allow people to share their own media, in a variety of formats, and to form connections between their media and other media.”",
+    "tags": [
+      "web"
+    ]
   }
 ]
