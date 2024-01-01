@@ -1731,5 +1731,19 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "The Guiding Principles of My Personal Website",
+    "site": "",
+    "author": "",
+    "date": "2024-01-01",
+    "description": "",
+    "url": "https://bikobatanari.art/posts/2023/core-tenets",
+    "type": "",
+    "notes": "\"Core Website Tenets\" focus on the mindsets of website building rather than the technical workflows or frameworks. They lean towards handcrafting everything from the html on the pages, to the graphics and other assets to the intentional thinking of how each page is crafted and conveys information. ",
+    "tags": [
+      "web",
+      "blogging"
+    ]
   }
 ]
