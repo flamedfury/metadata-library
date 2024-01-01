@@ -1717,5 +1717,19 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "The Internet Is About to Get Weird Again",
+    "site": "Rolling Stone",
+    "author": "Anil Dash",
+    "date": "2024-01-01",
+    "description": "The internet seems ripe for change, and millions of people seem poised to connect in new ways, as they reconsider their relationship to technology.",
+    "url": "https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/",
+    "image": "bookmark-the-internet-is-about-to-get-weird-again.jpg",
+    "type": "article",
+    "notes": "I’m all for more small scale web projects being created this year. More cool services like omg.lol is what the Web needs!",
+    "tags": [
+      "web"
+    ]
   }
 ]
