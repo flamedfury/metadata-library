@@ -1788,5 +1788,19 @@
       "OpenWeb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240101211400/https://bix.blog/2024/01/01/the-year-for-blogging-to-pump-up-the-volume/"
+  },
+  {
+    "title": "Static Site Generator Cheat Sheet & FAQ",
+    "site": "",
+    "author": "",
+    "date": "2024-01-02",
+    "description": "One person is typing.",
+    "url": "https://www.cassey.dev/ssg-faq/",
+    "image": "bookmark-static-site-generator-cheat-sheet-faq.png",
+    "type": "",
+    "notes": "Cassie added a little page to their site to jot down the answers to those questions when they find them, with an easy URL to bookmark. Fantastic idea!",
+    "tags": [
+      "11ty"
+    ]
   }
 ]
