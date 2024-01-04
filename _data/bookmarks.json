@@ -1802,5 +1802,19 @@
     "tags": [
       "11ty"
     ]
+  },
+  {
+    "title": "EveryoneShouldBlog.txt",
+    "site": "the library of alexandra",
+    "author": "",
+    "date": "2024-01-04",
+    "description": "Everyone Should Blog, And That Includes You",
+    "url": "https://library.xandra.cc/everyone-should-blog/",
+    "type": "article",
+    "notes": "“i want and wish for more people feel like they themselves can be what they show the world—not just their work or their projects. i want to read your thoughts, your feelings, your perceptions of the world as it's happening around you.”",
+    "tags": [
+      "Web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20231231043638/https://library.xandra.cc/everyone-should-blog/"
   }
 ]
