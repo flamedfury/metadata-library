@@ -1869,5 +1869,19 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240105231733/https://library.xandra.cc/"
+  },
+  {
+    "title": "NoTechSaviors.txt",
+    "site": "the library of alexandra",
+    "author": "",
+    "date": "2024-01-07",
+    "description": "No Tech Saviors in Hobbyist Spaces",
+    "url": "https://library.xandra.cc/no-tech-saviors/",
+    "type": "article",
+    "notes": "Xandra talks about creating and encouraging more welcoming environments in the small/personal/open/indie web space. Remember, nobody really cares if you're an expert, just be chill.",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240106112205/https://library.xandra.cc/no-tech-saviors/"
   }
 ]
