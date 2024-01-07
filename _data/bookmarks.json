@@ -1841,5 +1841,19 @@
       "web",
       "OpenWeb"
     ]
+  },
+  {
+    "title": "The web is yours | James' Coffee Blog",
+    "site": "",
+    "author": "",
+    "date": "2024-01-07",
+    "description": "The web is yours.",
+    "url": "https://jamesg.blog/2024/01/06/the-web-is-yours/",
+    "image": "bookmark-the-web-is-yours-james-coffee-blog.jpg",
+    "type": "",
+    "notes": "If you haven't got the message yet, James has more convincing for you to start your own website.",
+    "tags": [
+      "web"
+    ]
   }
 ]
