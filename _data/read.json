@@ -3743,8 +3743,8 @@
   {
     "isbn": "9780735243354",
     "dateStarted": "2023-01-02",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Tomorrow, and Tomorrow, and Tomorrow",
     "authors": [
       "Gabrielle Zevin"
@@ -3758,6 +3758,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=JrpHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Tomorrow_and_Tomorrow_and_Tomorrow.html?hl=&id=JrpHEAAAQBAJ"
+    "link": "https://books.google.com/books/about/Tomorrow_and_Tomorrow_and_Tomorrow.html?hl=&id=JrpHEAAAQBAJ",
+    "dateFinished": "2024-01-08",
+    "notes": "Beautiful story."
   }
 ]
