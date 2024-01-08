@@ -3761,5 +3761,25 @@
     "link": "https://books.google.com/books/about/Tomorrow_and_Tomorrow_and_Tomorrow.html?hl=&id=JrpHEAAAQBAJ",
     "dateFinished": "2024-01-08",
     "notes": "Beautiful story."
+  },
+  {
+    "isbn": "9781761063862",
+    "dateStarted": "2024-01-08",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Remember Me",
+    "authors": [
+      "Charity Norman"
+    ],
+    "publishedDate": "2022-03-01",
+    "description": "A heartfelt, page-turning suspense novel from the bestselling author of The Secrets of Strangers - ideal reading-group fiction, perfect for fans of Jodi Picoult and Liane Moriarty. Shortlisted for the Ngaio Marsh Award for Best Novel 'An atmospheric and emotional tale of family, mystery and love ... an extraordinarily talented storyteller.' Kelly Rimmer, author of bestselling The Warsaw Orphan They never found Leah Parata. Not a boot, not a backpack, not a turquoise beanie. After she left me that day, she vanished off the face of the earth. A close-knit community is ripped apart by disturbing revelations that cast new light on a young woman's disappearance twenty-five years ago. After years of living overseas, Emily Kirkland returns to New Zealand to care for her father, Felix, who suffers from dementia. As his memory fades and his guard slips, she begins to understand him for the first time - and to glimpse shattering truths about his past. Truths she'd rather were kept buried. A heartfelt, page-turning suspense novel from the bestselling author of The Secrets of Strangers - ideal reading-group fiction, perfect for fans of Jodi Picoult and Liane Moriarty. Praise for The Secrets of Strangers: 'If you're looking for an engrossing, heart-stopping and heart-breaking read, you simply cannot go past this.' - Kelly Rimmer, bestselling author of Truths I Never Told You '... moving, raw and insightful ...' - Good Reading '... compelling and moving ...' - New Zealand Herald 'The narrative is as tense and well-written as any Jodi Picoult drama...a terrific suspense novel.' - Sunday Star-Times",
+    "pageCount": 326,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=0XlREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=0XlREAAAQBAJ"
   }
 ]
