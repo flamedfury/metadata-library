@@ -3783,5 +3783,24 @@
     "link": "https://play.google.com/store/books/details?id=0XlREAAAQBAJ",
     "dateFinished": "2024-01-12",
     "notes": "Fantastic story. I wasn't expecting it to go the way it did. The accents in the audiobook version were horrible. Needed to be read by a Kiwi."
+  },
+  {
+    "isbn": "9781877514319",
+    "dateStarted": "2024-01-12",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Hustlers, Rogues and Bubble Boys",
+    "authors": [
+      "Graeme Hunt"
+    ],
+    "description": "A detailed and engaging history of white-collar crime: con artists, desperate businesspeople and hustlers based in New Zealand but with tentacles reaching worldwide.",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "categories": [
+      "Commercial criminals"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=r-fkwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Hustlers_Rogues_and_Bubble_Boys.html?hl=&id=r-fkwAEACAAJ"
   }
 ]
