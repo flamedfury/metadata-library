@@ -3765,8 +3765,8 @@
   {
     "isbn": "9781761063862",
     "dateStarted": "2024-01-08",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Remember Me",
     "authors": [
       "Charity Norman"
@@ -3780,6 +3780,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=0XlREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=0XlREAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=0XlREAAAQBAJ",
+    "dateFinished": "2024-01-12",
+    "notes": "Fantastic story. I wasn't expecting it to go the way it did. The accents in the audiobook version were horrible. Needed to be read by a Kiwi."
   }
 ]
