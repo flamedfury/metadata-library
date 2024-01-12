@@ -1854,5 +1854,20 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240106112205/https://library.xandra.cc/no-tech-saviors/"
+  },
+  {
+    "title": "Your site, your home, your web • Cory Dransfeldt",
+    "site": "",
+    "author": "",
+    "date": "2024-01-12",
+    "description": "A brief, perhaps unoriginal, plea to have fun sharing and building on the web.",
+    "url": "https://coryd.dev/posts/2024/your-site-your-home-your-web/",
+    "image": "bookmark-your-site-your-home-your-web-cory-dransfeldt.jpg",
+    "type": "article",
+    "notes": "Cory looks at how the fracturing of social media platforms has created an opportunity for people to explore new ways of self-expression online with a personal website or blog as a great outlet. Our personal websites allow us a place of sharing and connecting with others. If you know how to build for the web, help by sharing that knowledge.",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240110052309/https://coryd.dev/posts/2024/your-site-your-home-your-web/"
   }
 ]
