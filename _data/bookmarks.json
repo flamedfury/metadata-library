@@ -1928,5 +1928,18 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240106002316/https://maerk.xyz/blog/you-should-have-a-website/"
+  },
+  {
+    "title": "tool and die » saturn.town",
+    "site": "saturn.town",
+    "author": "",
+    "date": "2024-01-12",
+    "description": "",
+    "url": "https://saturn.town/2024/01/04/tool-and-die.html",
+    "type": "website",
+    "notes": "Celebrating simple tools",
+    "tags": [
+      "web"
+    ]
   }
 ]
