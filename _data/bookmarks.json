@@ -1869,5 +1869,20 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240110052309/https://coryd.dev/posts/2024/your-site-your-home-your-web/"
+  },
+  {
+    "title": "gilest.org: Make the indie web easier",
+    "site": "",
+    "author": "",
+    "date": "2024-01-12",
+    "description": "",
+    "url": "https://gilest.org/indie-easy.html",
+    "type": "",
+    "notes": "I agree that creating and publishing for the web needs to be easier for **everyone**, not just developers. But are more tools the best way to go about it?",
+    "tags": [
+      "web",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240111034606/https://gilest.org/indie-easy.html"
   }
 ]
