@@ -1941,5 +1941,19 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "The quest for purging my bookmarks - Łukasz Wójcik, Blog",
+    "site": "",
+    "author": "",
+    "date": "2024-01-12",
+    "description": "In January 2023 I woke up to my browser bar containing dozens, if not hundreds, of unsorted links I never touched again.",
+    "url": "https://blog.lukaszwojcik.net/the-quest-for-purging-my-bookmarks/",
+    "image": "bookmark-the-quest-for-purging-my-bookmarks-ukasz-wjcik-blog.jpg",
+    "type": "article",
+    "notes": "I think it's time to nuke my browser bookmarks and pocket reading list and close all open tabs...",
+    "tags": [
+      "productivity"
+    ]
   }
 ]
