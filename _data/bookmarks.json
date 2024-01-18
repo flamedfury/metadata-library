@@ -1970,5 +1970,19 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240108103710/https://indieseek.xyz/2024/01/05/the-state-of-the-independent-web-2022-updated-2024/"
+  },
+  {
+    "title": "LongLiveWebpages.txt",
+    "site": "the library of alexandra",
+    "author": "",
+    "date": "2024-01-18",
+    "description": "over the past couple of weeks, i've been pleasantly surprised at discourse popping up on my feeds, surrounding creating your own blog, making the independent...",
+    "url": "https://library.xandra.cc/long-live-webpages/",
+    "type": "article",
+    "notes": "Xandra has shared another thought-provoking post as a follow-up to last week's internet discourse on making the web more accessible. Xandra talks about websites that go beyond a simple blog. This made me think that an About page would be unnecessary if we filled our websites with our interests. Web surfers would quickly get a better idea of who we are from the pages on our websites than they could from a couple of lines on an About page.",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240117203357/https://library.xandra.cc/long-live-webpages/"
   }
 ]
