@@ -3806,8 +3806,8 @@
   {
     "isbn": "9780857532015",
     "dateStarted": "2023-01-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "The Screaming Staircase",
     "authors": [
       "Jonathan Stroud"
@@ -3821,6 +3821,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=lfJ9AAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/The_Screaming_Staircase.html?hl=&id=lfJ9AAAAQBAJ"
+    "link": "https://books.google.com/books/about/The_Screaming_Staircase.html?hl=&id=lfJ9AAAAQBAJ",
+    "dateFinished": "2024-01-20"
   }
 ]
