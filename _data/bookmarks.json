@@ -1999,5 +1999,21 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240112211758/https://localghost.dev/blog/remembering-the-early-00s-teen-website-scene/"
+  },
+  {
+    "title": "How I deploy my Eleventy site to Neocities - localghost",
+    "site": "localghost",
+    "author": "",
+    "date": "2024-01-21",
+    "description": "My setup for automatically deploying my Eleventy site to Neocities from GitHub.",
+    "url": "https://localghost.dev//blog/how-i-deploy-my-eleventy-site-to-neocities/",
+    "image": "bookmark-how-i-deploy-my-eleventy-site-to-neocities-localghost.png",
+    "type": "website",
+    "notes": "Last week I said there needs to be more 11ty tutorials outside of Netlify. Sophie drops this one for deploying to Neocities. A great look into her 11ty to Neocities workflow (the same as mine!)",
+    "tags": [
+      "web",
+      "11ty",
+      "neocities"
+    ]
   }
 ]
