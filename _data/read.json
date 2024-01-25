@@ -2378,6 +2378,28 @@
     "link": "https://play.google.com/store/books/details?id=ZSu2DQAAQBAJ"
   },
   {
+    "isbn": "9781988575971",
+    "dateStarted": "2023-04-16",
+    "dateFinished": "2023-04-17",
+    "status": "finished",
+    "rating": "unrated",
+    "notes": "A fantastic way to read/listen to his blog posts.",
+    "title": "Hell Yeah Or No",
+    "authors": [
+      "Derek Sivers"
+    ],
+    "publishedDate": "2022-05",
+    "description": "Useful wisdom. Simple profound mental models to guide your decisions. What's worth doing, fixing faulty thinking, and making things happen.",
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+      "Self-actualization (Psychology)"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=feWfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Hell_Yeah_Or_No.html?hl=&id=feWfzgEACAAJ"
+  },
+  {
     "isbn": "9781937557102",
     "dateStarted": "2023-04-14",
     "status": "finished",
