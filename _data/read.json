@@ -3870,5 +3870,26 @@
     "thumbnail": "https://books.google.com/books/content?id=zN9IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=zN9IEAAAQBAJ"
+  },
+  {
+    "isbn": "9781784704001",
+    "dateStarted": "2023-04-18",
+    "dateFinished": "2023-04-20",
+    "status": "finished",
+    "rating": "unrated",
+    "notes": "An interesting approach to time, time management, productivity and whether doing things actually matter. How might we allow our selves to do the things that satisfy or make us happy.",
+    "title": "Four Thousand Weeks",
+    "authors": [
+      "Oliver Burkeman"
+    ],
+    "publishedDate": "2022-04-07",
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+      "Self-Help"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=rsB8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ"
   }
 ]
