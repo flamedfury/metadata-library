@@ -3721,5 +3721,26 @@
     "thumbnail": "https://books.google.com/books/content?id=QGkHs4pExOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=QGkHs4pExOQC"
+  },
+  {
+    "isbn": "9780241251003",
+    "dateStarted": "2023-03-30",
+    "dateFinished": "2023-04-03",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)",
+    "authors": [
+      "Philippa Perry"
+    ],
+    "publishedDate": "2019-03-07",
+    "description": "THE #1 SUNDAY TIMES BESTSELLER 'A wonderful book' Richard Osman 'So clear and true ... Helpful for all relationships in life' Nigella Lawson 'A fascinating read on the emotional baggage we all carry' Elizabeth Day ______________________________________________________________________________________ How can we have better relationships? In this Sunday Times bestseller, leading psychotherapist Philippa Perry reveals the vital do's and don'ts of relationships. This is a book for us all. Whether you are interested in understanding how your upbringing has shaped you, looking to handle your child's feelings or wishing to support your partner, you will find indispensable information and realistic tips in these pages. Philippa Perry's sane, sage and judgement-free advice is an essential resource on how to have the best possible relationships with the people who matter to you most. _____________________________________________________________________________________ 'It gave me hope as a new parent' Babita Sharma 'This has genuinely had such a positive impact on my life and my relationship with my daughter' Josh Widdicombe 'She writes with an inquisitive elegance rarely found in parenting guides ... it is forgiving and persuasive' Hadley Freeman, the Guardian 'Philippa Perry is one of the wisest, most sane and secure people I've ever met' Decca Aitkenhead, Sunday Times Magazine",
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+      "Family & Relationships"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=YHxqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Book_You_Wish_Your_Parents_Had_Read.html?hl=&id=YHxqDwAAQBAJ"
   }
 ]
