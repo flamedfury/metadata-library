@@ -3903,5 +3903,25 @@
     "thumbnail": "https://books.google.com/books/content?id=JlSNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/A_Dance_with_Dragons.html?hl=&id=JlSNDQAAQBAJ"
+  },
+  {
+    "isbn": "9780575087743",
+    "dateFinished": "2011-10-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Revelation Space",
+    "authors": [
+      "Alastair Reynolds"
+    ],
+    "publishedDate": "2009-12-10",
+    "description": "The legendary space opera that kicked off the ground-breaking, universe-spanning series. Nine hundred thousand years ago, something wiped out the Amarantin. For the human colonists now settling the Amarantin homeworld Resurgam, it's of little more than academic interest, even after the discovery of a long-hidden, almost perfect Amarantin city and a colossal statue of a winged Amarantin. For brilliant but ruthless scientist Dan Sylveste, it's more than merelty intellectual curiosity - and he will stop at nothing to get at the truth. Even if the truth costs him everything. But the Amarantin were wiped out for a reason, and that danger is closer and greater than even Syveste imagines ... REVELATION SPACE: a huge, magnificent space opera that ranges across the known and unknown universe ... towards the most terrifying of destinations. Readers are hooked on Revelation Space: 'An amazing blend of space opera, hard SF, and gothic horror that reads like a cross between Frank Herbert's \"Dune\" and Ridley Scott's film \"Alien\"' Goodreads reviewer, ⭐ ⭐ ⭐ ⭐ ⭐ 'Marvellous hard space opera. Slowly built, with three story lines which at some point merge together, it depicts a very dark universe, full of technological wonders, both human and alien' Goodreads reviewer, ⭐ ⭐ ⭐ ⭐ ⭐ 'Revelation Space series is one of the favouritest favourites . . . Reynolds held me in thrall with his vision' Goodreads reviewer, ⭐ ⭐ ⭐ ⭐ ⭐ 'The setting is a gritty, desolate, and unforgiving universe in which humanity finds itself in imminent danger of extinction . . . I highly recommend it to all adult fans of space opera, cyberpunk, and horror genres' Goodreads reviewer, ⭐ ⭐ ⭐ ⭐ ⭐ 'A darn good, solid, well executed work of hard sci-fi . . . I really appreciate that Revelation Space ends in a satisfying and self-contained way' Goodreads reviewer, ⭐ ⭐ ⭐ ⭐ ⭐ 'Awesome characters, awesome setting, awesome ideas, awesome awesome awesome . . .' Goodreads reviewer, ⭐ ⭐ ⭐ ⭐ ⭐",
+    "pageCount": 469,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=RQM5AgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Revelation_Space.html?hl=&id=RQM5AgAAQBAJ"
   }
 ]
