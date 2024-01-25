@@ -3805,5 +3805,26 @@
     "thumbnail": "https://books.google.com/books/content?id=JvAyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=JvAyDwAAQBAJ"
+  },
+  {
+    "isbn": "9781250185464",
+    "dateStarted": "2023-04-09",
+    "dateFinished": "2023-04-09",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Exit Strategy",
+    "authors": [
+      "Martha Wells"
+    ],
+    "publishedDate": "2018-10-02",
+    "description": "Martha Wells returns to her Hugo, Nebula, Alex, and Locus Award-winning, New York Times and USA Today bestselling series, The Murderbot Diaries, in Exit Strategy. Murderbot wasn’t programmed to care. So, its decision to help the only human who ever showed it respect must be a system glitch, right? Having traveled the width of the galaxy to unearth details of its own murderous transgressions, as well as those of the GrayCris Corporation, Murderbot is heading home to help Dr. Mensah—its former owner (protector? friend?)—submit evidence that could prevent GrayCris from destroying more colonists in its never-ending quest for profit. But who’s going to believe a SecUnit gone rogue? And what will become of it when it’s caught? \"I love Murderbot!\" —Ann Leckie The Murderbot Diaries All Systems Red Artificial Condition Rogue Protocol Exit Strategy Network Effect Fugitive Telemetry System Collapse At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=hCBGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=hCBGDwAAQBAJ"
   }
 ]
