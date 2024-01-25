@@ -3913,5 +3913,26 @@
     "thumbnail": "https://books.google.com/books/content?id=rsB8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ"
+  },
+  {
+    "isbn": "9780063051072",
+    "dateStarted": "2023-04-23",
+    "dateFinished": "2023-04-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Eclipse the Moon",
+    "authors": [
+      "Jessie Mihalik"
+    ],
+    "publishedDate": "2022-07-12",
+    "description": "Acclaimed author Jessie Mihalik returns with an exciting new novel about a rainbow-haired female bounty hunter tasked with preventing an interstellar war. Kee Ildez has been many things: hacker, soldier, bounty hunter. She never expected to be a hero, but when a shadowy group of traitors starts trying to goad the galaxy’s two superpowers into instigating an interstellar war, Kee throws herself into the search to find out who is responsible—and stop them. Digging up hidden information is her job, so hunting traitors should be a piece of cake, but the primary suspect spent years in the military, and someone powerful is still covering his tracks. Disrupting their plans will require the help of her entire team, including Varro Runkow, a Valovian weapons expert who makes her pulse race. Quiet, grumpy, and incredibly handsome, Varro watches her with hot eyes but ignores all of her flirting, so Kee silently vows to keep her feelings strictly platonic. But that vow will be put to the test when she and Varro are forced to leave the safety of their ship and venture into enemy territory alone. Cut off from the rest of their team, they must figure out how to work together—and fast—because a single misstep will cost thousands of lives.",
+    "pageCount": 355,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=7nlHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=7nlHEAAAQBAJ"
   }
 ]
