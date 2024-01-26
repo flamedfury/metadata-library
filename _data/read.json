@@ -280,6 +280,26 @@
     "link": "https://play.google.com/store/books/details?id=zou9DwAAQBAJ"
   },
   {
+    "isbn": "9780007290185",
+    "dateFinished": "2012-03-30",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "A Crown Imperilled (The Chaoswar Saga, Book 2)",
+    "authors": [
+      "Raymond E. Feist"
+    ],
+    "publishedDate": "2012-02-20",
+    "description": "The penultimate volume of the mighty Riftwar Cycle",
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=RZGd7J6ugS8C&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_Crown_Imperilled_The_Chaoswar_Saga_Boo.html?hl=&id=RZGd7J6ugS8C"
+  },
+  {
     "isbn": "9780230225879",
     "dateFinished": "2013-03-15",
     "status": "finished",
