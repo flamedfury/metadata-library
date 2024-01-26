@@ -3610,8 +3610,8 @@
   {
     "isbn": "9781526660657",
     "dateStarted": "2024-01-20",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Lioness",
     "authors": [
       "Emily Perkins"
@@ -3625,6 +3625,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=yke9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Lioness.html?hl=&id=yke9EAAAQBAJ"
+    "link": "https://books.google.com/books/about/Lioness.html?hl=&id=yke9EAAAQBAJ",
+    "dateFinished": "2024-01-26",
+    "notes": "This was a fantastic story. Local author, local story set in my local area."
   }
 ]
