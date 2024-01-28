@@ -17,6 +17,9 @@ on:
       tags:
         description: Add tags to categorize the book. Separate each tag with a comma. Optional.
         type: string
+      quote:
+        description: Add a quote from the bookmark. Optional.
+        type: string
 
 jobs:
   add-bookmark:
@@ -26,7 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Bookmark action
-        uses: katydecorah/bookmark-action@v6.3.0
+        uses: katydecorah/bookmark-action@v6.4.0
         with:
           fileName: _data/bookmarks.json
       - name: Download the thumbnail image
