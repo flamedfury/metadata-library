@@ -3494,5 +3494,25 @@
     "thumbnail": "https://books.google.com/books/content?id=745CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=745CEAAAQBAJ"
+  },
+  {
+    "isbn": "9780316229302",
+    "dateFinished": "2022-04-29",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "title": "The Fifth Season",
+    "authors": [
+      "N. K. Jemisin"
+    ],
+    "publishedDate": "2015-08-04",
+    "description": "At the end of the world, a woman must hide her secret power and find her kidnapped daughter in this \"intricate and extraordinary\" Hugo Award winning novel of power, oppression, and revolution. (The New York Times) This is the way the world ends. . .for the last time. It starts with the great red rift across the heart of the world's sole continent, spewing ash that blots out the sun. It starts with death, with a murdered son and a missing daughter. It starts with betrayal, and long dormant wounds rising up to fester. This is the Stillness, a land long familiar with catastrophe, where the power of the earth is wielded as a weapon. And where there is no mercy. Read the first book in the critically acclaimed, three-time Hugo award-winning trilogy by NYT bestselling author N. K. Jemisin.",
+    "pageCount": 483,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=J0tIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=J0tIAgAAQBAJ"
   }
 ]
