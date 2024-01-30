@@ -1064,6 +1064,26 @@
     "link": "https://books.google.com/books/about/Strange_Dogs.html?hl=&id=L6skDwAAQBAJ"
   },
   {
+    "isbn": "9781509831555",
+    "dateFinished": "2017-08-28",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "A Window Into Time",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publishedDate": "2016-07-28",
+    "description": "A Window Into Time is a gripping novella from bestselling science fiction writer, Peter F. Hamilton. Teenager Julian has perfect recall, which means he has trouble finding his place in the world. But he really does know his own mind. So when he starts experiencing someone else's memories, which are also tantalizing glimpses of the future, Julian realizes he must find out why. And as he comes to know this unmet friend, it becomes clear that this man is in danger. Julian resolves to do everything in his power to track him down – a journey which takes him to the heart of London's commercial district, home to the city's financial elite. He can't give up, as he might just prevent a murder.",
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=8dq-CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_Window_Into_Time.html?hl=&id=8dq-CwAAQBAJ"
+  },
+  {
     "isbn": "9781630080655",
     "dateFinished": "2018-02-14",
     "status": "finished",
