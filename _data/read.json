@@ -984,6 +984,26 @@
     "link": "https://books.google.com/books/about/World_of_Warcraft_Illidan.html?hl=&id=T1fiCwAAQBAJ"
   },
   {
+    "isbn": "9780575090569",
+    "dateFinished": "2016-11-14",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Revenger",
+    "authors": [
+      "Alastair Reynolds"
+    ],
+    "publishedDate": "2016-09-15",
+    "description": "The galaxy has seen great empires rise and fall. Planets have shattered and been remade. Amongst the ruins of alien civilisations, building our own from the rubble, humanity still thrives. And there are vast fortunes to be made, if you know where to find them . . . Captain Rackamore and his crew do. It's their business to find the tiny, enigmatic worlds which have been hidden away, booby-trapped, surrounded with layers of protection - and to crack them open for the ancient relics and barely-remembered technologies inside. But while they ply their risky trade with integrity, not everyone is so scrupulous. Adrana and Fura Ness are the newest members of Rackamore's crew, signed on to save their family from bankruptcy. Only Rackamore has enemies, and there might be more waiting for them in space than adventure and fortune: the fabled and feared Bosa Sennen in particular. Revenger is a science fiction adventure story set in the rubble of our solar system in the dark, distant future - a tale of space pirates, buried treasure and phantom weapons, of unspeakable hazards and single-minded heroism . . . and of vengeance . . .",
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=ZioKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Revenger.html?hl=&id=ZioKDAAAQBAJ"
+  },
+  {
     "isbn": "9781477848357",
     "dateFinished": "2017-07-28",
     "status": "finished",
