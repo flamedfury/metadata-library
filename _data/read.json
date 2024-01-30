@@ -696,6 +696,26 @@
     "link": "https://play.google.com/store/books/details?id=Hn41AgAAQBAJ"
   },
   {
+    "isbn": "9780356504216",
+    "dateFinished": "2014-07-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Churn",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2014-04-29",
+    "description": "The Churn is a novella that expands the world of James S. A. Corey's New York Times bestselling Expanse series - now a Prime Original TV series. Before his trip to the stars, before the Rocinante, Amos Burton was confined to a Baltimore where crime paid you or killed you. Unless the authorities got to you first. The Expanse series: Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath Praise for the Expanse: 'The science fictional equivalent of A Song of Ice and Fire' NPR Books 'As close as you'll get to a Hollywood blockbuster in book form' io9.com 'Great characters, excellent dialogue, memorable fights' wired.com 'High adventure equalling the best space opera has to offer, cutting-edge technology and a group of unforgettable characters . . . Perhaps one of the best tales the genre has yet to produce' Library Journal 'This is the future the way it's supposed to be' Wall Street Journal 'Tense and thrilling' SciFiNow",
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=RoI5AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Churn.html?hl=&id=RoI5AwAAQBAJ"
+  },
+  {
     "isbn": "9781405525848",
     "dateFinished": "2015-01-04",
     "status": "finished",
