@@ -3473,5 +3473,26 @@
     "thumbnail": "https://books.google.com/books/content?id=jBQbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=jBQbEAAAQBAJ"
+  },
+  {
+    "isbn": "9780593566633",
+    "dateFinished": "2022-03-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Evershore (Skyward Flight: Novella 3)",
+    "authors": [
+      "Brandon Sanderson",
+      "Janci Patterson"
+    ],
+    "publishedDate": "2021-12-28",
+    "description": "From #1 bestselling author Brandon Sanderson and Janci Patterson comes the final of three Skyward series novellas, each told from the perspective of a different member of the team back on Detritus. Listen to Jorgen's story along with Cytonic. With the government of Detritus in disarray because of Superiority treachery, and with Spensa still away on her mission in the Nowhere, Jorgen must work together with the alien Alanik to pick up the pieces. They intercept a strange transmission from the planet Evershore and its Kitsen inhabitants, who say they have some of Jorgen’s people and want to return them—but can the Kitsen be trusted? And can Jorgen learn to master his increasingly erratic cytonic powers before they spiral out of control and destroy all hope of forming an alliance against the Superiority? Praise for Skyward An Instant New York Times Bestseller A Kirkus Reviews Best Book of the Year • \"Startling revelations and stakes-raising implications . . . Sanderson plainly had a ball with this nonstop, highflying opener, and readers will too.\" —Kirkus Reviews, starred review • \"With this action-packed trilogy opener, Sanderson offers up a resourceful, fearless heroine and a memorable cast.\" —Publishers Weekly, starred review • \"It is impossible to turn the pages fast enough.\" —Booklist",
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+      "Young Adult Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=745CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=745CEAAAQBAJ"
   }
 ]
