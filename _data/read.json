@@ -1388,6 +1388,26 @@
     "link": "https://play.google.com/store/books/details?id=kNSSDwAAQBAJ"
   },
   {
+    "isbn": "9780007541355",
+    "dateFinished": "2020-09-21",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Queen of Storms (The Firemane Saga, Book 2)",
+    "authors": [
+      "Raymond E. Feist"
+    ],
+    "publishedDate": "2020-07-14",
+    "description": "Dark and powerful forces threaten the world of Garn once more in this second novel in legendary New York Times bestselling author Raymond E. Feist’s epic fantasy series, the Firemane Saga",
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=y3-hDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Queen_of_Storms_The_Firemane_Saga_Book_2.html?hl=&id=y3-hDwAAQBAJ"
+  },
+  {
     "isbn": "9781092472364",
     "dateFinished": "2021-06-20",
     "status": "finished",
