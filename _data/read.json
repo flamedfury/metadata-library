@@ -380,6 +380,26 @@
     "link": "https://play.google.com/store/books/details?id=HFJYRWxLXUMC"
   },
   {
+    "isbn": "9781743036617",
+    "dateFinished": "2013-03-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Stealing Light: Shoal 1",
+    "authors": [
+      "Gary Gibson"
+    ],
+    "publishedDate": "2007-12-01",
+    "description": "In the 25th century, only the Shoal possess the secret of faster-than-light travel (FTL), giving them absolute control over all trade and exploration throughout the galaxy. Mankind has operated within their influence for two centuries, establishing a dozen human colony worlds scattered along Shoal trade routes. Dakota Merrick, while serving as a military pilot, has witnessed atrocities for which this alien race is responsible. Now piloting a civilian cargo ship, she is currently ferrying an exploration team to a star system containing a derelict starship. From its wreckage, her passengers hope to salvage a functioning FTL drive of mysteriously non-Shoal origin. But the Shoal are not yet ready to relinquish their monopoly over a technology they acquired through ancient genocide.",
+    "pageCount": 529,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=cEvLtZlGJLoC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Stealing_Light_Shoal_1.html?hl=&id=cEvLtZlGJLoC"
+  },
+  {
     "isbn": "9780575088078",
     "dateFinished": "2014-01-15",
     "status": "finished",
