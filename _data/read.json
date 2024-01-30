@@ -1288,6 +1288,26 @@
     "link": "https://play.google.com/store/books/details?id=H6x-DwAAQBAJ"
   },
   {
+    "isbn": "9780007500413",
+    "dateFinished": "2019-07-03",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "title": "A Knight of the Seven Kingdoms",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "publishedDate": "2015-10-06",
+    "description": "A century before A GAME OF THRONES, two unlikely heroes wandered Westeros... A KNIGHT OF THE SEVEN KINGDOMS compiles the first three official prequel novellas to George R.R. Martin’s ongoing masterwork, A SONG OF ICE AND FIRE.",
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=mk-dBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_Knight_of_the_Seven_Kingdoms.html?hl=&id=mk-dBAAAQBAJ"
+  },
+  {
     "isbn": "9780062953827",
     "dateFinished": "2020-06-21",
     "status": "finished",
