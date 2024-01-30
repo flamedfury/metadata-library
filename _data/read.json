@@ -596,6 +596,26 @@
     "link": "https://books.google.com/books/about/The_Wise_Man_s_Fear.html?hl=&id=qUW5js7ZD7UC"
   },
   {
+    "isbn": "9780473182595",
+    "dateFinished": "2014-02-04",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Madness of Hallen",
+    "authors": [
+      "Russell Meek"
+    ],
+    "publishedDate": "2011-02",
+    "description": "\"Half a millennia ago, battle raged on the desert sands of the Great Depression. A land of tribal warriors, scattered and leaderless, was finally united under one mind, a man proclaimed as Husam Al-Din, the Sword of the Faith. On the dark day of his death, Al-Din's priests tore his mind apart, preventing his treacherous wife, Maymunah, from taking control of the armies. They disappeared beyond the borders of the known lands, taking with them six harmonic stones containing the mind of Al-Din, leaving the tribes leaderless and united only by faith. Revenge vowed, Maymunah set her ancestors on a quest to recover the lost stones that contained her husband's power. Centuries passed as nothing was found, until, some twenty generations later, in an ice cave deep in the Meil'vohllen Mountains, Hallen made a discovery that would change the world forever. Unable to contain the power of the stones, Hallen's mind was lost, and for three further generations the daughters of Maymunah have only heard whispers in the wind ...\"--Publisher description.",
+    "pageCount": 443,
+    "printType": "BOOK",
+    "categories": [
+      "Brothers"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=BWz7tgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Madness_of_Hallen.html?hl=&id=BWz7tgAACAAJ"
+  },
+  {
     "isbn": "9781405525848",
     "dateFinished": "2015-01-04",
     "status": "finished",
