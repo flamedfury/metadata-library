@@ -1124,6 +1124,26 @@
     "link": "https://play.google.com/store/books/details?id=cxNVDgAAQBAJ"
   },
   {
+    "isbn": "9781630080655",
+    "dateFinished": "2018-02-14",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "A Second Chance at Sarah",
+    "authors": [
+      "Neil Druckmann"
+    ],
+    "publishedDate": "2014-09-02",
+    "description": "As his wife Sarah lies dying, John makes a deal with a demon for a desperate chance to save her! Transported to their childhood, John gets a single day to prevent the tragedy that led to Sarah’s present-day doom, all while trying to convince her that he really is who he says! * An original graphic novel from the Last of Us creative director!",
+    "pageCount": 99,
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=0-9dBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/A_Second_Chance_at_Sarah.html?hl=&id=0-9dBAAAQBAJ"
+  },
+  {
     "isbn": "9781942788355",
     "dateFinished": "2019-03-22",
     "status": "finished",
