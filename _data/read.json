@@ -3554,5 +3554,25 @@
     "thumbnail": "https://books.google.com/books/content?id=tDPWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Stone_Sky.html?hl=&id=tDPWDAAAQBAJ"
+  },
+  {
+    "isbn": "9781785655043",
+    "dateFinished": "2022-07-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "World of Warcraft: Sylvanas",
+    "authors": [
+      "Christie Golden"
+    ],
+    "publishedDate": "2022-04-11",
+    "description": "The epic, long-awaited definitive story of Sylvanas Windrunner, one of World of Warcraft's most enduring and iconic characters. Ranger-General. Banshee Queen. Warchief. Sylvanas Windrunner has borne many titles. To some, she is a hero... to others, a villain. But whether in pursuit of justice, vengeance, or something more, Sylvanas has always sought to control her own destiny. The power to achieve her goals has never been closer, as Sylvanas works alongside the Jailer to liberate all Azeroth from the prison of fate. Her final task? Secure the fealty of their prisoner—King Anduin Wrynn. To succeed, Sylvanas will be forced to reflect on the harrowing path that brought her to the Jailer's side, and reveal her truest self to her greatest rival. Here, Sylvanas' complete story is laid bare: from the breaking of the Windrunner family and her rise to Ranger-General; to her own death at the hands of Arthas and her renewed purpose in founding the Forsaken; to the moment she first beheld the Maw, and understood the true consequences of what lay beyond the veil of death. But as her moment of victory draws near, Sylvanas Windrunner will make a choice that may ultimately come to define her. A choice that's hers to make.",
+    "pageCount": 410,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=BoM6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/World_of_Warcraft_Sylvanas.html?hl=&id=BoM6EAAAQBAJ"
   }
 ]
