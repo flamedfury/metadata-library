@@ -3635,5 +3635,25 @@
     "thumbnail": "https://books.google.com/books/content?id=u25NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Master_of_Furies_The_Firemane_Saga_Book.html?hl=&id=u25NEAAAQBAJ"
+  },
+  {
+    "isbn": "9780007369867",
+    "dateFinished": "2022-10-10",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships",
+    "authors": [
+      "Leil Lowndes"
+    ],
+    "publishedDate": "2013-03-07",
+    "description": "Never be at a loss for words again! Perfect your people skills with his fun, witty and informative guide, containing 92 little tricks to create big success in personal and business relationships.",
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+      "Psychology"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=q3pHOXF3vzAC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/How_to_Talk_to_Anyone_92_Little_Tricks_f.html?hl=&id=q3pHOXF3vzAC"
   }
 ]
