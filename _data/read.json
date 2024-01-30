@@ -1164,6 +1164,26 @@
     "link": "https://play.google.com/store/books/details?id=n7JfDwAAQBAJ"
   },
   {
+    "isbn": "9780008301194",
+    "dateFinished": "2018-05-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "King of Ashes (The Firemane Saga, Book 1)",
+    "authors": [
+      "Raymond E. Feist"
+    ],
+    "publishedDate": "2018-04-05",
+    "description": "A new novel from internationally bestselling author Raymond E. Feist.",
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=vuhLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/King_of_Ashes_The_Firemane_Saga_Book_1.html?hl=&id=vuhLDwAAQBAJ"
+  },
+  {
     "isbn": "9781942788355",
     "dateFinished": "2019-03-22",
     "status": "finished",
