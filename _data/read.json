@@ -716,6 +716,26 @@
     "link": "https://books.google.com/books/about/The_Churn.html?hl=&id=RoI5AwAAQBAJ"
   },
   {
+    "isbn": "9780987434739",
+    "dateFinished": "2014-08-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Mothership",
+    "authors": [
+      "Stephen Renneberg"
+    ],
+    "publishedDate": "2013-06-17",
+    "description": "A special forces team from Area 51 investigates the crash of an alien Mothership in a remote tropical forest in northern Australia",
+    "pageCount": 585,
+    "printType": "BOOK",
+    "categories": [
+      "Human-alien encounters"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=SGZsnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Mothership.html?hl=&id=SGZsnQEACAAJ"
+  },
+  {
     "isbn": "9781405525848",
     "dateFinished": "2015-01-04",
     "status": "finished",
