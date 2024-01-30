@@ -560,6 +560,26 @@
     "link": "https://play.google.com/store/books/details?id=IqCdnDe9ZOQC"
   },
   {
+    "isbn": "9780756404741",
+    "dateFinished": "2013-12-20",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Name of the Wind",
+    "authors": [
+      "Patrick Rothfuss"
+    ],
+    "publishedDate": "2008-04-01",
+    "description": "Discover #1 New York Times-bestselling Patrick Rothfuss’ epic fantasy series, The Kingkiller Chronicle. “I just love the world of Patrick Rothfuss.” —Lin-Manuel Miranda • “He’s bloody good, this Rothfuss guy.” —George R. R. Martin • “Rothfuss has real talent.” —Terry Brooks OVER 1 MILLION COPIES SOLD! DAY ONE: THE NAME OF THE WIND My name is Kvothe. I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. I have talked to Gods, loved women, and written songs that make the minstrels weep. You may have heard of me. So begins a tale unequaled in fantasy literature—the story of a hero told in his own voice. It is a tale of sorrow, a tale of survival, a tale of one man’s search for meaning in his universe, and how that search, and the indomitable will that drove it, gave birth to a legend. Praise for The Kingkiller Chronicle: “The best epic fantasy I read last year.... He’s bloody good, this Rothfuss guy.” —George R. R. Martin, New York Times-bestselling author of A Song of Ice and Fire “Rothfuss has real talent, and his tale of Kvothe is deep and intricate and wondrous.” —Terry Brooks, New York Times-bestselling author of Shannara \"It is a rare and great pleasure to find a fantasist writing...with true music in the words.\" —Ursula K. Le Guin, award-winning author of Earthsea \"The characters are real and the magic is true.” —Robin Hobb, New York Times-bestselling author of Assassin’s Apprentice \"Masterful.... There is a beauty to Pat's writing that defies description.\" —Brandon Sanderson, New York Times-bestselling author of Mistborn",
+    "pageCount": 738,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=zFGJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Name_of_the_Wind.html?hl=&id=zFGJEAAAQBAJ"
+  },
+  {
     "isbn": "9780575088078",
     "dateFinished": "2014-01-15",
     "status": "finished",
