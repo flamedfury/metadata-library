@@ -964,6 +964,26 @@
     "link": "https://books.google.com/books/about/The_Vital_Abyss.html?hl=&id=DsMkCgAAQBAJ"
   },
   {
+    "isbn": "9781785652424",
+    "dateFinished": "2016-04-18",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "World of Warcraft: Illidan",
+    "authors": [
+      "William King"
+    ],
+    "publishedDate": "2016-04-12",
+    "description": "Illidan Stormrage is one of the most powerful beings ever to walk the lands of Azeroth. He is also one of the least understood. Behind his legend, beneath his enigmatic mission, lies a brilliant mind whose machinations are comprehended by few - and trusted by even fewer. Illidan's righteous reign of justice and vengeance has begun, taking the stunning adventure, intrigue, and heroism of World of Warcraft to a new level.",
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=T1fiCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/World_of_Warcraft_Illidan.html?hl=&id=T1fiCwAAQBAJ"
+  },
+  {
     "isbn": "9781477848357",
     "dateFinished": "2017-07-28",
     "status": "finished",
