@@ -3433,5 +3433,25 @@
     "thumbnail": "https://books.google.com/books/content?id=ofmzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=ofmzEAAAQBAJ"
+  },
+  {
+    "isbn": "9780759557895",
+    "dateFinished": "2022-02-20",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Far from the Light of Heaven",
+    "authors": [
+      "Tade Thompson"
+    ],
+    "publishedDate": "2021-10-26",
+    "description": "“Simultaneously brutally grounded and wildly imaginative.” —Adrian Tchaikovsky, Arthur C. Clarke Award winner A tense and thrilling vision of humanity’s future in the chilling emptiness of space from rising giant in science fiction, Arthur C. Clarke Award winner Tade Thompson The colony ship Ragtime docks in the Lagos system, having traveled light-years to bring one thousand sleeping souls to a new home among the stars. But when first mate Michelle Campion rouses, she discovers some of the sleepers will never wake. Answering Campion’s distress call, investigator Rasheed Fin is tasked with finding out who is responsible for these deaths. Soon a sinister mystery unfolds aboard the gigantic vessel, one that will have repercussions for the entire system—from the scheming politicians of Lagos station, to the colony planet Bloodroot, to other far-flung systems, and indeed to Earth itself. Praise for Far from the Light of Heaven \"Gripping and skillfully told, with an economy and freshness of approach that is all Tade Thompson''s own. The setting is interstellar, but it feels as real, immediate, and lethal as today's headlines.\" —Alastair Reynolds \"[I]nventive, exciting and compulsively readable...This book is like the Tardis, larger inside than out, with a range of ideas, characters, and fascinating future settings making it probably the best science fiction novel of the year.\" —The Guardian For more from Tade Thompson, check out: The Wormwood Trilogy Rosewater Rosewater: Insurrection Rosewater: Redemption",
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=jBQbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=jBQbEAAAQBAJ"
   }
 ]
