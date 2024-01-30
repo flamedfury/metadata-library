@@ -636,6 +636,26 @@
     "link": "https://play.google.com/store/books/details?id=CJ9v9IL15pcC"
   },
   {
+    "isbn": "9781451605754",
+    "dateFinished": "2014-03-15",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "World of Warcraft: Wolfheart",
+    "authors": [
+      "Richard A. Knaak"
+    ],
+    "publishedDate": "2011-09-13",
+    "description": "\"New York Times\"-bestselling author Knaak continues the thrilling story begun in the record-breaking MMO game expansion World of Warcraft: Cataclysm in this new hardcover.",
+    "pageCount": 386,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=jEFmxjDjZcoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/World_of_Warcraft_Wolfheart.html?hl=&id=jEFmxjDjZcoC"
+  },
+  {
     "isbn": "9781405525848",
     "dateFinished": "2015-01-04",
     "status": "finished",
