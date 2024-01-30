@@ -3514,5 +3514,25 @@
     "thumbnail": "https://books.google.com/books/content?id=J0tIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=J0tIAgAAQBAJ"
+  },
+  {
+    "isbn": "9780356504896",
+    "dateFinished": "2022-05-17",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Obelisk Gate",
+    "authors": [
+      "N. K. Jemisin"
+    ],
+    "publishedDate": "2016-08-16",
+    "description": "Winner of the Hugo Award for Best Novel The second book in the record-breaking triple Hugo Award-winning trilogy The season of endings grows darker, as civilization fades into the long cold night. Essun has found shelter, but not her missing daughter. Instead there is Alabaster Tenring, destroyer of the world, with a request only Essun can grant. Praise for this trilogy: 'Amazing' Ann Leckie 'Breaks uncharted ground' Library Journal 'Beautiful' Nnedi Okorafor 'Astounding' NPR 'Brilliant' Washington Post 'Heartbreaking, wholly unexpected' Brian Staveley 'Awesome' Book Smugglers 'A powerful story of hope and survival' The Root The Broken Earth trilogy begins with The Fifth Season, continues in The Obelisk Gate and concludes with The Stone Sky - out now. Also by N. K. Jemisin: The Inheritance trilogy The Hundred Thousand Kingdoms The Broken Kingdoms The Kingdom of Gods The Dreamblood Duology The Killing Moon The Shadowed Sun",
+    "pageCount": 281,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=vNBfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Obelisk_Gate.html?hl=&id=vNBfCgAAQBAJ"
   }
 ]
