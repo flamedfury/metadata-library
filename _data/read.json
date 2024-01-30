@@ -3574,5 +3574,25 @@
     "thumbnail": "https://books.google.com/books/content?id=BoM6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/World_of_Warcraft_Sylvanas.html?hl=&id=BoM6EAAAQBAJ"
+  },
+  {
+    "isbn": "9781405520782",
+    "dateFinished": "2022-07-28",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Butcher of Anderson Station",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2012-07-02",
+    "description": "The Butcher of Anderson Station is a short story that expands the world of James S. A. Corey's New York Times bestselling Expanse series - now a Prime Original TV series. One day, Colonel Fred Johnson will be hailed as a hero to the system. One day, he will meet a desperate man in possession of a stolen spaceship and a deadly secret and extend a hand of friendship. But long before he became the leader of the Outer Planets Alliance, Fred Johnson had a very different name. The Butcher of Anderson Station. This is his story. The Expanse series: Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath Praise for the Expanse: 'The science fictional equivalent of A Song of Ice and Fire' NPR Books 'As close as you'll get to a Hollywood blockbuster in book form' io9.com 'Great characters, excellent dialogue, memorable fights' wired.com 'High adventure equalling the best space opera has to offer, cutting-edge technology and a group of unforgettable characters . . . Perhaps one of the best tales the genre has yet to produce' Library Journal 'This is the future the way it's supposed to be' Wall Street Journal 'Tense and thrilling' SciFiNow",
+    "pageCount": 35,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=J39D3XCDpWgC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Butcher_of_Anderson_Station.html?hl=&id=J39D3XCDpWgC"
   }
 ]
