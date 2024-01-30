@@ -3534,5 +3534,25 @@
     "thumbnail": "https://books.google.com/books/content?id=vNBfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Obelisk_Gate.html?hl=&id=vNBfCgAAQBAJ"
+  },
+  {
+    "isbn": "9780356504902",
+    "dateFinished": "2022-06-27",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "The Stone Sky",
+    "authors": [
+      "N. K. Jemisin"
+    ],
+    "publishedDate": "2017-08-15",
+    "description": "WINNER OF THE HUGO AWARD WINNER OF THE NEBULA AWARD WINNER OF THE LOCUS AWARD FOR BEST FANTASY An Amazon Best Book of the Year The incredible conclusion to the record-breaking triple Hugo award-winning trilogy that began with the The Fifth Season The Moon will soon return. Whether this heralds the destruction of humankind or something worse will depend on two women. Essun has inherited the phenomenal power of Alabaster Tenring. With it, she hopes to find her daughter Nassun and forge a world in which every outcast child can grow up safe. For Nassun, her mother's mastery of the Obelisk Gate comes too late. She has seen the evil of the world, and accepted what her mother will not admit: that sometimes what is corrupt cannot be cleansed, only destroyed. Praise for this trilogy: 'Amazing' Ann Leckie 'Breaks uncharted ground' Library Journal 'Beautiful' Nnedi Okorafor 'Astounding' NPR 'Brilliant' Washington Post The Broken Earth trilogy begins with The Fifth Season, continues in The Obelisk Gate and concludes with The Stone Sky - out now. Also by N. K. Jemisin: The Inheritance trilogy The Hundred Thousand Kingdoms The Broken Kingdoms The Kingdom of Gods The Dreamblood Duology The Killing Moon The Shadowed Sun",
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=tDPWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Stone_Sky.html?hl=&id=tDPWDAAAQBAJ"
   }
 ]
