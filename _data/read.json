@@ -676,6 +676,27 @@
     "link": "https://play.google.com/store/books/details?id=qYijfgz4acgC"
   },
   {
+    "isbn": "9780316402460",
+    "dateFinished": "2014-07-10",
+    "status": "finished",
+    "rating": "unrated",
+    "title": "Cibola Burn",
+    "authors": [
+      "James S. A. Corey",
+      "OverDrive, Inc"
+    ],
+    "publishedDate": "2014-08-06",
+    "description": "The gates have opened the way to thousands of habitable planets, and the land rush has begun. Settlers stream out from humanity's home planets in a vast, poorly controlled flood, landing on a new world. Among them, the Rocinante, haunted by the vast, posthuman network of the protomolecule as they investigate what destroyed the great intergalactic society that built the gates and the protomolecule. But Holden and his crew must also contend with the growing tensions between the settlers and the company which owns the official claim to the planet. Both sides will stop at nothing to defend what's theirs, but soon a terrible disease strikes and only Holden - with help from the ghostly Detective Miller - can find the cure.",
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+      "FICTION"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=N1vyoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Cibola_Burn.html?hl=&id=N1vyoQEACAAJ"
+  },
+  {
     "isbn": "9781405525848",
     "dateFinished": "2015-01-04",
     "status": "finished",
