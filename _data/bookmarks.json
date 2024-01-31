@@ -1531,7 +1531,8 @@
     "notes": "In the early 2000s, the music sharing platform Napster allowed users to view other users' entire music libraries and discover new music. Browsing other users' music collections on Napster felt like exploring the personal libraries of strangers and discovering their musical tastes.",
     "tags": [
       "web"
-    ]
+    ],
+    "quote": "If you wanted to, you could peer into a user’s hard drive – this was the fascinating part. When you found a song you’d long forgotten, or a rare b-side you never even knew existed, you could peruse the rest of the user’s music library and sample their tastes."
   },
   {
     "title": "How Gaming Rigs Grew Up to Become Battle Stations",
@@ -1567,7 +1568,8 @@
     "url": "https://css-irl.info/what-to-blog-about-when-you-dont-know-what-to-blog-about/",
     "image": "bookmark-css-in-real-life-what-to-blog-about-when-you-dont-know-what-to-blog-about.png",
     "type": "website",
-    "notes": "I really like 13. “Here’s an interesting thing someone else has to say. Here’s my take on it.” I’d love to do more of 16. “This is what I’ve been reading/watching/listening to recently.”"
+    "notes": "I really like 13. “Here’s an interesting thing someone else has to say. Here’s my take on it.” I’d love to do more of 16. “This is what I’ve been reading/watching/listening to recently.”",
+    "quote": "Here’s an interesting thing someone else has to say. Here’s my take on it. This is what I’ve been reading/watching/listening to recently."
   },
   {
     "title": "The Village Effect of the Greater Web",
@@ -1589,7 +1591,8 @@
     "url": "/adventcalendar/2023/1/",
     "image": "bookmark-the-ux-of-html-htmhell.png",
     "type": "website",
-    "notes": "\"Semantics and shit\", lol! "
+    "notes": "lol!",
+    "quote": "Semantics and shit"
   },
   {
     "title": "Why are drive-thru menus so hard to read?",
@@ -1600,7 +1603,7 @@
     "url": "https://thespinoff.co.nz/kai/02-12-2023/why-are-drive-thru-menus-so-hard-to-read",
     "image": "bookmark-why-are-drive-thru-menus-so-hard-to-read.png",
     "type": "article",
-    "notes": "I too am terrorised by the modern drive-thru experience. Unless I've planned ahead of visiting I'll default to my standard order missing out on any specials or deals."
+    "notes": "I, too, am terrorised by the modern drive-thru experience. Unless I've planned ahead of visiting, I'll default to my standard order, missing out on any specials or deals."
   },
   {
     "title": "I hate work. — Joan Westenberg",
@@ -1611,7 +1614,8 @@
     "url": "https://joanwestenberg.com/blog/i-hate-work",
     "image": "bookmark-i-hate-work-joan-westenberg.png",
     "type": "article",
-    "notes": "The idea of a work-life balance is a myth. It suggests that work should be as central to our lives as our passions, which is wrong. The truth is this. Work is not my passion. And that’s okay."
+    "notes": "The idea of a work-life balance is a myth. It suggests that work should be as central to our lives as our passions, which is wrong. The truth is this. Work is not my passion. And that’s okay.",
+    "quote": "If given the choice, I would gladly banish it forever. Given the choice, I’d spend hours leisurely lounging by the pool, engrossed in Agatha Christie novels, sipping on ice-cold Diet Coke until noon."
   },
   {
     "title": "blakewatson.com  –  omg.lol: an oasis on the internet",
@@ -1640,12 +1644,12 @@
     ]
   },
   {
-    "title": "Page not found",
+    "title": "Please, Expose your RSS",
     "site": "",
     "author": "",
     "date": "2023-12-12",
-    "description": "Maker of web things, Lego builder, sometimes blogger, sporadic pizzaiolo, fortnightly podcaster. Cat dad and human dad.",
-    "url": "https://rknight.me/404.html",
+    "description": "Please, expose your RSS.",
+    "url": "https://rknight.me/blog/please-expose-your-rss/",
     "image": "bookmark-page-not-found.png",
     "type": "article",
     "notes": "Expose your RSS feed. I have a link up the top, and down below.",
@@ -1684,11 +1688,12 @@
     "description": "",
     "url": "https://fabiensanglard.net/a_linux_evening/index.html",
     "type": "",
-    "notes": "This was a fantastic read, the final paragraph sums it up nicely, \"The author, dkozel, never came back to answer. I imagine they typed the solution on a 40% keyboard featuring unmarked keys and then rolled into the sunset on a Segway for which they had compiled the kernel themselves. Completely oblivious of their awesomeness and of how many people would later find solace in their prose.\"",
+    "notes": "This was a fantastic read, the quote above sums it up nicely.",
     "tags": [
       "linux"
     ],
-    "waybackUrl": "http://web.archive.org/web/20230710081118/https://fabiensanglard.net/a_linux_evening/index.html"
+    "waybackUrl": "http://web.archive.org/web/20230710081118/https://fabiensanglard.net/a_linux_evening/index.html",
+    "quote": "The author, dkozel, never came back to answer. I imagine they typed the solution on a 40% keyboard featuring unmarked keys and then rolled into the sunset on a Segway for which they had compiled the kernel themselves. Completely oblivious of their awesomeness and of how many people would later find solace in their prose."
   },
   {
     "title": "Patterns for Personal Web Sites",
@@ -1716,7 +1721,8 @@
     "notes": "The Web is fantastic. I agree with Robb. He covers a lot of stuff that makes the Web a fantastic place. If you read my site, you'll see me saying the same things!",
     "tags": [
       "web"
-    ]
+    ],
+    "quote": "The real web, the small web, the indie web is amazing. Don't give Facebook and the rest of these clowns your content. Don't give them the time or your attention. Get a blog, a website, a Mastodon account, something you control, and share links to cool things you find. Make a list of your favourite blogs or websites or photos of cats. Write about a pizza you had that was delicious. Share a recipe. Go down a rabbit hole for hours on end adding weird stuff to your site. Just do it somewhere you control because the real web is fantastic."
   },
   {
     "title": "The Internet Is About to Get Weird Again",
@@ -1754,10 +1760,11 @@
     "description": "",
     "url": "https://aiston.scungled.gay/projects/thoughts/web",
     "type": "",
-    "notes": "“ We ought to be able not only to find any kind of document on the Web, but also to create any kind of document, easily. We should be able not only to follow links, but to create them - between all sorts of media. We should be able not only to interact with other people, but to create with other people.” And “ My takeaway after reading a lot of Tim's work was very much of the idea that the web is about the connections we make and about creating more strands to form those connections with. The web isn't just about having information readily available, but having the option to readily make available your own information, and linking that information with other information. The web isn't just meant to be about consuming media but rather it is meant to be a tool to allow people to share their own media, in a variety of formats, and to form connections between their media and other media.”",
+    "notes": "Early sites had links pages that connected to other sites, forming a network of linked pages in the true spirit of the web. Modern sites have become isolated and do not link out to other sites, which goes against the original vision of the interconnected web.",
     "tags": [
       "web"
-    ]
+    ],
+    "quote": "The first proposal for the world wide web was written in March 1989 by Tim Berners-Lee. The idea was to create a web of hypertext documents which could be viewed by anyone with a computer and a browser made specifically for viewing things in this web."
   },
   {
     "title": "Why Personal Websites are Important | Chuck Carroll",
@@ -1767,11 +1774,12 @@
     "description": "",
     "url": "https://chuck.is/web-independent/",
     "type": "",
-    "notes": "“Your website should be the primary place where all of the stuff you create goes. It should be THE place for people to find and communicate with you.”",
+    "notes": "I can't stop talking about the benefits of having a personal website over relying on social media profiles. With social media platforms you're at the mercy of entities that do not care about you. Creating and maintaining personal websites allow you to develop new personal skills. Build more websites.",
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20231127204240/https://chuck.is/web-independent/"
+    "waybackUrl": "http://web.archive.org/web/20231127204240/https://chuck.is/web-independent/",
+    "quote": "Your website should be the primary place where all of the stuff you create goes. It should be THE place for people to find and communicate with you."
   },
   {
     "title": "The Year For Blogging To Pump Up The Volume",
@@ -1811,11 +1819,12 @@
     "description": "Everyone Should Blog, And That Includes You",
     "url": "https://library.xandra.cc/everyone-should-blog/",
     "type": "article",
-    "notes": "“i want and wish for more people feel like they themselves can be what they show the world—not just their work or their projects. i want to read your thoughts, your feelings, your perceptions of the world as it's happening around you.”",
+    "notes": "Xandra want's more out of blogs than just technical topics. Any life no matter how mundane is worth blogging about.",
     "tags": [
       "Web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20231231043638/https://library.xandra.cc/everyone-should-blog/"
+    "waybackUrl": "http://web.archive.org/web/20231231043638/https://library.xandra.cc/everyone-should-blog/",
+    "quote": "i want and wish for more people feel like they themselves can be what they show the world—not just their work or their projects. i want to read your thoughts, your feelings, your perceptions of the world as it's happening around you."
   },
   {
     "title": "Neatnik Notes · The power to _not_",
@@ -1825,7 +1834,8 @@
     "description": "",
     "url": "https://notes.neatnik.net/2024/01/the-power-to-not",
     "type": "",
-    "notes": "“The kindest thing you can do for yourself is to just not engage. Leave it alone. Go look at something else that’s nice instead, and forget about it.”"
+    "notes": "I sometimes find myself in front of a comment or a post that screams for a response. The best thing I can do is leave it alone.",
+    "quote": "The kindest thing you can do for yourself is to just not engage. Leave it alone. Go look at something else that’s nice instead, and forget about it."
   },
   {
     "title": "The web is yours | James' Coffee Blog",
@@ -1923,11 +1933,12 @@
     "description": "People don’t really make personal websites anymore. The homepage of Squarespace makes it obvious that most people use websites for business and social media for “themselves.” Maybe I’m the weird one, but I think having a digital canvas where you can do anything you can think of is the coolest shit ever. For most people, different combinations of social media websites have replaced the need for a personal website, but they are not the same thing.",
     "url": "http://maerk.xyz/blog/you-should-have-a-website/",
     "type": "",
-    "notes": "\"People don’t really make personal websites anymore.\" so build more websites!",
+    "notes": "Build more websites!",
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240106002316/https://maerk.xyz/blog/you-should-have-a-website/"
+    "waybackUrl": "http://web.archive.org/web/20240106002316/https://maerk.xyz/blog/you-should-have-a-website/",
+    "quote": "People don’t really make personal websites anymore"
   },
   {
     "title": "tool and die » saturn.town",
@@ -1965,11 +1976,12 @@
     "url": "https://indieseek.xyz/2024/01/05/the-state-of-the-independent-web-2022-updated-2024/",
     "image": "bookmark-the-state-of-the-independent-web-2022-updated-2024.jpg",
     "type": "article",
-    "notes": "Directories have come and gone, and new search engines have appeared. Blogrolls, links pages and RSS feeds are making a come back. Static website hosts continue to appear. Forums are back. There is a gap for hosted tools; what could we do in this space? Overall, the independent and open web is looking healthy.",
+    "notes": "There is a gap for hosted tools; what could we do in this space? Overall, the independent and open web is looking healthy.",
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240108103710/https://indieseek.xyz/2024/01/05/the-state-of-the-independent-web-2022-updated-2024/"
+    "waybackUrl": "http://web.archive.org/web/20240108103710/https://indieseek.xyz/2024/01/05/the-state-of-the-independent-web-2022-updated-2024/",
+    "quote": "Directories have come and gone, and new search engines have appeared. Blogrolls, links pages and RSS feeds are making a come back. Static website hosts continue to appear. Forums are back. There is a gap for hosted tools"
   },
   {
     "title": "LongLiveWebpages.txt",
