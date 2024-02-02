@@ -3354,69 +3354,6 @@
     "link": "https://books.google.com/books/about/Hustlers_Rogues_and_Bubble_Boys.html?hl=&id=r-fkwAEACAAJ"
   },
   {
-    "isbn": "9780857532015",
-    "dateStarted": "2023-01-15",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️",
-    "title": "The Screaming Staircase",
-    "authors": [
-      "Jonathan Stroud"
-    ],
-    "publishedDate": "2013",
-    "description": "Follows three young operatives of a Psychic Detection Agency as they battle an epidemic of ghosts in London",
-    "pageCount": 467,
-    "printType": "BOOK",
-    "categories": [
-      "Children's stories"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=lfJ9AAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/The_Screaming_Staircase.html?hl=&id=lfJ9AAAAQBAJ",
-    "dateFinished": "2024-01-20"
-  },
-  {
-    "isbn": "9781526660657",
-    "dateStarted": "2024-01-20",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️⭐️",
-    "title": "Lioness",
-    "authors": [
-      "Emily Perkins"
-    ],
-    "publishedDate": "2023-07-06",
-    "description": "'Perkins is an extraordinary writer' The Sunday Times You know how we say we devoured a story, and also that we were consumed by it? Eating and being eaten. It was like that with Claire, for me. From humble beginnings, Therese has let herself grow used to a life of luxury after marrying into an empire-building family. But when rumours of corruption gather around her husband's latest development, the social opprobrium is shocking, the fallout swift, and Therese begins to look at her privileged and insular world with new eyes. In the flat below Therese, something else is brewing. Her neighbour Claire believes she's discovered the secret to living with freedom and authenticity, freeing herself from the mundanity of domesticity. Therese finds herself enchanted by the lure of the permissive zone Claire creates in her apartment – a place of ecstatic release. All too quickly, Therese is forced to confront herself and her choices – just how did she become this person? And what exactly should she do about it?",
-    "pageCount": 289,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=yke9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Lioness.html?hl=&id=yke9EAAAQBAJ",
-    "dateFinished": "2024-01-26",
-    "notes": "This was a fantastic story. Local author, local story set in my local area."
-  },
-  {
-    "isbn": "9781649375520",
-    "dateStarted": "2024-01-27",
-    "status": "started",
-    "rating": "unrated",
-    "title": "Assistant to the Villain",
-    "authors": [
-      "Hannah Nicole Maehrer"
-    ],
-    "publishedDate": "2023-08-29",
-    "description": "Once Upon a Time meets The Office in Hannah Maehrer’s laugh-out-loud viral TikTok series turned novel, about the sunshine assistant to an Evil Villain...and their unexpected romance. ASSISTANT WANTED: Notorious, high-ranking villain seeks loyal, levelheaded assistant for unspecified office duties, supporting staff for random mayhem, terror, and other Dark Things In General. Discretion a must. Excellent benefits. With ailing family to support, Evie Sage's employment status isn't just important, it's vital. So when a mishap with Rennedawn’s most infamous Villain results in a job offer—naturally, she says yes. No job is perfect, of course, but even less so when you develop a teeny crush on your terrifying, temperamental, and undeniably hot boss. Don’t find evil so attractive, Evie. But just when she’s getting used to severed heads suspended from the ceiling and the odd squish of an errant eyeball beneath her heel, Evie suspects this dungeon has a huge rat...and not just the literal kind. Because something rotten is growing in the kingdom of Rennedawn, and someone wants to take the Villain—and his entire nefarious empire—out. Now Evie must not only resist drooling over her boss but also figure out exactly who is sabotaging his work...and ensure he makes them pay. After all, a good job is hard to find.",
-    "pageCount": 443,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=ofmzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://play.google.com/store/books/details?id=ofmzEAAAQBAJ"
-  },
-  {
     "isbn": "9780759557895",
     "dateFinished": "2022-02-20",
     "status": "finished",
@@ -3617,5 +3554,70 @@
     "thumbnail": "https://books.google.com/books/content?id=q3pHOXF3vzAC&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/How_to_Talk_to_Anyone_92_Little_Tricks_f.html?hl=&id=q3pHOXF3vzAC"
+  },
+  {
+    "isbn": "9780857532015",
+    "dateStarted": "2023-01-15",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
+    "title": "The Screaming Staircase",
+    "authors": [
+      "Jonathan Stroud"
+    ],
+    "publishedDate": "2013",
+    "description": "Follows three young operatives of a Psychic Detection Agency as they battle an epidemic of ghosts in London",
+    "pageCount": 467,
+    "printType": "BOOK",
+    "categories": [
+      "Children's stories"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=lfJ9AAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Screaming_Staircase.html?hl=&id=lfJ9AAAAQBAJ",
+    "dateFinished": "2024-01-20"
+  },
+  {
+    "isbn": "9781526660657",
+    "dateStarted": "2024-01-20",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "title": "Lioness",
+    "authors": [
+      "Emily Perkins"
+    ],
+    "publishedDate": "2023-07-06",
+    "description": "'Perkins is an extraordinary writer' The Sunday Times You know how we say we devoured a story, and also that we were consumed by it? Eating and being eaten. It was like that with Claire, for me. From humble beginnings, Therese has let herself grow used to a life of luxury after marrying into an empire-building family. But when rumours of corruption gather around her husband's latest development, the social opprobrium is shocking, the fallout swift, and Therese begins to look at her privileged and insular world with new eyes. In the flat below Therese, something else is brewing. Her neighbour Claire believes she's discovered the secret to living with freedom and authenticity, freeing herself from the mundanity of domesticity. Therese finds herself enchanted by the lure of the permissive zone Claire creates in her apartment – a place of ecstatic release. All too quickly, Therese is forced to confront herself and her choices – just how did she become this person? And what exactly should she do about it?",
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=yke9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Lioness.html?hl=&id=yke9EAAAQBAJ",
+    "dateFinished": "2024-01-26",
+    "notes": "This was a fantastic story. Local author, local story set in my local area."
+  },
+  {
+    "isbn": "9781649375520",
+    "dateStarted": "2024-01-27",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "Assistant to the Villain",
+    "authors": [
+      "Hannah Nicole Maehrer"
+    ],
+    "publishedDate": "2023-08-29",
+    "description": "Once Upon a Time meets The Office in Hannah Maehrer’s laugh-out-loud viral TikTok series turned novel, about the sunshine assistant to an Evil Villain...and their unexpected romance. ASSISTANT WANTED: Notorious, high-ranking villain seeks loyal, levelheaded assistant for unspecified office duties, supporting staff for random mayhem, terror, and other Dark Things In General. Discretion a must. Excellent benefits. With ailing family to support, Evie Sage's employment status isn't just important, it's vital. So when a mishap with Rennedawn’s most infamous Villain results in a job offer—naturally, she says yes. No job is perfect, of course, but even less so when you develop a teeny crush on your terrifying, temperamental, and undeniably hot boss. Don’t find evil so attractive, Evie. But just when she’s getting used to severed heads suspended from the ceiling and the odd squish of an errant eyeball beneath her heel, Evie suspects this dungeon has a huge rat...and not just the literal kind. Because something rotten is growing in the kingdom of Rennedawn, and someone wants to take the Villain—and his entire nefarious empire—out. Now Evie must not only resist drooling over her boss but also figure out exactly who is sabotaging his work...and ensure he makes them pay. After all, a good job is hard to find.",
+    "pageCount": 443,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=ofmzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=ofmzEAAAQBAJ",
+    "dateFinished": "2024-02-01",
+    "notes": "Ended up really enjoying the story in this one. Light hearted fun."
   }
 ]
