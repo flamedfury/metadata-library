@@ -3660,5 +3660,25 @@
     "thumbnail": "https://books.google.com/books/content?id=WJfYBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=WJfYBQAAQBAJ"
+  },
+  {
+    "isbn": "9780008532796",
+    "dateAdded": "2024-02-06",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "Yellowface",
+    "authors": [
+      "Rebecca F Kuang"
+    ],
+    "publishedDate": "2023-05-25",
+    "description": "The No. 1 Sunday Times and New York Times bestseller from literary sensation R.F. Kuang *A Reese Witherspoon Book Club pick* ‘Propulsive’ SUNDAY TIMES ‘Razor-sharp’ TIME ‘A clever, pacy tale’ SARA PASCOE ‘A riot’ PANDORA SYKES ‘Hard to put down, harder to forget’ STEPHEN KING",
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Yellowface.html?hl=&id=crZ1EAAAQBAJ"
   }
 ]
