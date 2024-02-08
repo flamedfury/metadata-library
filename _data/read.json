@@ -3624,7 +3624,7 @@
   {
     "isbn": "9781784971540",
     "dateStarted": "2024-02-03",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "The Three-Body Problem",
     "authors": [
@@ -3639,7 +3639,9 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=Z7GfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/The_Three_Body_Problem.html?hl=&id=Z7GfEAAAQBAJ"
+    "link": "https://books.google.com/books/about/The_Three_Body_Problem.html?hl=&id=Z7GfEAAAQBAJ",
+    "dateFinished": "2024-02-05",
+    "notes": "After putting off reading this book for years, my hold at the library finally came up, and I devoured this book over a couple of days, which is no small feat for a 15-hour book. I found the start a bit slow, and I didn't quite understand what was going on, but after the first hour or so, it was smooth sailing. I didn't read up on the book before diving in; I thought it might be about some weird one-brain across three-bodies type scenario. It definitely wasn't. I enjoyed the story; the complex, sciencey stuff lost me, but the story definitely made up for it. Once I finished this, I quickly began The Dark Forrest, the next book in the series. If you are into science fiction and have yet to read it, go read it!"
   },
   {
     "isbn": "9781466853430",
