@@ -3646,8 +3646,8 @@
   {
     "isbn": "9781466853430",
     "dateStarted": "2024-02-05",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "The Dark Forest",
     "authors": [
       "Cixin Liu"
@@ -3661,7 +3661,9 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=WJfYBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=WJfYBQAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=WJfYBQAAQBAJ",
+    "dateFinished": "2024-02-09",
+    "notes": " I started reading this book immediately after finishing the first one in the series. I read through it quite quickly despite it being a 25-hour-long book. I enjoyed it as much as the first and am now eager to start reading the third book to experience the whole story."
   },
   {
     "isbn": "9780008532796",
