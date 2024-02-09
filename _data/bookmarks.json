@@ -2071,5 +2071,17 @@
     "notes": "Don't worry Frills, you're not the only one who experiences this. ",
     "waybackUrl": "http://web.archive.org/web/20240207190557/https://frills.dev/blog/070224-this-website-is-personal-girls/",
     "quote": "Sometimes, I come up with a banger of a blog post idea, only to find myself grappling with writing the content, and eventually adding it to my increasing pile of forgotten drafts."
+  },
+  {
+    "title": "A rant on ARC Search – Manu",
+    "site": "",
+    "author": "",
+    "date": "2024-02-09",
+    "description": "I was listening to the most recent Vergecast episode last night and an interview with Josh Miller, CEO of The Browser Company, makers of the ARC …",
+    "url": "https://manuelmoreale.com/a-rant-on-arc-search",
+    "type": "",
+    "notes": "Hard agree. I enjoy a good spam free search. The six pages in the example are all sites I’d actively avoid. Small, independent search is the way to go.",
+    "waybackUrl": "http://web.archive.org/web/20240208175959/https://manuelmoreale.com/a-rant-on-arc-search",
+    "quote": "The problem with search is that it’s full of fucking spam and ads. That’s the problem with search. The solution to search is not to “reinvent the browser” or to use AI to power searches for you. The solution to search is a search engine that is aligned with the users."
   }
 ]
