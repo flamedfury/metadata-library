@@ -3684,5 +3684,25 @@
     "thumbnail": "https://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Yellowface.html?hl=&id=crZ1EAAAQBAJ"
+  },
+  {
+    "isbn": "9781466853454",
+    "dateStarted": "2024-02-09",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Death's End",
+    "authors": [
+      "Cixin Liu"
+    ],
+    "publishedDate": "2016-09-20",
+    "description": "Soon to be a Netflix Original Series! “The War of the Worlds for the 21st century... packed with a sense of wonder.” – Wall Street Journal The New York Times bestselling conclusion to a tour de force near-future adventure trilogy from China's bestselling and beloved science fiction writer. With The Three-Body Problem, English-speaking readers got their first chance to read China's most beloved science fiction author, Cixin Liu. The Three-Body Problem was released to great acclaim including coverage in The New York Times and The Wall Street Journal and reading list picks by Barack Obama and Mark Zuckerberg. It was also won the Hugo and Nebula Awards, making it the first translated novel to win a major SF award. Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent. Cheng Xin, an aerospace engineer from the early twenty-first century, awakens from hibernation in this new age. She brings with her knowledge of a long-forgotten program dating from the beginning of the Trisolar Crisis, and her very presence may upset the delicate balance between two worlds. Will humanity reach for the stars or die in its cradle? The Three-Body Problem Series The Three-Body Problem The Dark Forest Death's End Other Books Ball Lightning Supernova Era To Hold Up The Sky (forthcoming) At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "pageCount": 605,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=A_1oCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=A_1oCAAAQBAJ"
   }
 ]
