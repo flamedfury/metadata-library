@@ -3743,5 +3743,26 @@
     "thumbnail": "https://books.google.com/books/content?id=oCJGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Shy.html?hl=&id=oCJGzwEACAAJ"
+  },
+  {
+    "isbn": "9781991016614",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "The Crewe Murders",
+    "authors": [
+      "Kirsty Johnston",
+      "James Hollings"
+    ],
+    "publishedDate": "2023-11-16",
+    "description": "The murder of Harvey and Jeannette Crewe in their Pukekawa farmhouse in 1970 remains New Zealand' s most infamous cold case. It spawned two trials, two appeals, several books, a film, and eventually a royal commission finding of police corruption.It also resulted in a free pardon, the only time the New Zealand government has bypassed the courts to set a convicted murderer free. And still, the Crewes' killer has not been found.Combining gripping narrative, detailed research and striking new testimony from those who were there, this book tells the complete story of the case for the first time.",
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+      "Social Science"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=evTkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Crewe_Murders.html?hl=&id=evTkEAAAQBAJ"
   }
 ]
