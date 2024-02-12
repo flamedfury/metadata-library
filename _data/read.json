@@ -3808,5 +3808,25 @@
     "thumbnail": "https://books.google.com/books/content?id=0QQXzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/These_Two_Hands_a_Memoir_by_Renee_New_Ed.html?hl=&id=0QQXzgEACAAJ"
+  },
+  {
+    "isbn": "9781982185244",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "The Fortnight in September",
+    "authors": [
+      "R.C. Sherriff"
+    ],
+    "publishedDate": "2021-09-07",
+    "description": "This charming, timeless classic about a family of five setting out on their annual seaside vacation is “the most uplifting, life-affirming novel I can think of...the beautiful dignity to be found in everyday living has rarely been captured more delicately” (Kazuo Ishiguro). Meet the Stevens family, as they prepare to embark on their yearly holiday to the coast of England. Mr. and Mrs. Stevens first made the trip to Bognor Regis on their honeymoon, and the tradition has continued ever since. They stay in the same guest house and follow the same carefully honed schedule—now accompanied by their three children, twenty-year-old Mary, seventeen-year-old Dick, and little brother Ernie. Arriving in Bognor they head to Seaview, the guesthouse where they stay every year. It’s a bit shabbier than it once was—the landlord has died and his wife is struggling as the number of guests dwindles every year. But the family finds bliss in booking a slightly bigger cabana, with a balcony, and in their rediscovery of the familiar places they visit every year. Mr. Stevens goes on his annual walk across the downs, reflecting on his life, his worries and disappointments, and returns refreshed. Mrs. Stevens treasures an hour spent sitting alone with her medicinal glass of port. Mary has her first small taste of romance. And Dick pulls himself out of the malaise he’s sunk into since graduation, resolving to work towards a new career. The Stevenses savor every moment of their holiday, aware that things may not be the same next year. Delightfully nostalgic and soothing, The Fortnight in September is an extraordinary novel about ordinary people enjoying life’s simple pleasures.",
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=0eQYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=0eQYEAAAQBAJ"
   }
 ]
