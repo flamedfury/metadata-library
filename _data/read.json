@@ -3789,5 +3789,24 @@
     "thumbnail": "https://books.google.com/books/content?id=WoBYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/In_the_Kitchen.html?hl=&id=WoBYzQEACAAJ"
+  },
+  {
+    "isbn": "9780995111042",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "These Two Hands a Memoir by Renee New Edition",
+    "authors": [
+      "Renée"
+    ],
+    "publishedDate": "2020-10-09",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "categories": [
+      "Authors, New Zealand"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=0QQXzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/These_Two_Hands_a_Memoir_by_Renee_New_Ed.html?hl=&id=0QQXzgEACAAJ"
   }
 ]
