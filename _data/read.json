@@ -3668,7 +3668,7 @@
   {
     "isbn": "9780008532796",
     "dateAdded": "2024-02-06",
-    "status": "want to read",
+    "status": "started",
     "rating": "unrated",
     "title": "Yellowface",
     "authors": [
@@ -3683,7 +3683,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Yellowface.html?hl=&id=crZ1EAAAQBAJ"
+    "link": "https://books.google.com/books/about/Yellowface.html?hl=&id=crZ1EAAAQBAJ",
+    "dateStarted": "2024-02-13"
   },
   {
     "isbn": "9781466853454",
