@@ -3726,5 +3726,22 @@
     "thumbnail": "https://books.google.com/books/content?id=ubN7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=ubN7EAAAQBAJ"
+  },
+  {
+    "isbn": "9780571377305",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "Shy",
+    "authors": [
+      "Max Porter"
+    ],
+    "publishedDate": "2023-04-04",
+    "description": "From the bestselling author of Grief is the Thing with Feathers and Lanny - the polyphonic story of a troubled teenager, with all of the humanity and trademark invention we expect from one of our most exciting writers.",
+    "pageCount": 0,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=oCJGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Shy.html?hl=&id=oCJGzwEACAAJ"
   }
 ]
