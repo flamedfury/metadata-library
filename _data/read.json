@@ -3764,5 +3764,30 @@
     "thumbnail": "https://books.google.com/books/content?id=evTkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/The_Crewe_Murders.html?hl=&id=evTkEAAAQBAJ"
+  },
+  {
+    "isbn": "9781911547662",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "In the Kitchen",
+    "authors": [
+      "Juliet Annan",
+      "Yemisi Aribisala",
+      "Laura Freeman",
+      "Joel Golby",
+      "Daisy Johnson",
+      "Rebecca May Johnson",
+      "Rebecca Liu",
+      "Nina Mingya Powles",
+      "Ella Risbridger"
+    ],
+    "publishedDate": "2020-10-03",
+    "description": "A collection to savour and inspire, In the Kitchen brings together thirteen contemporary writers whose work brilliantly explores food, capturing their reflections on their culinary experiences in the kitchen and beyond.",
+    "pageCount": 160,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=WoBYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/In_the_Kitchen.html?hl=&id=WoBYzQEACAAJ"
   }
 ]
