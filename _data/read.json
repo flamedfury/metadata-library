@@ -3868,5 +3868,21 @@
     "thumbnail": "https://books.google.com/books/content?id=0yPOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Ultrawild.html?hl=&id=0yPOEAAAQBAJ"
+  },
+  {
+    "isbn": "9781911547846",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "Who Was Changed and Who Was Dead",
+    "authors": [
+      "Barbara Comyns"
+    ],
+    "publishedDate": "2021-01-28",
+    "pageCount": 184,
+    "printType": "BOOK",
+    "thumbnail": "https://books.google.com/books/content?id=lhLazQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Who_Was_Changed_and_Who_Was_Dead.html?hl=&id=lhLazQEACAAJ"
   }
 ]
