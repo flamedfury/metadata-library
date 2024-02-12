@@ -3828,5 +3828,25 @@
     "thumbnail": "https://books.google.com/books/content?id=0eQYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=0eQYEAAAQBAJ"
+  },
+  {
+    "isbn": "9781474623353",
+    "dateAdded": "2024-02-13",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "The Other Side",
+    "authors": [
+      "Jennifer Higgie"
+    ],
+    "publishedDate": "2023-02-02",
+    "description": "It's not so long ago that a woman's expressed interest in other realms would have ruined her reputation, or even killed her. And yet spiritualism, in various incarnations, has influenced numerous men - including lauded modernist artists such as Wassily Kandinsky, Piet Mondrian, Kazimir Malevich and Paul Klee - without repercussion. The fact that so many radical women artists of their generation - and earlier - also drank deeply from the same spiritual well has for too long been sorely neglected. In THE OTHER SIDE, we explore the lives and work of a group of extraordinary women, from the twelfth-century mystic, composer and artist Hildegard of Bingen to the nineteenth-century English spiritualist Georgiana Houghton, whose paintings swirl like a cosmic Jackson Pollock; the early twentieth-century Swedish artist, Hilma af Klint, who painted with the help of her spirit guides and whose recent exhibition at New York's Guggenheim broke all attendance records; the 'Desert Transcendentalist', Agnes Pelton, who painted her visions beneath the vast skies of California; the Swiss healer, Emma Kunz, who used geometric drawings to treat her patients; and the British surrealist and occultist, Ithell Colquhoun, whose estate of more than 5,000 works recently entered the Tate gallery collection. While the individual work of these artists is unique, the women loosely shared the same goal: to communicate with, and learn from, other dimensions. Weaving in and out of these myriad lives, sharing her own memories of otherworldly experiences, Jennifer Higgie discusses the solace of ritual, the gender exclusions of art history, the contemporary relevance of myth, the boom in alternative ways of understanding the world and the impact of spiritualism on feminism and contemporary art. A radical reappraisal of a marginalised group of artists, THE OTHER SIDE is an intoxicating blend of memoir, biography and art history.",
+    "pageCount": 313,
+    "printType": "BOOK",
+    "categories": [
+      "Art"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=0uVkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Other_Side.html?hl=&id=0uVkEAAAQBAJ"
   }
 ]
