@@ -3946,5 +3946,25 @@
     "thumbnail": "https://books.google.com/books/content?id=FN7vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Exodus_The_Archimedes_Engine.html?hl=&id=FN7vEAAAQBAJ"
+  },
+  {
+    "isbn": "9781635830729",
+    "dateStarted": "2024-02-16",
+    "status": "started",
+    "rating": "unrated",
+    "title": "City of Shattered Light",
+    "authors": [
+      "Claire Winn"
+    ],
+    "publishedDate": "2021-10-19",
+    "description": "In this YA sci-fi, an heiress flees her controlling father to prevent her test-subject sister’s mind from being reprogrammed—but must ally with a smuggler to outwit a monstrous AI, gravity-shifting gladiatorial pits, and bloodthirsty criminal matriarchs to save her sister and their city.",
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+      "Young Adult Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=lupIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=lupIEAAAQBAJ"
   }
 ]
