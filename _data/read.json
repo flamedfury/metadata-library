@@ -3666,27 +3666,6 @@
     "notes": " I started reading this book immediately after finishing the first one in the series. I read through it quite quickly despite it being a 25-hour-long book. I enjoyed it as much as the first and am now eager to start reading the third book to experience the whole story."
   },
   {
-    "isbn": "9780008532796",
-    "dateAdded": "2024-02-06",
-    "status": "started",
-    "rating": "unrated",
-    "title": "Yellowface",
-    "authors": [
-      "Rebecca F Kuang"
-    ],
-    "publishedDate": "2023-05-25",
-    "description": "The No. 1 Sunday Times and New York Times bestseller from literary sensation R.F. Kuang *A Reese Witherspoon Book Club pick* ‘Propulsive’ SUNDAY TIMES ‘Razor-sharp’ TIME ‘A clever, pacy tale’ SARA PASCOE ‘A riot’ PANDORA SYKES ‘Hard to put down, harder to forget’ STEPHEN KING",
-    "pageCount": 299,
-    "printType": "BOOK",
-    "categories": [
-      "Fiction"
-    ],
-    "thumbnail": "https://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
-    "language": "en",
-    "link": "https://books.google.com/books/about/Yellowface.html?hl=&id=crZ1EAAAQBAJ",
-    "dateStarted": "2024-02-13"
-  },
-  {
     "isbn": "9781466853454",
     "dateStarted": "2024-02-09",
     "status": "finished",
@@ -3707,6 +3686,28 @@
     "link": "https://play.google.com/store/books/details?id=A_1oCAAAQBAJ",
     "dateFinished": "2024-02-13",
     "notes": "Clocking in at 29 hours, this was a hefty book, and there was no way I could complete it by reading. It would have taken me all year. Audiobooks to the rescue. The story carries on from the previous book, \\\"The Dark Forest\\\" and carries on with the struggles for humanity's survival. It took about 7.5 hours for my interest to pick up; there were many drawn-out descriptions of science stuff, and my mind wondered a lot. The book explored interesting concepts about what would happen in certain situations: black holes, folding three dimensions, and living in pocket universes. I enjoyed the story in the overall context of the series, but I enjoyed this one the least out of the three."
+  },
+  {
+    "isbn": "9780008532796",
+    "dateAdded": "2024-02-06",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "title": "Yellowface",
+    "authors": [
+      "Rebecca F Kuang"
+    ],
+    "publishedDate": "2023-05-25",
+    "description": "The No. 1 Sunday Times and New York Times bestseller from literary sensation R.F. Kuang *A Reese Witherspoon Book Club pick* ‘Propulsive’ SUNDAY TIMES ‘Razor-sharp’ TIME ‘A clever, pacy tale’ SARA PASCOE ‘A riot’ PANDORA SYKES ‘Hard to put down, harder to forget’ STEPHEN KING",
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Yellowface.html?hl=&id=crZ1EAAAQBAJ",
+    "dateStarted": "2024-02-13",
+    "dateFinished": "2024-02-14"
   },
   {
     "isbn": "9781398701069",
