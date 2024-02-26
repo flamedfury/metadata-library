@@ -3950,7 +3950,7 @@
   {
     "isbn": "9781635830729",
     "dateStarted": "2024-02-16",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "City of Shattered Light",
     "authors": [
@@ -3965,6 +3965,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=lupIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=lupIEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=lupIEAAAQBAJ",
+    "dateFinished": "2024-02-23",
+    "notes": "Enjoyed the story, a futuristic glowin neon cyberpunk setting. I wouldn't say it was a romance story. The characters seemed too young, could have been mid-twenties. The narrator put on some stupid voices for the characters which annoyed me..."
   }
 ]
