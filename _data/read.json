@@ -3968,5 +3968,25 @@
     "link": "https://play.google.com/store/books/details?id=lupIEAAAQBAJ",
     "dateFinished": "2024-02-23",
     "notes": "Enjoyed the story, a futuristic glowin neon cyberpunk setting. I wouldn't say it was a romance story. The characters seemed too young, could have been mid-twenties. The narrator put on some stupid voices for the characters which annoyed me..."
+  },
+  {
+    "isbn": "9781635830859",
+    "dateStarted": "2024-02-26",
+    "status": "started",
+    "rating": "unrated",
+    "title": "City of Vicious Night",
+    "authors": [
+      "Claire Winn"
+    ],
+    "publishedDate": "2023-05-23",
+    "description": "In this queer, female-led YA cyberpunk adventure, heiress-turned-smuggler Asa and gunslinger Riven are forced to vie for leadership of an underworld faction after a mysterious hacker turns the city against them; meanwhile, a captured crew member must ally with an old enemy to find his way home.",
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+      "Young Adult Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=-dLeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=-dLeEAAAQBAJ"
   }
 ]
