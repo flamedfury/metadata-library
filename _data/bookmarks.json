@@ -2251,5 +2251,21 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240219035141/https://lmnt.me/blog/make-a-damn-website.html",
     "quote": "I believe it’s everyone’s imperative to genuinely invest in making websites again. For ourselves, for our businesses, for our interests."
+  },
+  {
+    "title": "Give me a web feed or an API for everything • Cory Dransfeldt",
+    "site": "",
+    "author": "",
+    "date": "2024-02-29",
+    "description": "If I'm using your service, if I'm paying for your service, I really need it to have an API or a web feed.",
+    "url": "https://coryd.dev/posts/2024/give-me-a-web-feed-or-an-api-for-everything/",
+    "image": "bookmark-give-me-a-web-feed-or-an-api-for-everything-cory-dransfeldt.jpg",
+    "type": "article",
+    "notes": "Too real for me at the moment. Agree wtih Cory as per usual. If I'm using your service, you better be giving me access to my own data!",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240228002302/https://coryd.dev/posts/2024/give-me-a-web-feed-or-an-api-for-everything/",
+    "quote": "If I'm using your service, if I'm paying for your service, I really need it to have an API or a web feed."
   }
 ]
