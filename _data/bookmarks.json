@@ -2205,5 +2205,21 @@
       ""
     ],
     "quote": ">Welcome to the Corporate Internet. It didn’t used to be like this. The web used to be a collection of independently-operated sites that we all individually controlled. We used to be so punk rock about the web."
+  },
+  {
+    "title": "Towards a quieter, friendlier web • Cory Dransfeldt",
+    "site": "",
+    "author": "",
+    "date": "2024-02-29",
+    "description": "I love the internet, I grew up on it and (probably) spend too much time on it. I found the music I love on it, I've made friends on it, I went to school for business but built a career on the web instead. I often have a hard time reconciling where the web is now with what it was like when I first dove into it.",
+    "url": "https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/",
+    "image": "bookmark-towards-a-quieter-friendlier-web-cory-dransfeldt.jpg",
+    "type": "article",
+    "notes": "Great post from Cory. Avoid the noise, avoid the nonsense!",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240229001141/https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/",
+    "quote": "Be kind, be honest and engage on your own terms. Walk away from anything that doesn't serve you and don't be afraid to craft a browsing experience that best suits you. A healthier web is one that's slower, friendly and serves you. Eschew things that make demands of you, insist or impose upon your time and attention."
   }
 ]
