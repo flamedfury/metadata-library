@@ -2267,5 +2267,21 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240228002302/https://coryd.dev/posts/2024/give-me-a-web-feed-or-an-api-for-everything/",
     "quote": "If I'm using your service, if I'm paying for your service, I really need it to have an API or a web feed."
+  },
+  {
+    "title": "Send links to your friends and make the Web a better place",
+    "site": "",
+    "author": "",
+    "date": "2024-03-01",
+    "description": "The missing part of web ressurgence",
+    "url": "https://michal.sapka.me/blog/2024/send-links/",
+    "image": "bookmark-send-links-to-your-friends-and-make-the-web-a-better-place.png",
+    "type": "website",
+    "notes": "Do you remember when the internet didn't have Google or other algorithms and platforms to push content on us? Back then, we used to share links with our friends over IMs or IRC; we knew them by their screen names. One of my favourite things was to visit Yahoo! and check out the new websites added to my favourite categories. Despite having few tools, we managed to navigate the web just fine. So, don't hesitate to continue sharing links with your friends; they'll appreciate it.",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240229222634/https://michal.sapka.me/blog/2024/send-links/",
+    "quote": "The small web is born from passion, not from chase of profit. Only we can make it flourish like it used to flourish. Simply sending a cool link from time to time to your friends is enough."
   }
 ]
