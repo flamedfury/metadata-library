@@ -3972,7 +3972,7 @@
   {
     "isbn": "9781635830859",
     "dateStarted": "2024-02-26",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "City of Vicious Night",
     "authors": [
@@ -3987,6 +3987,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=-dLeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=-dLeEAAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=-dLeEAAAQBAJ",
+    "dateFinished": "2024-03-05"
   }
 ]
