@@ -3993,7 +3993,7 @@
   {
     "isbn": "9781925410655",
     "dateStarted": "2024-03-05",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Children of the New World",
     "authors": [
@@ -4008,6 +4008,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=e0ctDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/Children_of_the_New_World.html?hl=&id=e0ctDQAAQBAJ"
+    "link": "https://books.google.com/books/about/Children_of_the_New_World.html?hl=&id=e0ctDQAAQBAJ",
+    "dateFinished": "2024-03-06",
+    "notes": "Not a future I'd look forward to..."
   }
 ]
