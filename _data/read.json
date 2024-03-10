@@ -4015,7 +4015,7 @@
   {
     "isbn": "9780141997346",
     "dateStarted": "2024-03-07",
-    "status": "started",
+    "status": "abandoned",
     "rating": "unrated",
     "title": "This Is Your Mind On Plants",
     "authors": [
@@ -4030,6 +4030,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=zKkdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/This_Is_Your_Mind_On_Plants.html?hl=&id=zKkdEAAAQBAJ"
+    "link": "https://books.google.com/books/about/This_Is_Your_Mind_On_Plants.html?hl=&id=zKkdEAAAQBAJ",
+    "dateAbandoned": "2024-03-09"
   }
 ]
