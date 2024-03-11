@@ -4036,8 +4036,8 @@
   {
     "isbn": "9781250117830",
     "dateStarted": "2024-03-09",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "Black Star Renegades",
     "authors": [
       "Michael Moreci"
@@ -4051,6 +4051,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=NJknDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=NJknDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=NJknDwAAQBAJ",
+    "dateFinished": "2024-03-10"
   }
 ]
