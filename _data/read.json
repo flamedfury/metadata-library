@@ -4053,5 +4053,25 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=NJknDwAAQBAJ",
     "dateFinished": "2024-03-10"
+  },
+  {
+    "isbn": "9781250117861",
+    "dateStarted": "2024-03-10",
+    "status": "started",
+    "rating": "unrated",
+    "title": "We Are Mayhem",
+    "authors": [
+      "Michael Moreci"
+    ],
+    "publishedDate": "2019-04-09",
+    "description": "The second entry in the Star Wars-inspired series that Nerdist calls \"the next big thing.\" Though the ragtag group of misfits known as the Black Star Renegades won a decisive battle by destroying Ga Halle’s War Hammer, the war is far from over. In response to losing the crown jewel of its fleet, the evil Praxis empire has vengefully reinforced its tyranny across the galaxy--but its rule won't be had so easily. Led by hotshot pilot Kira Sen, a growing rebel force stands in the way of Praxis’s might. Not only do they possess the will to fight for galactic freedom, they also possess the ultimate ace in the hole: The mythical Rokura, the most powerful weapon ever known. Too bad Cade Sura hasn’t figured out to use it. As Kira wages an increasingly bloody war against Praxis, Cade is left with only once choice: With Ga Halle scouring every star system for the coveted weapon, Cade embarks on a dangerous mission into uncharted space to discover the Rokura’s origins. Only then can he learn how it can be wielded. Because if he doesn’t, all hope for the galaxy might be lost.",
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=R-RhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=R-RhDwAAQBAJ"
   }
 ]
