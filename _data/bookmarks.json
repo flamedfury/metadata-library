@@ -2363,5 +2363,23 @@
       "tech"
     ],
     "quote": "Using my iPad as just an iPad has helped me reset my thinking on wants vs. needs when it comes to specs and accessories as well as to rediscover the joys and simplicity of the platform again."
+  },
+  {
+    "title": "Sharing links via RSS, sharing links via APIs • Cory Dransfeldt",
+    "site": "",
+    "author": "",
+    "date": "2024-03-11",
+    "description": "I follow and subscribe to a whole bunch of blogs and less and less high-volume news via RSS. It's one of my absolute favorite mediums for keeping up with and reading content on the web.",
+    "url": "https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/",
+    "image": "bookmark-sharing-links-via-rss-sharing-links-via-apis-cory-dransfeldt.jpg",
+    "type": "article",
+    "notes": "Cory explains his process of subscribing to RSS feeds and utilising APIs to automate the sharing of links through his website and Mastodon. This practice facilitates the discovery and distribution of links that platforms cannot control. The beauty of the web lies in our ability to share links freely across our websites, allowing for an independent, distributed, and enjoyable experience.",
+    "tags": [
+      "web",
+      "small web",
+      "indie web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240310223411/https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/",
+    "quote": "It's encouraging to see more and more folks sharing links, boosting them and blogging them. It makes discovery easier when it's done cooperatively."
   }
 ]
