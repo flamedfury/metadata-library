@@ -2376,8 +2376,8 @@
     "notes": "Cory explains his process of subscribing to RSS feeds and utilising APIs to automate the sharing of links through his website and Mastodon. This practice facilitates the discovery and distribution of links that platforms cannot control. The beauty of the web lies in our ability to share links freely across our websites, allowing for an independent, distributed, and enjoyable experience.",
     "tags": [
       "web",
-      "small web",
-      "indie web"
+      "smallweb",
+      "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240310223411/https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/",
     "quote": "It's encouraging to see more and more folks sharing links, boosting them and blogging them. It makes discovery easier when it's done cooperatively."
