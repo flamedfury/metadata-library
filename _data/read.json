@@ -4077,7 +4077,7 @@
   {
     "isbn": "9781952616600",
     "dateStarted": "2024-03-11",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "You Deserve a Tech Union",
     "authors": [
@@ -4089,6 +4089,7 @@
     "printType": "BOOK",
     "thumbnail": "https://books.google.com/books/content?id=CQoX0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/You_Deserve_a_Tech_Union.html?hl=&id=CQoX0AEACAAJ"
+    "link": "https://books.google.com/books/about/You_Deserve_a_Tech_Union.html?hl=&id=CQoX0AEACAAJ",
+    "dateFinished": "2024-03-13"
   }
 ]
