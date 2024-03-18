@@ -2425,5 +2425,21 @@
       "web",
       "blogging"
     ]
+  },
+  {
+    "title": "Oh Hello Ana",
+    "site": "Jottings from Ana",
+    "author": "",
+    "date": "2024-03-18",
+    "description": "Ana's personal blog",
+    "url": "http://ohhelloana.blog",
+    "image": "bookmark-oh-hello-ana.jpg",
+    "type": "website",
+    "notes": "A personal website is a personal website. Don't feel pressured to create \"content\".",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240317101236/https://ohhelloana.blog/just-get-a-website/",
+    "quote": "The goal of a personal website is to be reachable."
   }
 ]
