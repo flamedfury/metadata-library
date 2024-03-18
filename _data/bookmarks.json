@@ -2486,5 +2486,21 @@
       "web"
     ],
     "quote": "A good website does not need to be regularly updated."
+  },
+  {
+    "title": "The \"IndieWeb\" feels like coming home • Nathaniel Daught",
+    "site": "",
+    "author": "",
+    "date": "2024-03-18",
+    "description": "I moved this site to Eleventy hosted on Neocities and as a result I'm having fun with my website again!",
+    "url": "https://daught.me/blog/2024/indie-web/",
+    "image": "bookmark-the-indieweb-feels-like-coming-home-nathaniel-daught.png",
+    "type": "website",
+    "notes": "Nathaniel Daught discusses moving his website from Squarespace and Cargo to using Eleventy hosted on Neocities.",
+    "tags": [
+      "web",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240316032217/https://daught.me/blog/2024/indie-web/"
   }
 ]
