@@ -2502,5 +2502,22 @@
       "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240316032217/https://daught.me/blog/2024/indie-web/"
+  },
+  {
+    "title": "Why I’m Ready to Party Like It’s 1999…Again",
+    "site": "The Internet Review",
+    "author": "Jared White",
+    "date": "2024-03-18",
+    "description": "Never have I ever seen so many parallels between the early days of the Internet and today. History is repeating itself.",
+    "url": "https://theinternet.review/2024/03/13/ready-to-party-like-its-1999/",
+    "image": "bookmark-why-im-ready-to-party-like-its-1999again.png",
+    "type": "article",
+    "notes": "History is repeating itself. Jared White takes a look at the differences between the web in 2024 to the web in 1999. ",
+    "tags": [
+      "web",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240318034109/https://theinternet.review/2024/03/13/ready-to-party-like-its-1999/",
+    "quote": "What’s old is new again. Blogs are returning. RSS is again ascendant."
   }
 ]
