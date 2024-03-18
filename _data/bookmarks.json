@@ -2410,5 +2410,20 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240221131422/https://zachholman.com/posts/only-90s-developers/"
+  },
+  {
+    "title": "The Easiest Way to Start Blogging",
+    "site": "Brandon Writes",
+    "author": "",
+    "date": "2024-03-18",
+    "description": "So, you’re interesting in blogging but don’t know where to start?\nI’ve put together this list of blogging platforms that do not require any knowledge of codi...",
+    "url": "https://brandonwrites.xyz/the-easiest-way-to-start-blogging/",
+    "image": "bookmark-the-easiest-way-to-start-blogging.jpg",
+    "type": "article",
+    "notes": "Good overview of current blogging platforms, their costs and features.",
+    "tags": [
+      "web",
+      "blogging"
+    ]
   }
 ]
