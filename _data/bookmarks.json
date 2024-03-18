@@ -2381,5 +2381,20 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240310223411/https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/",
     "quote": "It's encouraging to see more and more folks sharing links, boosting them and blogging them. It makes discovery easier when it's done cooperatively."
+  },
+  {
+    "title": "I Was a Teenage Webmaster",
+    "site": "",
+    "author": "Mike Grindle",
+    "date": "2024-03-18",
+    "description": "",
+    "url": "https://mikegrindle.com/posts/web-master",
+    "type": "",
+    "notes": "Towards a more personal web",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240316085516/https://mikegrindle.com/posts/web-master",
+    "quote": "The internet is not a place I visit anymore. It is an obligation that follows me everywhere like a shadow, ever-hungry for my attention."
   }
 ]
