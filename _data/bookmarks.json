@@ -2471,5 +2471,20 @@
       "fun"
     ],
     "waybackUrl": "http://web.archive.org/web/20240215231534/https://time.to.stathampun.ch/"
+  },
+  {
+    "title": "Being a webmaster is freaking cool",
+    "site": "",
+    "author": "",
+    "date": "2024-03-18",
+    "description": "On the joyes of peronal webpage",
+    "url": "https://michal.sapka.me/blog/2024/webmaster/",
+    "image": "bookmark-being-a-webmaster-is-freaking-cool.png",
+    "type": "website",
+    "notes": "Being a webmaster is cool. This post challenges the idea of using a platform for your website, go off on your own, enjoy it and have fun.",
+    "tags": [
+      "web"
+    ],
+    "quote": "A good website does not need to be regularly updated."
   }
 ]
