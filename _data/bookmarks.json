@@ -2519,5 +2519,19 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240318034109/https://theinternet.review/2024/03/13/ready-to-party-like-its-1999/",
     "quote": "What’s old is new again. Blogs are returning. RSS is again ascendant."
+  },
+  {
+    "title": "Not a Product",
+    "site": "João Cachada's website",
+    "author": "",
+    "date": "2024-03-18",
+    "description": "This website is not a product. (And neither are you) To put it nicely, I am not a fan of the Internet as it exists today.\nIn my life, I have greatly benefitted from the transformative power of the Internet. A lot of my closest friends and oldest friends are online friends - from Poland to the United Kingdom, I have found kinship with people from vastly different walks of life because I was able to talk to them, ignoring country borders and distance barriers that would have been prohibitive in most other times in history.",
+    "url": "https://jcachada.dev/not-a-product/",
+    "type": "article",
+    "notes": "Personal websites are not products, and neither are you.",
+    "tags": [
+      "web"
+    ],
+    "quote": "To put it nicely, I am not a fan of the Internet as it exists today."
   }
 ]
