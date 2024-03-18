@@ -2396,5 +2396,19 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240316085516/https://mikegrindle.com/posts/web-master",
     "quote": "The internet is not a place I visit anymore. It is an obligation that follows me everywhere like a shadow, ever-hungry for my attention."
+  },
+  {
+    "title": "Only 90s Web Developers Remember This",
+    "site": "",
+    "author": "Zach Holman",
+    "date": "2024-03-18",
+    "description": "Written pieces, talks, and other bits by Zach Holman.",
+    "url": "https://zachholman.com/posts/only-90s-developers/",
+    "type": "",
+    "notes": "A look back into how we did things in the 90s",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240221131422/https://zachholman.com/posts/only-90s-developers/"
   }
 ]
