@@ -4096,8 +4096,8 @@
   {
     "isbn": "9780374716325",
     "dateStarted": "2024-03-18",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "Lurking",
     "authors": [
       "Joanne McNeil"
@@ -4111,6 +4111,8 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=kaqEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://play.google.com/store/books/details?id=kaqEDwAAQBAJ"
+    "link": "https://play.google.com/store/books/details?id=kaqEDwAAQBAJ",
+    "dateFinished": "2024-03-21",
+    "notes": "Loved it, great dive into history of certain parts of the internet and it's discourse over the past 20 years."
   }
 ]
