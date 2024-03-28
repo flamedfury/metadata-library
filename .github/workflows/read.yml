@@ -59,10 +59,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Read
-        uses: katydecorah/read-action@v8.0.0
+        uses: katydecorah/read-action@v8.1.0
         with:
           thumbnail-width: 1280
           time-zone: Pacific/Auckland
+          set-image: true
           
       - name: Download the book thumbnail
         if: env.BookThumbOutput != ''
