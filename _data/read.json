@@ -4118,7 +4118,7 @@
   {
     "isbn": "9781408857878",
     "dateAdded": "2024-03-22",
-    "status": "want to read",
+    "status": "started",
     "rating": "unrated",
     "title": "A Court of Thorns and Roses",
     "authors": [
@@ -4133,6 +4133,7 @@
     ],
     "thumbnail": "https://books.google.com/books/content?id=GynbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
-    "link": "https://books.google.com/books/about/A_Court_of_Thorns_and_Roses.html?hl=&id=GynbBQAAQBAJ"
+    "link": "https://books.google.com/books/about/A_Court_of_Thorns_and_Roses.html?hl=&id=GynbBQAAQBAJ",
+    "dateStarted": "2024-03-29"
   }
 ]
