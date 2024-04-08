@@ -2847,5 +2847,23 @@
       "personal websites"
     ],
     "waybackUrl": "http://web.archive.org/web/20240404101412/https://frills.dev/blog/240404-anniversary/"
+  },
+  {
+    "title": "Why I Blog. You Should Too!",
+    "site": "shellsharks",
+    "author": "Michael Sass",
+    "date": "2024-04-08",
+    "timestamp": "2024-04-08T23:30:57.955Z",
+    "description": "Scream into the void...",
+    "url": "https://shellsharks.com/you-should-blog",
+    "image": "bookmark-why-i-blog-you-should-too.png",
+    "type": "article",
+    "notes": "More reasons to start a blog/website",
+    "tags": [
+      "smallweb",
+      "indieweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240112174549/https://shellsharks.com/you-should-blog"
   }
 ]
