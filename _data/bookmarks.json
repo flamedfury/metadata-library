@@ -8,7 +8,8 @@
     "url": "https://ohhelloana.blog/blogging-and-me/",
     "image": "bookmark-oh-hello-ana.jpg",
     "type": "website",
-    "notes": "Ana reflects on how blogging has been part of her life since the early 2000s."
+    "notes": "Ana reflects on how blogging has been part of her life since the early 2000s.",
+    "timestamp": "2020-03-04T00:00:00.000Z"
   },
   {
     "title": "Overthinking my blog",
@@ -19,7 +20,8 @@
     "url": "https://ohhelloana.blog/overthinking-my-blog/",
     "image": "bookmark-oh-hello-ana.jpg",
     "type": "website",
-    "notes": "Ana starts to over think her blog and needs to get it back on track."
+    "notes": "Ana starts to over think her blog and needs to get it back on track.",
+    "timestamp": "2020-03-04T00:00:00.000Z"
   },
   {
     "title": "Letting Go of the Old Web",
@@ -30,7 +32,8 @@
     "url": "http://web.archive.org/web/20200806102950/https://dezz.ie/web-history/letting-go-of-the-old-web/",
     "image": "bookmark-letting-go-of-the-old-web.jpg",
     "type": "article",
-    "notes": "Desiree explores what gets us to build a website and tries to understand what a website actually is today."
+    "notes": "Desiree explores what gets us to build a website and tries to understand what a website actually is today.",
+    "timestamp": "2020-03-04T00:00:00.000Z"
   },
   {
     "title": "Overthinking my nostalgia",
@@ -41,7 +44,8 @@
     "url": "https://ohhelloana.blog/overthinking-my-nostalgia",
     "image": "bookmark-oh-hello-ana.jpg",
     "type": "website",
-    "notes": "Ana reflects on her nostalgia for the old web and what she can learn from it."
+    "notes": "Ana reflects on her nostalgia for the old web and what she can learn from it.",
+    "timestamp": "2020-03-04T00:00:00.000Z"
   },
   {
     "title": "manifesto",
@@ -55,7 +59,8 @@
     "notes": "The page that started a... something... We, the people of the Internet, have the power to restore it to its former glory.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2021-02-26T00:00:00.000Z"
   },
   {
     "title": "Make your own independent website",
@@ -65,7 +70,8 @@
     "description": "",
     "url": "https://victoria.dev/blog/make-your-own-independent-website/",
     "type": "website",
-    "notes": "Victoria shares how to make 2021 the year of the independent web...."
+    "notes": "Victoria shares how to make 2021 the year of the independent web....",
+    "timestamp": "2021-02-26T00:00:00.000Z"
   },
   {
     "title": "sadgrl | There's no place like the old internet",
@@ -75,7 +81,8 @@
     "description": "",
     "url": "https://sadgrl.dreamwidth.org/1051.html",
     "type": "",
-    "notes": "I started on the Internet back in 1996. Sadness came later. In this blog post she explores what the old web looks like compared to the new web."
+    "notes": "I started on the Internet back in 1996. Sadness came later. In this blog post she explores what the old web looks like compared to the new web.",
+    "timestamp": "2021-02-26T00:00:00.000Z"
   },
   {
     "title": "I Made a Linguistics Professor Listen to a Blink-182 Song and Analyze the Accent",
@@ -86,7 +93,8 @@
     "url": "http://www.atlasobscura.com/articles/i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent",
     "image": "bookmark-i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent.jpg",
     "type": "article",
-    "notes": "A linguistics professors analysis of the american pop punk accent. Great read."
+    "notes": "A linguistics professors analysis of the american pop punk accent. Great read.",
+    "timestamp": "2021-02-26T00:00:00.000Z"
   },
   {
     "title": "One Terabyte of Kilobyte Age | Digging through the Geocities Torrent",
@@ -97,7 +105,8 @@
     "url": "https://blog.geocities.institute",
     "image": "bookmark-one-terabyte-of-kilobyte-age-digging-through-the-geocities-torrent.png",
     "type": "",
-    "notes": "Digging through the Geocities Torrent"
+    "notes": "Digging through the Geocities Torrent",
+    "timestamp": "2021-04-27T00:00:00.000Z"
   },
   {
     "title": "Ruins and Templates of Geocities",
@@ -110,7 +119,8 @@
     "notes": "The free web hosting service GeoCities was founded by Beverly Hills Internet in July 1995, which exactly corresponds with the moment that the web left academia and started to become accessible to everyone. Users began learning Hyper Text Markup Language, and welcomed each other onto their “home pages” — the first personal websites,",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2021-04-27T00:00:00.000Z"
   },
   {
     "title": "GeoCities, webrings, and the cozy connectedness of the ‘90s internet",
@@ -121,7 +131,8 @@
     "url": "https://www.mic.com/impact/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198",
     "image": "bookmark-geocities-webrings-and-the-cozy-connectedness-of-the-90s-internet.jpg",
     "type": "article",
-    "notes": "How GeoCities webrings made the ‘90s internet a cozier place."
+    "notes": "How GeoCities webrings made the ‘90s internet a cozier place.",
+    "timestamp": "2021-04-27T00:00:00.000Z"
   },
   {
     "title": "A love letter to my website - DESK Magazine",
@@ -132,7 +143,8 @@
     "url": "https://vanschneider.com/blog/portfolio-tips/a-love-letter-to-personal-websites/",
     "image": "bookmark-a-love-letter-to-my-website-desk-magazine.png",
     "type": "article",
-    "notes": "A declaration of love for personal websites."
+    "notes": "A declaration of love for personal websites.",
+    "timestamp": "2021-05-21T00:00:00.000Z"
   },
   {
     "title": "Ten Commandments of the Small Internet",
@@ -142,7 +154,8 @@
     "description": "A grassroots Internet movement called ",
     "url": "https://cheapskatesguide.org/articles/small-internet.html",
     "type": "",
-    "notes": "A grassroots Internet movement called \\\"the small Internet\\\" is afoot. Here are ten commandments that Cheapskates would like to see largely obeyed on the small Internet."
+    "notes": "A grassroots Internet movement called \\\"the small Internet\\\" is afoot. Here are ten commandments that Cheapskates would like to see largely obeyed on the small Internet.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "What I Learned about the Internet by Creating My Own Website",
@@ -152,7 +165,8 @@
     "description": "Here are some things I learned about the Internet by creating my own website.",
     "url": "https://cheapskatesguide.org/articles/what-i-learned-about-the-internet.html",
     "type": "",
-    "notes": "Here are some things Cheapskates learned about the Internet by creating their own website."
+    "notes": "Here are some things Cheapskates learned about the Internet by creating their own website.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Nostalgia Is Bullshit",
@@ -162,7 +176,8 @@
     "description": "",
     "url": "https://web.archive.org/web/20210530080647/https://september.city/nostalgia/index.html",
     "type": "",
-    "notes": "When you come to the realisation that web 1.0 nostalgia is bullshit. September shares with us their thoughts about web 1.0 design nostalgia. Like all nostalgia, it's bullshit."
+    "notes": "When you come to the realisation that web 1.0 nostalgia is bullshit. September shares with us their thoughts about web 1.0 design nostalgia. Like all nostalgia, it's bullshit.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The Return of the 90s Web",
@@ -173,7 +188,8 @@
     "url": "https://web.archive.org/web/20210517233025/https://mxb.dev/blog/the-return-of-the-90s-web/",
     "image": "bookmark-the-return-of-the-90s-web.jpg",
     "type": "article",
-    "notes": "Max wonders if having your own website is trendy again."
+    "notes": "Max wonders if having your own website is trendy again.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Seven Reasons for having a Personal Website",
@@ -183,7 +199,8 @@
     "description": "There are at least seven reasons you should have a personal website.",
     "url": "https://cheapskatesguide.org/articles/why-have-a-personal-website.html",
     "type": "",
-    "notes": "There are at least seven reasons you should have a personal website. Cheapskates lets us know what they are."
+    "notes": "There are at least seven reasons you should have a personal website. Cheapskates lets us know what they are.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The Missing Hit and the Open Web",
@@ -193,7 +210,8 @@
     "description": "Writing about the big beautiful mess that is making things for the world wide web.",
     "url": "https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/",
     "type": "article",
-    "notes": "If it doesn't appear in google's search results, does it really exist?"
+    "notes": "If it doesn't appear in google's search results, does it really exist?",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Making the Web Fun Again",
@@ -204,7 +222,8 @@
     "url": "https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html",
     "image": "bookmark-making-the-web-fun-again.jpg",
     "type": "",
-    "notes": "Kyle looks at how the web could be made fun again."
+    "notes": "Kyle looks at how the web could be made fun again.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Underscores, Optimization & Arms Races - Anil Dash",
@@ -215,7 +234,8 @@
     "url": "https://anildash.com/2017/11/29/underscores-optimization-arms-races/",
     "image": "bookmark-underscores-optimization-arms-races-anil-dash.png",
     "type": "article",
-    "notes": "A dozen years ago, the web started to reshape itself around major companies like Google. We can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character..."
+    "notes": "A dozen years ago, the web started to reshape itself around major companies like Google. We can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The modern web is becoming an unusable, user-hostile wasteland",
@@ -226,7 +246,8 @@
     "url": "https://omarabid.com/the-modern-web",
     "image": "bookmark-the-modern-web-is-becoming-an-unusable-user-hostile-wasteland.png",
     "type": "article",
-    "notes": "The question is: at which point do we reach the breaking point?"
+    "notes": "The question is: at which point do we reach the breaking point?",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "I Miss the Old Internet",
@@ -237,7 +258,8 @@
     "url": "http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/",
     "image": "bookmark-i-miss-the-old-internet.jpg",
     "type": "article",
-    "notes": "The author, Tie, misses the Internet of the early 1990's."
+    "notes": "The author, Tie, misses the Internet of the early 1990's.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Autonomy Online: A Case For The IndieWeb — Smashing Magazine",
@@ -248,7 +270,8 @@
     "url": "https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/",
     "image": "bookmark-autonomy-online-a-case-for-the-indieweb-smashing-magazine.png",
     "type": "article",
-    "notes": "There is an alternative to corporate bubbles online — it’s called the indieweb. build your own personal websites, control your online presence, and learn on your own terms."
+    "notes": "There is an alternative to corporate bubbles online — it’s called the indieweb. build your own personal websites, control your online presence, and learn on your own terms.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Hunting the Nearly-Invisible Personal Website",
@@ -259,7 +282,8 @@
     "url": "https://cheapskatesguide.org/articles/personal-website-hunting.html",
     "image": "bookmark-hunting-the-nearly-invisible-personal-website.jpg",
     "type": "",
-    "notes": "Cheapskates goes hunting. The personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the Internet"
+    "notes": "Cheapskates goes hunting. The personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the Internet",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "ZeroNet and the Future of the Internet",
@@ -269,7 +293,8 @@
     "description": "A ZeroNet review that also asks, is ZeroNet the future of the Internet?",
     "url": "https://cheapskatesguide.org/articles/zeronet.html",
     "type": "",
-    "notes": "Cheapskates again takes a dive into alternet Internet protocols... Until recently, the conventional wisdom was that the Internet is beyond the control of governments. how naive the conventional wisdom sometimes is."
+    "notes": "Cheapskates again takes a dive into alternet Internet protocols... Until recently, the conventional wisdom was that the Internet is beyond the control of governments. how naive the conventional wisdom sometimes is.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The Rise And Fall Of Grunge Typography",
@@ -280,7 +305,8 @@
     "url": "https://www.theawl.com/2012/08/the-rise-and-fall-of-grunge-typography/",
     "image": "bookmark-the-rise-and-fall-of-grunge-typography.jpg",
     "type": "article",
-    "notes": "The Rise And Fall Of Grunge Typography by Sharan Shetty. Hop on the nostalgia train for a second. Think back to the 90s. To Nirvana, Linklater’s Slacker, and the flannel-clad rebels on the run from the 80s. To skateboards..."
+    "notes": "The Rise And Fall Of Grunge Typography by Sharan Shetty. Hop on the nostalgia train for a second. Think back to the 90s. To Nirvana, Linklater’s Slacker, and the flannel-clad rebels on the run from the 80s. To skateboards...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Everyone Should Have Access to the Web - The History of the Web",
@@ -291,7 +317,8 @@
     "url": "https://thehistoryoftheweb.com/world-wide-web-foundation-and-africa/",
     "image": "bookmark-everyone-should-have-access-to-the-web-the-history-of-the-web.jpg",
     "type": "article",
-    "notes": "The World Wide Web Foundation began as a way to bring the web to everyone. In these trying times, it is needed more than ever."
+    "notes": "The World Wide Web Foundation began as a way to bring the web to everyone. In these trying times, it is needed more than ever.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "When the Web Was Weird",
@@ -302,7 +329,8 @@
     "url": "https://www.popularmechanics.com/culture/web/a29643491/weird-web-design-evolution/",
     "image": "bookmark-when-the-web-was-weird.jpg",
     "type": "article",
-    "notes": "In the late ‘90s, an obscure site called Superbad pioneered jarringly bizarre, often ugly, but occasionally beautiful web design. It’s taken all this time for the rest of the Internet to catch up."
+    "notes": "In the late ‘90s, an obscure site called Superbad pioneered jarringly bizarre, often ugly, but occasionally beautiful web design. It’s taken all this time for the rest of the Internet to catch up.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "A Love Letter to Net.Art - The History of the Web",
@@ -313,7 +341,8 @@
     "url": "https://thehistoryoftheweb.com/net-art/",
     "image": "bookmark-a-love-letter-to-netart-the-history-of-the-web.jpg",
     "type": "article",
-    "notes": "In an interview for her book Internet Art in 2004, writer Rachel Greene had this to say about why she felt..."
+    "notes": "In an interview for her book Internet Art in 2004, writer Rachel Greene had this to say about why she felt...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "To Mend a Broken Internet, Create Online Parks",
@@ -324,7 +353,8 @@
     "url": "https://www.wired.com/story/to-mend-a-broken-internet-create-online-parks/",
     "image": "bookmark-to-mend-a-broken-internet-create-online-parks.jpg",
     "type": "article",
-    "notes": "We need public spaces, built in the spirit of Walt Whitman, that allow us to gather, communicate, and share in something bigger than ourselves..."
+    "notes": "We need public spaces, built in the spirit of Walt Whitman, that allow us to gather, communicate, and share in something bigger than ourselves...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The year we wanted the internet to be smaller",
@@ -335,7 +365,8 @@
     "url": "https://www.theverge.com/2017/12/28/16795090/internet-community-2017-post-mortem-tumblr-amino-drip-tinyletter",
     "image": "bookmark-the-year-we-wanted-the-internet-to-be-smaller.jpg",
     "type": "article",
-    "notes": "Why tiny, weird online communities made a comeback in 2017."
+    "notes": "Why tiny, weird online communities made a comeback in 2017.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "How Social Media Killed Internet Art Communities",
@@ -346,7 +377,8 @@
     "url": "https://web.archive.org/web/20210416091303/https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities",
     "image": "bookmark-how-social-media-killed-internet-art-communities.jpg",
     "type": "article",
-    "notes": "Zany, early creative communities like DeviantArt and conceptart.org have been steamrolled by homogenous social media platforms"
+    "notes": "Zany, early creative communities like DeviantArt and conceptart.org have been steamrolled by homogenous social media platforms",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Exit Feeds, Enter Community",
@@ -357,7 +389,8 @@
     "url": "https://ianvanagas.com/2020/11/24/exit-feeds-enter-community/",
     "image": "bookmark-exit-feeds-enter-community.jpg",
     "type": "article",
-    "notes": "Information floods the internet. You can't control it, but it must be controlled for you to absorb it. It is primarily controlled through infinite feeds of content on social media...."
+    "notes": "Information floods the internet. You can't control it, but it must be controlled for you to absorb it. It is primarily controlled through infinite feeds of content on social media....",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "He Created the Web. Now He’s Out to Remake the Digital World. (Published 2021)",
@@ -368,7 +401,8 @@
     "url": "https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html",
     "image": "bookmark-he-created-the-web-now-hes-out-to-remake-the-digital-world-published-2021.jpg",
     "type": "article",
-    "notes": "Tim Berners-Lee wants to put people in control of their personal data. He has technology and a start-up pursuing that goal. Can he succeed"
+    "notes": "Tim Berners-Lee wants to put people in control of their personal data. He has technology and a start-up pursuing that goal. Can he succeed",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "One Startup’s Vision to Reinvent the Web for Better Privacy",
@@ -379,7 +413,8 @@
     "url": "https://www.technologyreview.com/2017/01/13/154586/one-startups-vision-to-reinvent-the-web-for-better-privacy/",
     "image": "bookmark-one-startups-vision-to-reinvent-the-web-for-better-privacy.jpg",
     "type": "article",
-    "notes": "Blockstack’s system would let you control your own personal data—for example, by revoking a site’s access to it..."
+    "notes": "Blockstack’s system would let you control your own personal data—for example, by revoking a site’s access to it...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The Organic Web",
@@ -389,7 +424,8 @@
     "description": "Writing about the big beautiful mess that is making things for the world wide web.",
     "url": "https://blog.jim-nielsen.com/2020/the-organic-web/",
     "type": "article",
-    "notes": "There was a time when owning digital space seemed thrilling, and our personal sites motivated us to express ourselves. There are signs of a resurgence, but too few wish to make their digital house a home... People talk about growing communities and growing brands, but does anyone talk about growing a website?"
+    "notes": "There was a time when owning digital space seemed thrilling, and our personal sites motivated us to express ourselves. There are signs of a resurgence, but too few wish to make their digital house a home... People talk about growing communities and growing brands, but does anyone talk about growing a website?",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Why can't I write code inside my browser?",
@@ -400,7 +436,8 @@
     "url": "https://tomcritchlow.com/2021/01/14/new-browsers/",
     "image": "bookmark-why-cant-i-write-code-inside-my-browser.png",
     "type": "article",
-    "notes": "So I can write code inside my spreadsheet, but not inside my browser? WTF!"
+    "notes": "So I can write code inside my spreadsheet, but not inside my browser? WTF!",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "It’s Time to Get Personal",
@@ -411,7 +448,8 @@
     "url": "https://24ways.org/2019/its-time-to-get-personal/",
     "image": "bookmark-its-time-to-get-personal.png",
     "type": "article",
-    "notes": "Is it just me or does nobody have their own website anymore? Outdated sites, or sites that only contain a list of links to social media profiles on big tech platforms don't count. Despite being people who build websites, who love to share on the web, we don’t share much on our own sites"
+    "notes": "Is it just me or does nobody have their own website anymore? Outdated sites, or sites that only contain a list of links to social media profiles on big tech platforms don't count. Despite being people who build websites, who love to share on the web, we don’t share much on our own sites",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "How to bring back the old internet",
@@ -422,7 +460,8 @@
     "url": "https://theweek.com/articles/955798/how-bring-back-old-internet",
     "image": "bookmark-how-to-bring-back-the-old-internet.jpg",
     "type": "article",
-    "notes": "People who grew up with the internet of the 1990s probably remember forums — those clunky, lo-fi spaces where people came together to argue about cars, cycling, video games, cooking, or a million other topics. They had their problems, but in retrospect the internet of those days felt like a magical land of possibility, not a place for organizing pogroms."
+    "notes": "People who grew up with the internet of the 1990s probably remember forums — those clunky, lo-fi spaces where people came together to argue about cars, cycling, video games, cooking, or a million other topics. They had their problems, but in retrospect the internet of those days felt like a magical land of possibility, not a place for organizing pogroms.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Let's bring Fan Sites and webrings back! - bryanlrobinson.com",
@@ -433,7 +472,8 @@
     "url": "https://bryanlrobinson.com/blog/bring-fansites-back-to-the-web",
     "image": "bookmark-lets-bring-fan-sites-and-webrings-back-bryanlrobinsoncom.jpg",
     "type": "",
-    "notes": "In the days before the web was mainstream, it was a place of creation. First for education, then for every random idea that any creator had! As the web transitioned from a network of educational institutions to the consumer force it is today, the early adopters were technologists..."
+    "notes": "In the days before the web was mainstream, it was a place of creation. First for education, then for every random idea that any creator had! As the web transitioned from a network of educational institutions to the consumer force it is today, the early adopters were technologists...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "What happened to the ‘old internet’? We used to have so much variety and choice – it's all collapsed, or has it?",
@@ -444,7 +484,8 @@
     "url": "https://techaeris.com/2019/06/12/what-happened-to-the-old-internet-we-used-to-have-so-much-variety-and-choice-its-all-collapsed-or-has-it/",
     "image": "bookmark-what-happened-to-the-old-internet-we-used-to-have-so-much-variety-and-choice-its-all-collapsed-or-has-it.jpg",
     "type": "article",
-    "notes": "The Internet brings the world into people’s homes, enabling people to interact with worldwide events in a way that television can’t. What's changed?"
+    "notes": "The Internet brings the world into people’s homes, enabling people to interact with worldwide events in a way that television can’t. What's changed?",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "2015 is the year the old internet finally died",
@@ -455,7 +496,8 @@
     "url": "https://www.vox.com/2015/8/6/9099357/internet-dead-end",
     "image": "bookmark-2015-is-the-year-the-old-internet-finally-died.jpg",
     "type": "article",
-    "notes": "The old blogosphere is being eaten alive by the rise of social media and the mobile web."
+    "notes": "The old blogosphere is being eaten alive by the rise of social media and the mobile web.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "How the Blog Broke the Web",
@@ -466,7 +508,8 @@
     "url": "https://stackingthebricks.com/how-blogs-broke-the-web/",
     "image": "bookmark-how-the-blog-broke-the-web.jpg",
     "type": "article",
-    "notes": "The author first got online in 1993, back when the Web had a capital letter — three, in fact — and long before irony stretched its legs and unbuttoned its flannel shirt. Back when you could really say you were surfing the net..."
+    "notes": "The author first got online in 1993, back when the Web had a capital letter — three, in fact — and long before irony stretched its legs and unbuttoned its flannel shirt. Back when you could really say you were surfing the net...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Statistically obsessed",
@@ -477,7 +520,8 @@
     "url": "https://merviemilia.com/blog/statistically-obsessed",
     "image": "bookmark-statistically-obsessed.png",
     "type": "article",
-    "notes": "Measure, analyze, check your stats, take a look at the insights. Whether you are running a business website, a personal blog, a Twitter account or a Facebook page, there is someone breathing down your neck asking about the numbers..."
+    "notes": "Measure, analyze, check your stats, take a look at the insights. Whether you are running a business website, a personal blog, a Twitter account or a Facebook page, there is someone breathing down your neck asking about the numbers...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "404 Page Not Found | Kate Wagner",
@@ -488,7 +532,8 @@
     "url": "https://thebaffler.com/salvos/404-page-not-found-wagner",
     "image": "bookmark-404-page-not-found-kate-wagner.jpg",
     "type": "article",
-    "notes": "The artifacts of internet life are personal—that is, not professionally or historically notable—and therefore worthless..."
+    "notes": "The artifacts of internet life are personal—that is, not professionally or historically notable—and therefore worthless...",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "The Old Internet Died And We Watched And Did Nothing",
@@ -499,7 +544,8 @@
     "url": "https://www.buzzfeednews.com/article/katienotopoulos/how-we-killed-the-old-internet",
     "image": "bookmark-the-old-internet-died-and-we-watched-and-did-nothing.jpg",
     "type": "article",
-    "notes": "Quick: Can you think of a picture of yourself on the internet from before 2010, other than your old Facebook photos? How about something you’ve written? Maybe some old sent emails in Gmail or old Gchats? Thankfully I can. This article explores this more."
+    "notes": "Quick: Can you think of a picture of yourself on the internet from before 2010, other than your old Facebook photos? How about something you’ve written? Maybe some old sent emails in Gmail or old Gchats? Thankfully I can. This article explores this more.",
+    "timestamp": "2021-06-22T00:00:00.000Z"
   },
   {
     "title": "Web 0.5",
@@ -509,7 +555,8 @@
     "description": "A few people have already used \"Web 0.5\" by back-construction from Web 2.0.  Sean Coates used it derogatively of MySpace, but this O'Reilly blog post is more positive, suggesting Web 2.0 is a return to earlier Internet applications.\n\nBut if Web 2.0 was about interactivity and collaboration in a comm",
     "url": "https://wanderingdanny.com/oxford/2011/02/web-0-5/",
     "type": "",
-    "notes": "A few people have already used Web 0.5 by back-construction from Web 2.0. Sean Coates used it derogatively of MySpace, but this O'Reilly blog post is more positive, suggesting Web 2.0 is a return to earlier Internet applications."
+    "notes": "A few people have already used Web 0.5 by back-construction from Web 2.0. Sean Coates used it derogatively of MySpace, but this O'Reilly blog post is more positive, suggesting Web 2.0 is a return to earlier Internet applications.",
+    "timestamp": "2021-12-28T00:00:00.000Z"
   },
   {
     "title": "Yahoo, the Destroyer",
@@ -520,7 +567,8 @@
     "url": "https://www.theatlantic.com/technology/archive/2021/04/how-yahoo-became-internet-villain/618681/",
     "image": "bookmark-yahoo-the-destroyer.jpg",
     "type": "article",
-    "notes": "How the historic company became known as a bumbling villain of internet culture"
+    "notes": "How the historic company became known as a bumbling villain of internet culture",
+    "timestamp": "2021-12-28T00:00:00.000Z"
   },
   {
     "title": "You Probably Don’t Remember the Internet",
@@ -531,7 +579,8 @@
     "url": "https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/",
     "image": "bookmark-you-probably-dont-remember-the-internet.jpg",
     "type": "article",
-    "notes": "How do we memorialize life online when it's constantly disappearing?"
+    "notes": "How do we memorialize life online when it's constantly disappearing?",
+    "timestamp": "2021-12-28T00:00:00.000Z"
   },
   {
     "title": "How to Make a Website",
@@ -542,7 +591,8 @@
     "url": "https://www.theatlantic.com/technology/archive/2019/11/wikihow-history-founder-jack-herrick-good-internet/601627/",
     "image": "bookmark-how-to-make-a-website.jpg",
     "type": "article",
-    "notes": "wikiHow embodies an alternative history of the internet, and an interesting possibility for its future."
+    "notes": "wikiHow embodies an alternative history of the internet, and an interesting possibility for its future.",
+    "timestamp": "2021-12-28T00:00:00.000Z"
   },
   {
     "title": "This used to be our playground",
@@ -553,7 +603,8 @@
     "url": "https://colly.com/articles/this-used-to-be-our-playground",
     "image": "bookmark-this-used-to-be-our-playground.png",
     "type": "website",
-    "notes": "There was a time when owning digital space seemed thrilling, and our personal sites motivated us to express ourselves. There are signs of a resurgence, but too few wish to make their digital house a home."
+    "notes": "There was a time when owning digital space seemed thrilling, and our personal sites motivated us to express ourselves. There are signs of a resurgence, but too few wish to make their digital house a home.",
+    "timestamp": "2021-12-28T00:00:00.000Z"
   },
   {
     "title": "I Got The Internet Going Nutz: Kreayshawn and 10 Years of SOMETHIN' BOUT KREAY' - MGRM",
@@ -564,7 +615,8 @@
     "url": "https://merrygoroundmagazine.com/i-got-the-internet-going-nutz-kreayshawn-and-the-10th-anniversary-of-somethin-bout-kreay/",
     "image": "bookmark-i-got-the-internet-going-nutz-kreayshawn-and-10-years-of-somethin-bout-kreay-mgrm.jpg",
     "type": "article",
-    "notes": "This article reflects on the 10th anniversary of rapper Kreayshawn's debut album Somethin Bout Kreay and how it marked a significant moment in internet culture. Kreayshawn really had it hard. She blew up on the Internet before there was a means to monitise it. It dives into the troubles she faced with the virality and her eventual departure from the spotlight."
+    "notes": "This article reflects on the 10th anniversary of rapper Kreayshawn's debut album Somethin Bout Kreay and how it marked a significant moment in internet culture. Kreayshawn really had it hard. She blew up on the Internet before there was a means to monitise it. It dives into the troubles she faced with the virality and her eventual departure from the spotlight.",
+    "timestamp": "2022-12-05T00:00:00.000Z"
   },
   {
     "title": "2023, the year of websites",
@@ -575,7 +627,8 @@
     "url": "https://andy-bell.co.uk/2023-the-year-of-websites/",
     "image": "bookmark-2023-the-year-of-websites.png",
     "type": "article",
-    "notes": "2023 will be the year of websites as people become more aware of the value of owning their content and digital identity. Andy, like myself, encourages everyone to start building their own websites to have more control over their online presence and the ability to showcase their work. Check out the article for tips and resources for building your own website."
+    "notes": "2023 will be the year of websites as people become more aware of the value of owning their content and digital identity. Andy, like myself, encourages everyone to start building their own websites to have more control over their online presence and the ability to showcase their work. Check out the article for tips and resources for building your own website.",
+    "timestamp": "2022-12-29T00:00:00.000Z"
   },
   {
     "title": "Build your metadata library",
@@ -586,7 +639,8 @@
     "url": "https://katydecorah.com/code/build-your-metadata-library/",
     "image": "bookmark-build-your-metadata-library.png",
     "type": "blog",
-    "notes": "This has kept me busy for the past 6 weeks. Katy explains the importance of metadata in web development and provides a step-by-step guide on creating and managing metadata using Github actions. She also emphasizes the need for developers to prioritize metadata in their workflow and explains how it can help improve search engine optimization and accessibility of websites. One thing that I have found while implementing my own metadata library is that metadata could be a lot better. I've had to do a lot of manual editing to get things looking nice."
+    "notes": "This has kept me busy for the past 6 weeks. Katy explains the importance of metadata in web development and provides a step-by-step guide on creating and managing metadata using Github actions. She also emphasizes the need for developers to prioritize metadata in their workflow and explains how it can help improve search engine optimization and accessibility of websites. One thing that I have found while implementing my own metadata library is that metadata could be a lot better. I've had to do a lot of manual editing to get things looking nice.",
+    "timestamp": "2023-01-19T00:00:00.000Z"
   },
   {
     "title": "Organizing the Eleventy config file",
@@ -597,7 +651,8 @@
     "url": "https://www.lenesaile.com/en/blog/organizing-the-eleventy-config-file/",
     "image": "bookmark-organizing-the-eleventy-config-file.jpg",
     "type": "website",
-    "notes": "Lene dives deep and discusses how you could approach organising your Eleventy config file."
+    "notes": "Lene dives deep and discusses how you could approach organising your Eleventy config file.",
+    "timestamp": "2023-01-19T00:00:00.000Z"
   },
   {
     "title": "Firefox found a way to keep ad-blockers working with Manifest V3",
@@ -607,7 +662,8 @@
     "description": "It plays nice with uBlock Origin.",
     "url": "https://www.theverge.com/2023/1/17/23559234/firefox-manifest-v3-content-ad-blocker",
     "image": "bookmark-firefox-found-a-way-to-keep-ad-blockers-working-with-manifest-v3.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-01-19T00:00:00.000Z"
   },
   {
     "title": "Is Amos Burton a Sociopath?",
@@ -618,7 +674,8 @@
     "url": "https://medium.com/the-culture-corner/is-amos-burton-a-sociopath-b56feef7400e",
     "image": "bookmark-is-amos-burton-a-sociopath.jpg",
     "type": "article",
-    "notes": "At first glance yup, but this article dives deeper to discover that Amos is indeed a complex person."
+    "notes": "At first glance yup, but this article dives deeper to discover that Amos is indeed a complex person.",
+    "timestamp": "2023-01-19T00:00:00.000Z"
   },
   {
     "title": "Sonos / Spotify Vinyl Emulator",
@@ -629,7 +686,8 @@
     "url": "https://www.hackster.io/mark-hank/sonos-spotify-vinyl-emulator-3be63d",
     "image": "bookmark-sonos-spotify-vinyl-emulator.jpg",
     "type": "article",
-    "note": "Have you ever wanted to build a vinyl emulator? This post will guide you through doing exactly that with a Raspberry Pi, a USB turn table and a Sonos sound system. Play vinyl records on the Sonos system and control the turntable remotely through the web."
+    "note": "Have you ever wanted to build a vinyl emulator? This post will guide you through doing exactly that with a Raspberry Pi, a USB turn table and a Sonos sound system. Play vinyl records on the Sonos system and control the turntable remotely through the web.",
+    "timestamp": "2023-01-21T00:00:00.000Z"
   },
   {
     "title": "How to fix the internet",
@@ -639,7 +697,8 @@
     "description": "",
     "url": "https://www.pauljmiller.com/posts/how-to-fix-the-internet.html",
     "type": "",
-    "notes": "Written in 2015. Should the tech giants control user-created content like videos, podcasts, music and blogs? Think of a web where standard and open formats such as .video, .podcast, .blog, and .tweet exist. They are not tied to apps rented to you by the tech giants. An entire ecosystem exists for users to choose how to consume this open and free content. I love these ideas and would love to work on something to push this..."
+    "notes": "Written in 2015. Should the tech giants control user-created content like videos, podcasts, music and blogs? Think of a web where standard and open formats such as .video, .podcast, .blog, and .tweet exist. They are not tied to apps rented to you by the tech giants. An entire ecosystem exists for users to choose how to consume this open and free content. I love these ideas and would love to work on something to push this...",
+    "timestamp": "2023-01-23T00:00:00.000Z"
   },
   {
     "title": "Maybe the web should die",
@@ -649,7 +708,8 @@
     "description": "",
     "url": "https://www.pauljmiller.com/posts/maybe-the-web-should-die.html",
     "type": "",
-    "notes": "Written in 2015, this seems even more relevant today in 2023. The Web shouldn't die, but content that exists solely to sell ads should. The current state of the Web is problematic due to issues like surveillance capitalism, monopolies, and social media's negative impact. Show the Web in its current form die so that something better can emerge in its place? This article is another call for people to take ownership of their data and participate in building a better web."
+    "notes": "Written in 2015, this seems even more relevant today in 2023. The Web shouldn't die, but content that exists solely to sell ads should. The current state of the Web is problematic due to issues like surveillance capitalism, monopolies, and social media's negative impact. Show the Web in its current form die so that something better can emerge in its place? This article is another call for people to take ownership of their data and participate in building a better web.",
+    "timestamp": "2023-01-23T00:00:00.000Z"
   },
   {
     "title": "The Year of the Personal Website",
@@ -660,7 +720,8 @@
     "url": "https://matthiasott.com/notes/the-year-of-the-personal-website",
     "image": "bookmark-the-year-of-the-personal-website-matthias-ott-user-experience-designer.png",
     "type": "website",
-    "notes": "Have you heard me say 'create your own homepage!' before? Make 2023 the year we take back the web!"
+    "notes": "Have you heard me say 'create your own homepage!' before? Make 2023 the year we take back the web!",
+    "timestamp": "2023-01-23T00:00:00.000Z"
   },
   {
     "title": "Own your stuff",
@@ -671,7 +732,8 @@
     "url": "https://www.brycewray.com/posts/2022/11/own-your-stuff/",
     "image": "bookmark-own-your-stuff-brycewraycom.jpg",
     "type": "article",
-    "notes": "Another article stresses the importance of owning and controlling your digital content rather than relying on social media or other platforms. Owning your content gives control over its distribution and longevity and reduces the risk of losing it due to how the tech giants feel about a particular service. Bryce offers practical tips and tools to create and host your own website or blog."
+    "notes": "Another article stresses the importance of owning and controlling your digital content rather than relying on social media or other platforms. Owning your content gives control over its distribution and longevity and reduces the risk of losing it due to how the tech giants feel about a particular service. Bryce offers practical tips and tools to create and host your own website or blog.",
+    "timestamp": "2023-01-23T00:00:00.000Z"
   },
   {
     "title": "Blasts from the past",
@@ -682,7 +744,8 @@
     "url": "https://www.brycewray.com/posts/2022/10/blasts-from-past/",
     "image": "bookmark-blasts-from-the-past-brycewraycom.jpg",
     "type": "article",
-    "notes": "Is the Internet broken, or has the way use it created the issues we see today? We could all take accountability for how we engage with content on the Internet and each other to avoid things such as sharing misleading or false information and work to make the Internet a better place for everyone."
+    "notes": "Is the Internet broken, or has the way use it created the issues we see today? We could all take accountability for how we engage with content on the Internet and each other to avoid things such as sharing misleading or false information and work to make the Internet a better place for everyone.",
+    "timestamp": "2023-01-23T00:00:00.000Z"
   },
   {
     "title": "There Can Be Money in Blogging - Chris Coyier",
@@ -693,7 +756,8 @@
     "url": "https://chriscoyier.net/2023/01/03/there-can-be-money-in-blogging/",
     "image": "bookmark-there-can-be-money-in-blogging-chris-coyier.png",
     "type": "article",
-    "notes": "I don't care for the making money parts, but the other points are solid."
+    "notes": "I don't care for the making money parts, but the other points are solid.",
+    "timestamp": "2023-01-23T00:00:00.000Z"
   },
   {
     "title": "The internet is not broken. People are. - Manu",
@@ -703,7 +767,8 @@
     "description": "That magical place that is Hacker News managed to fish up this piece of content today, from the depths of the web. And I am very grateful for that. …",
     "url": "https://manuelmoreale.com/the-internet-is-not-broken-people-are",
     "type": "",
-    "notes": ""
+    "notes": "",
+    "timestamp": "2023-01-29T00:00:00.000Z"
   },
   {
     "title": "Welcome to the new Verge",
@@ -714,7 +779,8 @@
     "url": "https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo",
     "image": "bookmark-welcome-to-the-new-verge.png",
     "type": "article",
-    "notes": "I'm interested to see how this works out for The Verge. Their redesign aims to provide a better user experience by improving the navigation, reducing clutter, and emphasizing the content. I've enjoyed reading so far and paying attention to who the authors of the blog posts are."
+    "notes": "I'm interested to see how this works out for The Verge. Their redesign aims to provide a better user experience by improving the navigation, reducing clutter, and emphasizing the content. I've enjoyed reading so far and paying attention to who the authors of the blog posts are.",
+    "timestamp": "2023-01-29T00:00:00.000Z"
   },
   {
     "title": "Bring back personal blogging",
@@ -725,7 +791,8 @@
     "url": "https://www.theverge.com/23513418/bring-back-personal-blogging",
     "image": "bookmark-bring-back-personal-blogging.jpg",
     "type": "article",
-    "notes": "I whole heartedly agree with the message in this post, I share similar thoughts in my manifesto."
+    "notes": "I whole heartedly agree with the message in this post, I share similar thoughts in my manifesto.",
+    "timestamp": "2023-01-29T00:00:00.000Z"
   },
   {
     "title": "In Defense of a Fussy Website",
@@ -736,7 +803,8 @@
     "url": "https://css-tricks.com/in-defense-of-a-fussy-website/",
     "image": "bookmark-in-defense-of-a-fussy-website-css-tricks.jpg",
     "type": "article",
-    "notes": "It is evident when a website has been crafted with care and excitement. It can enhance user experience and improve the overall perception of a brand. I love discovering new websites where the webmaster has done just that. It's great to stand out from the crowd and helps me identify whether a real person is behind the website."
+    "notes": "It is evident when a website has been crafted with care and excitement. It can enhance user experience and improve the overall perception of a brand. I love discovering new websites where the webmaster has done just that. It's great to stand out from the crowd and helps me identify whether a real person is behind the website.",
+    "timestamp": "2023-01-29T00:00:00.000Z"
   },
   {
     "title": "Just Put Stuff Out There",
@@ -747,7 +815,8 @@
     "url": "https://matthiasott.com/notes/just-put-stuff-out-there",
     "image": "bookmark-just-put-stuff-out-there-matthias-ott-user-experience-designer.png",
     "type": "website",
-    "notes": "We all fall trap to this. Create and share your work with the world instead of holding back and waiting for perfection. Putting oneself out there and learning from mistakes is essential to the creative process. Learning in public is one of the fun things about the Web."
+    "notes": "We all fall trap to this. Create and share your work with the world instead of holding back and waiting for perfection. Putting oneself out there and learning from mistakes is essential to the creative process. Learning in public is one of the fun things about the Web.",
+    "timestamp": "2023-01-29T00:00:00.000Z"
   },
   {
     "title": "A Web that Reflects People and their Val… — Jacky Alciné",
@@ -758,7 +827,8 @@
     "url": "https://jacky.wtf/2022/6/Cpq0?",
     "image": "bookmark-a-web-that-reflects-people-and-their-val-jacky-alcin.jpg",
     "type": "website",
-    "notes": "Dive into the current state of the internet and the rise of decentralised projects attempting to offer an alternative to the tech giants. Jacky expresses their desire for an alternative social networking system that allows them to publish and share content while maintaining control over their data. I like emphasising this exact message in every conversation about posting your content online."
+    "notes": "Dive into the current state of the internet and the rise of decentralised projects attempting to offer an alternative to the tech giants. Jacky expresses their desire for an alternative social networking system that allows them to publish and share content while maintaining control over their data. I like emphasising this exact message in every conversation about posting your content online.",
+    "timestamp": "2023-01-30T00:00:00.000Z"
   },
   {
     "title": "Why is your site like this?",
@@ -768,7 +838,8 @@
     "description": "",
     "url": "https://delovely.neocities.org/writing/why",
     "type": "article",
-    "notes": "Fellow small web enthusiast Di explores why they write, including the desire to create something beautiful and meaningful, the need to process their thoughts and emotions, and the hope to connect with others through their writing. Writing is an act of self-discovery and a way to make sense of the world around them."
+    "notes": "Fellow small web enthusiast Di explores why they write, including the desire to create something beautiful and meaningful, the need to process their thoughts and emotions, and the hope to connect with others through their writing. Writing is an act of self-discovery and a way to make sense of the world around them.",
+    "timestamp": "2023-01-31T00:00:00.000Z"
   },
   {
     "title": "Smashmouth's White Magic",
@@ -779,7 +850,8 @@
     "url": "https://coolguy.website/smashmouth-white-magic/",
     "image": "bookmark-smashmouths-white-magic.png",
     "type": "article",
-    "notes": "Zach dives into Smashmouth's hidden, mystical significance, particularly the references to hermetic alchemy in their music. It hilariously ends with a warning of the dangers of bands like Third Eye Blind, who use the occult arts to obfuscate and block spiritual clarity."
+    "notes": "Zach dives into Smashmouth's hidden, mystical significance, particularly the references to hermetic alchemy in their music. It hilariously ends with a warning of the dangers of bands like Third Eye Blind, who use the occult arts to obfuscate and block spiritual clarity.",
+    "timestamp": "2023-01-31T00:00:00.000Z"
   },
   {
     "title": "A Web Renaissance",
@@ -790,7 +862,8 @@
     "url": "https://anildash.com/2022/04/13/a-web-renaissance/",
     "image": "bookmark-a-web-renaissance-anil-dash.png",
     "type": "article",
-    "notes": "Written in 2022, Anil declares the internet is experiencing a new wave of innovation and creativity, similar to the early days of the web. Dash cites the proliferation of web-based apps, the rise of decentralized technologies like blockchain, and the increasing focus on privacy and security as signs of this renaissance. He also emphasizes the importance of building a web that is open and accessible to all rather than controlled by a few tech giants. Dash advocates for a renewed focus on the core values of the web, including decentralization, interoperability, and community-driven innovation."
+    "notes": "Written in 2022, Anil declares the internet is experiencing a new wave of innovation and creativity, similar to the early days of the web. Dash cites the proliferation of web-based apps, the rise of decentralized technologies like blockchain, and the increasing focus on privacy and security as signs of this renaissance. He also emphasizes the importance of building a web that is open and accessible to all rather than controlled by a few tech giants. Dash advocates for a renewed focus on the core values of the web, including decentralization, interoperability, and community-driven innovation.",
+    "timestamp": "2023-02-07T00:00:00.000Z"
   },
   {
     "title": "The future of blogging",
@@ -801,7 +874,8 @@
     "url": "https://www.kooslooijesteijn.net/blog/future-of-blogging",
     "image": "bookmark-the-future-of-blogging.png",
     "type": "article",
-    "notes": "Koos discusses the challenges and opportunities for bloggers in a rapidly evolving online landscape, emphasizing the importance of adapting to changing trends and technologies and creating high-quality content that provides value to readers. He also explores the potential for emerging technologies, such as artificial intelligence and virtual reality, to shape the future of blogging. I can get behind this."
+    "notes": "Koos discusses the challenges and opportunities for bloggers in a rapidly evolving online landscape, emphasizing the importance of adapting to changing trends and technologies and creating high-quality content that provides value to readers. He also explores the potential for emerging technologies, such as artificial intelligence and virtual reality, to shape the future of blogging. I can get behind this.",
+    "timestamp": "2023-02-09T00:00:00.000Z"
   },
   {
     "title": "Miley's Whole Career Has Been Building to This Moment",
@@ -812,7 +886,8 @@
     "url": "https://www.rollingstone.com/music/music-features/miley-cyrus-flowers-endless-summer-vacation-1234691827/",
     "image": "bookmark-mileys-whole-career-has-been-building-to-this-moment.jpg",
     "type": "article",
-    "notes": "I'm so happy that Miley is finally getting her flowers. How has Miley evolved as an artist over the years? How has she succeeded despite her personal struggles? Will Endless Summer Vacation be a hit?"
+    "notes": "I'm so happy that Miley is finally getting her flowers. How has Miley evolved as an artist over the years? How has she succeeded despite her personal struggles? Will Endless Summer Vacation be a hit?",
+    "timestamp": "2023-03-09T00:00:00.000Z"
   },
   {
     "title": "No, Blogging Is Not Dying Anytime Soon  - Darius Foroux",
@@ -823,7 +898,8 @@
     "url": "https://dariusforoux.com/blogging-not-dying/",
     "image": "bookmark-no-blogging-is-not-dying-anytime-soon-darius-foroux.png",
     "type": "article",
-    "notes": "The author argues against video content creators' claim that blogging is dead. Video is not my favourite way to consume information. I still enjoy a well-written article. The key takeaway is to spend your time doing the thing you like."
+    "notes": "The author argues against video content creators' claim that blogging is dead. Video is not my favourite way to consume information. I still enjoy a well-written article. The key takeaway is to spend your time doing the thing you like.",
+    "timestamp": "2023-03-11T00:00:00.000Z"
   },
   {
     "title": "I don't want to log in to your website",
@@ -834,7 +910,8 @@
     "url": "https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell",
     "image": "bookmark-i-dont-want-to-log-in-to-your-website.jpg",
     "type": "article",
-    "notes": "This article examines how relying on tech giants for user authentication and advertising has complicated the web. Web developers should prioritise user privacy and find ways to reduce reliance on tech giants. I avoid participating with websites that push \"login with x\" prompts on me. I shouldn't have to log in to anything to read a simple page of text."
+    "notes": "This article examines how relying on tech giants for user authentication and advertising has complicated the web. Web developers should prioritise user privacy and find ways to reduce reliance on tech giants. I avoid participating with websites that push \"login with x\" prompts on me. I shouldn't have to log in to anything to read a simple page of text.",
+    "timestamp": "2023-03-12T00:00:00.000Z"
   },
   {
     "title": "Dot-com – Vague, But Exciting",
@@ -845,7 +922,8 @@
     "url": "https://thehistoryoftheweb.com/book/dot-com/",
     "image": "bookmark-dot-com-vague-but-exciting.png",
     "type": "",
-    "notes": "This article briefly analyses the dot-com boom and bust between 1995 and 2001. It also looks into the rise of Amazon and how Bezos made it a success amidst the dot-com bust."
+    "notes": "This article briefly analyses the dot-com boom and bust between 1995 and 2001. It also looks into the rise of Amazon and how Bezos made it a success amidst the dot-com bust.",
+    "timestamp": "2023-04-02T00:00:00.000Z"
   },
   {
     "title": "The Story Of How ODB Recorded His Verse For Mariah Carey’s Remix Is Fantastic",
@@ -856,7 +934,8 @@
     "url": "https://ambrosiaforheads.com/2018/11/odb-mariah-carey-fantasy-making-of-ol-dirty/",
     "image": "bookmark-the-story-of-how-odb-recorded-his-verse-for-mariah-careys-remix-is-fantastic.jpg",
     "type": "article",
-    "notes": "I've been enjoying season 3 of Wu-Tang: An American Saga and was reminded of this article while watching episode 7, Shadowboxin. This article recounts the hilarious way ODB's verse came to be on the Fantasy remix by Mariah Carey. "
+    "notes": "I've been enjoying season 3 of Wu-Tang: An American Saga and was reminded of this article while watching episode 7, Shadowboxin. This article recounts the hilarious way ODB's verse came to be on the Fantasy remix by Mariah Carey. ",
+    "timestamp": "2023-04-02T00:00:00.000Z"
   },
   {
     "title": "The Fight for the Open Web",
@@ -867,7 +946,8 @@
     "url": "https://essentialrandomness.com/posts/the-fight-for-the-open-web/",
     "image": "bookmark-the-fight-for-the-open-web.png",
     "type": "article",
-    "notes": "There’s no better time than now to fight for the freedom of the web. While web3 might not be the answer, it has brought the topic of web freedom to the forefront of discussion. Ultimately, the best way to fight for the web is to build. Build and participate in an open and free web!"
+    "notes": "There’s no better time than now to fight for the freedom of the web. While web3 might not be the answer, it has brought the topic of web freedom to the forefront of discussion. Ultimately, the best way to fight for the web is to build. Build and participate in an open and free web!",
+    "timestamp": "2023-04-19T00:00:00.000Z"
   },
   {
     "title": "Discover personal websites",
@@ -878,7 +958,8 @@
     "url": "https://sizeof.cat/post/website-discovery/",
     "image": "bookmark-discover-personal-websites.jpg",
     "type": "article",
-    "notes": "Another (hilarious) article emphasises the importance of website discovery. I'm nodding while reading, agreeing with the absolute state of search results. Provides some tips and resources for discovering new websites. Always be on the lookout for personal recommendations to find new exciting websites."
+    "notes": "Another (hilarious) article emphasises the importance of website discovery. I'm nodding while reading, agreeing with the absolute state of search results. Provides some tips and resources for discovering new websites. Always be on the lookout for personal recommendations to find new exciting websites.",
+    "timestamp": "2023-04-26T00:00:00.000Z"
   },
   {
     "title": "We Should Replace Facebook With Personal Websites",
@@ -889,7 +970,8 @@
     "url": "https://www.vice.com/en/article/vbanny/we-should-replace-facebook-with-personal-websites",
     "image": "bookmark-we-should-replace-facebook-with-personal-websites.jpg",
     "type": "website",
-    "notes": "Personal websites and email can replace most of what people like about Facebook—namely the urge to post about their lives online. Why did we abandon personal websites in favour of the social network platform of the month?"
+    "notes": "Personal websites and email can replace most of what people like about Facebook—namely the urge to post about their lives online. Why did we abandon personal websites in favour of the social network platform of the month?",
+    "timestamp": "2023-05-01T00:00:00.000Z"
   },
   {
     "title": "The Story Behind Lil Kim’s Iconic Louis Vuitton Logo-Print Portrait",
@@ -900,7 +982,8 @@
     "url": "https://www.vice.com/en/article/qvqde3/lil-kim-louis-vuitton-david-lachapelle",
     "image": "bookmark-the-story-behind-lil-kims-iconic-louis-vuitton-logo-print-portrait.jpg",
     "type": "website",
-    "notes": "The Story Behind Lil Kim’s Iconic Louis Vuitton Logo-Print Portrait"
+    "notes": "The Story Behind Lil Kim’s Iconic Louis Vuitton Logo-Print Portrait",
+    "timestamp": "2023-05-13T00:00:00.000Z"
   },
   {
     "title": "“I Realise Now How Harshly I Was Judged”: Miley Cyrus On Finding Her Peace – And Making The Album Of The Summer",
@@ -911,7 +994,8 @@
     "url": "https://www.vogue.co.uk/article/miley-cyrus-british-vogue-interview",
     "image": "bookmark-i-realise-now-how-harshly-i-was-judged-miley-cyrus-on-finding-her-peace-and-making-the-album-of-the-summer.jpg",
     "type": "article",
-    "notes": "Miley Cyrus' latest interview with British Vogue. Delve into this fascinating article to gain insights into the multi-talented artist's life, thoughts, and creative journey. How does she embrace authenticity and challenge societal norms? She shares her unique perspective on fashion, music, and personal growth."
+    "notes": "Miley Cyrus' latest interview with British Vogue. Delve into this fascinating article to gain insights into the multi-talented artist's life, thoughts, and creative journey. How does she embrace authenticity and challenge societal norms? She shares her unique perspective on fashion, music, and personal growth.",
+    "timestamp": "2023-05-13T00:00:00.000Z"
   },
   {
     "title": "For Katie Holmes, It’s Always Been About the Work",
@@ -921,7 +1005,8 @@
     "description": "She's got stellar personal style, an admirable ability to parent privately, and a seemingly permanent spot on the paparazzi's must-capture list. But behind it all, Katie Holmes is—and always has been—a passionate and successful actor and director.",
     "url": "https://www.glamour.com/story/katie-holmes-cover-story",
     "image": "bookmark-for-katie-holmes-its-always-been-about-the-work.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-05-14T00:00:00.000Z"
   },
   {
     "title": "Web rings: An alternative to search engines | Casey | College & Research Libraries News",
@@ -932,7 +1017,8 @@
     "url": "https://crln.acrl.org/index.php/crlnews/article/view/22105/28059",
     "image": "bookmark-web-rings-an-alternative-to-search-engines-casey-college-research-libraries-news.jpg",
     "type": "",
-    "notes": "Looking to explore topic-specific websites in a more organised and engaging way? Travel back to 1998 and Check out this article that introduces the concept of web rings. Back then, they were described as interconnected universes of websites, allowing you to navigate between them and discover related content. Say goodbye to dead links and hello to a more efficient and curated online exploration!"
+    "notes": "Looking to explore topic-specific websites in a more organised and engaging way? Travel back to 1998 and Check out this article that introduces the concept of web rings. Back then, they were described as interconnected universes of websites, allowing you to navigate between them and discover related content. Say goodbye to dead links and hello to a more efficient and curated online exploration!",
+    "timestamp": "2023-05-20T00:00:00.000Z"
   },
   {
     "title": "The Strange Story of the Teens Behind the Mirai Botnet",
@@ -943,7 +1029,8 @@
     "url": "https://spectrum.ieee.org/mirai-botnet",
     "image": "bookmark-the-strange-story-of-the-teens-behind-the-mirai-botnet.png",
     "type": "article",
-    "notes": "A look into the fascinating world of the Mirai botnet. Read about the origins, capabilities, and impacts of this infamous botnet, which wreaked havoc on the internet by compromising vulnerable IoT devices."
+    "notes": "A look into the fascinating world of the Mirai botnet. Read about the origins, capabilities, and impacts of this infamous botnet, which wreaked havoc on the internet by compromising vulnerable IoT devices.",
+    "timestamp": "2023-05-26T00:00:00.000Z"
   },
   {
     "title": "From the valley to the alley - The History of the Web",
@@ -953,7 +1040,8 @@
     "description": "The Flatiron building is one of the most instantly recognizable buildings in New York City. Built at the beginning of […]",
     "url": "https://thehistoryoftheweb.com/from-the-valley-to-the-alley/",
     "image": "bookmark-from-the-valley-to-the-alley-the-history-of-the-web.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-06-10T00:00:00.000Z"
   },
   {
     "title": "Tori Amos Bootleg Webring",
@@ -964,7 +1052,8 @@
     "url": "https://www.gertrudepress.org/tori-amos-bootleg-webring.html",
     "image": "bookmark-tori-amos-bootleg-webring.jpg",
     "type": "",
-    "notes": "The Tori Amos bootleg webring was a community of fans who collected and shared unofficial live recordings of Tori Amos concerts. "
+    "notes": "The Tori Amos bootleg webring was a community of fans who collected and shared unofficial live recordings of Tori Amos concerts. ",
+    "timestamp": "2023-06-10T00:00:00.000Z"
   },
   {
     "title": "The Number Ones: Britney Spears’ “3”",
@@ -975,7 +1064,8 @@
     "url": "https://www.stereogum.com/2224694/the-number-ones-britney-spears-3/columns/the-number-ones/",
     "image": "bookmark-the-number-ones-britney-spears-3.jpg",
     "type": "article",
-    "notes": "Britney Spears has bangers for days but only three have made it to number one. What?!"
+    "notes": "Britney Spears has bangers for days but only three have made it to number one. What?!",
+    "timestamp": "2023-06-16T00:00:00.000Z"
   },
   {
     "title": "The Age of PageRank is Over | Kagi Blog",
@@ -986,7 +1076,8 @@
     "url": "https://blog.kagi.com/age-pagerank-over",
     "image": "bookmark-the-age-of-pagerank-is-over-kagi-blog.png",
     "type": "",
-    "notes": "Great read on the state of search. I'm going to give Kagi a try!"
+    "notes": "Great read on the state of search. I'm going to give Kagi a try!",
+    "timestamp": "2023-06-19T00:00:00.000Z"
   },
   {
     "title": "MACHETES DIPPED IN RUM",
@@ -997,7 +1088,8 @@
     "url": "https://medium.com/cuepoint/machetes-dipped-in-rum-e591d103b890",
     "image": "bookmark-machetes-dipped-in-rum.jpg",
     "type": "article",
-    "notes": "This is a super long read that goes into huge detail about Bone Thugs-N-Harmony all the way up to 2015."
+    "notes": "This is a super long read that goes into huge detail about Bone Thugs-N-Harmony all the way up to 2015.",
+    "timestamp": "2023-06-22T00:00:00.000Z"
   },
   {
     "title": "Nostalgiamining vs. Forging the Future",
@@ -1008,7 +1100,8 @@
     "url": "http://archives.somnolescent.net/web/mari_nc2/essays/nostalgiamining.html",
     "image": "bookmark-nostalgiamining-vs-forging-the-future.jpg",
     "type": "website",
-    "notes": "Some harsh truths here! "
+    "notes": "Some harsh truths here! ",
+    "timestamp": "2023-06-26T00:00:00.000Z"
   },
   {
     "title": "Neocities and a Lack of Passion",
@@ -1018,7 +1111,8 @@
     "description": "We need interesting people, now more than ever.",
     "url": "http://archives.somnolescent.net/web/mari_nc2/essays/passion.html",
     "image": "bookmark-neocities-and-a-lack-of-passion.png",
-    "type": "website"
+    "type": "website",
+    "timestamp": "2023-06-26T00:00:00.000Z"
   },
   {
     "title": "Revisiting \"Passion\"",
@@ -1028,7 +1122,8 @@
     "description": "A look back at my most contentious piece, \"Neocities and a Lack of Passion\".",
     "url": "http://archives.somnolescent.net/web/mari_nc2/essays/revisitingpassion.html",
     "image": "bookmark-revisiting-passion.png",
-    "type": "website"
+    "type": "website",
+    "timestamp": "2023-06-26T00:00:00.000Z"
   },
   {
     "title": "Why I’m Leaving Neocities",
@@ -1038,7 +1133,8 @@
     "description": "",
     "url": "https://www.bikobatanari.art/posts/2022/leaving-neocities",
     "type": "",
-    "notes": "Biko shares why they've left Neocities"
+    "notes": "Biko shares why they've left Neocities",
+    "timestamp": "2023-06-26T00:00:00.000Z"
   },
   {
     "title": "The State of Neocities",
@@ -1048,7 +1144,8 @@
     "description": "",
     "url": "https://www.bikobatanari.art/posts/2023/state-of-neocities",
     "type": "",
-    "notes": "Biko looks at the state of Neocities"
+    "notes": "Biko looks at the state of Neocities",
+    "timestamp": "2023-06-26T00:00:00.000Z"
   },
   {
     "title": "A one-person oral history of Geocities HTML Chat",
@@ -1058,7 +1155,8 @@
     "description": "Geocities HTML Chat has been forgotten by the world. It is possible I am the only one who remembers it. I only half remember it.",
     "url": "https://cohost.org/mcc/post/325362-a-one-person-oral-hi",
     "image": "bookmark-a-one-person-oral-history-of-geocities-html-chat.png",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-06-28T00:00:00.000Z"
   },
   {
     "title": "Why Is the Web So Monotonous? Google.",
@@ -1069,7 +1167,8 @@
     "url": "https://reasonablypolymorphic.com/blog/monotonous-web/index.html/",
     "image": "bookmark-a-one-person-oral-history-of-geocities-html-chat.png",
     "type": "article",
-    "notes:": "embark on a thrilling journey into the Monotonous Web!"
+    "notes:": "embark on a thrilling journey into the Monotonous Web!",
+    "timestamp": "2023-06-29T00:00:00.000Z"
   },
   {
     "title": "How Websites Die",
@@ -1079,7 +1178,8 @@
     "description": "",
     "url": "https://notebook.wesleyac.com/how-websites-die",
     "type": "article",
-    "notes": "The author looks to understand how websites die after researching defunct blogging platforms."
+    "notes": "The author looks to understand how websites die after researching defunct blogging platforms.",
+    "timestamp": "2023-07-17T00:00:00.000Z"
   },
   {
     "title": "melankorin",
@@ -1090,7 +1190,8 @@
     "url": "https://melankorin.net/blog/2023/06/19/",
     "image": "bookmark-melankorin.png",
     "type": "website",
-    "notes": "Kori sits down to think about what it takes to build a personal website."
+    "notes": "Kori sits down to think about what it takes to build a personal website.",
+    "timestamp": "2023-07-17T00:00:00.000Z"
   },
   {
     "title": "Every person on the planet should have their own website 💡   Amin Eftegarie",
@@ -1100,7 +1201,8 @@
     "description": "",
     "url": "https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/",
     "type": "",
-    "notes": "Every person on the planet should have their own website, on their own domain name, and blog about whatever they want. "
+    "notes": "Every person on the planet should have their own website, on their own domain name, and blog about whatever they want. ",
+    "timestamp": "2023-07-24T00:00:00.000Z"
   },
   {
     "title": "My Journey Away from the JAMstack",
@@ -1111,7 +1213,8 @@
     "url": "https://www.spicyweb.dev/farewell-jamstack/",
     "image": "bookmark-my-journey-away-from-the-jamstack.png",
     "type": "article",
-    "notes": "Interesting take, for now Netlify still does what I need it to do without issue so I’ll be sticking around. At least for now."
+    "notes": "Interesting take, for now Netlify still does what I need it to do without issue so I’ll be sticking around. At least for now.",
+    "timestamp": "2023-08-01T00:00:00.000Z"
   },
   {
     "title": "Splitting the Web",
@@ -1121,7 +1224,8 @@
     "description": "Splitting the Web écrit par Ploum, Lionel Dricot, ingénieur, écrivain de science-fiction, développeur de logiciels libres.",
     "url": "https://ploum.net/2023-08-01-splitting-the-web.html",
     "image": "bookmark-splitting-the-web.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-08-02T00:00:00.000Z"
   },
   {
     "title": "Building an iPod for 2022",
@@ -1131,7 +1235,8 @@
     "description": "I modified an old iPod Video with more storage, a new casing, and more battery life. Also some fancy software :)",
     "url": "https://ellie.wtf/ipod/",
     "image": "bookmark-building-an-ipod-for-2022.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-08-04T00:00:00.000Z"
   },
   {
     "title": "Which iPod has the best quality audio? - Macintosh How To",
@@ -1141,7 +1246,8 @@
     "description": "This article discusses the reasons for the difference in quality of the sound output of the various models of Apple iPod.",
     "url": "https://www.macintoshhowto.com/ipod/which-ipod-has-the-best-audio-quality.html",
     "image": "bookmark-which-ipod-has-the-best-quality-audio-macintosh-how-to.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-08-04T00:00:00.000Z"
   },
   {
     "title": "The Gamification of Reading Is Changing How We Approach Books",
@@ -1151,7 +1257,8 @@
     "description": "Since its inception in 2007, Goodreads has been a place where people can come together and rate their favorite books, find new authors, and more. This writer juggles the greater implications of the site with our current reading culture.",
     "url": "https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/",
     "image": "bookmark-the-gamification-of-reading-is-changing-how-we-approach-books.jpg",
-    "type": "article"
+    "type": "article",
+    "timestamp": "2023-08-09T00:00:00.000Z"
   },
   {
     "title": "The Expanding Dark Forest and Generative AI",
@@ -1161,7 +1268,8 @@
     "description": "Proving you're a human on a web flooded with generative AI content",
     "url": "https://maggieappleton.com",
     "image": "bookmark-the-expanding-dark-forest-and-generative-ai.png",
-    "type": "website"
+    "type": "website",
+    "timestamp": "2023-08-09T00:00:00.000Z"
   },
   {
     "title": " Interview with Kagi | DKB",
@@ -1171,7 +1279,8 @@
     "description": "The internet is run by adtech right now, and all the biggest companies are thriving on that, and I think the sooner we get out of that, the better. It is certainly going to be hard, and I'm not against ads per-se, but I'm against ads everywhere, ads by default, ads making our lives crappier and more miserable.",
     "url": "https://dkb.io/post/DEPR_kagi-interview",
     "type": "",
-    "notes": "The Internet is run by adtech, and all the big companies thrive on it. The sooner we don't have to deal with adtech, the better. Ads everywhere are the default and makes our Internet crappy and miserable."
+    "notes": "The Internet is run by adtech, and all the big companies thrive on it. The sooner we don't have to deal with adtech, the better. Ads everywhere are the default and makes our Internet crappy and miserable.",
+    "timestamp": "2023-08-10T00:00:00.000Z"
   },
   {
     "title": "The Birth and Death of the Yesterweb Forum Reveal Two Important Truths",
@@ -1181,7 +1290,8 @@
     "description": "While the death of the Yesterweb forum is a loss for the small web movement, it is symptomatic of greater problems.",
     "url": "https://cheapskatesguide.org/articles/yesterweb.html",
     "image": "bookmark-the-birth-and-death-of-the-yesterweb-forum-reveal-two-important-truths.jpg",
-    "type": ""
+    "type": "",
+    "timestamp": "2023-08-16T00:00:00.000Z"
   },
   {
     "title": "The ‘90s Internet: When 20 hours online triggered an email from my ISP’s president",
@@ -1192,7 +1302,8 @@
     "url": "https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/",
     "image": "bookmark-the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president.jpg",
     "type": "article",
-    "notes": "Yes. There was a time where you could be online too much. The author recalls in 1998, a plea for restraint from their ISP reveals a lost world where the Net was an opt-in experience."
+    "notes": "Yes. There was a time where you could be online too much. The author recalls in 1998, a plea for restraint from their ISP reveals a lost world where the Net was an opt-in experience.",
+    "timestamp": "2023-08-26T00:00:00.000Z"
   },
   {
     "title": "A look at search engines with their own indexes",
@@ -1203,7 +1314,8 @@
     "url": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/",
     "image": "bookmark-a-look-at-search-engines-with-their-own-indexes.png",
     "type": "article",
-    "notes": "The author, Seirdy, takes a look at all of the non-meta search, indexing search engines that they’ve been able to find. Published in November 2022, it’s amazing the number that are already no longer available. "
+    "notes": "The author, Seirdy, takes a look at all of the non-meta search, indexing search engines that they’ve been able to find. Published in November 2022, it’s amazing the number that are already no longer available. ",
+    "timestamp": "2023-08-26T00:00:00.000Z"
   },
   {
     "title": "The end of the Googleverse",
@@ -1214,7 +1326,8 @@
     "url": "https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords",
     "image": "bookmark-the-end-of-the-googleverse.jpg",
     "type": "article",
-    "notes": "“They were encouraging people to write on the web,” said Baio. Bloggers like Lenssen, Baio, and Beale felt like everything Google was doing was in service of making the internet better. The tools it kept launching felt tied to a mission of collecting the world’s information and helping people add more content to the web. "
+    "notes": "“They were encouraging people to write on the web,” said Baio. Bloggers like Lenssen, Baio, and Beale felt like everything Google was doing was in service of making the internet better. The tools it kept launching felt tied to a mission of collecting the world’s information and helping people add more content to the web. ",
+    "timestamp": "2023-08-31T00:00:00.000Z"
   },
   {
     "title": "AOL Pretends to be the Internet - The History of the Web",
@@ -1228,7 +1341,8 @@
     "notes": "AOL was always weird to me all the way down here in Aotearoa. I never understood how the trial disks made their way here. I was intrigued one day and installed the dialup configuration - it definitely did not work :joy: ",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-09-07T00:00:00.000Z"
   },
   {
     "title": "Kagi Small Web | Kagi Blog",
@@ -1242,7 +1356,8 @@
     "notes": "Great new Small Web features from Kagi! Unfortunately I’m not allowed to submit my own website though!",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-09-07T00:00:00.000Z"
   },
   {
     "title": "Small Web Connectivity",
@@ -1256,7 +1371,8 @@
     "notes": "One of the things social media took from us was a true sense of connection.",
     "tags": [
       "small-web"
-    ]
+    ],
+    "timestamp": "2023-09-14T00:00:00.000Z"
   },
   {
     "title": "Marginalia Search receives FUTO Grant",
@@ -1269,7 +1385,8 @@
     "notes": "Everybody’s favourite small web search engine receives a no strings grant to continue development. This means that the search engine will be able to move out of an apartment and into a rack in a data centre somewhere. Great news all round.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-09-17T00:00:00.000Z"
   },
   {
     "title": "Did I Make a Mistake Selling My Social-Media Darling to Yahoo?",
@@ -1283,7 +1400,8 @@
     "notes": "Peak 2000s social bookmarking website (that was great fun) sold to and destroyed by Yahoo! Who else used Del.icio.us?",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-09-19T00:00:00.000Z"
   },
   {
     "title": "Best Practices When Using Fonts",
@@ -1297,7 +1415,8 @@
     "notes": "A detailed post on web fonts, how to host your own, how to deal with unstyled content, variable fonts, subset fonts… Long but great read.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-09-19T00:00:00.000Z"
   },
   {
     "title": "Kobo Libra 2",
@@ -1307,7 +1426,8 @@
     "description": "The website of Robin Rendle, a designer and writer from the UK.",
     "url": "https://robinrendle.com/notes/kobo-libra-2/",
     "type": "",
-    "notes": "Mind blown, imagine if book readers supported RSS feeds?"
+    "notes": "Mind blown, imagine if book readers supported RSS feeds?",
+    "timestamp": "2023-09-29T00:00:00.000Z"
   },
   {
     "title": "The Quiet Web | by Brian Koberlein",
@@ -1320,7 +1440,8 @@
     "notes": "Another personal take on the quiet web. Touches upon adtech and how the quiet web avoids such nonsense. Once you get used to the quiet web, you may never want to go back.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-09-29T00:00:00.000Z"
   },
   {
     "title": "The Best Time to Own a Domain Was 20 Years Ago, The Second Best Time Is Today",
@@ -1335,7 +1456,8 @@
       "web",
       "PersonalWebsite",
       "DigitalOwnership"
-    ]
+    ],
+    "timestamp": "2023-10-02T00:00:00.000Z"
   },
   {
     "title": "The OG Social Network: Other People’s Websites",
@@ -1348,7 +1470,8 @@
     "notes": "What would the web be like today if Google hadn't killed Reader? Jim touches on that the web could have been our social netowrk. This is something that I talk about often and hope to see become a reality again.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-10-05T00:00:00.000Z"
   },
   {
     "title": "Taylor Lorenz Extremely Online Book Interview | The Mozilla Blog",
@@ -1359,7 +1482,8 @@
     "url": "https://blog.mozilla.org/en/internet-culture/taylor-lorenz-extremely-online-book-interview/",
     "image": "bookmark-taylor-lorenz-extremely-online-book-interview-the-mozilla-blog.jpg",
     "type": "",
-    "notes": "Great interview with Taylor Lorenz. I'm looking forward to getting my hands on and reading her new book, Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet."
+    "notes": "Great interview with Taylor Lorenz. I'm looking forward to getting my hands on and reading her new book, Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet.",
+    "timestamp": "2023-10-05T00:00:00.000Z"
   },
   {
     "title": "Rediscovering the Old Internet Vibe",
@@ -1373,7 +1497,8 @@
     "notes": "Another recount of someone finding those old Internet vibes.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-10-13T00:00:00.000Z"
   },
   {
     "title": "My Kobo Customizations",
@@ -1384,7 +1509,8 @@
     "url": "https://code.mendhak.com/kobo-customizations/",
     "image": "bookmark-my-kobo-customizations.jpg",
     "type": "article",
-    "notes": "A great post with lots of great customisations and hacks for the Kobo for when I make my eventual upgrade to the Libra 2"
+    "notes": "A great post with lots of great customisations and hacks for the Kobo for when I make my eventual upgrade to the Libra 2",
+    "timestamp": "2023-10-14T00:00:00.000Z"
   },
   {
     "title": "The internet used to be fun",
@@ -1398,7 +1524,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20231128132347/https://projects.kwon.nyc/internet-is-fun/"
+    "waybackUrl": "http://web.archive.org/web/20231128132347/https://projects.kwon.nyc/internet-is-fun/",
+    "timestamp": "2023-10-14T00:00:00.000Z"
   },
   {
     "title": "Old Web, New Web, Indie Web - petermolnar.net",
@@ -1412,7 +1539,8 @@
     "tags": [
       "web",
       "indieweb"
-    ]
+    ],
+    "timestamp": "2023-10-15T00:00:00.000Z"
   },
   {
     "title": "Simple Truths About Personal Websites · Matthias Ott – User Experience Designer",
@@ -1423,7 +1551,8 @@
     "url": "https://matthiasott.com/notes/simple-truths-about-personal-websites",
     "image": "bookmark-simple-truths-about-personal-websites-matthias-ott-user-experience-designer.png",
     "type": "website",
-    "notes": "Write. Publish. Enjoy."
+    "notes": "Write. Publish. Enjoy.",
+    "timestamp": "2023-10-16T00:00:00.000Z"
   },
   {
     "title": "Educational Sensational Inspirational Foundational",
@@ -1437,7 +1566,8 @@
     "notes": "A growing collection of blog posts and websites that are educational, sensational, inspirational, and foundational.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-10-16T00:00:00.000Z"
   },
   {
     "title": "My Backup Strategy: Notes About Syncing to a Synology NAS",
@@ -1448,7 +1578,8 @@
     "url": "https://www.alexwhittemore.com/my-backup-strategy-notes-about-syncing-to-a-synology-nas/",
     "image": "bookmark-my-backup-strategy-notes-about-syncing-to-a-synology-nas.png",
     "type": "article",
-    "notes": "A reminder to myself to setup my back ups..."
+    "notes": "A reminder to myself to setup my back ups...",
+    "timestamp": "2023-10-18T00:00:00.000Z"
   },
   {
     "title": "Internet Artifacts",
@@ -1459,7 +1590,8 @@
     "url": "https://neal.fun/internet-artifacts/",
     "image": "bookmark-internet-artifacts.png",
     "type": "website",
-    "notes": "Check this one out on your phone for the best experience!"
+    "notes": "Check this one out on your phone for the best experience!",
+    "timestamp": "2023-10-25T00:00:00.000Z"
   },
   {
     "title": "It's 2023, here is why your web design sucks.",
@@ -1470,7 +1602,8 @@
     "url": "https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/",
     "image": "bookmark-its-2023-here-is-why-your-web-design-sucks.png",
     "type": "",
-    "notes": "What happened to the web designer role?"
+    "notes": "What happened to the web designer role?",
+    "timestamp": "2023-10-26T00:00:00.000Z"
   },
   {
     "title": "Everything / Nothing",
@@ -1481,7 +1614,8 @@
     "url": "https://www.ease.gg/2020/05/07/everything-nothing",
     "image": "bookmark-everything-nothing.png",
     "type": "",
-    "notes": "In the E/N world, the primary way of discovering more of these websites was through links from the sites you were already visiting."
+    "notes": "In the E/N world, the primary way of discovering more of these websites was through links from the sites you were already visiting.",
+    "timestamp": "2023-10-30T00:00:00.000Z"
   },
   {
     "title": "Incredible Doom",
@@ -1492,7 +1626,8 @@
     "url": "https://www.incredibledoom.com/",
     "image": "bookmark-incredible-doom.png",
     "type": "website",
-    "notes": "A new comic series about finding connections in the wilds of the early web."
+    "notes": "A new comic series about finding connections in the wilds of the early web.",
+    "timestamp": "2023-11-02T00:00:00.000Z"
   },
   {
     "title": "Carl and the cookie and the Web",
@@ -1503,7 +1638,8 @@
     "url": "https://metagrrrl.com/2023/08/18/carl-and-the-cookie-and-the-web/",
     "image": "bookmark-carl-and-the-cookie-and-the-web.png",
     "type": "article",
-    "notes": "A brief history of Carl Steadman of suck.com fame"
+    "notes": "A brief history of Carl Steadman of suck.com fame",
+    "timestamp": "2023-11-02T00:00:00.000Z"
   },
   {
     "title": "Barriers to a more social IndieWeb – Tracy Durnell",
@@ -1517,7 +1653,8 @@
     "notes": "Blogging needs a different set of social norms than are in play on social media sites. Communication between websites faces many of the same social challenges as social media silos do, but adds additional impediments with technical hurdles and design differences.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-11-08T00:00:00.000Z"
   },
   {
     "title": "The Internet of ghosts",
@@ -1532,7 +1669,8 @@
     "tags": [
       "web"
     ],
-    "quote": "If you wanted to, you could peer into a user’s hard drive – this was the fascinating part. When you found a song you’d long forgotten, or a rare b-side you never even knew existed, you could peruse the rest of the user’s music library and sample their tastes."
+    "quote": "If you wanted to, you could peer into a user’s hard drive – this was the fascinating part. When you found a song you’d long forgotten, or a rare b-side you never even knew existed, you could peruse the rest of the user’s music library and sample their tastes.",
+    "timestamp": "2023-11-08T00:00:00.000Z"
   },
   {
     "title": "How Gaming Rigs Grew Up to Become Battle Stations",
@@ -1543,7 +1681,8 @@
     "url": "https://www.vice.com/en/article/5dzaax/how-gaming-rigs-grew-up-to-become-battle-stations",
     "image": "bookmark-how-gaming-rigs-grew-up-to-become-battle-stations.jpg",
     "type": "website",
-    "notes": "How much time do you spend setting up your space rather than using it?"
+    "notes": "How much time do you spend setting up your space rather than using it?",
+    "timestamp": "2023-11-12T00:00:00.000Z"
   },
   {
     "title": "Paying tribute to the web with View Source",
@@ -1557,7 +1696,8 @@
     "notes": "Being able to view source on a web page back in the day was a great learning tool for myself and many others. Still is, that is why I don’t bother with minification to ensure my source is readable by anyone who is curious",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2023-11-22T00:00:00.000Z"
   },
   {
     "title": "What to Blog About When You Don’t Know What to Blog About",
@@ -1569,7 +1709,8 @@
     "image": "bookmark-css-in-real-life-what-to-blog-about-when-you-dont-know-what-to-blog-about.png",
     "type": "website",
     "notes": "I really like 13. “Here’s an interesting thing someone else has to say. Here’s my take on it.” I’d love to do more of 16. “This is what I’ve been reading/watching/listening to recently.”",
-    "quote": "Here’s an interesting thing someone else has to say. Here’s my take on it. This is what I’ve been reading/watching/listening to recently."
+    "quote": "Here’s an interesting thing someone else has to say. Here’s my take on it. This is what I’ve been reading/watching/listening to recently.",
+    "timestamp": "2023-11-24T00:00:00.000Z"
   },
   {
     "title": "The Village Effect of the Greater Web",
@@ -1580,7 +1721,8 @@
     "url": "https://fromjason.xyz/p/notebook/the-village-effect-of-the-greater-web/",
     "image": "bookmark-the-village-effect-of-the-greater-web.png",
     "type": "Digital Garden",
-    "notes": "The corporate web is fucking up, big time. Except for perhaps TikTok (give it time), users have retreated to the DMs à la the \"cozy web.\""
+    "notes": "The corporate web is fucking up, big time. Except for perhaps TikTok (give it time), users have retreated to the DMs à la the \"cozy web.\"",
+    "timestamp": "2023-11-28T00:00:00.000Z"
   },
   {
     "title": "The UX of HTML - HTMHell",
@@ -1592,7 +1734,8 @@
     "image": "bookmark-the-ux-of-html-htmhell.png",
     "type": "website",
     "notes": "lol!",
-    "quote": "Semantics and shit"
+    "quote": "Semantics and shit",
+    "timestamp": "2023-12-01T00:00:00.000Z"
   },
   {
     "title": "Why are drive-thru menus so hard to read?",
@@ -1603,7 +1746,8 @@
     "url": "https://thespinoff.co.nz/kai/02-12-2023/why-are-drive-thru-menus-so-hard-to-read",
     "image": "bookmark-why-are-drive-thru-menus-so-hard-to-read.png",
     "type": "article",
-    "notes": "I, too, am terrorised by the modern drive-thru experience. Unless I've planned ahead of visiting, I'll default to my standard order, missing out on any specials or deals."
+    "notes": "I, too, am terrorised by the modern drive-thru experience. Unless I've planned ahead of visiting, I'll default to my standard order, missing out on any specials or deals.",
+    "timestamp": "2023-12-03T00:00:00.000Z"
   },
   {
     "title": "I hate work. — Joan Westenberg",
@@ -1615,7 +1759,8 @@
     "image": "bookmark-i-hate-work-joan-westenberg.png",
     "type": "article",
     "notes": "The idea of a work-life balance is a myth. It suggests that work should be as central to our lives as our passions, which is wrong. The truth is this. Work is not my passion. And that’s okay.",
-    "quote": "If given the choice, I would gladly banish it forever. Given the choice, I’d spend hours leisurely lounging by the pool, engrossed in Agatha Christie novels, sipping on ice-cold Diet Coke until noon."
+    "quote": "If given the choice, I would gladly banish it forever. Given the choice, I’d spend hours leisurely lounging by the pool, engrossed in Agatha Christie novels, sipping on ice-cold Diet Coke until noon.",
+    "timestamp": "2023-12-05T00:00:00.000Z"
   },
   {
     "title": "blakewatson.com  –  omg.lol: an oasis on the internet",
@@ -1626,7 +1771,8 @@
     "url": "https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/",
     "image": "bookmark-blakewatsoncom-omglol-an-oasis-on-the-internet.png",
     "type": "",
-    "notes": "omg.lol is a gateway into the fun side of the web. It is one of many places on the modern web doing things right."
+    "notes": "omg.lol is a gateway into the fun side of the web. It is one of many places on the modern web doing things right.",
+    "timestamp": "2023-12-11T00:00:00.000Z"
   },
   {
     "title": "My complete blogging workflow | Michael Harley",
@@ -1641,7 +1787,8 @@
     "tags": [
       "blogging",
       "web"
-    ]
+    ],
+    "timestamp": "2023-12-12T00:00:00.000Z"
   },
   {
     "title": "Please, Expose your RSS",
@@ -1656,7 +1803,8 @@
     "tags": [
       "web",
       "blogging"
-    ]
+    ],
+    "timestamp": "2023-12-12T00:00:00.000Z"
   },
   {
     "title": "Choosing a Green Web Host",
@@ -1667,7 +1815,8 @@
     "url": "https://css-irl.info/choosing-a-green-web-host/",
     "image": "bookmark-css-in-real-life-choosing-a-green-web-host.png",
     "type": "website",
-    "notes": "I’ve always been interested in green web hosting but it seems difficult to determine whether or not a host really is “green”…"
+    "notes": "I’ve always been interested in green web hosting but it seems difficult to determine whether or not a host really is “green”…",
+    "timestamp": "2023-12-13T00:00:00.000Z"
   },
   {
     "title": "Let us forget that the internet exists.",
@@ -1678,7 +1827,8 @@
     "url": "https://chavanniclass.wordpress.com/2023/12/06/let-us-forget-that-the-internet-exists/",
     "image": "bookmark-let-us-forget-that-the-internet-exists.jpg",
     "type": "article",
-    "notes": "Let us forget that the internet exists"
+    "notes": "Let us forget that the internet exists",
+    "timestamp": "2023-12-13T00:00:00.000Z"
   },
   {
     "title": "A Linux evening",
@@ -1693,7 +1843,8 @@
       "linux"
     ],
     "waybackUrl": "http://web.archive.org/web/20230710081118/https://fabiensanglard.net/a_linux_evening/index.html",
-    "quote": "The author, dkozel, never came back to answer. I imagine they typed the solution on a 40% keyboard featuring unmarked keys and then rolled into the sunset on a Segway for which they had compiled the kernel themselves. Completely oblivious of their awesomeness and of how many people would later find solace in their prose."
+    "quote": "The author, dkozel, never came back to answer. I imagine they typed the solution on a 40% keyboard featuring unmarked keys and then rolled into the sunset on a Segway for which they had compiled the kernel themselves. Completely oblivious of their awesomeness and of how many people would later find solace in their prose.",
+    "timestamp": "2023-12-17T00:00:00.000Z"
   },
   {
     "title": "Patterns for Personal Web Sites",
@@ -1707,7 +1858,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20231104232643/http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html"
+    "waybackUrl": "http://web.archive.org/web/20231104232643/http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html",
+    "timestamp": "2023-12-28T00:00:00.000Z"
   },
   {
     "title": "The Web is Fantastic",
@@ -1722,7 +1874,8 @@
     "tags": [
       "web"
     ],
-    "quote": "The real web, the small web, the indie web is amazing. Don't give Facebook and the rest of these clowns your content. Don't give them the time or your attention. Get a blog, a website, a Mastodon account, something you control, and share links to cool things you find. Make a list of your favourite blogs or websites or photos of cats. Write about a pizza you had that was delicious. Share a recipe. Go down a rabbit hole for hours on end adding weird stuff to your site. Just do it somewhere you control because the real web is fantastic."
+    "quote": "The real web, the small web, the indie web is amazing. Don't give Facebook and the rest of these clowns your content. Don't give them the time or your attention. Get a blog, a website, a Mastodon account, something you control, and share links to cool things you find. Make a list of your favourite blogs or websites or photos of cats. Write about a pizza you had that was delicious. Share a recipe. Go down a rabbit hole for hours on end adding weird stuff to your site. Just do it somewhere you control because the real web is fantastic.",
+    "timestamp": "2023-12-29T00:00:00.000Z"
   },
   {
     "title": "The Internet Is About to Get Weird Again",
@@ -1736,7 +1889,8 @@
     "notes": "I’m all for more small scale web projects being created this year. More cool services like omg.lol is what the Web needs!",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2024-01-01T00:00:00.000Z"
   },
   {
     "title": "The Guiding Principles of My Personal Website",
@@ -1750,7 +1904,8 @@
     "tags": [
       "web",
       "blogging"
-    ]
+    ],
+    "timestamp": "2024-01-01T00:00:00.000Z"
   },
   {
     "title": "Ashton",
@@ -1764,7 +1919,8 @@
     "tags": [
       "web"
     ],
-    "quote": "The first proposal for the world wide web was written in March 1989 by Tim Berners-Lee. The idea was to create a web of hypertext documents which could be viewed by anyone with a computer and a browser made specifically for viewing things in this web."
+    "quote": "The first proposal for the world wide web was written in March 1989 by Tim Berners-Lee. The idea was to create a web of hypertext documents which could be viewed by anyone with a computer and a browser made specifically for viewing things in this web.",
+    "timestamp": "2024-01-01T00:00:00.000Z"
   },
   {
     "title": "Why Personal Websites are Important | Chuck Carroll",
@@ -1779,7 +1935,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20231127204240/https://chuck.is/web-independent/",
-    "quote": "Your website should be the primary place where all of the stuff you create goes. It should be THE place for people to find and communicate with you."
+    "quote": "Your website should be the primary place where all of the stuff you create goes. It should be THE place for people to find and communicate with you.",
+    "timestamp": "2024-01-01T00:00:00.000Z"
   },
   {
     "title": "The Year For Blogging To Pump Up The Volume",
@@ -1795,7 +1952,8 @@
       "web",
       "OpenWeb"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240101211400/https://bix.blog/2024/01/01/the-year-for-blogging-to-pump-up-the-volume/"
+    "waybackUrl": "http://web.archive.org/web/20240101211400/https://bix.blog/2024/01/01/the-year-for-blogging-to-pump-up-the-volume/",
+    "timestamp": "2024-01-02T00:00:00.000Z"
   },
   {
     "title": "Static Site Generator Cheat Sheet & FAQ",
@@ -1809,7 +1967,8 @@
     "notes": "Cassie added a little page to their site to jot down the answers to those questions when they find them, with an easy URL to bookmark. Fantastic idea!",
     "tags": [
       "11ty"
-    ]
+    ],
+    "timestamp": "2024-01-02T00:00:00.000Z"
   },
   {
     "title": "EveryoneShouldBlog.txt",
@@ -1824,7 +1983,8 @@
       "Web"
     ],
     "waybackUrl": "http://web.archive.org/web/20231231043638/https://library.xandra.cc/everyone-should-blog/",
-    "quote": "i want and wish for more people feel like they themselves can be what they show the world—not just their work or their projects. i want to read your thoughts, your feelings, your perceptions of the world as it's happening around you."
+    "quote": "i want and wish for more people feel like they themselves can be what they show the world—not just their work or their projects. i want to read your thoughts, your feelings, your perceptions of the world as it's happening around you.",
+    "timestamp": "2024-01-04T00:00:00.000Z"
   },
   {
     "title": "Neatnik Notes · The power to _not_",
@@ -1835,7 +1995,8 @@
     "url": "https://notes.neatnik.net/2024/01/the-power-to-not",
     "type": "",
     "notes": "I sometimes find myself in front of a comment or a post that screams for a response. The best thing I can do is leave it alone.",
-    "quote": "The kindest thing you can do for yourself is to just not engage. Leave it alone. Go look at something else that’s nice instead, and forget about it."
+    "quote": "The kindest thing you can do for yourself is to just not engage. Leave it alone. Go look at something else that’s nice instead, and forget about it.",
+    "timestamp": "2024-01-04T00:00:00.000Z"
   },
   {
     "title": "The web is yours | James' Coffee Blog",
@@ -1849,7 +2010,8 @@
     "notes": "If you haven't got the message yet, James has more convincing for you to start your own website.",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2024-01-07T00:00:00.000Z"
   },
   {
     "title": "NoTechSaviors.txt",
@@ -1863,7 +2025,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240106112205/https://library.xandra.cc/no-tech-saviors/"
+    "waybackUrl": "http://web.archive.org/web/20240106112205/https://library.xandra.cc/no-tech-saviors/",
+    "timestamp": "2024-01-07T00:00:00.000Z"
   },
   {
     "title": "Your site, your home, your web • Cory Dransfeldt",
@@ -1878,7 +2041,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240110052309/https://coryd.dev/posts/2024/your-site-your-home-your-web/"
+    "waybackUrl": "http://web.archive.org/web/20240110052309/https://coryd.dev/posts/2024/your-site-your-home-your-web/",
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "gilest.org: Make the indie web easier",
@@ -1893,7 +2057,8 @@
       "web",
       "blogging"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240111034606/https://gilest.org/indie-easy.html"
+    "waybackUrl": "http://web.archive.org/web/20240111034606/https://gilest.org/indie-easy.html",
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "Digital Legacy Trust, New Zealand",
@@ -1907,7 +2072,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240102083706/https://legacytrust.nz/"
+    "waybackUrl": "http://web.archive.org/web/20240102083706/https://legacytrust.nz/",
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "2024 is the Year of the Blog",
@@ -1923,7 +2089,8 @@
       "web",
       "blogging"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240108085609/https://bored.horse/post/2024-year-of-the-blog/"
+    "waybackUrl": "http://web.archive.org/web/20240108085609/https://bored.horse/post/2024-year-of-the-blog/",
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "You Should Have a Website | maerk.xyz",
@@ -1938,7 +2105,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240106002316/https://maerk.xyz/blog/you-should-have-a-website/",
-    "quote": "People don’t really make personal websites anymore"
+    "quote": "People don’t really make personal websites anymore",
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "tool and die » saturn.town",
@@ -1951,7 +2119,8 @@
     "notes": "Celebrating simple tools",
     "tags": [
       "web"
-    ]
+    ],
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "The quest for purging my bookmarks - Łukasz Wójcik, Blog",
@@ -1965,7 +2134,8 @@
     "notes": "I think it's time to nuke my browser bookmarks and pocket reading list and close all open tabs...",
     "tags": [
       "productivity"
-    ]
+    ],
+    "timestamp": "2024-01-12T00:00:00.000Z"
   },
   {
     "title": "The State of the Independent Web 2022: Updated 2024",
@@ -1981,7 +2151,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240108103710/https://indieseek.xyz/2024/01/05/the-state-of-the-independent-web-2022-updated-2024/",
-    "quote": "Directories have come and gone, and new search engines have appeared. Blogrolls, links pages and RSS feeds are making a come back. Static website hosts continue to appear. Forums are back. There is a gap for hosted tools"
+    "quote": "Directories have come and gone, and new search engines have appeared. Blogrolls, links pages and RSS feeds are making a come back. Static website hosts continue to appear. Forums are back. There is a gap for hosted tools",
+    "timestamp": "2024-01-15T00:00:00.000Z"
   },
   {
     "title": "LongLiveWebpages.txt",
@@ -1995,7 +2166,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240117203357/https://library.xandra.cc/long-live-webpages/"
+    "waybackUrl": "http://web.archive.org/web/20240117203357/https://library.xandra.cc/long-live-webpages/",
+    "timestamp": "2024-01-18T00:00:00.000Z"
   },
   {
     "title": "Remembering the early 00s teen website scene - localghost",
@@ -2010,7 +2182,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240112211758/https://localghost.dev/blog/remembering-the-early-00s-teen-website-scene/"
+    "waybackUrl": "http://web.archive.org/web/20240112211758/https://localghost.dev/blog/remembering-the-early-00s-teen-website-scene/",
+    "timestamp": "2024-01-20T00:00:00.000Z"
   },
   {
     "title": "How I deploy my Eleventy site to Neocities - localghost",
@@ -2026,7 +2199,8 @@
       "web",
       "11ty",
       "neocities"
-    ]
+    ],
+    "timestamp": "2024-01-21T00:00:00.000Z"
   },
   {
     "title": "Please, don’t force me to log in",
@@ -2042,7 +2216,8 @@
       "privacy"
     ],
     "waybackUrl": "http://web.archive.org/web/20240127211946/https://hamatti.org/posts/please-dont-force-me-to-log-in/",
-    "quote": "It feels like everything these days needs you to create an account and log in to use them. These examples go on and on and on. What’s common with all of them, is that they are all services and software that don’t need logins and accounts."
+    "quote": "It feels like everything these days needs you to create an account and log in to use them. These examples go on and on and on. What’s common with all of them, is that they are all services and software that don’t need logins and accounts.",
+    "timestamp": "2024-01-28T00:00:00.000Z"
   },
   {
     "title": "Online anonymity: study found ‘stable pseudonyms’ created a more civil environment than real user names",
@@ -2058,7 +2233,8 @@
       "web, privacy"
     ],
     "waybackUrl": "http://web.archive.org/web/20240129212321/https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-17137420240127211946/https://hamatti.org/posts/please-dont-force-me-to-log-in/",
-    "quote": "The ability to remain anonymous when commenting online is a double-edged sword. It is valuable because it enables people to speak without fear of social and legal discrimination. But this is also what makes it dangerous. Someone from a repressive religious community can use anonymity to talk about their sexuality, for example. But someone else can use anonymity to hurl abuse at them with impunity. "
+    "quote": "The ability to remain anonymous when commenting online is a double-edged sword. It is valuable because it enables people to speak without fear of social and legal discrimination. But this is also what makes it dangerous. Someone from a repressive religious community can use anonymity to talk about their sexuality, for example. But someone else can use anonymity to hurl abuse at them with impunity. ",
+    "timestamp": "2024-01-30T00:00:00.000Z"
   },
   {
     "title": "This website is personal - Frills",
@@ -2070,7 +2246,8 @@
     "type": "",
     "notes": "Don't worry Frills, you're not the only one who experiences this. ",
     "waybackUrl": "http://web.archive.org/web/20240207190557/https://frills.dev/blog/070224-this-website-is-personal-girls/",
-    "quote": "Sometimes, I come up with a banger of a blog post idea, only to find myself grappling with writing the content, and eventually adding it to my increasing pile of forgotten drafts."
+    "quote": "Sometimes, I come up with a banger of a blog post idea, only to find myself grappling with writing the content, and eventually adding it to my increasing pile of forgotten drafts.",
+    "timestamp": "2024-02-09T00:00:00.000Z"
   },
   {
     "title": "A rant on ARC Search – Manu",
@@ -2082,7 +2259,8 @@
     "type": "",
     "notes": "Hard agree. I enjoy a good spam free search. The six pages in the example are all sites I’d actively avoid. Small, independent search is the way to go.",
     "waybackUrl": "http://web.archive.org/web/20240208175959/https://manuelmoreale.com/a-rant-on-arc-search",
-    "quote": "The problem with search is that it’s full of fucking spam and ads. That’s the problem with search. The solution to search is not to “reinvent the browser” or to use AI to power searches for you. The solution to search is a search engine that is aligned with the users."
+    "quote": "The problem with search is that it’s full of fucking spam and ads. That’s the problem with search. The solution to search is not to “reinvent the browser” or to use AI to power searches for you. The solution to search is a search engine that is aligned with the users.",
+    "timestamp": "2024-02-09T00:00:00.000Z"
   },
   {
     "title": "Why I Blog. You Should Too!",
@@ -2095,7 +2273,8 @@
     "type": "article",
     "notes": "Mike shares encouragement and tips on why you should blog and how to get going.",
     "waybackUrl": "http://web.archive.org/web/20240112174549/https://shellsharks.com/you-should-blog",
-    "quote": "You should start a blog. If you disagree, I certainly understand the hesitancy. I was once like you! I’m here to convince you otherwise."
+    "quote": "You should start a blog. If you disagree, I certainly understand the hesitancy. I was once like you! I’m here to convince you otherwise.",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "You don't need to be an expert to write | James' Coffee Blog",
@@ -2109,7 +2288,8 @@
     "notes": "If we were all experts our websites would be boring.",
     "tags": [
       "blogging"
-    ]
+    ],
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "Which self is this?",
@@ -2123,7 +2303,8 @@
     "tags": [
       "personal. web"
     ],
-    "quote": "Like knowing to use an alias to represent my online persona in my first era, I instinctively knew before and during medical school that my online self, who, while earnest and genuine was also a bit messy and still figuring herself out, was not and never could be the self that was expected to show up to see patients. "
+    "quote": "Like knowing to use an alias to represent my online persona in my first era, I instinctively knew before and during medical school that my online self, who, while earnest and genuine was also a bit messy and still figuring herself out, was not and never could be the self that was expected to show up to see patients. ",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "Why Personal Blogging Still Rules",
@@ -2139,7 +2320,8 @@
       "personal websites"
     ],
     "waybackUrl": "http://web.archive.org/web/20240125133307/https://mikegrindle.com/posts/personal-blogging",
-    "quote": "Remember when personal blogging was a thing? I don’t mean those things tacked on to business sites or any of that ad-riddled click-bait junk. No, I mean blogs that existed to be, well, blogs. If you are under the age of thirty, you perhaps don’t. But let me tell you, kid - blogs were hella cool. Yet for the longest time, I thought that era was dead and gone. That personal blogs had gone the way of the dodo or the fansite. But I was wrong."
+    "quote": "Remember when personal blogging was a thing? I don’t mean those things tacked on to business sites or any of that ad-riddled click-bait junk. No, I mean blogs that existed to be, well, blogs. If you are under the age of thirty, you perhaps don’t. But let me tell you, kid - blogs were hella cool. Yet for the longest time, I thought that era was dead and gone. That personal blogs had gone the way of the dodo or the fansite. But I was wrong.",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "Blogging Isn't Dead. It Never Died. It's Never Going to Die. Neither Is Personal Blogging - Jeffrey Pillow",
@@ -2156,7 +2338,8 @@
       "personal websites"
     ],
     "waybackUrl": "http://web.archive.org/web/20240126151117/https://jeffreypillow.com/2024/01/26/blogging-isnt-dead/",
-    "quote": "Blogging isn't dead. Punk rock isn't dead. Zip it."
+    "quote": "Blogging isn't dead. Punk rock isn't dead. Zip it.",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "The Unbearable Sameness of the Modern Web",
@@ -2172,7 +2355,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20231203015556/https://blog.rachelbinx.com/2023/02/unbearable-sameness/",
-    "quote": "Also, it’s BORING. It’s BORING AS HELL. Guh, bring back interesting websites, bring back the creativity that the web offers. Bring back frontend devs who aren’t afraid to get down with the mouse event handlers!!"
+    "quote": "Also, it’s BORING. It’s BORING AS HELL. Guh, bring back interesting websites, bring back the creativity that the web offers. Bring back frontend devs who aren’t afraid to get down with the mouse event handlers!!",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "Breaking up with Slack and Discord: why it's time to bring back forums. — Joan Westenberg",
@@ -2188,7 +2372,8 @@
       "community"
     ],
     "waybackUrl": "http://web.archive.org/web/20240128011639/https://joanwestenberg.com/blog/breaking-up-with-slack-and-discord-why-its-time-to-bring-back-forums",
-    "quote": "The heyday of forums may have passed over a decade ago as real-time chat emerged. But it's time for deeper online discussion to make a thoughtful comeback."
+    "quote": "The heyday of forums may have passed over a decade ago as real-time chat emerged. But it's time for deeper online discussion to make a thoughtful comeback.",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "The Teenage Web",
@@ -2204,7 +2389,8 @@
       "small web",
       ""
     ],
-    "quote": ">Welcome to the Corporate Internet. It didn’t used to be like this. The web used to be a collection of independently-operated sites that we all individually controlled. We used to be so punk rock about the web."
+    "quote": ">Welcome to the Corporate Internet. It didn’t used to be like this. The web used to be a collection of independently-operated sites that we all individually controlled. We used to be so punk rock about the web.",
+    "timestamp": "2024-02-13T00:00:00.000Z"
   },
   {
     "title": "Towards a quieter, friendlier web • Cory Dransfeldt",
@@ -2220,7 +2406,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240229001141/https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/",
-    "quote": "Be kind, be honest and engage on your own terms. Walk away from anything that doesn't serve you and don't be afraid to craft a browsing experience that best suits you. A healthier web is one that's slower, friendly and serves you. Eschew things that make demands of you, insist or impose upon your time and attention."
+    "quote": "Be kind, be honest and engage on your own terms. Walk away from anything that doesn't serve you and don't be afraid to craft a browsing experience that best suits you. A healthier web is one that's slower, friendly and serves you. Eschew things that make demands of you, insist or impose upon your time and attention.",
+    "timestamp": "2024-02-29T00:00:00.000Z"
   },
   {
     "title": "The Subversive Hyperlink",
@@ -2235,7 +2422,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240228140508/https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/",
-    "quote": "To some, the hyperlink is dangerous and must be controlled:"
+    "quote": "To some, the hyperlink is dangerous and must be controlled:",
+    "timestamp": "2024-02-29T00:00:00.000Z"
   },
   {
     "title": "Make a Damn Website",
@@ -2250,7 +2438,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240219035141/https://lmnt.me/blog/make-a-damn-website.html",
-    "quote": "I believe it’s everyone’s imperative to genuinely invest in making websites again. For ourselves, for our businesses, for our interests."
+    "quote": "I believe it’s everyone’s imperative to genuinely invest in making websites again. For ourselves, for our businesses, for our interests.",
+    "timestamp": "2024-02-29T00:00:00.000Z"
   },
   {
     "title": "Give me a web feed or an API for everything • Cory Dransfeldt",
@@ -2266,7 +2455,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240228002302/https://coryd.dev/posts/2024/give-me-a-web-feed-or-an-api-for-everything/",
-    "quote": "If I'm using your service, if I'm paying for your service, I really need it to have an API or a web feed."
+    "quote": "If I'm using your service, if I'm paying for your service, I really need it to have an API or a web feed.",
+    "timestamp": "2024-02-29T00:00:00.000Z"
   },
   {
     "title": "Send links to your friends and make the Web a better place",
@@ -2282,7 +2472,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240229222634/https://michal.sapka.me/blog/2024/send-links/",
-    "quote": "The small web is born from passion, not from chase of profit. Only we can make it flourish like it used to flourish. Simply sending a cool link from time to time to your friends is enough."
+    "quote": "The small web is born from passion, not from chase of profit. Only we can make it flourish like it used to flourish. Simply sending a cool link from time to time to your friends is enough.",
+    "timestamp": "2024-03-01T00:00:00.000Z"
   },
   {
     "title": "The state of the web in 2024. Novelty. Booms & busts. The joy of simple HTML-centric web design. Personal websites. The centralized, walled web vs. the decentralized web.",
@@ -2297,7 +2488,8 @@
     "tags": [
       "web"
     ],
-    "quote": "Even though a lot of people use large, popular walled web and/or social media services now and still will in the future, there’s a percentage of people who will stop using them. To me, it feels like there’s a clear fracturing happening on the web right now like never before."
+    "quote": "Even though a lot of people use large, popular walled web and/or social media services now and still will in the future, there’s a percentage of people who will stop using them. To me, it feels like there’s a clear fracturing happening on the web right now like never before.",
+    "timestamp": "2024-03-01T00:00:00.000Z"
   },
   {
     "title": "Read-it-Later vs Hoarding.",
@@ -2312,7 +2504,8 @@
     "tags": [
       "web"
     ],
-    "quote": "I barely manage my read-it-later bucket, in fact, I don't think I ever look at it, so why hoard links I am never going to look back?"
+    "quote": "I barely manage my read-it-later bucket, in fact, I don't think I ever look at it, so why hoard links I am never going to look back?",
+    "timestamp": "2024-03-01T00:00:00.000Z"
   },
   {
     "title": "Can We Please Put an End to Overperformed Audiobooks?",
@@ -2330,7 +2523,8 @@
       "books"
     ],
     "waybackUrl": "http://web.archive.org/web/20240228082719/https://lithub.com/can-we-please-put-an-end-to-overperformed-audibooks/",
-    "quote": "Please just read me a story without distraction. I don’t need to hear a variety of voices from a single narrator if a full-cast production is not in the cards."
+    "quote": "Please just read me a story without distraction. I don’t need to hear a variety of voices from a single narrator if a full-cast production is not in the cards.",
+    "timestamp": "2024-03-01T00:00:00.000Z"
   },
   {
     "title": "Apple Annie’s Weblog · Give your blog a name.",
@@ -2347,7 +2541,8 @@
       "blogging"
     ],
     "waybackUrl": "http://web.archive.org/web/20240305101140/https://weblog.anniegreens.lol/2024/03/give-your-blog-a-name",
-    "quote": "Your blog's name is more than you! Your blog is an extension of you and takes on a form itself. Your blog is the best parts of you because you are putting things on your blog that you probably don't put out anywhere else in this world. That's pretty special and your blog deserves a name."
+    "quote": "Your blog's name is more than you! Your blog is an extension of you and takes on a form itself. Your blog is the best parts of you because you are putting things on your blog that you probably don't put out anywhere else in this world. That's pretty special and your blog deserves a name.",
+    "timestamp": "2024-03-06T00:00:00.000Z"
   },
   {
     "title": "Using the iPad as an iPad",
@@ -2362,7 +2557,8 @@
     "tags": [
       "tech"
     ],
-    "quote": "Using my iPad as just an iPad has helped me reset my thinking on wants vs. needs when it comes to specs and accessories as well as to rediscover the joys and simplicity of the platform again."
+    "quote": "Using my iPad as just an iPad has helped me reset my thinking on wants vs. needs when it comes to specs and accessories as well as to rediscover the joys and simplicity of the platform again.",
+    "timestamp": "2024-03-11T00:00:00.000Z"
   },
   {
     "title": "Sharing links via RSS, sharing links via APIs • Cory Dransfeldt",
@@ -2380,7 +2576,8 @@
       "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240310223411/https://coryd.dev/posts/2024/sharing-links-via-rss-sharing-links-via-apis/",
-    "quote": "It's encouraging to see more and more folks sharing links, boosting them and blogging them. It makes discovery easier when it's done cooperatively."
+    "quote": "It's encouraging to see more and more folks sharing links, boosting them and blogging them. It makes discovery easier when it's done cooperatively.",
+    "timestamp": "2024-03-11T00:00:00.000Z"
   },
   {
     "title": "I Was a Teenage Webmaster",
@@ -2395,7 +2592,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240316085516/https://mikegrindle.com/posts/web-master",
-    "quote": "The internet is not a place I visit anymore. It is an obligation that follows me everywhere like a shadow, ever-hungry for my attention."
+    "quote": "The internet is not a place I visit anymore. It is an obligation that follows me everywhere like a shadow, ever-hungry for my attention.",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "Only 90s Web Developers Remember This",
@@ -2409,7 +2607,8 @@
     "tags": [
       "web"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240221131422/https://zachholman.com/posts/only-90s-developers/"
+    "waybackUrl": "http://web.archive.org/web/20240221131422/https://zachholman.com/posts/only-90s-developers/",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "The Easiest Way to Start Blogging",
@@ -2424,7 +2623,8 @@
     "tags": [
       "web",
       "blogging"
-    ]
+    ],
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "Oh Hello Ana",
@@ -2440,7 +2640,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240317101236/https://ohhelloana.blog/just-get-a-website/",
-    "quote": "The goal of a personal website is to be reachable."
+    "quote": "The goal of a personal website is to be reachable.",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "On content creation and personal web",
@@ -2456,7 +2657,8 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20240317054510/https://hamatti.org/posts/on-content-creation-and-personal-web/",
-    "quote": "Having a personal website that is not controlled by commercial platforms that is accessible via your own domain is such a powerful position to be in."
+    "quote": "Having a personal website that is not controlled by commercial platforms that is accessible via your own domain is such a powerful position to be in.",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "Time to Statham Punch",
@@ -2470,7 +2672,8 @@
     "tags": [
       "fun"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240215231534/https://time.to.stathampun.ch/"
+    "waybackUrl": "http://web.archive.org/web/20240215231534/https://time.to.stathampun.ch/",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "Being a webmaster is freaking cool",
@@ -2485,7 +2688,8 @@
     "tags": [
       "web"
     ],
-    "quote": "A good website does not need to be regularly updated."
+    "quote": "A good website does not need to be regularly updated.",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "The \"IndieWeb\" feels like coming home • Nathaniel Daught",
@@ -2501,7 +2705,8 @@
       "web",
       "indieweb"
     ],
-    "waybackUrl": "http://web.archive.org/web/20240316032217/https://daught.me/blog/2024/indie-web/"
+    "waybackUrl": "http://web.archive.org/web/20240316032217/https://daught.me/blog/2024/indie-web/",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "Why I’m Ready to Party Like It’s 1999…Again",
@@ -2518,7 +2723,8 @@
       "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240318034109/https://theinternet.review/2024/03/13/ready-to-party-like-its-1999/",
-    "quote": "What’s old is new again. Blogs are returning. RSS is again ascendant."
+    "quote": "What’s old is new again. Blogs are returning. RSS is again ascendant.",
+    "timestamp": "2024-03-18T00:00:00.000Z"
   },
   {
     "title": "Not a Product",
@@ -2532,6 +2738,25 @@
     "tags": [
       "web"
     ],
-    "quote": "To put it nicely, I am not a fan of the Internet as it exists today."
+    "quote": "To put it nicely, I am not a fan of the Internet as it exists today.",
+    "timestamp": "2024-03-18T00:00:00.000Z"
+  },
+  {
+    "title": "The IndieWeb is for Developers",
+    "site": "Evan Sheehan",
+    "author": "",
+    "date": "2024-04-08",
+    "timestamp": "2024-04-08T02:10:03.402Z",
+    "description": "I design and build websites, web applications, and data visualizations. I’ve been known to play fiddle from time to time and board games.",
+    "url": "https://darthmall.net/weblog/2024/indieweb-is-for-devs/",
+    "type": "website",
+    "notes": "Darth Mall suggests true web independence can be achieved without necessarily adopting the full IndieWeb stack. The IndieWeb is doing itself a disservice by overly emphasizing the technical aspects rather than the broader goal of personal web ownership.",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240330154539/https://darthmall.net/weblog/2024/indieweb-is-for-devs/",
+    "quote": "Seems to me that it is not sufficient to have your own website, the website must implement some “IndieWeb features” like webmentions or IndieAuth."
   }
 ]
