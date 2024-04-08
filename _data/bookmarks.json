@@ -2758,5 +2758,21 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240330154539/https://darthmall.net/weblog/2024/indieweb-is-for-devs/",
     "quote": "Seems to me that it is not sufficient to have your own website, the website must implement some “IndieWeb features” like webmentions or IndieAuth."
+  },
+  {
+    "title": "Seven Little Pieces of My Heart",
+    "site": "Merlin Mann",
+    "author": "",
+    "date": "2024-04-08",
+    "timestamp": "2024-04-08T04:02:24.344Z",
+    "description": "Merlin really likes music, and he has a delightfully economical way to share it with you.",
+    "url": "https://merlin.ghost.io/gentle-introductions/",
+    "image": "bookmark-seven-little-pieces-of-my-heart.jpg",
+    "type": "article",
+    "notes": "Create playlists of seven songs to introduce someone to your favourite bands",
+    "tags": [
+      "music"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240330204206/https://merlin.ghost.io/gentle-introductions/"
   }
 ]
