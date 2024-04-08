@@ -2828,5 +2828,24 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240313154331/https://hey.georgie.nu/golden-era-blogging/",
     "quote": "During the golden era of blogging, authenticity was paramount, and connections were formed through genuine storytelling and shared experiences rather than metrics and algorithms."
+  },
+  {
+    "title": "A whole year on the Indie Web - Frills",
+    "site": "",
+    "author": "",
+    "date": "2024-04-08",
+    "timestamp": "2024-04-08T23:30:16.391Z",
+    "description": "Favourites, highlights and the evolution of this website",
+    "url": "https://frills.dev/blog/240404-anniversary/",
+    "image": "bookmark-a-whole-year-on-the-indie-web-frills.jpg",
+    "type": "website",
+    "notes": "Frills' celebrates one year of having her personal website 🎉",
+    "tags": [
+      "smallweb",
+      "indieweb",
+      "websites",
+      "personal websites"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240404101412/https://frills.dev/blog/240404-anniversary/"
   }
 ]
