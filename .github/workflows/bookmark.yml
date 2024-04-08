@@ -33,9 +33,9 @@ jobs:
         with:
           fileName: _data/bookmarks.json
           additional-properties: quote
-      - name: Download the thumbnail image
-        run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
-        if: env.BookmarkImage != ''
+      # - name: Download the thumbnail image
+      #   run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
+      #   if: env.BookmarkImage != ''
       - name: Commit files
         run: |
           git pull
