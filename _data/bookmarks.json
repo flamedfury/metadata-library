@@ -2774,5 +2774,21 @@
       "music"
     ],
     "waybackUrl": "http://web.archive.org/web/20240330204206/https://merlin.ghost.io/gentle-introductions/"
+  },
+  {
+    "title": "Marginalia: A New Lens for the Internet",
+    "site": "perephoneia.art",
+    "author": "",
+    "date": "2024-04-08",
+    "timestamp": "2024-04-08T09:29:58.188Z",
+    "description": "Viktor Lofgren talks about his work on Marginalia, an independent internet search engine that focuses on non-commercial content.",
+    "url": "https://perephoneia.art/marginalia-a-new-lens-for-the-internet/",
+    "type": "article",
+    "notes": "An interview with Viktor from Marginalia",
+    "tags": [
+      "web",
+      "smallweb",
+      "internetculture"
+    ]
   }
 ]
