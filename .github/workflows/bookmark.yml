@@ -33,6 +33,7 @@ jobs:
         with:
           fileName: _data/bookmarks.json
           additional-properties: quote
+          export-image: false
       # - name: Download the thumbnail image
       #   run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
       #   if: env.BookmarkImage != ''
