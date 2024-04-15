@@ -4136,5 +4136,26 @@
     "link": "https://books.google.com/books/about/A_Court_of_Thorns_and_Roses.html?hl=&id=GynbBQAAQBAJ",
     "dateStarted": "2024-03-29",
     "dateFinished": "2024-04-11"
+  },
+  {
+    "isbn": "9781776953899",
+    "dateStarted": "2024-04-15",
+    "status": "started",
+    "rating": "unrated",
+    "title": "The Penguin History of New Zealand",
+    "authors": [
+      "Michael King"
+    ],
+    "publishedDate": "2023-10-10",
+    "description": "This bestselling book by the late Michael King is the unchallenged contemporary reference on the history of New Zealand. First published in 2003 and hailed as a triumph of careful research, wide reading and judicious assessment, it has been continuously in print for 20 years and has sold over 300,000 copies. It remains the definitive, yet highly readable, starting-point for anybody wanting to understand this country. New Zealand was the last country in the world to be discovered and settled by humankind. It was also the first to introduce full democracy. Between those events, and in the century that followed, the movements and conflicts of human history have been played out more intensively and more rapidly in New Zealand than anywhere else on Earth. The Penguin History of New Zealand tells that story in all its colour and drama. The narrative that emerges is an inclusive one about men and women, Māori and Pākehā. It shows that British motives in colonising New Zealand were essentially humane; and that Māori, far from being passive victims of a 'fatal impact', coped heroically with colonisation and survived by selectively accepting and adapting what Western technology and culture had to offer. Now more relevant than ever, this edition includes a Foreword by Sir Tipene O'Regan and a biographical essay on the author by Jock Phillips. PLATINUM PREMIER NEW ZEALAND BESTSELLER READERS' CHOICE AWARD 2004 MONTANA NEW ZEALAND BOOK AWARDS NIELSEN BOOKDATA NEW ZEALAND BOOKSELLERS' CHOICE AWARD – BEST OF THE BEST, 2011",
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": [
+      "History"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=rYjYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=rYjYEAAAQBAJ",
+    "image": "book-9781776953899.png"
   }
 ]
