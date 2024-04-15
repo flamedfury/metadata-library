@@ -4103,7 +4103,7 @@
       "Joanne McNeil"
     ],
     "publishedDate": "2020-02-25",
-    "description": "In Lurking, Joanne McNeil digs deep and identifies the primary (if sometimes contradictory) concerns of people online: searching, safety, privacy, identity, community, anonymity, and visibility. She charts what it is that brought people online and what keeps us here even as the social equations of digital life—what we’re made to trade, knowingly or otherwise, for the benefits of the internet—have shifted radically beneath us. It is a story we are accustomed to hearing as tales of entrepreneurs and visionaries and dynamic and powerful corporations, but there is a more profound, intimate story that hasn’t yet been told.", 
+    "description": "In Lurking, Joanne McNeil digs deep and identifies the primary (if sometimes contradictory) concerns of people online: searching, safety, privacy, identity, community, anonymity, and visibility. She charts what it is that brought people online and what keeps us here even as the social equations of digital life—what we’re made to trade, knowingly or otherwise, for the benefits of the internet—have shifted radically beneath us. It is a story we are accustomed to hearing as tales of entrepreneurs and visionaries and dynamic and powerful corporations, but there is a more profound, intimate story that hasn’t yet been told.",
     "pageCount": 163,
     "printType": "BOOK",
     "categories": [
@@ -4118,8 +4118,8 @@
   {
     "isbn": "9781408857878",
     "dateAdded": "2024-03-22",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "title": "A Court of Thorns and Roses",
     "authors": [
       "Sarah J. Maas"
@@ -4134,6 +4134,7 @@
     "thumbnail": "https://books.google.com/books/content?id=GynbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/A_Court_of_Thorns_and_Roses.html?hl=&id=GynbBQAAQBAJ",
-    "dateStarted": "2024-03-29"
+    "dateStarted": "2024-03-29",
+    "dateFinished": "2024-04-11"
   }
 ]
