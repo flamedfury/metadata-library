@@ -2925,5 +2925,22 @@
       "PersonalWebsite"
     ],
     "quote": "Your blog doesn't have to be as monotonous as a daily diary recounting your activities. It can be simple, silly, stupid. It can be YOU. Or anything you want it to be. Someone will find it interesting, someone will read it."
+  },
+  {
+    "title": "Heat Death of the Internet - takahē",
+    "site": "takahē -",
+    "author": "",
+    "date": "2024-04-16",
+    "timestamp": "2024-04-16T04:02:49.813Z",
+    "description": "You want to order from a local restaurant, but you need to download a third-party delivery app, even though you plan to pick it up yourself. The prices and menu on the app are different to what you saw in the window. When you download a second app the prices are different again. You ring",
+    "url": "https://www.takahe.org.nz/heat-death-of-the-internet/",
+    "image": "",
+    "type": "article",
+    "notes": "The realities, frustrations and inconveniences of modern digital life",
+    "tags": [
+      "web",
+      "tech"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240406224124/https://www.takahe.org.nz/heat-death-of-the-internet/"
   }
 ]
