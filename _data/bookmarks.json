@@ -2942,5 +2942,24 @@
       "tech"
     ],
     "waybackUrl": "http://web.archive.org/web/20240406224124/https://www.takahe.org.nz/heat-death-of-the-internet/"
+  },
+  {
+    "title": "Blogging is Conversation - Cole's Blog",
+    "site": "Cole's Blog",
+    "author": "",
+    "date": "2024-04-17",
+    "timestamp": "2024-04-17T06:22:43.250Z",
+    "description": "I’ve been trying too damn hard when writing blog posts. I sometimes spend days mulling over my words, rearranging sentences, and restructuring my thesis—hoping to draft the perfect post. During...",
+    "url": "https://coleb.blog/posts/blogging-is-conversation",
+    "image": "",
+    "type": "website",
+    "notes": "Another reminder to stop over thinking it, just write and share",
+    "tags": [
+      "web",
+      "smallweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240416185654/https://coleb.blog/posts/blogging-is-conversation",
+    "quote": "Such storytelling doesn’t have to be perfect. I can simply tell my story without much thought to the words I use or the format I come up with."
   }
 ]
