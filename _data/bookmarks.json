@@ -3050,5 +3050,22 @@
       "smallweb",
       "blogging"
     ]
+  },
+  {
+    "title": "Grow Your Own Services – A beginner's guide to creating your own little corner of the Internet",
+    "site": "",
+    "author": "",
+    "date": "2024-04-21",
+    "timestamp": "2024-04-21T08:21:35.370Z",
+    "description": "",
+    "url": "https://growyourown.services/",
+    "image": "",
+    "type": "",
+    "notes": "Grow Your Own Services is a site encouraging people and organisations to create their own online services such as websites, social networks, personal clouds etc",
+    "tags": [
+      "indieweb",
+      "selfhosting"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240418222321/https://growyourown.services/"
   }
 ]
