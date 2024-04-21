@@ -3016,5 +3016,22 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240418210546/https://thehistoryoftheweb.com/the-analog-web/",
     "quote": "I’m not the first person to observe that a lack of genuine and human-centered discovery does seem to be a significant void in the modern web."
+  },
+  {
+    "title": "Having a website isn't about blogging, it's about you",
+    "site": "shellsharks",
+    "author": "Michael Sass",
+    "date": "2024-04-21",
+    "timestamp": "2024-04-21T01:28:35.792Z",
+    "description": "Cybersecurity Research and More",
+    "url": "https://shellsharks.com/notes/2024/04/17/having-a-website-is-about-you",
+    "image": "",
+    "type": "article",
+    "notes": "Having a website is not just about blogging - it's about creating an online presence that reflects who you are!",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb"
+    ]
   }
 ]
