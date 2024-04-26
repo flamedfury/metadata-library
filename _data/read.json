@@ -4243,5 +4243,26 @@
     "language": "en",
     "link": "https://books.google.com/books/about/The_Medusa_Chronicles.html?hl=&id=4reuDwAAQBAJ",
     "image": "book-9781481479684.png"
+  },
+  {
+    "isbn": "9780575090620",
+    "dateAdded": "2024-04-27",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "Elysium Fire",
+    "authors": [
+      "Alastair Reynolds"
+    ],
+    "publishedDate": "2018-01-25",
+    "description": "Featuring Inspector Dreyfus - one of Alastair Reynolds most popular characters - this is a fast paced SF crime story, combining a futuristic setting with a gripping tale of technology, revolution and revenge. One citizen died a fortnight ago. Two a week ago. Four died yesterday . . . and unless the cause can be found - and stopped - within the next four months, everyone will be dead. For the Prefects, the hunt for a silent, hidden killer is on . . . Alastair Reynolds has returned to the world of The Prefect for this stand-alone SF mystery in which no one is safe. The technological implants which connect every citizen to each other have become murder weapons, and no one knows who or what the killer is - or who the next targets will be. But their reach is spreading, and time is not on the Prefects' side.",
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=VtwsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Elysium_Fire.html?hl=&id=VtwsDwAAQBAJ",
+    "image": "book-9780575090620.png"
   }
 ]
