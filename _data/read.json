@@ -4221,5 +4221,27 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Bone_Silence.html?hl=&id=iJ6QDwAAQBAJ",
     "image": "book-9780575090705.png"
+  },
+  {
+    "isbn": "9781481479684",
+    "dateAdded": "2024-04-27",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "The Medusa Chronicles",
+    "authors": [
+      "Stephen Baxter",
+      "Alastair Reynolds"
+    ],
+    "publishedDate": "2017-08-08",
+    "description": "A sequel to Sir Arthur C. Clarke’s Nebula Award–winning novella “A Meeting with Medusa,” this novel continues the thrilling adventure of astronaut Howard Falcon, humanity’s first explorer of Jupiter from two modern science fiction masters. Howard Falcon almost lost his life in an accident as the first human astronaut to explore the atmosphere of Jupiter—and a combination of human ingenuity and technical expertise brought him back. But he is no longer himself. Instead, he has been changed into an augmented human: part man, part machine, and exceptionally capable. With permission from the Clarke Estate, Stephen Baxter and Alastair Reynolds continue this beloved writer’s enduring vision and have created a fresh story for new readers. The Medusa Chronicles charts Falcon’s journey through the centuries granted by his new body, but always back to mysteries of Jupiter and the changing interaction between humanity and the universe. A compelling read full of incredible action right from the beginning, this is a modern classic in the spirit of 2001 and The Martian.",
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=4reuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/The_Medusa_Chronicles.html?hl=&id=4reuDwAAQBAJ",
+    "image": "book-9781481479684.png"
   }
 ]
