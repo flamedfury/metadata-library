@@ -2677,7 +2677,7 @@
   {
     "isbn": "9781789094299",
     "dateStarted": "2023-06-29",
-    "status": "finished",
+    "status": "want to read",
     "rating": "unrated",
     "title": "Stars and Bones",
     "authors": [
@@ -2693,7 +2693,8 @@
     "thumbnail": "https://books.google.com/books/content?id=KWk2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=KWk2EAAAQBAJ",
-    "dateFinished": "2023-07-02"
+    "dateFinished": "2023-07-02",
+    "dateAdded": "2024-04-27"
   },
   {
     "isbn": "9781982165314",
