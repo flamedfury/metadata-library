@@ -3138,5 +3138,22 @@
       "smallweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240421005609/https://getblogging.org/"
+  },
+  {
+    "title": "Oh, you make websites? — a brief departure",
+    "site": "",
+    "author": "",
+    "date": "2024-04-26",
+    "timestamp": "2024-04-26T22:21:40.610Z",
+    "description": "A satire.",
+    "url": "https://departures.robbowen.digital/oh-you-make-websites/",
+    "image": "",
+    "type": "website",
+    "notes": "Imagine being a web developer at a high powered tech company. The dream right?",
+    "tags": [
+      "web",
+      "webdev"
+    ],
+    "quote": "I am a web developer."
   }
 ]
