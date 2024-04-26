@@ -4157,5 +4157,26 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=rYjYEAAAQBAJ",
     "image": "book-9781776953899.png"
+  },
+  {
+    "isbn": "9780857667106",
+    "dateAdded": "2024-04-27",
+    "status": "want to read",
+    "rating": "unrated",
+    "title": "The Wrong Stars",
+    "authors": [
+      "Tim Pratt"
+    ],
+    "publishedDate": "2017-11-07",
+    "description": "Philip K. Dick Award Finalist: A ragtag space crew discovers alien technology that could change the fate of humanity—or awaken an ancient evil that could destroy all life in the galaxy The shady crew of the White Raven run freight and salvage at the fringes of our solar system. They discover the wreck of a centuries-old exploration vessel floating light years away from its intended destination and revive its sole occupant, who wakes with news of First Alien Contact. When the crew informs her that humanity has alien allies already, she reveals that these are very different extra-terrestrials—and the gifts they bestowed on her could kill all humanity, or take it out to the most distant stars. “Ridiculously fun with a well-thought-out space opera setting and lots of fancy reveals.” —Charlie Jane Anders, author of All the Birds in the Sky “Through his wit, dialogue, and vast, diverse world, Tim Pratt has created a space opera for today—one filled with diverse characters and cultures that feel nuanced enough to be real—while still delivering the sense of wonder that made you love the genre in the first place.” —Barnes & Noble Sci-Fi & Fantasy Blog",
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=aBEcDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=aBEcDgAAQBAJ",
+    "image": "book-9780857667106.png"
   }
 ]
