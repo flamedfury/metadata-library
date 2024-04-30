@@ -3172,5 +3172,22 @@
       "a11y"
     ],
     "waybackUrl": "http://web.archive.org/web/20240419183332/https://randoma11y.com/"
+  },
+  {
+    "title": "43 - XMPP Is Better Than Matrix?",
+    "site": "",
+    "author": "",
+    "date": "2024-04-30",
+    "timestamp": "2024-04-30T22:04:01.557Z",
+    "description": "I tried XMPP today, here is my thoughts.",
+    "url": "https://orbitalmartian.codeberg.page/blog/xmpp-great/",
+    "image": "",
+    "type": "",
+    "notes": "Orbital Martian has also discovered XMPP!",
+    "tags": [
+      "web",
+      "xmpp"
+    ],
+    "quote": "XMPP can be used as a simple means to keep in touch with your friends"
   }
 ]
