@@ -4141,8 +4141,8 @@
   {
     "isbn": "9781776953899",
     "dateStarted": "2024-04-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "title": "The Penguin History of New Zealand",
     "authors": [
       "Michael King"
@@ -4157,7 +4157,9 @@
     "thumbnail": "https://books.google.com/books/content?id=rYjYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=rYjYEAAAQBAJ",
-    "image": "book-9781776953899.png"
+    "image": "book-9781776953899.png",
+    "dateFinished": "2024-04-29",
+    "notes": "Must read for any Kiwi or anyone else wanting to know about the history of Aotearoa"
   },
   {
     "isbn": "9780857667106",
