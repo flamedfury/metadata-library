@@ -3226,5 +3226,24 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240223042417/https://www.zachleat.com/web/trailing-slash/",
     "quote": "The most important piece to remember here is that consistency is king. No matter which approach you use for a specific resource (trailing slash or sans the slash), it should be the canonical version and it should be used everywhere"
+  },
+  {
+    "title": "“Webbing” the IndieWeb – Tracy Durnell",
+    "site": "",
+    "author": "",
+    "date": "2024-05-03",
+    "timestamp": "2024-05-03T23:37:43.359Z",
+    "description": "",
+    "url": "https://tracydurnell.com/2024/04/22/webbing-the-indieweb/",
+    "image": "",
+    "type": "",
+    "notes": "Tracy Durnell looks into inclusion in the IndieWeb",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240423145329/https://tracydurnell.com/2024/04/22/webbing-the-indieweb/",
+    "quote": "Is requiring a website to participate something the IndieWeb community prioritizes enough to disregard the needs of most Internet users?"
   }
 ]
