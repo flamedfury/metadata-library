@@ -3208,5 +3208,23 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240501205018/https://www.citationneeded.news/we-can-have-a-different-web/",
     "quote": "The thing is: none of this is gone. Nothing about the web has changed that prevents us from going back. If anything, it's become a lot easier. We can return. Better, yet: we can restore the things we loved about the old web while incorporating the wonderful things that have emerged since and developing even better things as we go forward."
+  },
+  {
+    "title": "Trailing Slashes on URLs: Contentious or Settled?—zachleat.com",
+    "site": "Zach Leatherman",
+    "author": "Zach Leatherman",
+    "date": "2024-05-03",
+    "timestamp": "2024-05-03T23:32:59.906Z",
+    "description": "A post by Zach Leatherman (zachleat)",
+    "url": "https://www.zachleat.com/web/trailing-slash/",
+    "image": "",
+    "type": "website",
+    "notes": "Good read about slashes in URLs and how they can make or break you.",
+    "tags": [
+      "web",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240223042417/https://www.zachleat.com/web/trailing-slash/",
+    "quote": "The most important piece to remember here is that consistency is king. No matter which approach you use for a specific resource (trailing slash or sans the slash), it should be the canonical version and it should be used everywhere"
   }
 ]
