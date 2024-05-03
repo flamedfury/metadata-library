@@ -3241,9 +3241,29 @@
     "tags": [
       "web",
       "smallweb",
-      "indieweb"
+      "indieweb",
+      "openweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240423145329/https://tracydurnell.com/2024/04/22/webbing-the-indieweb/",
     "quote": "Is requiring a website to participate something the IndieWeb community prioritizes enough to disregard the needs of most Internet users?"
+  },
+  {
+    "title": "TheSmallWay.txt",
+    "site": "https://library.xandra.cc",
+    "author": "Xandra",
+    "date": "2024-05-03",
+    "timestamp": "2024-05-03T23:41:23.359Z",
+    "description": "",
+    "url": "https://library.xandra.cc/the-small-way/",
+    "image": "",
+    "type": "",
+    "notes": "Xandra's approach to fostering and growing the personal web",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240501170453/https://library.xandra.cc/the-small-way/",
+    "quote": "I like “the small way;“ it fosters my need and desire to contribute and grow the personal web."
   }
 ]
