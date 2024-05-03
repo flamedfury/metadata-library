@@ -4287,5 +4287,26 @@
     "language": "en",
     "link": "https://books.google.com/books/about/The_Slow_Regard_of_Silent_Things.html?hl=&id=5291oAEACAAJ",
     "image": "book-9781473209336.png"
+  },
+  {
+    "isbn": "9781473544710",
+    "dateStarted": "2024-05-04",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Hello World",
+    "authors": [
+      "Hannah Fry"
+    ],
+    "publishedDate": "2018-09-06",
+    "description": "'One of the best books yet written on data and algorithms. . .deserves a place on the bestseller charts.' (The Times) You are accused of a crime. Who would you rather determined your fate - a human or an algorithm? An algorithm is more consistent and less prone to error of judgement. Yet a human can look you in the eye before passing sentence. Welcome to the age of the algorithm, the story of a not-too-distant future where machines rule supreme, making important decisions - in healthcare, transport, finance, security, what we watch, where we go even who we send to prison. So how much should we rely on them? What kind of future do we want? Hannah Fry takes us on a tour of the good, the bad and the downright ugly of the algorithms that surround us. In Hello World she lifts the lid on their inner workings, demonstrates their power, exposes their limitations, and examines whether they really are an improvement on the humans they are replacing. A BBC RADIO 4: BOOK OF THE WEEK SHORTLISTED FOR THE 2018 BAILLIE GIFFORD PRIZE AND 2018 ROYAL SOCIETY SCIENCE BOOK PRIZE",
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+      "Science"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=72FCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Hello_World.html?hl=&id=72FCDwAAQBAJ",
+    "image": "book-9781473544710.png"
   }
 ]
