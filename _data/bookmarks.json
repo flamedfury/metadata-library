@@ -3283,5 +3283,23 @@
       "rss"
     ],
     "waybackUrl": "http://web.archive.org/web/20210308090239/https://web.archive.org/web/20090806234534/http://news.cnet.com/Battle-of-the-blog/2009-1032_3-5059006.html"
+  },
+  {
+    "title": "a view source web",
+    "site": "",
+    "author": "",
+    "date": "2024-05-04",
+    "timestamp": "2024-05-04T02:47:20.037Z",
+    "description": "reflections on view source by Garry Ing. the html review, spring 2024",
+    "url": "https://viewsource.info",
+    "image": "",
+    "type": "website",
+    "notes": "Gary Ing reflects on \"view source\". Beautiful page design (view in a browser)!",
+    "tags": [
+      "web",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240415021605/https://www.viewsource.info/",
+    "quote": "View source is a reminder that software is a human activity with all its nuance, and mundanity, laid bare waiting to be viewed in our browsers. View source is a slow space, a gesture to see the presence of a person, and a space to come back to. "
   }
 ]
