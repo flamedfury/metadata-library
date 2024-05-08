@@ -4291,7 +4291,7 @@
   {
     "isbn": "9781473544710",
     "dateStarted": "2024-05-04",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Hello World",
     "authors": [
@@ -4307,6 +4307,7 @@
     "thumbnail": "https://books.google.com/books/content?id=72FCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Hello_World.html?hl=&id=72FCDwAAQBAJ",
-    "image": "book-9781473544710.png"
+    "image": "book-9781473544710.png",
+    "dateFinished": "2024-05-08"
   }
 ]
