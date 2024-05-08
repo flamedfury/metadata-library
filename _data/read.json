@@ -4309,5 +4309,27 @@
     "link": "https://books.google.com/books/about/Hello_World.html?hl=&id=72FCDwAAQBAJ",
     "image": "book-9781473544710.png",
     "dateFinished": "2024-05-08"
+  },
+  {
+    "isbn": "1230007736759",
+    "dateStarted": "2024-05-09",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Upgrade Your HTML V",
+    "authors": [
+      "Jens Oliver Meiert"
+    ],
+    "publishedDate": "2024-05-08",
+    "description": "The Upgrade Your HTML series is about one thing: Picking examples of HTML in the wild, and explaining how to make that code better. Kindly. Constructively. Thoroughly, as finding a balance between detail and brevity permits.",
+    "pageCount": 266,
+    "printType": "eBook",
+    "categories": [
+      "Internet",
+      "Web Development"
+    ],
+    "thumbnail": "https://d2sofvawe08yqg.cloudfront.net/upgrade-your-html-5/s_hero2x?1709812904",
+    "language": "en",
+    "link": "https://leanpub.com/upgrade-your-html-5",
+    "image": "book-1230007736759.png"
   }
 ]
