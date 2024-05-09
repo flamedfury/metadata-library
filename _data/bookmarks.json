@@ -3338,5 +3338,24 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240327215250/https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
     "quote": "When it comes to static sites, there are a myriad of solutions for authoring and compiling, but talk about hosting these static sites, and we are still in the early 2000s."
+  },
+  {
+    "title": "Building a Website is a Marathon, Not a Sprint",
+    "site": "yequari.com",
+    "author": "",
+    "date": "2024-05-09",
+    "timestamp": "2024-05-09T00:58:07.376Z",
+    "description": "I write code and occasionally blog posts.",
+    "url": "http://yequari.com/blog/2024/05/building-a-website-is-a-marathon/",
+    "image": "",
+    "type": "website",
+    "notes": "yequari briefly shares his experience building a personal website over the past two years",
+    "tags": [
+      "web",
+      "websites",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240507033000/https://yequari.com/blog/2024/05/building-a-website-is-a-marathon/",
+    "quote": "Personal websites are about expressing yourself, sometimes it takes times to figure out who you are and what you value, and even longer to properly express that. "
   }
 ]
