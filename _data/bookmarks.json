@@ -3320,5 +3320,23 @@
       ""
     ],
     "quote": "Needless to say, I welcome the homecoming of the homepage, personal or otherwise. Not that some ever really went away."
+  },
+  {
+    "title": "Static site hosting hurdles",
+    "site": "notes.volution.ro",
+    "author": "",
+    "date": "2024-05-09",
+    "timestamp": "2024-05-09T00:56:17.597Z",
+    "description": "When it comes to static sites, there are a myriad of solutions for authoring and compiling, but talk about hosting these static sites, and we are still in the early 2000s. I discuss the challenges one faces when hosting, and even make a proposal to solve some of these.",
+    "url": "https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
+    "image": "",
+    "type": "article",
+    "notes": "Discusses challenges when hosting a static site",
+    "tags": [
+      "web",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240327215250/https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
+    "quote": "When it comes to static sites, there are a myriad of solutions for authoring and compiling, but talk about hosting these static sites, and we are still in the early 2000s."
   }
 ]
