@@ -3376,5 +3376,22 @@
       "openweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240503174546/https://mikegrindle.com/posts/self-promotion"
+  },
+  {
+    "title": "Manifesto for a Humane Web",
+    "site": "Manifesto for a Humane Web",
+    "author": "",
+    "date": "2024-05-10",
+    "timestamp": "2024-05-10T07:11:16.670Z",
+    "description": "We need to build a better web. A web by and for humans.",
+    "url": "https://humanewebmanifesto.com/",
+    "image": "",
+    "type": "website",
+    "notes": "I realise this manifesto is aimed at bigger, corporate websites... I always refer to visitors to Flamed Fury as surfers, the way we used to navigate the web...",
+    "tags": [
+      "web",
+      "sustainability"
+    ],
+    "quote": "If what we don’t want from the web is increasingly clear, perhaps it’s time to identify what kind of web we do want. How do we define a humane web?"
   }
 ]
