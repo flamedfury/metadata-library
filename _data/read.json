@@ -4313,7 +4313,7 @@
   {
     "isbn": "1230007736759",
     "dateStarted": "2024-05-09",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "title": "Upgrade Your HTML V",
     "authors": [
@@ -4321,7 +4321,7 @@
     ],
     "publishedDate": "2024-05-08",
     "description": "The Upgrade Your HTML series is about one thing: Picking examples of HTML in the wild, and explaining how to make that code better. Kindly. Constructively. Thoroughly, as finding a balance between detail and brevity permits.",
-    "pageCount": 266,
+    "pageCount": 36,
     "printType": "eBook",
     "categories": [
       "Internet",
@@ -4330,6 +4330,7 @@
     "thumbnail": "https://d2sofvawe08yqg.cloudfront.net/upgrade-your-html-5/s_hero2x?1709812904",
     "language": "en",
     "link": "https://leanpub.com/upgrade-your-html-5",
-    "image": "book-1230007736759.png"
+    "image": "book-1230007736759.png",
+    "dateFinished": "2024-05-09"
   }
 ]
