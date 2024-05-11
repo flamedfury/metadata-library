@@ -4332,5 +4332,26 @@
     "link": "https://leanpub.com/upgrade-your-html-5",
     "image": "book-1230007736759.png",
     "dateFinished": "2024-05-09"
+  },
+  {
+    "isbn": "9781742539690",
+    "dateStarted": "2024-05-10",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Cousins",
+    "authors": [
+      "Patricia Grace"
+    ],
+    "publishedDate": "2013-08-01",
+    "description": "This is a stunning novel about tradition and change, about whanau and its struggle to survive, about the place of women in a shifting world. Makareta is the chosen one - carrying her family's hopes. Missy is the observer - the one who accepts but has her dreams. Mata is always waiting - for life to happen as it stealthily passes by. Moving from the forties to the present, from the country to the protests of the cities, Cousins is the story of these three cousins. Thrown together as children, they have subsequently grown apart, yet they share a connection that can never be broken.",
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=5fKcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=5fKcDwAAQBAJ",
+    "image": "book-9781742539690.png"
   }
 ]
