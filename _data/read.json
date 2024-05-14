@@ -4354,5 +4354,26 @@
     "link": "https://play.google.com/store/books/details?id=5fKcDwAAQBAJ",
     "image": "book-9781742539690.png",
     "dateFinished": "2024-05-14"
+  },
+  {
+    "isbn": "9788119300969",
+    "dateStarted": "2024-05-15",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Code Dependent",
+    "authors": [
+      "Madhumita Murgia"
+    ],
+    "publishedDate": "2024-03-28",
+    "description": "LONGLISTED FOR THE WOMEN'S PRIZE FOR NON-FICTION 2024 Technology that marks children as future criminals. An app bringing medical diagnoses to a remote tribal community. A British poet, an Indian doctor and a Chinese activist in exile. In this propulsive, illuminating work, Madhumita Murgia, AI editor for the Financial Times, shows how automated systems are reshaping lives all over the world. What does it mean to be human in a world that is rapidly changing thanks to the development of artificial intelligence, of automated decision-making that both draws on and influences our behaviour? Through the voices of ordinary people in places far removed from the cosy enclave of Silicon Valley, Code Dependent explores the impact of a set of powerful, flawed, and often exploitative technologies on individuals, communities, and our wider society. Murgia exposes how AI can strip away our collective and individual sense of agency – and shatter our illusion of free will. The ways in which algorithms and their effects are governed over the coming years will profoundly impact us all. Yet we cannot decide what preferences and morals we want to encode in these entities – or what controls we may want to impose on them. And thus, we are collectively relinquishing our moral authority to machines. Murgia not only sheds light on this chilling phenomenon, but also charts a path of resistance. AI is already changing what it means to be human, in ways large and small. In this compelling work, Murgia reveals what could happen if we fail to reclaim our humanity.",
+    "pageCount": 327,
+    "printType": "BOOK",
+    "categories": [
+      "Computers"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=lsD7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Code_Dependent.html?hl=&id=lsD7EAAAQBAJ",
+    "image": "book-9788119300969.png"
   }
 ]
