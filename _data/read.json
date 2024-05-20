@@ -4358,7 +4358,7 @@
   {
     "isbn": "9788119300969",
     "dateStarted": "2024-05-15",
-    "status": "started",
+    "status": "abandoned",
     "rating": "unrated",
     "title": "Code Dependent",
     "authors": [
@@ -4374,6 +4374,7 @@
     "thumbnail": "https://books.google.com/books/content?id=lsD7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Code_Dependent.html?hl=&id=lsD7EAAAQBAJ",
-    "image": "book-9788119300969.png"
+    "image": "book-9788119300969.png",
+    "dateAbandoned": "2024-05-19"
   }
 ]
