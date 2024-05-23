@@ -4380,8 +4380,8 @@
   {
     "isbn": "9781668011508",
     "dateStarted": "2024-05-20",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Down the Drain",
     "authors": [
       "Julia Fox"
@@ -4396,6 +4396,7 @@
     "thumbnail": "https://books.google.com/books/content?id=qy_dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://books.google.com/books/about/Down_the_Drain.html?hl=&id=qy_dEAAAQBAJ",
-    "image": "book-9781668011508.png"
+    "image": "book-9781668011508.png",
+    "dateFinished": "2024-05-21"
   }
 ]
