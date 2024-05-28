@@ -4419,5 +4419,33 @@
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=-OyoEAAAQBAJ",
     "image": "book-9781922930613.png"
+  },
+  {
+    "identifier": "7566930",
+    "identifiers": {
+      "libby": "7566930"
+    },
+    "dateStarted": "2024-05-26",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-7566930.png",
+    "link": "https://share.libbyapp.com/title/7566930",
+    "title": "Into Every Generation a Slayer Is Born",
+    "description": "Explore the history and cultural impact of a groundbreaking television show adored by old and new fans alike: Buffy the Vampire Slayer. Over the course of its seven-year run, Buffy the Vampire Slayer cultivated a loyal fandom and featured a strong, complex female lead, at a time when such a character was a rarity. Evan Ross Katz explores the show’s cultural relevance through a book that is part oral history, part ...",
+    "authors": [
+      "Evan Ross Katz",
+      "Evan Ross Katz",
+      "Deanna Anthony"
+    ],
+    "publishedDate": "2022-03-15",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0887-1/{066E8C47-017F-4632-8716-89C96032F0D7}Img100.jpg",
+    "publisher": "Hachette Audio",
+    "categories": [
+      "Biography & Autobiography",
+      "Performing Arts",
+      "Nonfiction",
+      "Humor (Nonfiction)"
+    ],
+    "format": "audiobook"
   }
 ]
