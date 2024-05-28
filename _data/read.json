@@ -4447,5 +4447,31 @@
       "Humor (Nonfiction)"
     ],
     "format": "audiobook"
+  },
+  {
+    "identifier": "9781922930613",
+    "identifiers": {
+      "isbn": "9781922930613"
+    },
+    "dateFinished": "2024-05-26",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "title": "Golden Days",
+    "authors": [
+      "Caroline Barron"
+    ],
+    "publishedDate": "2023-02-28",
+    "description": "'Nostalgic and tender as a bruise.' - Jacqueline Bublitz, Before You Knew My Name Becky thought she'd left Zoe and that summer far behind. Set in 1995 against the backdrop of Auckland's burgeoning party scene, Golden Days is the story of an intense late-teens friendship between bookish Becky Chalke and star-dusted Zoe Golden, and what happens after one terrifying night changes their lives and destroys their friendship forever. After finding out that her husband has been cheating on her, Becky is mourning the end of her picture-perfect marriage at the bottom of a bottle. The trauma of the break-up brings back harrowing memories of a summer she thought she'd left far behind. But with Zoe's reappearance, Becky is forced to reconsider her interpretation of events, as well as where blame lies, her true nature and her place in the world. Music, clubs, art, collaboration, spirituality, sex - Golden Days is a thrilling and nostalgic ride into the past, where nothing is as it seemed.",
+    "pageCount": 288,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / General",
+      "Fiction / Friendship"
+    ],
+    "thumbnail": "https://books.google.com/books/publisher/content?id=-OyoEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=-OyoEAAAQBAJ",
+    "image": "book-9781922930613.png"
   }
 ]
