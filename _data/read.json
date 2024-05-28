@@ -4425,14 +4425,14 @@
     "link": "https://play.google.com/store/books/details?id=-OyoEAAAQBAJ",
     "image": "book-9781922930613.png"
   },
-    {
+  {
     "identifier": "7566930",
     "identifiers": {
       "libby": "7566930"
     },
     "dateStarted": "2024-05-26",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-7566930.png",
     "link": "https://share.libbyapp.com/title/7566930",
     "title": "Into Every Generation a Slayer Is Born",
@@ -4451,6 +4451,7 @@
       "Nonfiction",
       "Humor (Nonfiction)"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-05-28"
   }
 ]
