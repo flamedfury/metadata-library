@@ -4453,5 +4453,26 @@
     ],
     "format": "audiobook",
     "dateFinished": "2024-05-28"
+  },
+  {
+    "identifier": "9781399726382",
+    "identifiers": {
+      "librofm": "9781399726382",
+      "isbn": "9781399726382"
+    },
+    "dateStarted": "2024-05-29",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9781399726382.png",
+    "link": "https://libro.fm/audiobooks/9781399726382-the-ministry-of-time",
+    "format": "audiobook",
+    "title": "The Ministry of Time",
+    "description": "The Time Traveller's Wife meets David Mitchell meets Tomorrow, and Tomorrow, and Tomorrow meets Kate &amp; Leopold in this debut novel from an award-winning writer.There are several ways to tell a story.A boy meets a girl. The past meets the future. A finger meets a trigger. The beginning meets the end. England is forever; England must fall.A civil servant starts working as a 'bridge' - a liaison, helpmeet and housemate - in an experimental project that brings expatriates from the past into the twenty-first century. This is a science-fiction story.In a London safehouse in the 2020s, a disorientated Victorian polar explorer chain smokes while listening to Spotify and learning about political correctness. This is a comedy.During a long, sultry summer - as the shadows around them grow long and dangerous - two people fall in love, against all odds. This is a romance.The Ministry of Time is a novel about Commander Graham Gore (R.N. c.1809-c.1847) and a woman known only as the bridge. As their relationship turns from the strictly professional into something more and uneasy truths begin to emerge, they are forced to face the reality of the project that brought them together. Can love triumph over the structures and histories that shape them? (P)2024 Hodder &amp; Stoughton Limited",
+    "thumbnail": "https://covers.libro.fm/9781399726382_1120.jpg",
+    "authors": [
+      "Kaliane Bradley"
+    ],
+    "publisher": "Hodder & Stoughton",
+    "publishedDate": "2024-05-07"
   }
 ]
