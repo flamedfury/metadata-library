@@ -3652,5 +3652,20 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20240528040654/https://coywolf.email/newsletter/small-matters/",
     "quote": "The idea behind the Small Web is to return to the early days before the internet was overly commercialized, homogenized, and controlled by mega-corporations."
+  },
+  {
+    "title": "Tutorial | A simple page builder app.",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T09:15:27.727Z",
+    "description": "Design your own personal page and find tools to host it for free.",
+    "url": "https://simplepagebuilder.app",
+    "image": "",
+    "type": "website",
+    "notes": "Looks like an interesting browser based WYSIWYG website editor tool?",
+    "tags": [
+      "webmastery"
+    ]
   }
 ]
