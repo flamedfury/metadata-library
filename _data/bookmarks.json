@@ -3495,5 +3495,23 @@
       "webmastery",
       "sustainability"
     ]
+  },
+  {
+    "title": "melkat.blog - Hosting the Jamstack",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:39:18.349Z",
+    "description": "Vercel and Netlify offer amazing free hosting but what happens when you use more than they like? Well it's time to pay. Not only is it time to pay, but it's time to pay a lot and there are no in-between tiers. Both Netlify and Vercel start off at $20 per month per person.",
+    "url": "https://melkat.blog/p/jamstack-hosting",
+    "image": "",
+    "type": "website",
+    "notes": "Challenges of relying on VC funded platforms for hosting your websites and projects. I'm a big fan of platforms like Neocities and the humble shared hosting account for my website hosting needs.",
+    "tags": [
+      "web",
+      "webmastery",
+      "hosting"
+    ],
+    "quote": "These companies are also taking tons of money from venture capitalists, so I will go out on a limb and say that they are not profitable. They probably don’t even have a sustainable business plan."
   }
 ]
