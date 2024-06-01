@@ -3530,5 +3530,23 @@
       "smallweb"
     ],
     "quote": "The Web needs you and me."
+  },
+  {
+    "title": "A Comprehensive Evaluation of Various Search Engines I've Used",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:51:59.510Z",
+    "description": "Call me old fashioned, but when I want to find out about something my first instinct is not to chat with a computer. I'm not interested in a conversational back-and-forth or a probably-at-least-partially-incorrect summary, I...",
+    "url": "https://scribbles.jbowdre.lol/post/a-comprehensive-evaluation-of-various-search-engines-i-ve-used",
+    "image": "",
+    "type": "article",
+    "notes": "Scribbles 'n Bits shares a comprehensive evaluation of search engines they've used over the last five years.",
+    "tags": [
+      "web",
+      "search",
+      "smallweb",
+      "openweb"
+    ]
   }
 ]
