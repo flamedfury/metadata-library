@@ -3479,5 +3479,21 @@
     "tags": [
       "blogging"
     ]
+  },
+  {
+    "title": "The perfect site doesn’t exist - Branch",
+    "site": "Branch",
+    "author": "Michelle Barker",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:33:38.159Z",
+    "description": "Michelle explains what building a humane web means to her and how notions of perfectionism can stand in the way of developers building it.",
+    "url": "https://branch.climateaction.tech/issues/issue-8/the-perfect-site-doesnt-exist/",
+    "image": "",
+    "type": "article",
+    "notes": "Michelle Barker discusses the challenges of maintaining and improving web projects over time while considering environmental challenges.",
+    "tags": [
+      "webmastery",
+      "sustainability"
+    ]
   }
 ]
