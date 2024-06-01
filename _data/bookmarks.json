@@ -2889,24 +2889,6 @@
     "quote": "A lot of people want to make a website but don’t know where to start or they get stuck. That’s in part because our perception of what websites should be has changed so dramatically over the last 20 years."
   },
   {
-    "title": "You’re a Blogger, Not an Essayist - I am BARRY HESS",
-    "site": "I am BARRY HESS",
-    "author": "",
-    "date": "2024-05-20",
-    "timestamp": "2024-05-20T09:52:01.501Z",
-    "description": "When I get wistful for the internet of old, one thing that strikes me is that all the blogs back then, well, they were just blogs. The idea of weblog...",
-    "url": "https://bjhess.com/posts/you-re-a-blogger-not-an-essayist",
-    "image": "",
-    "type": "website",
-    "notes": "Barry Hess reminds us that we're bloggers, and not essayists. Encourages us to simply write and blog rather than agonising over it.",
-    "tags": [
-      "web",
-      "smallweb",
-      "blogging"
-    ],
-    "waybackUrl": "http://web.archive.org/web/20240430175442/https://bjhess.com/posts/you-re-a-blogger-not-an-essayist"
-  },
-  {
     "title": "Rheenah's webpage | Blog",
     "site": "",
     "author": "",
@@ -3412,6 +3394,24 @@
     "waybackUrl": "http://web.archive.org/web/20240516072336/https://bjhess.com/posts/we-are-the-curators-of-the-web"
   },
   {
+    "title": "You’re a Blogger, Not an Essayist - I am BARRY HESS",
+    "site": "I am BARRY HESS",
+    "author": "",
+    "date": "2024-05-20",
+    "timestamp": "2024-05-20T09:52:01.501Z",
+    "description": "When I get wistful for the internet of old, one thing that strikes me is that all the blogs back then, well, they were just blogs. The idea of weblog...",
+    "url": "https://bjhess.com/posts/you-re-a-blogger-not-an-essayist",
+    "image": "",
+    "type": "website",
+    "notes": "Barry Hess reminds us that we're bloggers, and not essayists. Encourages us to simply write and blog rather than agonising over it.",
+    "tags": [
+      "web",
+      "smallweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240430175442/https://bjhess.com/posts/you-re-a-blogger-not-an-essayist"
+  },
+  {
     "title": "That site you use is dead",
     "site": "",
     "author": "",
@@ -3446,5 +3446,23 @@
       "curation"
     ],
     "waybackUrl": "http://web.archive.org/web/20240429194726/https://linkpantry.com/"
+  },
+  {
+    "title": "HTML for People",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:02:27.319Z",
+    "description": "",
+    "url": "https://htmlforpeople.com/",
+    "image": "",
+    "type": "",
+    "notes": "Blake Watson is working on a tutorial series is aimed at people without web development aspirations, with the goal of empowering anyone to create their own websites.",
+    "tags": [
+      "web",
+      "webmastery",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240519031050/https://www.htmlforpeople.com/"
   }
 ]
