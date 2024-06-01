@@ -3464,5 +3464,20 @@
       "smallweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240519031050/https://www.htmlforpeople.com/"
+  },
+  {
+    "title": "Blog Anonymously",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:31:41.364Z",
+    "description": "Some very basic instructions on how to blog anonymously (not fool-proof by any means)",
+    "url": "https://anon.btxx.org/",
+    "image": "",
+    "type": "",
+    "notes": "This website provides tips for blogging anonymously. Goes a bit further than blogging under a psuedonym. ",
+    "tags": [
+      "blogging"
+    ]
   }
 ]
