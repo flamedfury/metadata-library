@@ -3513,5 +3513,22 @@
       "hosting"
     ],
     "quote": "These companies are also taking tons of money from venture capitalists, so I will go out on a limb and say that they are not profitable. They probably don’t even have a sustainable business plan."
+  },
+  {
+    "title": "The Web Is Not Inevitable – Nathan Knowler",
+    "site": "",
+    "author": "Nathan Knowler",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:43:26.388Z",
+    "description": "The Web needs you and me.",
+    "url": "https://knowler.dev/blog/the-web-is-not-inevitable",
+    "image": "",
+    "type": "",
+    "notes": "Nathan Knowler talks about how the web's future depends on people actively involving themselves, not remaining on the sidelines. Not just us who are already amongst it, but those still trapped witin the silos.",
+    "tags": [
+      "web",
+      "smallweb"
+    ],
+    "quote": "The Web needs you and me."
   }
 ]
