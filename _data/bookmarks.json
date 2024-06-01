@@ -3548,5 +3548,23 @@
       "smallweb",
       "openweb"
     ]
+  },
+  {
+    "title": "Link Punk: A Linkblog",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T08:59:45.025Z",
+    "description": "Follow <a href=\"https://micro.blog/bradenslen\">@bradenslen on Micro.blog</a>.",
+    "url": "https://linkpunk.micro.blog/",
+    "image": "",
+    "type": "website",
+    "notes": "A fantastic link blog worth subscribing to",
+    "tags": [
+      "web",
+      "smallweb",
+      "bookmarks"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240508092050/https://linkpunk.micro.blog/"
   }
 ]
