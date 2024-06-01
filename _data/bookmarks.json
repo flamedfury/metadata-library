@@ -3566,5 +3566,24 @@
       "bookmarks"
     ],
     "waybackUrl": "http://web.archive.org/web/20240508092050/https://linkpunk.micro.blog/"
+  },
+  {
+    "title": "The IndieWeb’s next stage? – Tracy Durnell",
+    "site": "",
+    "author": "",
+    "date": "2024-06-01",
+    "timestamp": "2024-06-01T09:03:17.843Z",
+    "description": "",
+    "url": "https://tracydurnell.com/2024/05/17/indieweb-next-stage/",
+    "image": "",
+    "type": "",
+    "notes": "Tracy Durnell discusses several ways the IndieWeb community could work collectively to expand the independent web. Improve personal website discoverability, enable reader engagement, and more collaboration.",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb",
+      "blogging"
+    ],
+    "quote": "The IndieWeb could help people escape silosl, but the IndieWeb is exclusive"
   }
 ]
