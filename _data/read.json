@@ -4461,8 +4461,8 @@
       "isbn": "9781399726382"
     },
     "dateStarted": "2024-05-29",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-9781399726382.png",
     "link": "https://libro.fm/audiobooks/9781399726382-the-ministry-of-time",
     "format": "audiobook",
@@ -4473,6 +4473,7 @@
       "Kaliane Bradley"
     ],
     "publisher": "Hodder & Stoughton",
-    "publishedDate": "2024-05-07"
+    "publishedDate": "2024-05-07",
+    "dateFinished": "2024-06-03"
   }
 ]
