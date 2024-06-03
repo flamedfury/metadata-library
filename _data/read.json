@@ -4475,5 +4475,26 @@
     "publisher": "Hodder & Stoughton",
     "publishedDate": "2024-05-07",
     "dateFinished": "2024-06-03"
+  },
+  {
+    "identifier": "9781409184744",
+    "identifiers": {
+      "librofm": "9781409184744",
+      "isbn": "9781409184744"
+    },
+    "dateStarted": "2024-06-03",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9781409184744.png",
+    "link": "https://libro.fm/audiobooks/9781409184744-shadow-captain",
+    "format": "audiobook",
+    "title": "Shadow Captain",
+    "description": "'A swashbuckling thriller - Pirates of the Caribbean meets Firefly - that nevertheless combines the author's trademark hard SF with effective, coming-of-age characterisation' GUARDIAN'A blindingly clever imagining of our solar system in the far flung future' SUNReturning to the universe of Revenger, award-winning author Alastair Reynolds delivers another thrilling tale set among the stars.Two sisters ran away from home to join the crew of a spaceship. They took on pirates, faced down monsters and survived massacres . . . and now they're in charge. Captaining a fearsome ship of their own, adventures are theirs for the taking - and there's hoards to loot and treasures to find in the darkest reaches of space. But the rules are also more relaxed out on the fringes, as they're about to discover . . .'A rollicking adventure yarn with action, abduction, fights, properly scary hazards, very grisly torture and even ghosts of a sort' DAILY TELEGRAPH'By far the most enjoyable book Reynolds has ever written' SFX",
+    "thumbnail": "https://covers.libro.fm/9781409184744_1120.jpg",
+    "authors": [
+      "Alastair Reynolds"
+    ],
+    "publisher": "Orion",
+    "publishedDate": "2019-01-10"
   }
 ]
