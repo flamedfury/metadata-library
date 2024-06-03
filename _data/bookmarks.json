@@ -3667,5 +3667,20 @@
     "tags": [
       "webmastery"
     ]
+  },
+  {
+    "title": "Cheers to the Small Web - Cole's Blog",
+    "site": "Cole's Blog",
+    "author": "",
+    "date": "2024-06-03",
+    "timestamp": "2024-06-03T07:31:58.877Z",
+    "description": "Over the past year, I’ve seen a growing number of personal blogs and websites run by individuals. \n\nThis is a big change from the corporate run web that developed following...",
+    "url": "https://coleb.blog/posts/cheers-to-the-small-web",
+    "image": "",
+    "type": "website",
+    "notes": "Cole wants to thank all of us who create their own space on the web",
+    "tags": [
+      "smallweb"
+    ]
   }
 ]
