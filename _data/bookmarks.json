@@ -3682,5 +3682,22 @@
     "tags": [
       "smallweb"
     ]
+  },
+  {
+    "title": "Lamentations of a Web 1.0 Dinosaur",
+    "site": "",
+    "author": "",
+    "date": "2024-06-04",
+    "timestamp": "2024-06-04T09:23:07.979Z",
+    "description": "Musings on the Internet of old.",
+    "url": "https://toddpresta.com/p/d9a1db69",
+    "image": "",
+    "type": "",
+    "notes": "Todd misses Web 1.0",
+    "tags": [
+      "web",
+      "webhistory"
+    ],
+    "quote": "Why didn't you make it easier for the non-technical to carve out their own spaces on the web rather than forcing them into the centralized digital fiefdom known as social media?"
   }
 ]
