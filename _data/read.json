@@ -4483,7 +4483,7 @@
       "isbn": "9781409184744"
     },
     "dateStarted": "2024-06-03",
-    "status": "started",
+    "status": "finished",
     "rating": "unrated",
     "image": "book-9781409184744.png",
     "link": "https://libro.fm/audiobooks/9781409184744-shadow-captain",
@@ -4495,6 +4495,8 @@
       "Alastair Reynolds"
     ],
     "publisher": "Orion",
-    "publishedDate": "2019-01-10"
+    "publishedDate": "2019-01-10",
+    "dateFinished": "2024-06-13",
+    "notes": "Took ages to get into this, most likely due to the decade gap between reading this and the first book. Enjoyed it in the end."
   }
 ]
