@@ -4505,8 +4505,8 @@
       "libby": "4384890"
     },
     "dateStarted": "2024-06-14",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-4384890.png",
     "link": "https://share.libbyapp.com/title/4384890",
     "title": "Come As You Are",
@@ -4525,6 +4525,8 @@
       "Performing Arts",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-06-18",
+    "notes": "Fantastic read. I liked how it was published before Kurts death rather than years later. So much good stuff in here."
   }
 ]
