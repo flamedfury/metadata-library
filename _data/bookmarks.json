@@ -3717,5 +3717,23 @@
       "tech"
     ],
     "quote": "If you take from the web, you should give back."
+  },
+  {
+    "title": "Beware the cloud of hype - The History of the Web",
+    "site": "The History of the Web",
+    "author": "Jay Hoffmann",
+    "date": "2024-06-19",
+    "timestamp": "2024-06-19T07:44:16.575Z",
+    "description": "We don't know how this AI thing will turn out, but there is much to be learned from the cycles of hype that have already occurred on the web.",
+    "url": "https://thehistoryoftheweb.com/beware-the-cloud-of-hype/",
+    "image": "",
+    "type": "article",
+    "notes": "The current AI hysteria is just one of many similar hype patterns that's been going on forever on the web.",
+    "tags": [
+      "web",
+      "webhistory"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240615235841/https://thehistoryoftheweb.com/beware-the-cloud-of-hype/",
+    "quote": "When you see such outlandish shamelessness look for the cloud of hype that lies beyond it. Remember the lessons from the web."
   }
 ]
