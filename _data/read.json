@@ -4528,5 +4528,31 @@
     "format": "audiobook",
     "dateFinished": "2024-06-18",
     "notes": "Fantastic read. I liked how it was published before Kurts death rather than years later. So much good stuff in here."
+  },
+  {
+    "identifier": "6508137",
+    "identifiers": {
+      "libby": "6508137"
+    },
+    "dateStarted": "2024-06-22",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6508137.png",
+    "link": "https://share.libbyapp.com/title/6508137",
+    "title": "The Storyteller",
+    "description": "So, I’ve written a book. Having entertained the idea for years, and even offered a few questionable opportunities (‘It’s a piece of cake! Just do four hours of interviews, find someone else to write it, put your face on the cover, and voila!’), I have decided to tell these stories just as I have always done, in my own voice. The joy that I have felt from chronicling these tales is not unlike listening back to a so...",
+    "authors": [
+      "Dave Grohl",
+      "Dave Grohl"
+    ],
+    "publishedDate": "2021-10-04",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/5054-1/{3C05E1E1-DCEB-4F3E-8735-33E95215DCAE}IMG100.JPG",
+    "publisher": "Simon & Schuster Australia",
+    "categories": [
+      "Biography & Autobiography",
+      "Performing Arts",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
