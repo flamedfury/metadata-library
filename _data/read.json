@@ -4535,8 +4535,8 @@
       "libby": "6508137"
     },
     "dateStarted": "2024-06-22",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-6508137.png",
     "link": "https://share.libbyapp.com/title/6508137",
     "title": "The Storyteller",
@@ -4553,6 +4553,8 @@
       "Performing Arts",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-06-28",
+    "notes": "Fantastic read."
   }
 ]
