@@ -4586,5 +4586,32 @@
       "Nonfiction"
     ],
     "format": "audiobook"
+  },
+  {
+    "identifier": "3694613",
+    "identifiers": {
+      "libby": "3694613"
+    },
+    "dateStarted": "2024-07-09",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-3694613.png",
+    "link": "https://share.libbyapp.com/title/3694613",
+    "title": "Smash!",
+    "description": "A group biography of '90s punk rock told through the prism of Green Day, The Offspring, NOFX, Rancid, Bad Religion, Social Distortion, and more Two decades after the Sex Pistols and the Ramones birthed punk music into the world, their artistic heirs burst onto the scene and changed the genre forever. While the punk originators remained underground favorites and were slow burns commercially, their heirs shattered c...",
+    "authors": [
+      "Ian Winwood",
+      "Kevin T. Collins"
+    ],
+    "publishedDate": "2018-11-20",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/4575-1/{563D913F-D247-4552-9F6D-B7505533172C}Img100.jpg",
+    "publisher": "Hachette Audio",
+    "categories": [
+      "Biography & Autobiography",
+      "History",
+      "Music",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
