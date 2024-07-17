@@ -3889,5 +3889,23 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "Server Side Includes, the hottest of the web in 1995",
+    "site": "",
+    "author": "",
+    "date": "2024-07-17",
+    "timestamp": "2024-07-17T02:39:57.847Z",
+    "description": "Maybe using old tech solutions is not that bad even as late as 2020?",
+    "url": "https://vesa.piittinen.name/blog/2020/10/server-side-includes-the-hottest-of-the-web-in-1995",
+    "image": "",
+    "type": "website",
+    "notes": "Supercharge your website with Server Side Includes. Managing a common header, navigation and footer is easy. You just need an Apache webserver. ",
+    "tags": [
+      "web",
+      "tech",
+      "development"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20231227223628/https://vesa.piittinen.name/blog/2020/10/server-side-includes-the-hottest-of-the-web-in-1995"
   }
 ]
