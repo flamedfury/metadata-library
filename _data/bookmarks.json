@@ -3855,5 +3855,24 @@
       "indieweb",
       "smallweb"
     ]
+  },
+  {
+    "title": "A Personal Site Versus Social Media - Jason Journals",
+    "site": "Jason Journals",
+    "author": "",
+    "date": "2024-07-17",
+    "timestamp": "2024-07-17T02:34:07.587Z",
+    "description": "I enjoyed reading a recent post on Kev Quirk’s blog in which he replied to a question: why bother having a personal site when social media works well enough for...",
+    "url": "https://jasonjournals.com/posts/a-personal-site-versus-social-media",
+    "image": "",
+    "type": "website",
+    "notes": "Why you should have a website to supplement your social media too...",
+    "tags": [
+      "web",
+      "blogging",
+      "website"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240707023010/https://jasonjournals.com/posts/a-personal-site-versus-social-media",
+    "quote": "On social media, you share microposts; you write short-form stuff. But a personal blog has no character or word limit, so you can write long-form posts (plus short…whatever you want)."
   }
 ]
