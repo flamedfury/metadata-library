@@ -3803,5 +3803,22 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "\n      Natural Responsiveness | The Odin Project\n    ",
+    "site": "",
+    "author": "",
+    "date": "2024-07-17",
+    "timestamp": "2024-07-17T01:33:54.741Z",
+    "description": "The Odin Project empowers aspiring web developers to learn together for free",
+    "url": "https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-natural-responsiveness",
+    "image": "",
+    "type": "",
+    "notes": "Tips and examples to help maintain natural responsiveness in web design. Great for HTML/CSS beginners",
+    "tags": [
+      "web",
+      "development"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240715161623/https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-natural-responsiveness"
   }
 ]
