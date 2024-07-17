@@ -3820,5 +3820,23 @@
       "development"
     ],
     "waybackUrl": "http://web.archive.org/web/20240715161623/https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-natural-responsiveness"
+  },
+  {
+    "title": "Now that we have the IndieWeb how are others to find it?",
+    "site": "disassociated.com",
+    "author": "",
+    "date": "2024-07-17",
+    "timestamp": "2024-07-17T01:37:35.213Z",
+    "description": "Now that we have the IndieWeb how are others to find it? IndieWeb is fine for those in the know, but what of people who've never heard of it?",
+    "url": "https://disassociated.com/now-we-have-indieweb-how-to-find/",
+    "image": "",
+    "type": "article",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240626105322/https://disassociated.com/now-we-have-indieweb-how-to-find/",
+    "quote": "How do people who don't know about IndieWeb, but would like to escape the web-scape funk they’re beholden to, find out about IndieWeb?"
   }
 ]
