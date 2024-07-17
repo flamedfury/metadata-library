@@ -3920,6 +3920,10 @@
     "type": "article",
     "notes": "What happened to blogs, or what happened to the web?",
     "waybackUrl": "http://web.archive.org/web/20240716191731/https://mpmisko.github.io/2024/wtf-happened-to-blogs/",
-    "quote": "Remember when blogs were raw, unfiltered windows into someone’s mind?"
+    "quote": "Remember when blogs were raw, unfiltered windows into someone’s mind?",
+    "tags": [
+      "web",
+      "blogging"
+    ]
   }
 ]
