@@ -4795,5 +4795,33 @@
     "format": "audiobook",
     "dateFinished": "2024-07-16",
     "notes": "Fantastic read. Starts with Bad Religion, ends with Bad Religion.  Green Day and The Offspring in between as well as a few other pioneering punk rock bands I wasn't aware of. "
+  },
+  {
+    "identifier": "4849422",
+    "identifiers": {
+      "libby": "4849422"
+    },
+    "dateStarted": "2024-07-23",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-4849422.png",
+    "link": "https://share.libbyapp.com/title/4849422",
+    "title": "God Save the Queens",
+    "description": "Can’t Stop Won’t Stop meets Girls to the Front in this essential and long overdue history of hip-hop’s female pioneers and its enduring stars.Every history of hip-hop previously published, from Jeff Chang’s Can’t Stop Won’t Stop to Shea Serrano’s The Rap Yearbook, focuses primarily on men, glaringly omitting a thorough and respectful examination of the presence and contribution of the genre’s female artists. For f...",
+    "authors": [
+      "Kathy Iandoli",
+      "Kathy Iandoli",
+      "Bahni Turpin"
+    ],
+    "publishedDate": "2019-10-22",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/0293-1/{35289754-8691-4C03-8A51-63025F139730}Img100.jpg",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Music",
+      "Sociology",
+      "Women's Studies",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
