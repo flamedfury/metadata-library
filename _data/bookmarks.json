@@ -3962,5 +3962,24 @@
       "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240701064056/https://hamatti.org/posts/why-personal-site-rather-than-social-media-presence/"
+  },
+  {
+    "title": "Let’s take back the Web!",
+    "site": "",
+    "author": "",
+    "date": "2024-07-24",
+    "timestamp": "2024-07-24T00:55:02.805Z",
+    "description": "What have we done?! We’ve signed up to all the convenient services. Now our lives are full of shitty ads and we’re being tracked wherever we go.",
+    "url": "https://markus.hofer.rocks/take-back-the-web",
+    "image": "",
+    "type": "article",
+    "notes": "We don't have to be held to the rules of platforms and social media. Make your own website!",
+    "tags": [
+      "web",
+      "blogging",
+      "smallweb",
+      "indieweb"
+    ],
+    "quote": "Let’s start our own blogs again, on our own domains. "
   }
 ]
