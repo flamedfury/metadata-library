@@ -3981,5 +3981,23 @@
       "indieweb"
     ],
     "quote": "Let’s start our own blogs again, on our own domains. "
+  },
+  {
+    "title": "Cool URLs Mean Something - The History of the Web",
+    "site": "The History of the Web",
+    "author": "Jay",
+    "date": "2024-07-26",
+    "timestamp": "2024-07-26T20:53:48.260Z",
+    "description": "Earlier this month, MTV News abruptly pulled their site off the web without warning, eliminating a virtual archive of pop culture news stories that date back to 1997. This move coincided with a series of similar decisions from MTV’s parent company Paramount, including a similar move on CMT, and the swift removal of 25 years […]",
+    "url": "https://thehistoryoftheweb.com/cool-urls-mean-something/",
+    "image": "",
+    "type": "article",
+    "notes": "What happens when a large entity like MTV suddenly deletes their content archive dating back to 1997?",
+    "tags": [
+      "web",
+      "history"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240723165042/https://thehistoryoftheweb.com/cool-urls-mean-something/",
+    "quote": "How many times can the Internet Archive save us before it’s unable to keep pace?"
   }
 ]
