@@ -4802,8 +4802,8 @@
       "libby": "4849422"
     },
     "dateStarted": "2024-07-23",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-4849422.png",
     "link": "https://share.libbyapp.com/title/4849422",
     "title": "God Save the Queens",
@@ -4822,6 +4822,10 @@
       "Women's Studies",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-07-29",
+    "tags": [
+      "A fantastic read from Kathy Landoli. A deep dive into the woman in Hip Hop and their stories."
+    ]
   }
 ]
