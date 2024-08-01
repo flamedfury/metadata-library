@@ -4827,5 +4827,31 @@
     "tags": [
       "A fantastic read from Kathy Landoli. A deep dive into the woman in Hip Hop and their stories."
     ]
+  },
+  {
+    "identifier": "3995017",
+    "identifiers": {
+      "libby": "3995017"
+    },
+    "dateStarted": "2024-07-29",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-3995017.png",
+    "link": "https://share.libbyapp.com/title/3995017",
+    "title": "Polaris Rising",
+    "description": "A space princess on the run and a notorious outlaw soldier become unlikely allies in this imaginative, sexy space opera adventure - the first in an exciting science fiction trilogy.In the far distant future, the universe is officially ruled by the Royal Consortium, but the High Councillors, the heads of the three High Houses, wield the true power. As the fifth of six children, Ada von Hasenberg has no authority; h...",
+    "authors": [
+      "Jessie Mihalik",
+      "Emily Woo Zeller"
+    ],
+    "publishedDate": "2019-02-05",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0293-1/{ACF526A2-8675-41D1-9675-73FA926F0C16}Img100.jpg",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Fiction",
+      "Romance",
+      "Science Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
