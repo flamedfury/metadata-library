@@ -4855,5 +4855,31 @@
     "format": "audiobook",
     "dateFinished": "2024-08-04",
     "notes": "Enjoyable, easy read. Narration is overly dramatic and the voices could have been toned down."
+  },
+  {
+    "identifier": "4824259",
+    "identifiers": {
+      "libby": "4824259"
+    },
+    "dateStarted": "2024-08-04",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-4824259.png",
+    "link": "https://share.libbyapp.com/title/4824259",
+    "title": "Aurora Blazing",
+    "description": "To save her brother and protect her family’s future, a powerful princess must join forces with a dashing man from her past in this thrilling space adventure, the second novel in the Consortium Rebellion trilogy.As the dutiful daughter of High House von Hasenberg, Bianca set aside her personal feelings and agreed to a political match arranged by her family, only to end up trapped in a loveless, miserable marriage. ...",
+    "authors": [
+      "Jessie Mihalik",
+      "Emily Woo Zeller"
+    ],
+    "publishedDate": "2019-10-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0293-1/{44BE7B08-C93D-4943-BF79-835E7FB8FF6C}Img100.jpg",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Fiction",
+      "Romance",
+      "Science Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
