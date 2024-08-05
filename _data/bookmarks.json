@@ -4037,5 +4037,24 @@
       "webmastery"
     ],
     "waybackUrl": "http://web.archive.org/web/20240416020751/https://ramblinggit.com/2018/09/13/let-us-build.html"
+  },
+  {
+    "title": "Back to the Blog",
+    "site": "",
+    "author": "",
+    "date": "2024-08-05",
+    "timestamp": "2024-08-05T09:22:22.492Z",
+    "description": "",
+    "url": "https://dancohen.org/2018/03/21/back-to-the-blog/",
+    "image": "",
+    "type": "",
+    "notes": "The best time to start a blog was yesterday, the next best time is today.",
+    "tags": [
+      "web",
+      "blogging",
+      "smallweb",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240708162353/https://dancohen.org/2018/03/21/back-to-the-blog/"
   }
 ]
