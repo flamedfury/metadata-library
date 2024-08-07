@@ -4882,5 +4882,31 @@
     ],
     "format": "audiobook",
     "dateFinished": "2024-08-06"
+  },
+  {
+    "identifier": "5042771",
+    "identifiers": {
+      "libby": "5042771"
+    },
+    "dateStarted": "2024-08-06",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-5042771.png",
+    "link": "https://share.libbyapp.com/title/5042771",
+    "title": "Chaos Reigning",
+    "description": "Interplanetary intrigue and romance combine in this electrifying finale to the Consortium Rebellion series.As the youngest member of her High House, Catarina von Hasenberg is used to being underestimated, but her youth and flighty, bubbly personality mask a clever mind and stubborn determination. Her enemies, blind to her true strength, do not suspect that Cat is a spy - which makes her the perfect candidate to go...",
+    "authors": [
+      "Jessie Mihalik",
+      "Emily Woo Zeller"
+    ],
+    "publishedDate": "2020-05-19",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0293-1/{A8D37B94-3757-4F46-86E5-AFBC7ECAA37A}Img100.jpg",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Fiction",
+      "Romance",
+      "Science Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
