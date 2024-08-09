@@ -4909,5 +4909,29 @@
     ],
     "format": "audiobook",
     "dateFinished": "2024-08-09"
+  },
+  {
+    "identifier": "6381537",
+    "identifiers": {
+      "libby": "6381537"
+    },
+    "dateStarted": "2024-08-09",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6381537.png",
+    "link": "https://share.libbyapp.com/title/6381537",
+    "title": "The Mercy of Gods",
+    "description": "From the Hugo Award - winning and New York Times bestselling author of the Expanse, James S. A. Corey, comes the start of a monumental new space opera series. HOW HUMANITY CAME TO THE PLANET CALLED ANJIIN IS LOST IN THE FOG OF HISTORY, BUT THAT HISTORY IS ABOUT TO END. The Carryx - part empire, part hive - has waged wars of conquest for centuries, destroying or enslaving species across the galaxy in its conflic...",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2024-08-06",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/1694-1/{7BB70375-9A3E-4D08-B55D-0FFEE0022AE3}IMG100.JPG",
+    "publisher": "Recorded Books, Inc.",
+    "categories": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
