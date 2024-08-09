@@ -4889,8 +4889,8 @@
       "libby": "5042771"
     },
     "dateStarted": "2024-08-06",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-5042771.png",
     "link": "https://share.libbyapp.com/title/5042771",
     "title": "Chaos Reigning",
@@ -4907,6 +4907,7 @@
       "Romance",
       "Science Fiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-08-09"
   }
 ]
