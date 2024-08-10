@@ -4146,5 +4146,25 @@
       "indieweb",
       "blogging"
     ]
+  },
+  {
+    "title": "Make the Web Great Again",
+    "site": "Koshka's Kingdom",
+    "author": "Koshka",
+    "date": "2024-08-10",
+    "timestamp": "2024-08-10T09:38:56.809Z",
+    "description": "A treatise on making the World Wide Web as great as it was back in the 90s and early 00s.",
+    "url": "https://koshka.love/mwwwga.html",
+    "image": "",
+    "type": "article",
+    "notes": "Seeking freedom of expression on the web",
+    "tags": [
+      "smallweb",
+      "indieweb",
+      "webmastery",
+      "nostalgia"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240609152859/https://koshka.love/mwwwga.html",
+    "quote": "Surfing the Web back in those days felt like going on a genuine adventure. Internet Explorer and Netscape were quite fitting names for the browsers that reigned in those days."
   }
 ]
