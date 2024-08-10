@@ -4111,5 +4111,23 @@
       "webmastery"
     ],
     "waybackUrl": "http://web.archive.org/web/20240727112941/https://adele.pages.casa/md/blog/the-importance-of-following-smolweb-guidelines.md"
+  },
+  {
+    "title": "Don't Forget - You're Making Web Pages",
+    "site": "",
+    "author": "",
+    "date": "2024-08-10",
+    "timestamp": "2024-08-10T09:24:40.596Z",
+    "description": "The Web that was, how we lost our way, and how to fulfill our promise to The Future.",
+    "url": "https://mikesusz.dev/blog/dont-forget/",
+    "image": "",
+    "type": "website",
+    "notes": "From early web design experiences in the 90s to web development complexities for today",
+    "tags": [
+      "web",
+      "webmastery",
+      "smallweb"
+    ],
+    "quote": "The Web that was, how we lost our way, and how to fulfill our promise to The Future."
   }
 ]
