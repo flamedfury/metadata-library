@@ -4933,5 +4933,30 @@
       "Science Fiction"
     ],
     "format": "audiobook"
+  },
+  {
+    "identifier": "10875503",
+    "identifiers": {
+      "libby": "10875503"
+    },
+    "dateStarted": "2024-08-14",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10875503.png",
+    "link": "https://share.libbyapp.com/title/10875503",
+    "title": "Max",
+    "description": "I want to let her know that choosing something is the entire problem. How do you choose something without feeling the undeniable loss of everything you rejected?Max is about to finish high school. On the surface it appears he has everything, but underneath he is floundering. Grappling with questions about his birth parents and his sexuality, he feels that there is a seed of badness deep within him that will inevit...",
+    "authors": [
+      "Avi Duckor-Jones",
+      "Avi Duckor-Jones"
+    ],
+    "publishedDate": "2024-08-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/7723-1/{1C2B4F9A-9314-40E6-BDEE-1C3C502753D4}IMG100.JPG",
+    "publisher": "Wavesound from W. F. Howes Ltd",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook"
   }
 ]
