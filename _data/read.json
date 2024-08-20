@@ -4942,8 +4942,8 @@
       "libby": "10875503"
     },
     "dateStarted": "2024-08-14",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-10875503.png",
     "link": "https://share.libbyapp.com/title/10875503",
     "title": "Max",
@@ -4959,6 +4959,8 @@
       "Fiction",
       "Literature"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-08-19",
+    "notes": "I loved this book. It made me uncomfortable at times. An intense story, very enjoyable. A coming of age story of trying to understand who you are, and where you’ve come from. Written and set locally in Aotearoa, the familiarity was fantastic."
   }
 ]
