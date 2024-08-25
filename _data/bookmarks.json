@@ -4220,5 +4220,21 @@
       "#webmastery"
     ],
     "quote": "For those in the IndieWeb community, think about ways that we can make it easier for non-technical people to get involved in the movement."
+  },
+  {
+    "title": "How To Read An Article On The Internet",
+    "site": "",
+    "author": "",
+    "date": "2024-08-25",
+    "timestamp": "2024-08-25T04:15:42.019Z",
+    "description": "A simple guide to reading in 9 simple steps Navigate to the desired article. Dismiss the GDPR banner It may seem safe to start reading, but you need to wait about 10 seconds as the various ad auctions resolve and scripts load in Wait while the article is populated with ads. While the article is in front of you, there is no point to starting to read yet, as the minute’s worth of layout shift will make you lose your place.",
+    "url": "https://www.marginalia.nu/log/95_how_to_read/",
+    "image": "",
+    "type": "article",
+    "notes": "How to read a simple article in only nine easy steps!",
+    "tags": [
+      "#web #enshittification"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240623230651/https://www.marginalia.nu/log/95_how_to_read/"
   }
 ]
