@@ -5016,5 +5016,32 @@
     "image": "book-9780991081110.png",
     "dateFinished": "2024-08-24",
     "notes": "I enjoyed this book. My first book from Cheri Baker after picking up her first in series pack. A perfectly easy to read book while lying in the sun while half heartedly minding the kids by the pool while on holiday."
+  },
+  {
+    "identifier": "9780991081172",
+    "identifiers": {
+      "isbn": "9780991081172"
+    },
+    "dateStarted": "2024-08-24",
+    "status": "started",
+    "rating": "unrated",
+    "title": "The Assistant",
+    "authors": [
+      "Cheri Baker"
+    ],
+    "publishedDate": "2018-11-12",
+    "description": "They hired her to be an assistant. And they trained her to be a spy. But can Jessica survive the storms ahead? High up in Seattle's most luxurious office tower a powerful woman conceals a dangerous secret. Dana Duke, the CEO of a prestigious staffing firm, offers exquisitely trained executive assistants to the city's business elite. Her assistants are brilliant, beautiful, and willing to do whatever it takes to advance the agency's interests. In return, they're offered pay and perks beyond their wildest dreams. When Dana offers Jessica an orientation period at the agency, it seems her troubles might finally be over. But as the demands of the job become increasingly dangerous, and as the consequences of her work turn deadly, Jessica will be thrust into a maelstrom of danger and betrayal. The Assistant is part one of the Emerald City Spies Trilogy",
+    "pageCount": 289,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Thrillers / Crime",
+      "Fiction / Thrillers / Espionage"
+    ],
+    "thumbnail": "https://books.google.com/books/publisher/content?id=ySBvDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=ySBvDwAAQBAJ",
+    "image": "book-9780991081172.png"
   }
 ]
