@@ -4995,8 +4995,8 @@
       "isbn": "9780991081110"
     },
     "dateStarted": "2024-08-23",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Involuntary Turnover",
     "authors": [
       "Cheri Baker"
@@ -5013,6 +5013,8 @@
     "thumbnail": "https://books.google.com/books/publisher/content?id=ZElnDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=ZElnDwAAQBAJ",
-    "image": "book-9780991081110.png"
+    "image": "book-9780991081110.png",
+    "dateFinished": "2024-08-24",
+    "notes": "I enjoyed this book. My first book from Cheri Baker after picking up her first in series pack. A perfectly easy to read book while lying in the sun while half heartedly minding the kids by the pool while on holiday."
   }
 ]
