@@ -4202,5 +4202,23 @@
       "web"
     ],
     "quote": "The power of the Web is its hyperlinked nature. It’s a web, not just a repository."
+  },
+  {
+    "title": "Technoelitism and the IndieWeb movement",
+    "site": "lily's thots",
+    "author": "",
+    "date": "2024-08-25",
+    "timestamp": "2024-08-25T04:14:24.398Z",
+    "description": "While I was surfing some new IndieWeb sites the other day, I had a little bit of a mad-at-the-young-people moment of being upset that so much of the modern web experience is algorithmic schlock that people just accept. I was contemplating writing a tongue-in-cheek “kids these days don’t even know how to browse the internet” blog post (these do exist and I think they’re pointing out something valid that’s separate from what’s being discussed in this article), but I quickly realized that I didn’t want to do that.",
+    "url": "https://lilymara.xyz/posts/2024-technoelitism/",
+    "image": "",
+    "type": "article",
+    "notes": "Lily's take on the barrier of entry to the IndieWeb for non technical people. What are some ways we can make it easier for everyone?",
+    "tags": [
+      "#indieweb",
+      "#smallweb",
+      "#webmastery"
+    ],
+    "quote": "For those in the IndieWeb community, think about ways that we can make it easier for non-technical people to get involved in the movement."
   }
 ]
