@@ -4988,5 +4988,31 @@
       "Nonfiction"
     ],
     "format": "audiobook"
+  },
+  {
+    "identifier": "9780991081110",
+    "identifiers": {
+      "isbn": "9780991081110"
+    },
+    "dateStarted": "2024-08-23",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Involuntary Turnover",
+    "authors": [
+      "Cheri Baker"
+    ],
+    "publishedDate": "2013-12-15",
+    "description": "HR director Kat Voyzey has a talent for getting things done. Whether it's brawling employees, difficult bosses, or dress code drama, she knows how to handle a crisis. But when an employee is murdered at the Seattle hospital where Kat works, and the police try to blame the victim, playing by the rules won't be enough to save the day. Fueled by an endless supply of coffee, and assisted by a colorful cast of coworkers, Kat is determined to bring the murderer to justice. But can she do it before the killer strikes again? This stand-alone mystery is the first in the Kat Voyzey Series.",
+    "pageCount": 220,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / Mystery & Detective / Amateur Sleuth",
+      "Fiction / Mystery & Detective / Women Sleuths"
+    ],
+    "thumbnail": "https://books.google.com/books/publisher/content?id=ZElnDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=ZElnDwAAQBAJ",
+    "image": "book-9780991081110.png"
   }
 ]
