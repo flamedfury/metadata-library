@@ -5023,8 +5023,8 @@
       "isbn": "9780991081172"
     },
     "dateStarted": "2024-08-24",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "The Assistant",
     "authors": [
       "Cheri Baker"
@@ -5042,6 +5042,8 @@
     "thumbnail": "https://books.google.com/books/publisher/content?id=ySBvDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=ySBvDwAAQBAJ",
-    "image": "book-9780991081172.png"
+    "image": "book-9780991081172.png",
+    "dateFinished": "2024-08-27",
+    "notes": "Liked this book a lot."
   }
 ]
