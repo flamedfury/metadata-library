@@ -5045,5 +5045,30 @@
     "image": "book-9780991081172.png",
     "dateFinished": "2024-08-27",
     "notes": "Liked this book a lot."
+  },
+  {
+    "identifier": "9781952200267",
+    "identifiers": {
+      "isbn": "9781952200267"
+    },
+    "dateStarted": "2024-08-27",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Outlaw Justice",
+    "authors": [
+      "Cheri Baker"
+    ],
+    "publishedDate": "2023-09-20",
+    "pageCount": 0,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / Science Fiction / General",
+      "Fiction / Science Fiction / Space Opera"
+    ],
+    "thumbnail": "https://books.google.com/books/content?id=8q4Z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://books.google.com/books/about/Outlaw_Justice.html?hl=&id=8q4Z0AEACAAJ",
+    "image": "book-9781952200267.png"
   }
 ]
