@@ -4292,5 +4292,24 @@
       "tech"
     ],
     "quote": "Funnily enough, the best modern incarnation of that definition of what the web is are the huge social media platforms. Because those, after all, do enable the sharing of content through user-friendly ways meant to appeal users beyond IT specialists and hobbyists. Kinda ironic, isn’t it?"
+  },
+  {
+    "title": "Indieweb Vs Indie Web - fyr.io",
+    "site": "",
+    "author": "",
+    "date": "2024-08-29",
+    "timestamp": "2024-08-29T08:35:00.494Z",
+    "description": "",
+    "url": "https://fyr.io/post/indieweb_vs_indie_web",
+    "image": "",
+    "type": "",
+    "notes": "Fyr weighs in on the IndieWeb and the Indie Web.",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240828220213/https://fyr.io/post/indieweb_vs_indie_web",
+    "quote": "It's unfortunate that the IndieWeb™ has that name, because the perfect phrase that instils the \"own your stuff, show your personality\" feel of the communities represented in these discussions is, in my opinion, \"the indie web\""
   }
 ]
