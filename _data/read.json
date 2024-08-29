@@ -5070,5 +5070,32 @@
     "language": "en",
     "link": "https://books.google.com/books/about/Outlaw_Justice.html?hl=&id=8q4Z0AEACAAJ",
     "image": "book-9781952200267.png"
+  },
+  {
+    "identifier": "9781952200250",
+    "identifiers": {
+      "isbn": "9781952200250"
+    },
+    "dateStarted": "2024-08-27",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Outlaw Justice",
+    "authors": [
+      "Cheri Baker"
+    ],
+    "publishedDate": "2023-09-29",
+    "description": "Mars hasn't had a murder in 70 years. Until today. For nearly a century, humanity's first colony has stood as a shining example of peace and scientific advancement. Now, as the centennial approaches, rumors of a terrorist threat have put Captain Loretta Ryder on high alert. Courage, honesty, and compassion are a peacekeeper's greatest tools. Yet when words fail, and when all promises have been irrevocably broken, Loretta will reach for her family's ancestral weapon and seek help from her childhood friend and renegade pilot, Kacey Holt. Experience the beginning of an epic space opera adventure from bestselling author Cheri Baker.",
+    "pageCount": 339,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / Science Fiction / Space Opera",
+      "Fiction / Science Fiction / Action & Adventure",
+      "Fiction / Science Fiction / Crime & Mystery"
+    ],
+    "thumbnail": "https://books.google.com/books/publisher/content?id=ABTXEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=ABTXEAAAQBAJ",
+    "image": "book-9781952200250.png"
   }
 ]
