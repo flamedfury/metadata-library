@@ -4328,5 +4328,24 @@
       "#smallweb",
       "#indieweb"
     ]
+  },
+  {
+    "title": "Some Thoughts during the Summer Doldrums on the Past, Present, and Future of Computers and the Internet",
+    "site": "",
+    "author": "",
+    "date": "2024-08-31",
+    "timestamp": "2024-08-31T00:17:00.732Z",
+    "description": "The history of computers and the Internet has consisted of high points and low points, and the future of computers is likely to be similar.",
+    "url": "https://cheapskatesguide.org/articles/summer-doldrums.html",
+    "image": "",
+    "type": "",
+    "notes": "Cheapskates takes the time to rant about current state. However, they remain hopeful that new technologies and user controlled online communities will emerge to counter current trends and revive the spirit of the early internet. It’s up to us to make a change.",
+    "tags": [
+      "web",
+      "tech",
+      "smallweb",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240822195548/https://cheapskatesguide.org/articles/summer-doldrums.html"
   }
 ]
