@@ -5052,8 +5052,8 @@
       "isbn": "9781952200250"
     },
     "dateStarted": "2024-08-27",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Outlaw Justice",
     "authors": [
       "Cheri Baker"
@@ -5071,6 +5071,8 @@
     "thumbnail": "https://books.google.com/books/publisher/content?id=ABTXEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=ABTXEAAAQBAJ",
-    "image": "book-9781952200250.png"
+    "image": "book-9781952200250.png",
+    "dateFinished": "2024-08-31",
+    "notes": "Liked it a lot. Excited to see the story unfold in the next book."
   }
 ]
