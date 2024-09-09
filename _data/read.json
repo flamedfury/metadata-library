@@ -4969,7 +4969,7 @@
       "libby": "8209882"
     },
     "dateStarted": "2024-08-20",
-    "status": "started",
+    "status": "abandoned",
     "rating": "unrated",
     "image": "book-8209882.png",
     "link": "https://share.libbyapp.com/title/8209882",
@@ -4987,7 +4987,8 @@
       "Psychology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateAbandoned": "2024-08-31"
   },
   {
     "identifier": "9780991081110",
