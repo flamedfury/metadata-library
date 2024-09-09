@@ -5075,5 +5075,30 @@
     "image": "book-9781952200250.png",
     "dateFinished": "2024-08-31",
     "notes": "Liked it a lot. Excited to see the story unfold in the next book."
+  },
+  {
+    "identifier": "2396560",
+    "identifiers": {
+      "libby": "2396560"
+    },
+    "dateStarted": "2024-09-08",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-2396560.png",
+    "link": "https://share.libbyapp.com/title/2396560",
+    "title": "Altered Starscape",
+    "description": "Galaxies collide in a thrilling new series from bestselling author Ian Douglas, as the last humans in the universe face off against a new threat2162. Thirty-eight years after first contact, Lord Commander Grayson St. Clair leads the Tellus Ad Astra on an unprecedented expedition to the Galactic Core, carrying more than a million scientists, diplomats, soldiers, and AIs. Despite his reservations about their alien h...",
+    "authors": [
+      "Ian Douglas",
+      "Nick Sullivan"
+    ],
+    "publishedDate": "2016-10-25",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0293-1/{54F09E28-92E8-4755-B745-5689DB8B33E1}Img100.jpg",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
