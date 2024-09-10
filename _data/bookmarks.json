@@ -4413,5 +4413,24 @@
       "#indieweb",
       "#blogging"
     ]
+  },
+  {
+    "title": "How to Monetize a Blog",
+    "site": "",
+    "author": "",
+    "date": "2024-09-10",
+    "timestamp": "2024-09-10T20:47:21.351Z",
+    "description": "A guide on turning your diary into dollars.",
+    "url": "https://modem.io/blog/blog-monetization/",
+    "image": "",
+    "type": "website",
+    "notes": "The only guide you need to monetise your blog!",
+    "tags": [
+      "#blogging",
+      "#smallweb",
+      "#indieweb",
+      "#satire"
+    ],
+    "quote": "Maintaining a blog can be a lot of work. A single article can take weeks of research, drafting and editing, collecting and producing included materials, etc. It’s not unusual to seek some form of compensation for it..."
   }
 ]
