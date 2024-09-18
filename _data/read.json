@@ -5102,5 +5102,32 @@
     "format": "audiobook",
     "dateAbandoned": "2024-09-18",
     "notes": "I really tried to get into this book but after 46% I just can't bring myself to continue. The narrator sounds like they're reading a book about business from the ninetess, and then they throw in terrible accents. The story was kind of interesting but I just couldn't focus on it. "
+  },
+  {
+    "identifier": "9781952200069",
+    "identifiers": {
+      "isbn": "9781952200069"
+    },
+    "dateStarted": "2024-09-09",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Power Play",
+    "authors": [
+      "Cheri Baker"
+    ],
+    "publishedDate": "2020-09-10",
+    "description": "A stolen technology worth billions. Enemies advancing on all sides. Can Jessica survive this game of spy vs spy? In the world of industrial espionage it’s not enough to understand the rules of the game. Winning is what matters, so when Jessica Warne goes undercover at a Seattle startup, she’s willing to do whatever it takes to recover a technology with the power to save thousands of lives. And if she’s starting to feel guilty about manipulating, lying, and seducing her way to a win, well, doesn’t every job have some downsides? But there’s a storm brewing at her agency, and her assignment is not what it seems. Tensions are high, alliances are fraying, and closely-held secrets are about to come to light. Surrounded by enemies and struggling with the heartbreaking consequences of her actions, Jessica’s mission will propel her toward a deadly confrontation. And the revelations that follow will blow apart everything she knows about her past, her present, and the dangers that lie ahead.",
+    "pageCount": 348,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Thrillers / Crime",
+      "Fiction / Thrillers / Espionage"
+    ],
+    "thumbnail": "https://books.google.com/books/publisher/content?id=ii77DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=ii77DwAAQBAJ",
+    "image": "book-9781952200069.png"
   }
 ]
