@@ -5082,8 +5082,8 @@
       "libby": "2396560"
     },
     "dateStarted": "2024-09-08",
-    "status": "started",
-    "rating": "unrated",
+    "status": "abandoned",
+    "rating": "⭐️",
     "image": "book-2396560.png",
     "link": "https://share.libbyapp.com/title/2396560",
     "title": "Altered Starscape",
@@ -5099,6 +5099,8 @@
       "Fiction",
       "Science Fiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateAbandoned": "2024-09-18",
+    "notes": "I really tried to get into this book but after 46% I just can't bring myself to continue. The narrator sounds like they're reading a book about business from the ninetess, and then they throw in terrible accents. The story was kind of interesting but I just couldn't focus on it. "
   }
 ]
