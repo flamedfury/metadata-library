@@ -5131,5 +5131,26 @@
     "image": "book-9781952200069.png",
     "dateFinished": "2024-09-19",
     "notes": "I really enjoyed the second book in the Emerald City Spies series. Looking forward to the third and final."
+  },
+  {
+    "identifier": "9781529073768",
+    "identifiers": {
+      "librofm": "9781529073768",
+      "isbn": "9781529073768"
+    },
+    "dateStarted": "2024-09-20",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9781529073768.png",
+    "link": "https://libro.fm/audiobooks/9781529073768-exodus-the-archimedes-engine",
+    "format": "audiobook",
+    "title": "Exodus: The Archimedes Engine",
+    "description": "‘Gloriously imaginative’SFX MagazineExplore EXODUS, a new sci-fi action-adventure RPG coming soon from Archetype Entertainment featured in this epic novel from legendary author Peter F. Hamilton.A fight for freedom among the stars . . .In a past age, humanity fled a dying Earth in massive ark ships. These searched the galaxy to find a new home. Then one fleet found Centauri, a dense cluster of stars teeming with habitable planets. Now, thousands of years later, Centauri’s settlers have evolved into advanced beings known as Celestials – and their great houses rule vast star systems.As they vie for supremacy, Earth’s ark ships continue to arrive, and humans must serve these repressive masters. But is there a better life beyond the empire? Finn is a Centauri-born human and yearns for a brighter future. So, when another ark ship arrives, previously thought lost, Finn seizes the chance to become a Traveler. These heroes explore the vast unknowns of distant space, dedicated to humanity’s survival. And they hope – one day – to find freedom.EXODUS is an action-adventure roleplaying game from Archetype Entertainment, led by industry veterans from BioWare (Mass Effect), 343 (Halo), Electronic Arts, Naughty Dog (The Last of Us) and other AAA studios. Exodus: The Archimedes Engine is the first book in a duology by legendary author Peter F. Hamilton. It’s an original novel set in the universe of EXODUS and explores Hamilton’s richly-imagined worlds.Praise for EXODUS: The Archimedes Engine‘Always one of SF’s most incisive voices. A perfect balance of ingenious ideas and intricate execution. Real big picture Sci-fi’ – Adrian Tchaikovsky, author of Children of Time‘EXODUS is a binge-worthy read from a master of science fiction’ – William C. Dietz, author of Halo: The Flood",
+    "thumbnail": "https://covers.libro.fm/9781529073768_1120.jpg",
+    "authors": [
+      "Peter F. Hamilton"
+    ],
+    "publisher": "Pan Macmillan",
+    "publishedDate": "2024-09-19"
   }
 ]
