@@ -4501,5 +4501,22 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "One of us",
+    "site": "shellsharks",
+    "author": "Michael Sass",
+    "date": "2024-09-26",
+    "timestamp": "2024-09-26T04:05:21.293Z",
+    "description": "Cybersecurity Research and More",
+    "url": "https://shellsharks.com/notes/2024/05/14/one-of-us",
+    "image": "",
+    "type": "article",
+    "notes": "Mike rightfully points out you don't need the technical stuff like webmentions to be part of the IndieWeb",
+    "tags": [
+      "web",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20240916001155/https://shellsharks.com/notes/2024/05/14/one-of-us"
   }
 ]
