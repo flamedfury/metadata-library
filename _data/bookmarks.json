@@ -4551,5 +4551,23 @@
       "web",
       "socialweb"
     ]
+  },
+  {
+    "title": "It’s just a blog - Annie",
+    "site": "Annie",
+    "author": "",
+    "date": "2024-09-27",
+    "timestamp": "2024-09-27T10:26:53.311Z",
+    "description": "If I were writing about my own small unknown complex life, I would talk about all of it. I wouldn’t tell every single detail. I wouldn’t share private things that...",
+    "url": "https://anniemueller.com/posts/its-just-a-blog",
+    "image": "",
+    "type": "website",
+    "notes": "Annie thinks about the nature of blogging and the differences to other writing. I used to post the random mundane things going on in my life. I’d love to do that again…",
+    "tags": [
+      "blogging",
+      "smallweb",
+      "indieweb",
+      "socialweb"
+    ]
   }
 ]
