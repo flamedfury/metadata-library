@@ -5133,5 +5133,32 @@
     "publishedDate": "2024-09-19",
     "dateFinished": "2024-10-01",
     "notes": "Loved this book. A huge book that will be familiar to Hamilton fans. What I love about this book and his previous books are the wide range of characters and the world building. You are introduced to each character and by the end their worlds collide. This finished in a massive cliff hanger and I believe we’re waiting for a second and final book to complete the story."
+  },
+  {
+    "identifier": "9267923",
+    "identifiers": {
+      "libby": "9267923"
+    },
+    "dateStarted": "2024-10-01",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9267923.png",
+    "link": "https://share.libbyapp.com/title/9267923",
+    "title": "Freaks, Gleeks, and Dawson's Creek",
+    "description": "The untold stories of seven revolutionary teen shows (The Fresh Prince of Bel-Air, My So-Called Life, Dawson’s Creek, Freaks and Geeks, The O.C., Friday Night Lights, and Glee) that shaped the course of modern television and our pop cultural landscape forever. The modern television landscape is defined by influential and ambitious shows for and about teenagers. Groundbreaking series like Euphoria, Sex Education, a...",
+    "authors": [
+      "Thea Glassman",
+      "Jennifer Keishin Armstrong",
+      "Christine Lakin"
+    ],
+    "publishedDate": "2023-06-27",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/4575-1/{77FBD926-2EF1-4330-BBD5-EBC411408139}IMG100.JPG",
+    "publisher": "Hachette Audio",
+    "categories": [
+      "Performing Arts",
+      "Sociology",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
