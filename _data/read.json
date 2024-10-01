@@ -5118,8 +5118,8 @@
       "isbn": "9781529073768"
     },
     "dateStarted": "2024-09-20",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-9781529073768.png",
     "link": "https://libro.fm/audiobooks/9781529073768-exodus-the-archimedes-engine",
     "format": "audiobook",
@@ -5130,6 +5130,8 @@
       "Peter F. Hamilton"
     ],
     "publisher": "Pan Macmillan",
-    "publishedDate": "2024-09-19"
+    "publishedDate": "2024-09-19",
+    "dateFinished": "2024-10-01",
+    "notes": "Loved this book. A huge book that will be familiar to Hamilton fans. What I love about this book and his previous books are the wide range of characters and the world building. You are introduced to each character and by the end their worlds collide. This finished in a massive cliff hanger and I believe we’re waiting for a second and final book to complete the story."
   }
 ]
