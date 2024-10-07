@@ -5140,8 +5140,8 @@
       "libby": "9267923"
     },
     "dateStarted": "2024-10-01",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-9267923.png",
     "link": "https://share.libbyapp.com/title/9267923",
     "title": "Freaks, Gleeks, and Dawson's Creek",
@@ -5159,6 +5159,8 @@
       "Sociology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-10-06",
+    "notes": "Great read/listen if you're into pop culture and teenage dramas from the 90s/2000s like me!"
   }
 ]
