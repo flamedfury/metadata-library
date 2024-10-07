@@ -5162,5 +5162,31 @@
     "format": "audiobook",
     "dateFinished": "2024-10-06",
     "notes": "Great read/listen if you're into pop culture and teenage dramas from the 90s/2000s like me!"
+  },
+  {
+    "identifier": "767799",
+    "identifiers": {
+      "libby": "767799"
+    },
+    "dateStarted": "2024-10-06",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-767799.png",
+    "link": "https://share.libbyapp.com/title/767799",
+    "title": "Playground",
+    "description": "A hard-hitting and inspirational novel about the redemption of a bully from international icon 50 Cent Thirteen-year-old Butterball takes readers on a journey through the moments that made him into the playground bully he is today. Loosely inspired by 50 Cent’s own adolescence and written with his teenage son in mind, Playground received wide critical praise - and is now poised to become a perennial classic.",
+    "authors": [
+      "50 Cent",
+      "Dwayne Clark",
+      "50 Cent"
+    ],
+    "publishedDate": "2011-11-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1191-1/{2F93C604-D92A-4ECB-B34A-480AD493A792}Img100.jpg",
+    "publisher": "Books on Tape",
+    "categories": [
+      "Young Adult Fiction",
+      "Young Adult Literature"
+    ],
+    "format": "audiobook"
   }
 ]
