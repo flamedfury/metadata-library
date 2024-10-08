@@ -5169,8 +5169,8 @@
       "libby": "767799"
     },
     "dateStarted": "2024-10-06",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-767799.png",
     "link": "https://share.libbyapp.com/title/767799",
     "title": "Playground",
@@ -5187,6 +5187,8 @@
       "Young Adult Fiction",
       "Young Adult Literature"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-10-08",
+    "notes": "Liked it a lot. A short coming of age story from 50 Cent based on his experiences growing up."
   }
 ]
