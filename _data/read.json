@@ -5190,5 +5190,31 @@
     "format": "audiobook",
     "dateFinished": "2024-10-08",
     "notes": "Liked it a lot. A short coming of age story from 50 Cent based on his experiences growing up."
+  },
+  {
+    "identifier": "5921762",
+    "identifiers": {
+      "libby": "5921762"
+    },
+    "dateStarted": "2024-10-08",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-5921762.png",
+    "link": "https://share.libbyapp.com/title/5921762",
+    "title": "Hate",
+    "description": "Madison Kate Danvers was murdered tonight. Those words changed my life, and not for the better. They were wrong, of course. I wasn’t dead. But I was set up. After being charged with a string of offences - and made an example of by my political-minded father - I’m eventually released back into Shadow Grove with one thing on my mind.Hate. Someone is going to pay for derailing my carefully laid out future. Someone is...",
+    "authors": [
+      "Tate James",
+      "Brooke Daniels",
+      "Lucas Webley"
+    ],
+    "publishedDate": "2020-08-25",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/0887-1/{4CD2A6BB-BBA3-4EAF-978E-2DAC2D81A113}Img100.jpg",
+    "publisher": "Blackstone Publishing",
+    "categories": [
+      "Fiction",
+      "Romance"
+    ],
+    "format": "audiobook"
   }
 ]
