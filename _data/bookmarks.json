@@ -4608,5 +4608,25 @@
       "socialweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20240927023926/https://techtea.io/articles/2024/surfing-independent-web/"
+  },
+  {
+    "title": "Fighting for our web",
+    "site": "Citation Needed",
+    "author": "",
+    "date": "2024-10-09",
+    "timestamp": "2024-10-09T04:09:45.570Z",
+    "description": "A talk from XOXO",
+    "url": "https://www.citationneeded.news/fighting-for-our-web/",
+    "image": "",
+    "type": "article",
+    "notes": "Transcript and recording from Molly White's opening talk at XOXO 2024",
+    "tags": [
+      "web",
+      "smallweb",
+      "socialweb",
+      "indieweb",
+      "openweb"
+    ],
+    "quote": "Do you remember the first time you felt like the web was magic? "
   }
 ]
