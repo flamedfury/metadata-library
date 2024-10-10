@@ -4628,5 +4628,24 @@
       "openweb"
     ],
     "quote": "Do you remember the first time you felt like the web was magic? "
+  },
+  {
+    "title": "HTML for People",
+    "site": "",
+    "author": "",
+    "date": "2024-10-10",
+    "timestamp": "2024-10-10T21:48:57.936Z",
+    "description": "HTML isn't only for people working in the tech field. It's for everyone. Learn how to make a website from scratch in this beginner friendly web book.",
+    "url": "https://htmlforpeople.com",
+    "image": "",
+    "type": "",
+    "notes": "Blake Watson's hotly anticipated book is finally here!",
+    "tags": [
+      "web",
+      "html",
+      "webmastery",
+      "webdev"
+    ],
+    "quote": "I feel strongly that anyone should be able to make a website with HTML if they want. This book will teach you how to do just that."
   }
 ]
