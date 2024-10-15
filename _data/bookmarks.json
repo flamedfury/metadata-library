@@ -4699,5 +4699,25 @@
       "openweb",
       ""
     ]
+  },
+  {
+    "title": "The Web, made by Humans",
+    "site": "The lost outpost",
+    "author": "",
+    "date": "2024-10-15",
+    "timestamp": "2024-10-15T00:26:22.784Z",
+    "description": "Today, I was reminded of the existence of the humans.txt proposal – for websites to describe who made them. With all the “AI” and other stuff happening online… maybe this is…",
+    "url": "https://andypiper.co.uk/2024/08/29/the-web-made-by-humans/",
+    "image": "",
+    "type": "article",
+    "notes": "Andy Piper reflects on their love for the web, the semantic web and the human connections behind online content.",
+    "tags": [
+      "web",
+      "webmastery",
+      "indieweb",
+      "socialweb",
+      "openweb",
+      "smallweb"
+    ]
   }
 ]
