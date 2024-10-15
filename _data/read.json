@@ -5244,5 +5244,32 @@
       "Romance"
     ],
     "format": "audiobook"
+  },
+  {
+    "identifier": "6046223",
+    "identifiers": {
+      "libby": "6046223"
+    },
+    "dateFinished": "2024-10-13",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "notes": "I’m all in on this series now. Some questionable themes, I’d like it better if the characters were ~10 years older. The gang story lines remind me of Riverdale. Already halfway through the third book!",
+    "image": "book-6046223.png",
+    "link": "https://share.libbyapp.com/title/6046223",
+    "title": "Liar",
+    "description": "“Liar, liar, pants on fire.”The words scrawled on the back of my newest stalker mail makes my blood run cold. I have no idea if it’s the lie I know, or one that I don’t.Since arriving back into Shadow Grove, I’ve been stalked, tormented, chased, and almost killed. I’ve been lied to, repeatedly, by people I was growing to trust.Liar.That word haunts me. Someone knows more about my life than I do. Someone is tauntin...",
+    "authors": [
+      "Tate James",
+      "Brooke Daniels",
+      "Lucas Webley"
+    ],
+    "publishedDate": "2020-10-27",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0887-1/{DEA9B91D-0913-4BAB-B6F9-0D114AF61A33}Img100.jpg",
+    "publisher": "Blackstone Publishing",
+    "categories": [
+      "Fiction",
+      "Romance"
+    ],
+    "format": "audiobook"
   }
 ]
