@@ -4734,5 +4734,24 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "The Blogosphere Lives",
+    "site": "",
+    "author": "Mike Grindle",
+    "date": "2024-10-15",
+    "timestamp": "2024-10-15T00:32:15.474Z",
+    "description": "",
+    "url": "https://mikegrindle.com/posts/blogosphere",
+    "image": "",
+    "type": "",
+    "notes": "Mike Grindle explores the connections fostered by blogging and human curation on the web.",
+    "tags": [
+      "web",
+      "socialweb",
+      "openweb",
+      "smallweb",
+      "indieweb"
+    ]
   }
 ]
