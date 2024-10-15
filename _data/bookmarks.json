@@ -4664,5 +4664,21 @@
       "web",
       "culture"
     ]
+  },
+  {
+    "title": "A Guide to Web Curation",
+    "site": "",
+    "author": "",
+    "date": "2024-10-15",
+    "timestamp": "2024-10-15T00:20:57.965Z",
+    "description": "",
+    "url": "https://waywardweb.org/how",
+    "image": "",
+    "type": "",
+    "notes": "The Wayward Web offers insights on effective web curation by analysing both successful and unsuccessful examples of curation! Hint: Provide context!",
+    "tags": [
+      "web",
+      "webmastery"
+    ]
   }
 ]
