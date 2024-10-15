@@ -4680,5 +4680,24 @@
       "web",
       "webmastery"
     ]
+  },
+  {
+    "title": "The Small Internet has Already Succeeded",
+    "site": "",
+    "author": "",
+    "date": "2024-10-15",
+    "timestamp": "2024-10-15T00:23:28.506Z",
+    "description": "We no longer have to either suffer with the corporate Internet created by big tech or walk away entirely.  The small Internet provides another option.",
+    "url": "https://cheapskatesguide.org/articles/small-internet-succeeded.html",
+    "image": "",
+    "type": "",
+    "notes": "Cheapskates reflects on the contrast between the corporate Internet and the smaller, personal web, aka, the web…",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb",
+      "openweb",
+      ""
+    ]
   }
 ]
