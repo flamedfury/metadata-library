@@ -4629,5 +4629,24 @@
       "webdev"
     ],
     "quote": "I feel strongly that anyone should be able to make a website with HTML if they want. This book will teach you how to do just that."
+  },
+  {
+    "title": "Long live hypertext! – Tracy Durnell's Mind Garden",
+    "site": "",
+    "author": "",
+    "date": "2024-10-15",
+    "timestamp": "2024-10-15T00:11:11.167Z",
+    "description": "",
+    "url": "https://tracydurnell.com/2024/09/19/long-live-hypertext/",
+    "image": "",
+    "type": "",
+    "notes": "Tracy Durnell talks about the importance of hyperlinks and how they help maintain the essence of an open and healthy web. How we can fight against a hostile future domination by corporate AI hell that would love to see our online experience turn from an interactive experience to a passive one.",
+    "tags": [
+      "web",
+      "indieweb",
+      "openweb",
+      "personalweb",
+      "smallweb"
+    ]
   }
 ]
