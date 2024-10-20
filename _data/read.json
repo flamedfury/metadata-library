@@ -5281,7 +5281,7 @@
       "libby": "6207913"
     },
     "dateStarted": "2024-10-16",
-    "status": "started",
+    "status": "finished",
     "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-6207913.png",
     "link": "https://share.libbyapp.com/title/6207913",
@@ -5299,6 +5299,7 @@
       "Fiction",
       "Romance"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-10-21"
   }
 ]
