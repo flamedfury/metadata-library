@@ -5301,5 +5301,32 @@
     ],
     "format": "audiobook",
     "dateFinished": "2024-10-21"
+  },
+  {
+    "identifier": "6328891",
+    "identifiers": {
+      "libby": "6328891"
+    },
+    "dateStarted": "2024-10-20",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6328891.png",
+    "link": "https://share.libbyapp.com/title/6328891",
+    "title": "The Nineties",
+    "description": "An instant !Informative, endlessly entertaining. - BuzzFeedGeneration X’s definitive chronicler of culture. - GQFrom the author of But What If We’re Wrong comes an insightful, funny reckoning with a pivotal decadeIt was long ago, but not as long as it seems: The Berlin Wall fell and the Twin Towers collapsed. In between, one presidential election was allegedly decided by Ross Perot while a...",
+    "authors": [
+      "Chuck Klosterman",
+      "Chuck Klosterman",
+      "Dion Graham"
+    ],
+    "publishedDate": "2022-02-08",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1191-1/{DD3F5E67-83DA-4BFB-AD39-5C274F6033A4}Img100.jpg",
+    "publisher": "Books on Tape",
+    "categories": [
+      "History",
+      "Sociology",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
