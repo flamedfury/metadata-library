@@ -5274,5 +5274,31 @@
     "format": "audiobook",
     "dateFinished": "2024-10-15",
     "notes": "I'M HOOKED. What a cliff-hanger!"
+  },
+  {
+    "identifier": "6207913",
+    "identifiers": {
+      "libby": "6207913"
+    },
+    "dateStarted": "2024-10-16",
+    "status": "started",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "book-6207913.png",
+    "link": "https://share.libbyapp.com/title/6207913",
+    "title": "Kate",
+    "description": "“I never miss.”Riot Night changed my life.Coming back to Shadow Grove turned it on its head.I’ve been hunted, stabbed, stalked, tormented, and used. Hate fueled me, lies tore me apart, and in the end everything I thought I knew turned out to be fake.Except… Riot Night also brought Archer, Kody, and Steele back into my life. No matter how much I’ve fought it, hated it, been lied to, or discovered the deceptions - I...",
+    "authors": [
+      "Tate James",
+      "Brooke Daniels",
+      "Lucas Webley"
+    ],
+    "publishedDate": "2021-01-12",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0887-1/{C5F36A07-E97A-41C6-8971-53C7FA76CB25}Img100.jpg",
+    "publisher": "Blackstone Publishing",
+    "categories": [
+      "Fiction",
+      "Romance"
+    ],
+    "format": "audiobook"
   }
 ]
