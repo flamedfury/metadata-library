@@ -4788,5 +4788,22 @@
       "socialweb",
       "webmastery"
     ]
+  },
+  {
+    "title": "Pluralistic: You should be using an RSS reader (16 Oct 2024) – Pluralistic: Daily links from Cory Doctorow",
+    "site": "",
+    "author": "",
+    "date": "2024-10-25",
+    "timestamp": "2024-10-25T00:37:15.771Z",
+    "description": "",
+    "url": "https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/",
+    "image": "",
+    "type": "",
+    "notes": "I’m rethinking on how I might better utilise my RSS feeds after reading this piece by Cory Doctorow. I’m following a small number of hand picked websites at the moment, but I feel like I can open up my world wider by subscribing to various OPML files that are available across our corner of the web. Will definitely help with new website discovery.",
+    "tags": [
+      "web",
+      "culture",
+      "rss"
+    ]
   }
 ]
