@@ -4753,5 +4753,21 @@
       "smallweb",
       "indieweb"
     ]
+  },
+  {
+    "title": "One personal website is enough for me",
+    "site": "disassociated.com",
+    "author": "",
+    "date": "2024-10-25",
+    "timestamp": "2024-10-25T00:15:44.013Z",
+    "description": "One personal website is enough for me. Some bloggers like to have multiple websites they publish to. To each, their own, but it seems like a lot of hassle to me",
+    "url": "https://disassociated.com/one-personal-website-enough/",
+    "image": "",
+    "type": "article",
+    "notes": "Categories and tags can help diversify a personal website. For everything else, there's always a subdomain!",
+    "tags": [
+      "web",
+      "webmastery"
+    ]
   }
 ]
