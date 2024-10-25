@@ -4769,5 +4769,24 @@
       "web",
       "webmastery"
     ]
+  },
+  {
+    "title": "If HTML and CSS are so simple, why haven't static sites reigned supreme?",
+    "site": "",
+    "author": "",
+    "date": "2024-10-25",
+    "timestamp": "2024-10-25T00:20:59.389Z",
+    "description": "Personal websites are not just about words. The presentation of information about ourselves is just as important as anything we write on our blogs or webpages. Our personal sites are fashion statements. They are a critical part of how we want to present in the world and represent a strong signifier of how we see ourselves and want to be seen.\nThe reason more developer-minded folks gravitate towards static site generators is obvious– their technical simplicity makes it easy for us to make our websites our own.",
+    "url": "https://json.blog/2024/10/09/if-html-and.html",
+    "image": "",
+    "type": "article",
+    "notes": "Why haven’t static site generators reigned supreme? It's not that HTML and CSS aren’t simple, they both be simple and difficult at the same time. It’s that static site generators are still slightly out of touch with the non developer. Just take a look at what’s getting built across places like Neocities or Nekoweb to get a glance on what non developers are able to do with HTML and CSS and no SSG…",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb",
+      "socialweb",
+      "webmastery"
+    ]
   }
 ]
