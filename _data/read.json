@@ -5330,5 +5330,26 @@
     "format": "audiobook",
     "dateFinished": "2024-10-26",
     "notes": "Was an okay listen. Very American. Half pop culture, half American politics (which I guess is pop culture over there, huh?)."
+  },
+  {
+    "identifier": "9781405553056",
+    "identifiers": {
+      "librofm": "9781405553056",
+      "isbn": "9781405553056"
+    },
+    "dateStarted": "2024-10-27",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9781405553056.png",
+    "link": "https://libro.fm/audiobooks/9781405553056-infinity-gate",
+    "format": "audiobook",
+    "title": "Infinity Gate",
+    "description": "Winner of AudioFile Earphones Award, July 2023.'A GENUINE TREAT FOR SF FANS: AN EPIC MULTIVERSE TALE THAT MOVES LIKE A THRILLER' Kirkus'A FASCINATING WINDOW ONTO A DANGEROUS AND MULTIFACETED UNIVERSE' Adrian Tchaikovsky, author of Children of TimeFrom the international bestselling M. R. Carey comes a thrilling novel set in the multiverse - the tale of humanity's expansion across millions of dimensions, and the AI technology that might see it all come to an end . . .INFINITY IS ONLY THE BEGINNING.The Pandominion: a political and trading alliance of a million worlds - except that they're really just the one world, Earth, in many different realities. And when an AI threat arises that could destroy everything the Pandominion has built, they'll eradicate it by whatever means necessary, no matter the cost to human life.Scientist Hadiz Tambuwal is looking for a solution to her own Earth's environmental collapse when she stumbles across the secret of inter-dimensional travel. It could save everyone on her dying planet, but now she's walked into the middle of a war on a scale she never dreamed of.And she needs to choose a side before it kills her.Discover the spectacular first novel in The Pandominion - an exhilarating new science fiction duology from the author of the million-copy bestseller The Girl With All the Gifts. Perfect for fans of The Space Between Worlds, The Long Earth and Children of Time.'[A] brilliant dimension-hopping sci-fi thriller . . . readers will be wowed' Publishers Weekly'Infinity Gate, with its in-depth science and rich characterization, is a must-read for SF fans' Booklist'A powerful exploration of the near-future, skilfully and seamlessly weaving different realities and different iterations of AI . . . A compelling entry and a must-read!' Tade Thompson, Arthur C. Clarke Award-winning author of Rosewater'Humane, thoughtful and exciting, Mike Carey reaffirms his place in the ranks of SF with this startlingly good novel' Paul Cornell, award-winning author and screenwriter'M.R. Carey is a master of imagination and suspense' Gareth L. Powell, author of Embers of War'A dazzling speculation on the many ways our world could have evolved, layered inside a thriller that will make your eardrums vibrate. I was charmed, disturbed, and fascinated by turns - and I couldn't put this book down' Annalee Newitz, author of Autonomous and The Terraformers'This is gripping, unrelenting, and absolutely unique. Carey is working at the absolute top of his game' Seanan McGuire, New York Times bestselling author'One of the most inventive voices in contemporary fiction' i09.com",
+    "thumbnail": "https://covers.libro.fm/9781405553056_1120.jpg",
+    "authors": [
+      "M. R. Carey"
+    ],
+    "publisher": "Little, Brown Book Group",
+    "publishedDate": "2023-03-28"
   }
 ]
