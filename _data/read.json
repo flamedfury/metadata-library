@@ -5308,8 +5308,8 @@
       "libby": "6328891"
     },
     "dateStarted": "2024-10-20",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-6328891.png",
     "link": "https://share.libbyapp.com/title/6328891",
     "title": "The Nineties",
@@ -5327,6 +5327,8 @@
       "Sociology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-10-26",
+    "notes": "Was an okay listen. Very American. Half pop culture, half American politics (which I guess is pop culture over there, huh?)."
   }
 ]
