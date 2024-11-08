@@ -4890,5 +4890,23 @@
       "web",
       "blogging"
     ]
+  },
+  {
+    "title": "I refuse to be a slave to The Algorithm - Coding with Jesse",
+    "site": "",
+    "author": "Jesse Skinner",
+    "date": "2024-11-08",
+    "timestamp": "2024-11-08T18:55:01.800Z",
+    "description": "It used to be fun to post online and share things with friends. It didn't matter what you said or did, you'd get comments and likes from your friends. Now, that has all changed.",
+    "url": "https://www.codingwithjesse.com/blog/i-refuse-to-be-a-slave-to-the-algorithm/",
+    "image": "",
+    "type": "website",
+    "notes": "Jesse Skinner has had enough of the algorithm!",
+    "tags": [
+      "web",
+      "blogging",
+      "culture"
+    ],
+    "quote": "I'm going to spend my time in places without a gatekeeper. I'll be writing on my own blog. I'll be scrolling through my RSS reader to read others' blog posts. I'll be listening to podcasts in my podcast player. I'll be reading books and listening to audio books. I'll be reading and posting and liking and boosting on Mastodon. I invite you to join me."
   }
 ]
