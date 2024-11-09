@@ -5338,8 +5338,8 @@
       "isbn": "9781405553056"
     },
     "dateStarted": "2024-10-27",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-9781405553056.png",
     "link": "https://libro.fm/audiobooks/9781405553056-infinity-gate",
     "format": "audiobook",
@@ -5350,6 +5350,8 @@
       "M. R. Carey"
     ],
     "publisher": "Little, Brown Book Group",
-    "publishedDate": "2023-03-28"
+    "publishedDate": "2023-03-28",
+    "dateFinished": "2024-11-07",
+    "notes": "I really enjoyed this book. Rather than a science fiction book spanning universes, this story took place across multiverses. "
   }
 ]
