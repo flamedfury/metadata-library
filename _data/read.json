@@ -5353,5 +5353,30 @@
     "publishedDate": "2023-03-28",
     "dateFinished": "2024-11-07",
     "notes": "I really enjoyed this book. Rather than a science fiction book spanning universes, this story took place across multiverses. "
+  },
+  {
+    "identifier": "11030756",
+    "identifiers": {
+      "libby": "11030756"
+    },
+    "dateStarted": "2024-11-11",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11030756.png",
+    "link": "https://share.libbyapp.com/title/11030756",
+    "title": "Moonstorm",
+    "description": "In a society where conformity is valued above all else, a teen girl training to become an Imperial pilot is forced to return to her rebel roots to save her world in this adrenaline-fueled sci-fi adventure - perfect for fans of Iron Widow and Skyward!Hwa Young was just ten years old when imperial forces destroyed her rebel moon home. Now, six years later, she is a citizen of the very empire that made her an orphan....",
+    "authors": [
+      "Yoon Ha Lee",
+      "Ami Park"
+    ],
+    "publishedDate": "2024-09-01",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/7723-1/{14E520EF-6953-4FB1-862F-5C3A9E846E71}IMG100.JPG",
+    "publisher": "Clipper Audiobooks",
+    "categories": [
+      "Fantasy",
+      "Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
