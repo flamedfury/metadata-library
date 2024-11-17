@@ -5360,8 +5360,8 @@
       "libby": "11030756"
     },
     "dateStarted": "2024-11-11",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-11030756.png",
     "link": "https://share.libbyapp.com/title/11030756",
     "title": "Moonstorm",
@@ -5377,6 +5377,8 @@
       "Fantasy",
       "Fiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-11-17",
+    "notes": "It was pretty good? I think the last 30 minutes or so was where it started getting interesting..."
   }
 ]
