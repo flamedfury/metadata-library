@@ -5380,5 +5380,32 @@
     "format": "audiobook",
     "dateFinished": "2024-11-17",
     "notes": "It was pretty good? I think the last 30 minutes or so was where it started getting interesting..."
+  },
+  {
+    "identifier": "9781952200236",
+    "identifiers": {
+      "isbn": "9781952200236"
+    },
+    "dateStarted": "2024-11-22",
+    "status": "started",
+    "rating": "unrated",
+    "title": "Hostile Takeover",
+    "authors": [
+      "Cheri Baker"
+    ],
+    "publishedDate": "2022-09-12",
+    "description": "Welcome to the family, Jessica Warne After the brutal attack that nearly killed her, Jessica returned to the Duke Agency to embark on a desperate mission. Now that she understands the true aims of her employer, she’s determined to free the assistants from her family’s dangerous grasp. Yet the deeper she goes undercover, the closer Jessica becomes to the family she never knew. She’d been prepared for cruelty, even violence. What she couldn’t have imagined was the way they’d welcome her as one of their own. As she grapples with the troubling legacy left by generations of her kin, Jessica has to wonder… Where should her loyalties lie?",
+    "pageCount": 285,
+    "format": "book",
+    "categories": [
+      "Fiction",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Thrillers / Crime",
+      "Fiction / Thrillers / Espionage"
+    ],
+    "thumbnail": "https://books.google.com/books/publisher/content?id=sYqIEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
+    "language": "en",
+    "link": "https://play.google.com/store/books/details?id=sYqIEAAAQBAJ",
+    "image": "book-9781952200236.png"
   }
 ]
