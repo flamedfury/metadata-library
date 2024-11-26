@@ -5387,8 +5387,8 @@
       "isbn": "9781952200236"
     },
     "dateStarted": "2024-11-22",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "title": "Hostile Takeover",
     "authors": [
       "Cheri Baker"
@@ -5406,6 +5406,8 @@
     "thumbnail": "https://books.google.com/books/publisher/content?id=sYqIEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&source=gbs_api&w=1280",
     "language": "en",
     "link": "https://play.google.com/store/books/details?id=sYqIEAAAQBAJ",
-    "image": "book-9781952200236.png"
+    "image": "book-9781952200236.png",
+    "dateFinished": "2024-11-26",
+    "notes": "I enjoyed this book. Cheri's take on corporate espionage in the shady side of business makes for a fun read."
   }
 ]
