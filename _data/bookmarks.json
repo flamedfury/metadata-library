@@ -4925,5 +4925,27 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20241119021925/https://blog.mozilla.org/en/products/firefox/firefox-milestones/"
+  },
+  {
+    "title": "The Free Web - The History of the Web",
+    "site": "The History of the Web",
+    "author": "Jay",
+    "date": "2024-11-26",
+    "timestamp": "2024-11-26T20:16:00.179Z",
+    "description": "There is something you can do to help the open web. Put yourself on it.",
+    "url": "https://thehistoryoftheweb.com/the-free-web/",
+    "image": "",
+    "type": "article",
+    "notes": "Jay Hoffmann shares his motivations for his labour of love newsletter. He does it because he’s in awe of the web and believes in an open web. He encourages everyone to take action to help the open and free web. ",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb",
+      "socialweb",
+      "openweb",
+      "freeweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20241126160559/https://thehistoryoftheweb.com/the-free-web/",
+    "quote": "Put something on the web. And do it for free."
   }
 ]
