@@ -5416,8 +5416,8 @@
       "libby": "1263815"
     },
     "dateStarted": "2024-11-27",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-1263815.png",
     "link": "https://share.libbyapp.com/title/1263815",
     "title": "Freakonomics",
@@ -5435,6 +5435,8 @@
       "Sociology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-01",
+    "notes": "Enjoyed this one, some great interconnected stories by the power of economics"
   }
 ]
