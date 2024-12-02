@@ -5438,5 +5438,30 @@
     "format": "audiobook",
     "dateFinished": "2024-12-01",
     "notes": "Enjoyed this one, some great interconnected stories by the power of economics"
+  },
+  {
+    "identifier": "4736534",
+    "identifiers": {
+      "libby": "4736534"
+    },
+    "dateStarted": "2024-12-02",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-4736534.png",
+    "link": "https://share.libbyapp.com/title/4736534",
+    "title": "The Art of Noticing",
+    "description": "Penguin presents the audio edition of The Art of Noticing by Rob Walker, read by Fred Sanders. Notice more, and notice more joy in the everyday.Distracted? Overwhelmed? Feel like your attention is constantly being pulled in different directions? Learn how to steal it back. Accessible and inspiring, this book features 131 surprising and innovative exercises to help you tune out white noise, get unstuck from your sc...",
+    "authors": [
+      "Rob Walker",
+      "Fred Sanders"
+    ],
+    "publishedDate": "2019-06-06",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0211-1/{FC04665C-E217-45A8-A7FF-715D4EA22FCC}Img100.jpg",
+    "publisher": "Ebury Publishing",
+    "categories": [
+      "Self-Improvement",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
