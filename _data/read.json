@@ -5409,5 +5409,32 @@
     "image": "book-9781952200236.png",
     "dateFinished": "2024-11-26",
     "notes": "I enjoyed this book. Cheri's take on corporate espionage in the shady side of business makes for a fun read."
+  },
+  {
+    "identifier": "1263815",
+    "identifiers": {
+      "libby": "1263815"
+    },
+    "dateStarted": "2024-11-27",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-1263815.png",
+    "link": "https://share.libbyapp.com/title/1263815",
+    "title": "Freakonomics",
+    "description": "Brought to you by Penguin. Assume nothing, question everything.This is the message at the heart of Freakonomics, Levitt and Dubner’s rule-breaking, iconoclastic book about crack dealers, cheating teachers and bizarre baby names that turned everyone’s view of the world upside-down and became an international multi-million-copy-selling phenomenon.‘Prepare to be dazzled’ Malcolm Gladwell‘A sensation… you’ll be stimul...",
+    "authors": [
+      "Steven D. Levitt",
+      "Stephen J. Dubner",
+      "Stephen J. Dubner"
+    ],
+    "publishedDate": "2011-08-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0290-1/{53B2FAA3-F781-45DA-9B1F-1C9657DF9518}Img100.jpg",
+    "publisher": "Penguin Books Ltd",
+    "categories": [
+      "Business",
+      "Sociology",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
