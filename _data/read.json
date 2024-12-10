@@ -5465,5 +5465,31 @@
     "format": "audiobook",
     "dateFinished": "2024-12-06",
     "notes": "This was an okay read. Some good ideas to think about while out and about to enhance your awareness of your surroundings. Stoked I'm already practicing some of them."
+  },
+  {
+    "identifier": "2906145",
+    "identifiers": {
+      "libby": "2906145"
+    },
+    "dateStarted": "2024-12-06",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-2906145.png",
+    "link": "https://share.libbyapp.com/title/2906145",
+    "title": "Utopia Is Creepy",
+    "description": "A freewheeling, sharp-shooting indictment of a tech-besotted culture.With a razor wit, Nicholas Carr cuts through Silicon Valley’s unsettlingly cheery vision of the technological future to ask a hard question: Have we been seduced by a lie? Gathering a decade’s worth of posts from his blog, Rough Type, as well as his seminal essays, Utopia Is Creepy offers an alternative history of the digital age, chronicling its...",
+    "authors": [
+      "Nicholas Carr",
+      "Steven Menasche"
+    ],
+    "publishedDate": "2016-10-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/1088-1/{AEA48A6B-A902-4198-977E-6FCF978A4700}Img100.jpg",
+    "publisher": "Ascent Audio",
+    "categories": [
+      "Business",
+      "Computer Technology",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
