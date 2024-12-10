@@ -5445,8 +5445,8 @@
       "libby": "4736534"
     },
     "dateStarted": "2024-12-02",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-4736534.png",
     "link": "https://share.libbyapp.com/title/4736534",
     "title": "The Art of Noticing",
@@ -5462,6 +5462,8 @@
       "Self-Improvement",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-06",
+    "notes": "This was an okay read. Some good ideas to think about while out and about to enhance your awareness of your surroundings. Stoked I'm already practicing some of them."
   }
 ]
