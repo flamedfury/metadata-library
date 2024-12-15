@@ -5472,8 +5472,8 @@
       "libby": "2906145"
     },
     "dateStarted": "2024-12-06",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️",
     "image": "book-2906145.png",
     "link": "https://share.libbyapp.com/title/2906145",
     "title": "Utopia Is Creepy",
@@ -5490,6 +5490,8 @@
       "Computer Technology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-15",
+    "notes": "Mixed feelings about this one. A good way to get through their blog post backlog. Maybe less than half of them were interesting to me...."
   }
 ]
