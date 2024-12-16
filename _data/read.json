@@ -5493,5 +5493,32 @@
     "format": "audiobook",
     "dateFinished": "2024-12-15",
     "notes": "Mixed feelings about this one. A good way to get through their blog post backlog. Maybe less than half of them were interesting to me...."
+  },
+  {
+    "identifier": "3471400",
+    "identifiers": {
+      "libby": "3471400"
+    },
+    "dateStarted": "2024-12-15",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-3471400.png",
+    "link": "https://share.libbyapp.com/title/3471400",
+    "title": "Live Work Work Work Die",
+    "description": "A scathing, sardonic exploration of Silicon Valley tech culture, laying bare the greed, hubris, and retrograde politics of an industry that aspires to radically transform society for its own benefit. This enlightening audiobook is a must-listen for anyone interested or involved in the tech industry. At the height of the startup boom, journalist Corey Pein set out for Silicon Valley with little more than a smartpho...",
+    "authors": [
+      "Corey Pein",
+      "Corey Pein"
+    ],
+    "publishedDate": "2018-04-24",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1493-1/{CFBE93D6-E342-459A-92F9-F597A80D8A68}Img100.jpg",
+    "publisher": "Macmillan Audio",
+    "categories": [
+      "Business",
+      "Computer Technology",
+      "Sociology",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
