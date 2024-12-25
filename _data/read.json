@@ -5529,8 +5529,8 @@
       "libby": "10263169"
     },
     "dateStarted": "2024-12-20",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-10263169.png",
     "link": "https://share.libbyapp.com/title/10263169",
     "title": "Extremely Hardcore",
@@ -5548,6 +5548,8 @@
       "Computer Technology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-23",
+    "notes": "Fantastic read. The recounts of what actually went down during this are almost too insane to believe."
   }
 ]
