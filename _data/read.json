@@ -5522,5 +5522,32 @@
     "format": "audiobook",
     "dateFinished": "2024-12-20",
     "notes": "Pretty good read/listen. Starts off with crazy, whacky type things that happen in Silicon Valley, then towards the end really dives into and hits home on the very real dangerous thinking that comes out of Silicon Valley..."
+  },
+  {
+    "identifier": "10263169",
+    "identifiers": {
+      "libby": "10263169"
+    },
+    "dateStarted": "2024-12-20",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10263169.png",
+    "link": "https://share.libbyapp.com/title/10263169",
+    "title": "Extremely Hardcore",
+    "description": "Zoë Schiffer has written the definitive book on perhaps the weirdest business story of our time. A fast-paced and riveting account of a hilarious and tragic mess. - Matt Levine, Bloomberg Opinion “Money Stuff” columnist the bird is freed - Elon Musk (@elonmusk) October 27, 2022When Elon Musk took over Twitter, commentators were rooting for the visionary behind Tesla and SpaceX to succeed. Here was a tough leader ...",
+    "authors": [
+      "Zoë Schiffer",
+      "Jaime Lamchick"
+    ],
+    "publishedDate": "2024-02-13",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/1191-1/{726A3E18-CEFD-4AEC-A08E-0EBAD6C30D99}IMG100.JPG",
+    "publisher": "Books on Tape",
+    "categories": [
+      "Biography & Autobiography",
+      "Business",
+      "Computer Technology",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
