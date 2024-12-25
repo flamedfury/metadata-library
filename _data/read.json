@@ -5500,8 +5500,8 @@
       "libby": "3471400"
     },
     "dateStarted": "2024-12-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-3471400.png",
     "link": "https://share.libbyapp.com/title/3471400",
     "title": "Live Work Work Work Die",
@@ -5519,6 +5519,8 @@
       "Sociology",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-20",
+    "notes": "Pretty good read/listen. Starts off with crazy, whacky type things that happen in Silicon Valley, then towards the end really dives into and hits home on the very real dangerous thinking that comes out of Silicon Valley..."
   }
 ]
