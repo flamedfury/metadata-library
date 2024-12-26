@@ -5551,5 +5551,30 @@
     "format": "audiobook",
     "dateFinished": "2024-12-23",
     "notes": "Fantastic read. The recounts of what actually went down during this are almost too insane to believe."
+  },
+  {
+    "identifier": "10012574",
+    "identifiers": {
+      "libby": "10012574"
+    },
+    "dateStarted": "2024-12-25",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10012574.png",
+    "link": "https://share.libbyapp.com/title/10012574",
+    "title": "The Rachel Incident",
+    "description": "*2023’s MOST ANTICIPATED SUMMER READ* ‘You will love The Rachel Incident’ GABRIELLE ZEVIN, author of Tomorrow and Tomorrow and Tomorrow‘Funny, lovely, romantic, drenched in nostalgia’ MARIAN KEYESThe Rachel Incident is an all-consuming love story. But it’s not the one you’re expecting. It’s unconventional and messy. It’s young and foolish. It’s about losing and finding yourself. But it is always about love.When...",
+    "authors": [
+      "Caroline O'Donoghue",
+      "Clara Harte"
+    ],
+    "publishedDate": "2023-08-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/7723-1/{64EBBCA0-600E-498E-9DE3-DA8784F04755}IMG100.JPG",
+    "publisher": "W. F. Howes Ltd.",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook"
   }
 ]
