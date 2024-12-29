@@ -5558,8 +5558,8 @@
       "libby": "10012574"
     },
     "dateStarted": "2024-12-25",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-10012574.png",
     "link": "https://share.libbyapp.com/title/10012574",
     "title": "The Rachel Incident",
@@ -5575,6 +5575,8 @@
       "Fiction",
       "Literature"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-29",
+    "notes": "Really enjoyed this book."
   }
 ]
