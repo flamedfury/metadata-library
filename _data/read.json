@@ -5585,8 +5585,8 @@
       "libby": "10496486"
     },
     "dateStarted": "2024-12-29",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-10496486.png",
     "link": "https://share.libbyapp.com/title/10496486",
     "title": "Play Nice",
@@ -5604,6 +5604,8 @@
       "Entertainment",
       "Economics"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2024-12-30",
+    "notes": "I really enjoyed this book. This is a must read for any Blizzard fan. "
   }
 ]
