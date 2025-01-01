@@ -5607,5 +5607,28 @@
     "format": "audiobook",
     "dateFinished": "2024-12-30",
     "notes": "I really enjoyed this book. This is a must read for any Blizzard fan. "
+  },
+  {
+    "identifier": "5613621",
+    "identifiers": {
+      "libby": "5613621"
+    },
+    "dateStarted": "2025-01-01",
+    "status": "started",
+    "rating": "unrated",
+    "link": "https://share.libbyapp.com/title/5613621",
+    "title": "The Invisible Life of Addie LaRue",
+    "description": "In the vein of The Time Traveler’s Wife and Life After Life, The Invisible Life of Addie LaRue is New York Times bestselling author V. E. Schwab’s genre-defying tour de force.When Addie La Rue makes a pact with the devil, she trades her soul for immortality. But there’s always a price - the devil takes away her place in the world, cursing her to be forgotten by everyone. Addie flees her tiny home town in 18th-Cent...",
+    "authors": [
+      "V.E. Schwab"
+    ],
+    "publishedDate": "2020-11-01",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/7723-1/{FE7CAAA3-DA75-411A-A299-AADADF80079E}Img100.jpg",
+    "publisher": "QUEST from W. F. Howes Ltd",
+    "categories": [
+      "Fantasy",
+      "Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
