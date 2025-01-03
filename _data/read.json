@@ -5279,8 +5279,8 @@
       "libby": "5613621"
     },
     "dateStarted": "2025-01-01",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "link": "https://share.libbyapp.com/title/5613621",
     "title": "The Invisible Life of Addie LaRue",
     "description": "In the vein of The Time Traveler’s Wife and Life After Life, The Invisible Life of Addie LaRue is New York Times bestselling author V. E. Schwab’s genre-defying tour de force.When Addie La Rue makes a pact with the devil, she trades her soul for immortality. But there’s always a price - the devil takes away her place in the world, cursing her to be forgotten by everyone. Addie flees her tiny home town in 18th-Cent...",
@@ -5294,6 +5294,8 @@
       "Fantasy",
       "Fiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-01-03",
+    "notes": "Fantastic read. "
   }
 ]
