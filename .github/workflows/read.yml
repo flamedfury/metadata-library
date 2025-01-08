@@ -22,10 +22,6 @@ on:
           - "summary" # Outputs your reading summary year to date
       identifier:
         description: The book's identifier. This is an ISBN, Libby or Libro.fm share URL.
-        # Example values:
-        # 9780062315007
-        # https://share.libbyapp.com/title/9575390
-        # https://libro.fm/audiobooks/9781797176888-the-ministry-of-time
         type: string
       date:
         description: Date to record the status of the book (YYYY-MM-DD). Leave blank for today.
@@ -33,9 +29,6 @@ on:
       notes:
         description: Notes about the book. Optional.
         type: string
-      # Adding a rating is optional.
-      # You can change the options to whatever you want to use.
-      # For example, you can use numbers, other emoji, or words.
       rating:
         description: Rate the book. Optional. You can completely customize the default value and options.
         type: choice
@@ -51,6 +44,9 @@ on:
       tags:
         description: Add tags to categorize the book. Separate each tag with a comma.
         type: string
+      duration:
+        description: Duration of the Libby audiobook (HH:MM).
+        type: string
 
 # Set up the steps to run the action
 jobs:
@@ -62,8 +58,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Read
-        uses: library-pals/read-action@v9.3.0
-
+        uses: library-pals/read-action@v9.4.0
+        
       - name: Commit updated read file
         if: env.BookStatus != 'summary'
         run: |
