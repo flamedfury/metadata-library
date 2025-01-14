@@ -5036,5 +5036,21 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20241117110607/https://lamaquinadeturing.su/en/2024/08/the-case-for-a-better-web/"
+  },
+  {
+    "title": "The Old Web Is a Slowly Decaying Corpse | flower.codes",
+    "site": "",
+    "author": "Zachary Flower",
+    "date": "2025-01-14",
+    "timestamp": "2025-01-14T08:39:50.664Z",
+    "description": "I recently added a link-checker to the deploy process for this website, and of the ~500 or so external links links I've added over my 13-ish years of posts, 10% of them were completely dead, a handful more hit unexpected error states (expired certs, timeouts, etc.), and I can't even imagine how many load successfully but no longer have the original content I actually linked to (I haven't had the heart to look).",
+    "url": "http://flower.codes/2024/01/18/death-of-the-old-web.html",
+    "image": "",
+    "type": "",
+    "notes": "Zach reflects on the transient nature of the Internet and its content.",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20241219204303/https://flower.codes/2024/01/18/death-of-the-old-web.html"
   }
 ]
