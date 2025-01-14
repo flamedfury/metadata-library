@@ -5003,5 +5003,22 @@
       ""
     ],
     "waybackUrl": "http://web.archive.org/web/20250101213609/https://nex-3.com/blog/a-sociable-web/"
+  },
+  {
+    "title": "Sneaky SEO Shenanigans Suck",
+    "site": "Bobby's Blog",
+    "author": "",
+    "date": "2025-01-14",
+    "timestamp": "2025-01-14T07:40:53.813Z",
+    "description": "A blog post about how a collection of websites uses SEO to dominate search, and a link to a blocklist for those sites",
+    "url": "https://bobbyhiltz.com/blog/2024/02/seoshenanigans/",
+    "image": "",
+    "type": "website",
+    "notes": "Bobby Hiltz discusses the challenges faced by independent review sites due to the dominance of major companies in search engine results. I've populated my Kagi blocked domains list with Bobby's handy domains list.",
+    "tags": [
+      "web",
+      "search"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20241227095440/https://bobbyhiltz.com/blog/2024/02/seoshenanigans/"
   }
 ]
