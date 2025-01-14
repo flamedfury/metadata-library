@@ -4985,5 +4985,23 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20241204072916/https://nora.zone/manifesto.html",
     "quote": "You already have a social media account. But you should also have a personal website."
+  },
+  {
+    "title": "House of Nettles • A Sociable Web",
+    "site": "",
+    "author": "",
+    "date": "2025-01-14",
+    "timestamp": "2025-01-14T07:32:54.379Z",
+    "description": "The process of building out this site has inevitably involved design choices about how to engage with various technologies and other people's web presences. It's a truism that you can't solve social problems with technology, but social media has made it just as clear that technology does shape the social dynamics that emerge in the spaces it mediates. This drives me to wonder: as more of my friends and friends-of-friends move to individual websites and blogs, what social dynamics does this give rise to? And what different technical designs could improve those dynamics?\n\nI think it's most interesting to approach this question from the social direction rather than the technological. Our first priority should be a set of social goals for interacting on the internet, and only with that understanding firmly in hand can we start usefully interrogating the way technology gives rise to or fights against the sort of…",
+    "url": "https://nex-3.com/blog/a-sociable-web/",
+    "image": "",
+    "type": "website",
+    "notes": "Natlie explores the concept of a \"sociable web,\" in contrast  with traditional social networks",
+    "tags": [
+      "web",
+      "socialweb",
+      ""
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250101213609/https://nex-3.com/blog/a-sociable-web/"
   }
 ]
