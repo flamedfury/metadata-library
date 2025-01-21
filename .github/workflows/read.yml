@@ -13,7 +13,7 @@ on:
         description: What is the status of the book? Required. You can completely customize the default value and options.
         required: true
         type: choice
-        default: "want to read"
+        default: "started"
         options:
           - "want to read"
           - "started"
@@ -59,7 +59,13 @@ jobs:
 
       - name: Read
         uses: library-pals/read-action@v9.4.0
-        
+        with:
+          thumbnail-width: 1280
+          set-image: true
+      - name: Download the book thumbnail
+        if: env.BookThumbOutput != ''
+        run: curl "${{ env.BookThumb }}" -o "img/${{ env.BookThumbOutput }}"
+
       - name: Commit updated read file
         if: env.BookStatus != 'summary'
         run: |
