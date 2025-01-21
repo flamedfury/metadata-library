@@ -21,22 +21,22 @@ on:
         description: Add tags to categorize the book. Separate each tag with a comma. Optional.
         type: string
 
+permissions:
+  contents: write
+
 jobs:
   add-bookmark:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     name: Add bookmark
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Bookmark action
-        uses: katydecorah/bookmark-action@v7.0.0
+        uses: library-pals/bookmark-action@v7.0.2
         with:
           fileName: _data/bookmarks.json
           additional-properties: quote
           export-image: false
-      # - name: Download the thumbnail image
-      #   run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
-      #   if: env.BookmarkImage != ''
       - name: Commit files
         run: |
           git pull
