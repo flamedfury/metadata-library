@@ -5303,5 +5303,31 @@
       "which makes her life incredibly lonely and challenging. The book is super compelling and emotional",
       "with a really cool idea that keeps you turning pages and feeling deeply connected to the main character's struggle."
     ]
+  },
+  {
+    "identifier": "6177866",
+    "identifiers": {
+      "libby": "6177866"
+    },
+    "dateStarted": "2025-01-05",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6177866.png",
+    "link": "https://share.libbyapp.com/title/6177866",
+    "title": "Maybe in Another Life",
+    "description": "From the bestselling author of The Seven Husbands of Evelyn Hugo and Daisy Jones &amp; The Six; now with a bonus conversation with Julia Whelan and Taylor Jenkins Reid, recorded exclusively for this edition. At the age of twenty-nine, Hannah Martin still has no idea what she wants to do with her life. She has lived in six different cities and held countless meaningless jobs since graduating college. On the heels o...",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "publishedDate": "2021-07-30",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/5054-1/{537FF9F9-7EC4-47E9-ACF0-36CD540A30EF}IMG100.JPG",
+    "publisher": "Simon & Schuster Australia",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Romance"
+    ],
+    "format": "audiobook",
+    "duration": "PT9H9M"
   }
 ]
