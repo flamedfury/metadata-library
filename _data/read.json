@@ -5310,8 +5310,8 @@
       "libby": "6177866"
     },
     "dateStarted": "2025-01-05",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-6177866.png",
     "link": "https://share.libbyapp.com/title/6177866",
     "title": "Maybe in Another Life",
@@ -5328,6 +5328,8 @@
       "Romance"
     ],
     "format": "audiobook",
-    "duration": "PT9H9M"
+    "duration": "PT9H9M",
+    "dateFinished": "2025-01-08",
+    "notes": "I really enjoyed this book. It explores the concept of parallel universes through the life of  Hannah Martin, showing how a single decision can lead to two vastly  different paths. The books' clever use of alternating timelines keeps readers engaged as they follow Hannah's journey in both realities, offering a thought provoking exploration of fate, love, and the choices that shape our lives. Reminds me of the movie \"Look Both Ways,\" as they both explore the alternate timeline narrative."
   }
 ]
