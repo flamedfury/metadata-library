@@ -5217,8 +5217,8 @@
       "libby": "11166719"
     },
     "dateStarted": "2025-01-21",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11166719.png",
     "link": "https://share.libbyapp.com/title/11166719",
     "title": "This is the F#$%ing News",
@@ -5234,6 +5234,8 @@
       "Nonfiction"
     ],
     "format": "audiobook",
-    "duration": "PT7H35M"
+    "duration": "PT7H35M",
+    "dateFinished": "2025-01-25",
+    "notes": "I really enjoyed this book. Paddy Gower shares his deeply personal journey through his professional career's evolution from a night shift reporter to a respected political correspondent. Paddy shares with us his personal struggles with mental health and alcoholism and how he was finally able to face up to and acknowledge these struggles and finally do something about them."
   }
 ]
