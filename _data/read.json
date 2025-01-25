@@ -5237,5 +5237,30 @@
     "duration": "PT7H35M",
     "dateFinished": "2025-01-25",
     "notes": "I really enjoyed this book. Paddy Gower shares his deeply personal journey through his professional career's evolution from a night shift reporter to a respected political correspondent. Paddy shares with us his personal struggles with mental health and alcoholism and how he was finally able to face up to and acknowledge these struggles and finally do something about them."
+  },
+  {
+    "identifier": "10909183",
+    "identifiers": {
+      "libby": "10909183"
+    },
+    "dateStarted": "2025-01-25",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10909183.png",
+    "link": "https://share.libbyapp.com/title/10909183",
+    "title": "Big Time",
+    "description": "The most electrifying debut novel of 2024- Almost Famous meets Slaughterhouse-Five.Big Time is set in a not-too-distant future Australia, where the eastern states have become the world’s newest autocracy - a place where pop music is propaganda, science is the enemy, nationalism trumps all, and moral indecency is punishable by indefinite detention.The novel opens as Julian Ferryman, bass player for the Acceptables,...",
+    "authors": [
+      "Jordan Prosser"
+    ],
+    "publishedDate": "2024-08-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/7723-1/{D5CB4913-4918-4E5F-9400-EA25BCFB1893}IMG100.JPG",
+    "publisher": "W. F. Howes Ltd.",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT12H13M"
   }
 ]
