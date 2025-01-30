@@ -5244,8 +5244,8 @@
       "libby": "10909183"
     },
     "dateStarted": "2025-01-25",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-10909183.png",
     "link": "https://share.libbyapp.com/title/10909183",
     "title": "Big Time",
@@ -5261,6 +5261,8 @@
       "Literature"
     ],
     "format": "audiobook",
-    "duration": "PT12H13M"
+    "duration": "PT12H13M",
+    "dateFinished": "2025-01-30",
+    "notes": "Set in a dystopian Australian future where they have locked up the borders and deny science and indecency. Rebels try to bring an uprising through music and then with a new time travelling drug that allows the user to zip into the future. Good read, bit of a head bender."
   }
 ]
