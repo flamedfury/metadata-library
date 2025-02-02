@@ -5174,5 +5174,22 @@
       "webmastery"
     ],
     "waybackUrl": "http://web.archive.org/web/20250123211147/https://cool-as-heck.blog/a-blog-post-about-blogs/"
+  },
+  {
+    "title": "thoughts to text",
+    "site": "",
+    "author": "",
+    "date": "2025-02-02",
+    "timestamp": "2025-02-02T07:51:01.812Z",
+    "description": "",
+    "url": "https://theresmiling.eu/blog/2024/10/why-my-own-website",
+    "image": "",
+    "type": "",
+    "notes": "Elena shares their motivation for creating a personal website despite having only a basic understanding of HTML and CSS or having a specific purpose for one. The freedom of self-expression that a personal site offers is enough reason. Why don't you have your own website?",
+    "tags": [
+      "web",
+      "webmastery",
+      "indieweb"
+    ]
   }
 ]
