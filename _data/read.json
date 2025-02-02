@@ -5264,5 +5264,32 @@
     "duration": "PT12H13M",
     "dateFinished": "2025-01-30",
     "notes": "Set in a dystopian Australian future where they have locked up the borders and deny science and indecency. Rebels try to bring an uprising through music and then with a new time travelling drug that allows the user to zip into the future. Good read, bit of a head bender."
+  },
+  {
+    "identifier": "10268401",
+    "identifiers": {
+      "libby": "10268401"
+    },
+    "dateStarted": "2025-02-01",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10268401.png",
+    "link": "https://share.libbyapp.com/title/10268401",
+    "title": "Rose/House",
+    "description": "Basit Deniau’s houses were haunted to begin with.A house embedded with an artificial intelligence is a common thing: a house that is an artificial intelligence, infused with a thinking creature that is not human? That is something else. But now Deniau’s been dead a year, and Rose House is locked up tight, as commanded by the architect’s will: all his possessions and files and sketches are confined in its archives,...",
+    "authors": [
+      "Arkady Martine"
+    ],
+    "publishedDate": "2024-03-05",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/1219-1/{EFB1177C-00BA-4FB6-9C31-A25696DC3752}IMG100.JPG",
+    "publisher": "Tantor Media, Inc",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT4H12M"
   }
 ]
