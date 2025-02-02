@@ -5138,5 +5138,23 @@
       "community"
     ],
     "waybackUrl": "http://web.archive.org/web/20250114070537/https://blog.avas.space/rage-bait/"
+  },
+  {
+    "title": "RSS blogrolls are a federated social network",
+    "site": "Robert Alexander's Tech Blog",
+    "author": "",
+    "date": "2025-02-02",
+    "timestamp": "2025-02-02T07:34:24.964Z",
+    "description": "Could a modern look at RSS feeds and blogrolls help the small-web much like the fediverse is revitalizing community in social networks?",
+    "url": "https://alexsci.com/blog/blogroll-network/",
+    "image": "",
+    "type": "article",
+    "notes": "Robert Alexander explores the potential of RSS feeds and blogrolls to create a federated social network that revitalises the small web, similar to what the fediverse has done for social media. Think of a network of connected blogrolls.",
+    "tags": [
+      "web",
+      "indieweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20241222134353/https://alexsci.com/blog/blogroll-network/"
   }
 ]
