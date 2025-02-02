@@ -5191,5 +5191,22 @@
       "webmastery",
       "indieweb"
     ]
+  },
+  {
+    "title": "Blogging just because",
+    "site": "the folkmoss review",
+    "author": "",
+    "date": "2025-02-02",
+    "timestamp": "2025-02-02T07:56:27.472Z",
+    "description": "Writing and blogging just because is liberating.",
+    "url": "https://folkmoss.bearblog.dev/blogging-just-because/",
+    "image": "",
+    "type": "article",
+    "notes": "folkmoss emphasizes the liberating and cathartic nature of writing without a specific purpose. I need to take the hint and get right back into posting for the hell of it. I love bloggers who do that.",
+    "tags": [
+      "indieweb",
+      "blogging",
+      "webmastery"
+    ]
   }
 ]
