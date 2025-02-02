@@ -5119,5 +5119,24 @@
       "webmastery"
     ],
     "waybackUrl": "http://web.archive.org/web/20250104150321/https://stefanbohacek.com/blog/resources-for-keeping-the-web-free-open-and-poetic/"
+  },
+  {
+    "title": "dealing with rage bait in the indie web",
+    "site": "ava's blog",
+    "author": "",
+    "date": "2025-02-02",
+    "timestamp": "2025-02-02T07:30:54.402Z",
+    "description": "i think dealing with rage bait in the indie web needs its own strategy.",
+    "url": "https://blog.avas.space/rage-bait/",
+    "image": "",
+    "type": "article",
+    "notes": "Ava discusses the concept of **rage bait** on the indie web. Bad actors amongst our spaces intentionly drawing out strong emotional reactions from others, hiding their true nature. What moderation options exist, especially when these messages of ill will exist on their own websites?",
+    "tags": [
+      "web",
+      "culture",
+      "indieweb",
+      "community"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250114070537/https://blog.avas.space/rage-bait/"
   }
 ]
