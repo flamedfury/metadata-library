@@ -5156,5 +5156,23 @@
       "blogging"
     ],
     "waybackUrl": "http://web.archive.org/web/20241222134353/https://alexsci.com/blog/blogroll-network/"
+  },
+  {
+    "title": "A Blog Post About Blogs",
+    "site": "Cool As Heck",
+    "author": "",
+    "date": "2025-02-02",
+    "timestamp": "2025-02-02T07:37:26.072Z",
+    "description": "Highlighting some indieweb blogging services I have found",
+    "url": "https://cool-as-heck.blog/a-blog-post-about-blogs/",
+    "image": "",
+    "type": "article",
+    "notes": "Jcrabapple explores various blogging platforms beyond the well-known names. Check it out, you might find something new for your next project.",
+    "tags": [
+      "web",
+      "blogging",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250123211147/https://cool-as-heck.blog/a-blog-post-about-blogs/"
   }
 ]
