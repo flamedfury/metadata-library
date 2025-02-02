@@ -5208,5 +5208,22 @@
       "blogging",
       "webmastery"
     ]
+  },
+  {
+    "title": "Control",
+    "site": "Chris Coyier",
+    "author": "",
+    "date": "2025-02-02",
+    "timestamp": "2025-02-02T08:00:20.568Z",
+    "description": "There is an idea in my bubble that running your own website is A Very Good Idea. I subscribe to the idea that running your own website is A Very Good Idea and will continue to help that along in my…",
+    "url": "https://chriscoyier.net/2025/01/30/control/",
+    "image": "",
+    "type": "article",
+    "notes": "Chris Coyier dives into the benefits and challenges of running your own website. While personal websites offer complete control over content, design and direct communication with surfers, he rightly points out that for most individuals managing a website can be a overwhelming experience.",
+    "tags": [
+      "web",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250131044035/https://chriscoyier.net/2025/01/30/control/"
   }
 ]
