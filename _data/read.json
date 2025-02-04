@@ -5271,8 +5271,8 @@
       "libby": "10268401"
     },
     "dateStarted": "2025-02-01",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-10268401.png",
     "link": "https://share.libbyapp.com/title/10268401",
     "title": "Rose/House",
@@ -5290,6 +5290,8 @@
       "Science Fiction"
     ],
     "format": "audiobook",
-    "duration": "PT4H12M"
+    "duration": "PT4H12M",
+    "dateFinished": "2025-02-04",
+    "notes": "A science fiction murder mystery centred around a house infused with artificial intelligence created by a deceased architect in the Mojave desert. Short read, pretty good story."
   }
 ]
