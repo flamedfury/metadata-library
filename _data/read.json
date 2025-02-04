@@ -5293,5 +5293,31 @@
     "duration": "PT4H12M",
     "dateFinished": "2025-02-04",
     "notes": "A science fiction murder mystery centred around a house infused with artificial intelligence created by a deceased architect in the Mojave desert. Short read, pretty good story."
+  },
+  {
+    "identifier": "10792421",
+    "identifiers": {
+      "libby": "10792421"
+    },
+    "dateStarted": "2025-02-04",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10792421.png",
+    "link": "https://share.libbyapp.com/title/10792421",
+    "title": "Madam",
+    "description": "NOW A MAJOR AWARD-WINNING SERIES STARRING RACHEL GRIFFITHS AND MARTIN HENDERSON ON NINE. What would you do if your husband suddenly left you with two kids to support? Go back to school? Go into real estate? Or start a new career as a pimp? Upon discovering that sex work is decriminalised in New Zealand, Antonia Murphy decides to build her own business: an ethical escort agency. It seems like a good idea, but sh...",
+    "authors": [
+      "Antonia Murphy"
+    ],
+    "publishedDate": "2024-10-29",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/5054-1/{623DB626-33DA-4056-B783-30AEBDAB715A}IMG100.JPG",
+    "publisher": "Simon & Schuster Australia",
+    "categories": [
+      "Biography & Autobiography",
+      "Sociology",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H23M"
   }
 ]
