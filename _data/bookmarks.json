@@ -5243,5 +5243,23 @@
       "blogging",
       "personalsites"
     ]
+  },
+  {
+    "title": "A Brief History of DeviantART Stamps | Ballonlea",
+    "site": "",
+    "author": "",
+    "date": "2025-02-07",
+    "timestamp": "2025-02-07T07:36:25.553Z",
+    "description": "Welcome to Ballonlea! Whether it be art, writing, resources, or any other number of things that caught my fancy, this site is a forest of pure hobbyist fun!",
+    "url": "https://ballonlea.net/articles/stamp",
+    "image": "",
+    "type": "",
+    "notes": "Ballonlea explores the origins and evolution of 99x56 stamps that originated on DeviantART.",
+    "tags": [
+      "web",
+      "webhistory",
+      "indieweb",
+      "blogging"
+    ]
   }
 ]
