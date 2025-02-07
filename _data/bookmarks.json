@@ -5261,5 +5261,22 @@
       "indieweb",
       "blogging"
     ]
+  },
+  {
+    "title": "The beautiful sentence that is the web",
+    "site": "",
+    "author": "",
+    "date": "2025-02-07",
+    "timestamp": "2025-02-07T07:47:31.259Z",
+    "description": "A metaphor for the building blocks of web development.",
+    "url": "https://cassidoo.co/post/web-dev-sentence/",
+    "image": "",
+    "type": "website",
+    "tags": [
+      "web",
+      "webdev"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250126003405/https://cassidoo.co/post/web-dev-sentence/",
+    "quote": "In web development, HTML is the noun, CSS is the adjective that describes the noun, and JavaScript is the verb that makes it do something."
   }
 ]
