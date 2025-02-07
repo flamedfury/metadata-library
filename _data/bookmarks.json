@@ -5225,5 +5225,23 @@
       "webmastery"
     ],
     "waybackUrl": "http://web.archive.org/web/20250131044035/https://chriscoyier.net/2025/01/30/control/"
+  },
+  {
+    "title": "The small web is rehabilitating how I write",
+    "site": "dr molly tov",
+    "author": "",
+    "date": "2025-02-07",
+    "timestamp": "2025-02-07T07:32:43.148Z",
+    "description": "I've been writing for pay since I was 17. For 25+ years, writing has made up some part of my yearly income. For over ten years, writing made up 100% of my ye...",
+    "url": "https://drmollytov.bearblog.dev/the-small-web-is-rehabilitating-how-i-write/",
+    "image": "",
+    "type": "article",
+    "notes": "Molly finds focus, clamness and a renewed passion in writing after abandoning big tech and embracing the personal blog.",
+    "tags": [
+      "web",
+      "indieweb",
+      "blogging",
+      "personalsites"
+    ]
   }
 ]
