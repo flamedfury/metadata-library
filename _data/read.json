@@ -5317,5 +5317,32 @@
     "duration": "PT8H23M",
     "dateFinished": "2025-02-09",
     "notes": "Antonia Murphy shares her story of running an ethical escort agency in New Zealand's far north."
+  },
+  {
+    "identifier": "5688933",
+    "identifiers": {
+      "libby": "5688933"
+    },
+    "dateStarted": "2025-02-10",
+    "status": "started",
+    "rating": "unrated",
+    "tags": [
+      "02:43"
+    ],
+    "image": "book-5688933.png",
+    "link": "https://share.libbyapp.com/title/5688933",
+    "title": "Livesuit",
+    "description": "The first novella set in the universe of James S. A. Corey’s epic Captive’s War series.Humanity’s war is eternal, spread across the galaxy and the ages. Humanity’s best hope to end the endless slaughter is the Livesuit forces. Soldiers meld their bodies to the bleeding edge technology, becoming something more than human for the duration of a war that might never end.",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "publishedDate": "2024-10-01",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/1694-1/{7F87373E-29F6-437F-9434-9662034641FC}IMG100.JPG",
+    "publisher": "Recorded Books, Inc.",
+    "categories": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
