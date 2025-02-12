@@ -5346,5 +5346,31 @@
     "format": "audiobook",
     "dateFinished": "2025-02-12",
     "notes": "I enjoyed this story. Set in \"The Captive's War\" universe but focused on soldiers fighting back against the insectoid alien invaders. Time dialation, body horror, dread, and loss of humanity."
+  },
+  {
+    "identifier": "5743310",
+    "identifiers": {
+      "libby": "5743310"
+    },
+    "dateStarted": "2025-02-12",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-5743310.png",
+    "link": "https://share.libbyapp.com/title/5743310",
+    "title": "Malibu Rising",
+    "description": "Brought to you by PenguinFrom the Sunday Times bestselling author of Daisy Jones &amp; The Six.A lifetime holding it together.One party will bring it crashing down.Malibu: August, 1983. It’s the day of Nina Riva’s annual end-of-summer party, and anticipation is at a fever pitch. Everyone wants to be around the famous Rivas: Nina, the talented surfer and supermodel; brothers Jay and Hud, one a championship surfer, ...",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "publishedDate": "2021-05-27",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0211-1/{EFE820E6-7C75-47F9-8AC2-5B80E71B0927}Img100.jpg",
+    "publisher": "Random House",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Romance"
+    ],
+    "format": "audiobook",
+    "duration": "PT11H6M"
   }
 ]
