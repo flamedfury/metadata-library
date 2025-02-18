@@ -5353,8 +5353,8 @@
       "libby": "5743310"
     },
     "dateStarted": "2025-02-12",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-5743310.png",
     "link": "https://share.libbyapp.com/title/5743310",
     "title": "Malibu Rising",
@@ -5371,6 +5371,8 @@
       "Romance"
     ],
     "format": "audiobook",
-    "duration": "PT11H6M"
+    "duration": "PT11H6M",
+    "dateFinished": "2025-02-18",
+    "notes": "I loved this book. It follows four siblings during their annual end of summer party in Malibu while weaving in-between the story of their parents and their fathors rockstar legacy. The events across the party climax in family tensions and discoveries. I couldn't put this book down by the halfway point."
   }
 ]
