@@ -5374,5 +5374,30 @@
     "duration": "PT11H6M",
     "dateFinished": "2025-02-18",
     "notes": "I loved this book. It follows four siblings during their annual end of summer party in Malibu while weaving in-between the story of their parents and their fathors rockstar legacy. The events across the party climax in family tensions and discoveries. I couldn't put this book down by the halfway point."
+  },
+  {
+    "identifier": "9575397",
+    "identifiers": {
+      "libby": "9575397"
+    },
+    "dateStarted": "2025-02-21",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9575397.png",
+    "link": "https://share.libbyapp.com/title/9575397",
+    "title": "Fourth Wing",
+    "description": "Now with two bonus chapters read by Teddy Hamilton. Re-download the title now to listen to the extended version! A #1 New York Times bestseller Optioned for TV by Amazon Studios Amazon Best Books of the Year, #4 Apple Best Books of the Year 2023 Barnes Noble Best Fantasy Book of 2023 NPR “Books We Love” 2023 Audible Best Books of 2023 Hudson Book of the Year Google Play Best Books o...",
+    "authors": [
+      "Rebecca Yarros"
+    ],
+    "publishedDate": "2023-05-02",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/1694-1/{9A02D69C-6055-454B-93F2-74DC9B361AAF}IMG100.JPG",
+    "publisher": "Recorded Books, Inc.",
+    "categories": [
+      "Fantasy",
+      "Fiction",
+      "Romance"
+    ],
+    "format": "audiobook"
   }
 ]
