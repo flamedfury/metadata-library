@@ -5278,5 +5278,20 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20250126003405/https://cassidoo.co/post/web-dev-sentence/",
     "quote": "In web development, HTML is the noun, CSS is the adjective that describes the noun, and JavaScript is the verb that makes it do something."
+  },
+  {
+    "title": "World Wild Web",
+    "site": "",
+    "author": "",
+    "date": "2025-02-26",
+    "timestamp": "2025-02-26T01:20:30.990Z",
+    "description": "Unshackle from the rigidity of the commercial web and be you on the world wild web",
+    "url": "https://fyr.io/",
+    "image": "",
+    "type": "article",
+    "notes": "Fyr looks at how commercialism has dug it's claws into the web, urging us to create and share our voices online by building websites and blogs to express ourselves freely, contributing to a more diverse online landscape.",
+    "tags": [
+      "web"
+    ]
   }
 ]
