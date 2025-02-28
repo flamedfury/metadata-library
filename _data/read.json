@@ -5381,8 +5381,8 @@
       "libby": "9575397"
     },
     "dateStarted": "2025-02-21",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-9575397.png",
     "link": "https://share.libbyapp.com/title/9575397",
     "title": "Fourth Wing",
@@ -5398,6 +5398,12 @@
       "Fiction",
       "Romance"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-02-28",
+    "tags": [
+      "I really enjoyed this book and diving straight into the second. I've read a few of these and can follow the formula well. In the Fourth Wing",
+      "the protagonist defies all odds and expectations and becomes a dragon rider. Falls in love with the misunderstood bad boy and uncovers an unthinkable conspiracy that shatters everything she believed. However",
+      "I did not expect the reveal at the end!"
+    ]
   }
 ]
