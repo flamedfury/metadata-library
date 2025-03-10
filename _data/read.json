@@ -5412,8 +5412,8 @@
       "libby": "9944318"
     },
     "dateStarted": "2025-02-28",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-9944318.png",
     "link": "https://share.libbyapp.com/title/9944318",
     "title": "Iron Flame",
@@ -5429,6 +5429,8 @@
       "Fiction",
       "Romance"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-03-10",
+    "notes": "I loved this book. I am glad that the books did not follow a book per year in the academy format. By the time Violet left with half the cadets, I knew I was in for a wild ride. The battle at the end and the surprise consequence were certainly worth it. I loved that I was able to start this right after the first and jump right into the third!"
   }
 ]
