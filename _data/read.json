@@ -5439,8 +5439,8 @@
       "libby": "10637072"
     },
     "dateStarted": "2025-03-10",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-10637072.png",
     "link": "https://share.libbyapp.com/title/10637072",
     "title": "Onyx Storm",
@@ -5457,6 +5457,8 @@
       "Romance"
     ],
     "format": "audiobook",
-    "duration": "PT23H52M"
+    "duration": "PT23H52M",
+    "dateFinished": "2025-03-17",
+    "notes": "I had an absolute blast reading this book! As the third installment in the series, it picks up right where the second book left off. In this story, Violet and her friends venture beyond the walls of the war college, embarking on a quest across the isles to find the lost seventh dragon breed and discover a way to defeat the Venin. I particularly enjoyed Tairn's monologues about his lineage and accomplishments. The book concluded with a cliffhanger, leaving a gap of three days between the battle and the next events. I’m eagerly looking forward to the next two books!"
   }
 ]
