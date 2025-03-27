@@ -5460,5 +5460,31 @@
     "duration": "PT23H52M",
     "dateFinished": "2025-03-17",
     "notes": "I had an absolute blast reading this book! As the third installment in the series, it picks up right where the second book left off. In this story, Violet and her friends venture beyond the walls of the war college, embarking on a quest across the isles to find the lost seventh dragon breed and discover a way to defeat the Venin. I particularly enjoyed Tairn's monologues about his lineage and accomplishments. The book concluded with a cliffhanger, leaving a gap of three days between the battle and the next events. I’m eagerly looking forward to the next two books!"
+  },
+  {
+    "identifier": "7872863",
+    "identifiers": {
+      "libby": "7872863"
+    },
+    "dateStarted": "2025-03-27",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-7872863.png",
+    "link": "https://share.libbyapp.com/title/7872863",
+    "title": "Babel",
+    "description": "From award-winning author R. F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange &amp; Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire. Traduttore, traditore: An act of translation is always an act of betrayal.1828. Robin Swift, orphaned by cholera in Cant...",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "publishedDate": "2022-08-23",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0293-1/{90177922-EBC4-443A-B780-937E44C6FF99}IMG100.JPG",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Fantasy",
+      "Fiction",
+      "Literature",
+      "Historical Fiction"
+    ],
+    "format": "audiobook"
   }
 ]
