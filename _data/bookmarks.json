@@ -5396,5 +5396,24 @@
       "indieweb",
       "smallweb"
     ]
+  },
+  {
+    "title": "smallweb",
+    "site": "smallweb",
+    "author": "",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T09:55:57.915Z",
+    "description": "a manually curated collection of neat indie websites :)",
+    "url": "https://smallweb.cc",
+    "image": "",
+    "type": "website",
+    "notes": "smallweb is a carefully curated collection of neat indie websites that get less attention than they deserve.",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb",
+      "directory"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250406165144/https://smallweb.cc/"
   }
 ]
