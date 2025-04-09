@@ -5483,5 +5483,24 @@
       "indieweb",
       "smallweb"
     ]
+  },
+  {
+    "title": "In the Beginning.. - JanerationX",
+    "site": "JanerationX",
+    "author": "",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T10:04:59.329Z",
+    "description": "In the internet Stone Age of 2002, a website was born. It was called nevadabadlands.com, and it was the first web thing I ever built. A friend of mine taught me basic HTML markup, and I learned the rest on my own. You can go look it up on the Wayback Machine if you want. A warning though; it’s laughably bad.",
+    "url": "https://janerationx.com/posts/in-the-beginning",
+    "image": "",
+    "type": "website",
+    "notes": "JanerationX provides a personal recount of their first forray into the web, making a website and starting to blog",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250404170634/https://janerationx.com/posts/in-the-beginning"
   }
 ]
