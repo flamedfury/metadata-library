@@ -5327,5 +5327,24 @@
       "web",
       "research"
     ]
+  },
+  {
+    "title": "Your Site Is a Home ",
+    "site": "Naz Hamid",
+    "author": "Naz Hamid",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T09:40:42.021Z",
+    "description": "Create a home that gives you energy.",
+    "url": "https://nazhamid.com/journal/your-site-is-a-home/",
+    "image": "",
+    "type": "website",
+    "notes": "Naz Hamid explores the concept of digital spaces as personal homes, versus the the chaos of social media platforms.",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250326170123/https://nazhamid.com/journal/your-site-is-a-home/",
+    "quote": "Your site is a home."
   }
 ]
