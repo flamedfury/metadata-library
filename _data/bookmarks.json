@@ -5415,5 +5415,22 @@
       "directory"
     ],
     "waybackUrl": "http://web.archive.org/web/20250406165144/https://smallweb.cc/"
+  },
+  {
+    "title": "What the Internet Was Like in 1995",
+    "site": "Cybercultural",
+    "author": "",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T09:59:23.194Z",
+    "description": "In 1995, Netscape went public and Microsoft noticed the internet — the browser wars began. Also that year, Amazon and eBay launched, JavaScript and PHP debuted, and the web went mainstream.",
+    "url": "https://cybercultural.com/p/internet-1995/",
+    "image": "",
+    "type": "website",
+    "notes": "Richard MacManus provides an overview of what was going on in the web in 1995. An exciting time in the web's history.",
+    "tags": [
+      "web",
+      "history"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250408155838/https://cybercultural.com/p/internet-1995/"
   }
 ]
