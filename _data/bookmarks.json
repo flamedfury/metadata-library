@@ -5293,5 +5293,23 @@
     "tags": [
       "web"
     ]
+  },
+  {
+    "title": "nevermonetize",
+    "site": "",
+    "author": "",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T09:31:57.149Z",
+    "description": "",
+    "url": "https://nevermonetize.com/",
+    "image": "",
+    "type": "",
+    "notes": "nevermonetize is a resource for indie webmasters to use on their websites to let other web surfers know that they never intend to monetize their website or project.",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250317124036/https://nevermonetize.com/"
   }
 ]
