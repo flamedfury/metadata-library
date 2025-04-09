@@ -5432,5 +5432,23 @@
       "history"
     ],
     "waybackUrl": "http://web.archive.org/web/20250408155838/https://cybercultural.com/p/internet-1995/"
+  },
+  {
+    "title": "Why we are still using 88x31 buttons - ultrasciencelabs",
+    "site": "",
+    "author": "Brian",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T10:00:54.287Z",
+    "description": "introduction If you surf the modern \"small web\" to any extent you've encountered 88x31 buttons - a staple of late 90s and early 2000's websites under…",
+    "url": "https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons",
+    "image": "",
+    "type": "",
+    "notes": "Another look at the enduring popularity of 88x31 buttons we continue to put on our websites",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb",
+      "history"
+    ]
   }
 ]
