@@ -5466,5 +5466,22 @@
       "web",
       "culture"
     ]
+  },
+  {
+    "title": "April Cools' Club",
+    "site": "April Cools' Club",
+    "author": "",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-09T10:02:40.770Z",
+    "description": "",
+    "url": "https://www.aprilcools.club/",
+    "image": "",
+    "type": "",
+    "notes": "A fun project to do something useful and different on April 1st each year.",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb"
+    ]
   }
 ]
