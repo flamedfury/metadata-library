@@ -5502,5 +5502,21 @@
       "blogging"
     ],
     "waybackUrl": "http://web.archive.org/web/20250404170634/https://janerationx.com/posts/in-the-beginning"
+  },
+  {
+    "title": "eightyeightthirtyone",
+    "site": "",
+    "author": "",
+    "date": "2025-04-10",
+    "timestamp": "2025-04-10T01:59:47.756Z",
+    "description": "Building a graph of the Internet, one button at a time",
+    "url": "https://eightyeightthirty.one",
+    "image": "",
+    "type": "",
+    "notes": "This site crawls the links between 88x31s on the Internet. Building a graph of the Internet, one button at a time",
+    "tags": [
+      "web",
+      "community"
+    ]
   }
 ]
