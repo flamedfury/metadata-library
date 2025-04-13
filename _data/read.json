@@ -5467,8 +5467,8 @@
       "libby": "7872863"
     },
     "dateStarted": "2025-03-27",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-7872863.png",
     "link": "https://share.libbyapp.com/title/7872863",
     "title": "Babel",
@@ -5485,6 +5485,8 @@
       "Literature",
       "Historical Fiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-04-11",
+    "notes": "I really enjoyed this book. What a ride. A historical, steampunk fantasy? Steampunk as the use of the magic of language to power technology. "
   }
 ]
