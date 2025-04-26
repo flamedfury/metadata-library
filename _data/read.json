@@ -5516,5 +5516,32 @@
     "duration": "PT9H5M",
     "dateFinished": "2025-04-24",
     "notes": "Penny navigates a series of crazy crises while trying to get her life on track. Made for some awkward moments."
+  },
+  {
+    "identifier": "7870322",
+    "identifiers": {
+      "libby": "7870322"
+    },
+    "dateFinished": "2025-04-26",
+    "summaryEndDate": "2025-04-26",
+    "status": "finished",
+    "rating": "unrated",
+    "image": "book-7870322.png",
+    "link": "https://share.libbyapp.com/title/7870322",
+    "title": "Better the Blood",
+    "description": "‘A compelling, atmospheric page turner with an authentic insight into Māori culture’ Val McDermid A DETECTIVE IN SEARCH OF THE TRUTH. A KILLER IN SEARCH OF RETRIBUTION. A CLASH BETWEEN CULTURE AND DUTY. THE PAST NEVER TRULY STAYS BURIED. WELCOME TO THE DARK SIDE OF PARADISE. Detective Senior Sergeant Hana Westerman is a tenacious Māori detective juggling single motherhood and the pressures of h...",
+    "authors": [
+      "Michael Bennett"
+    ],
+    "publishedDate": "2022-08-18",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/5054-1/{250BA162-2575-42E6-943E-5FB3199BF6A9}IMG100.JPG",
+    "publisher": "Simon & Schuster UK",
+    "categories": [
+      "Fiction",
+      "Mystery",
+      "Thriller"
+    ],
+    "format": "audiobook",
+    "duration": "PT9H11M"
   }
 ]
