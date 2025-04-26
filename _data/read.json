@@ -5495,8 +5495,8 @@
       "libby": "9028006"
     },
     "dateStarted": "2025-04-13",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-9028006.png",
     "link": "https://share.libbyapp.com/title/9028006",
     "title": "The Dog of the North",
@@ -5513,6 +5513,8 @@
       "Humor (Fiction)"
     ],
     "format": "audiobook",
-    "duration": "PT9H5M"
+    "duration": "PT9H5M",
+    "dateFinished": "2025-04-24",
+    "notes": "Penny navigates a series of crazy crises while trying to get her life on track. Made for some awkward moments."
   }
 ]
