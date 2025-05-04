@@ -5522,7 +5522,8 @@
     "identifiers": {
       "libby": "7870322"
     },
-    "dateFinished": "2025-04-26",
+    "dateStarted": "2025-04-26",
+    "dateFinished": "2025-04-30",
     "summaryEndDate": "2025-04-26",
     "status": "finished",
     "rating": "unrated",
