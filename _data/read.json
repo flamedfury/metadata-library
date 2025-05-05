@@ -5544,5 +5544,30 @@
     ],
     "format": "audiobook",
     "duration": "PT9H11M"
+  },
+  {
+    "identifier": "11704292",
+    "identifiers": {
+      "libby": "11704292"
+    },
+    "dateStarted": "2025-05-04",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11704292.png",
+    "link": "https://share.libbyapp.com/title/11704292",
+    "title": "Careless People",
+    "description": "Shocking and darkly funny, Careless People gives you a front-row seat to the decisions that are shaping our world and the people who make them. Welcome to Facebook.Sarah Wynn-Williams, a young diplomat from New Zealand, pitched for her dream job. She saw Facebook’s potential and knew it could change the world for the better. But, when she got there and rose to its top ranks, things turned out a little different.Fr...",
+    "authors": [
+      "Sarah Wynn-Williams"
+    ],
+    "publishedDate": "2025-03-14",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/2283-1/{B03A4174-A5B0-406A-8531-409C8762F0D2}IMG100.JPG",
+    "publisher": "Pan Macmillan UK",
+    "categories": [
+      "Biography & Autobiography",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT13H15M"
   }
 ]
