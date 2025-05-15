@@ -5576,8 +5576,8 @@
       "libby": "10032944"
     },
     "dateStarted": "2025-05-10",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-10032944.png",
     "link": "https://share.libbyapp.com/title/10032944",
     "title": "Return to Blood",
@@ -5593,6 +5593,7 @@
       "Mystery",
       "Thriller"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-05-11"
   }
 ]
