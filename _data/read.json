@@ -5595,5 +5595,29 @@
     ],
     "format": "audiobook",
     "dateFinished": "2025-05-11"
+  },
+  {
+    "identifier": "11073895",
+    "identifiers": {
+      "libby": "11073895"
+    },
+    "dateStarted": "2025-05-15",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11073895.png",
+    "link": "https://share.libbyapp.com/title/11073895",
+    "title": "Pet",
+    "description": "“FAULTLESS.” ?The Guardian *** “A SLY PSYCHOLOGICAL THRILLER.” ?The Observer Like every other girl in her class, twelve-year-old Justine is drawn to her glamorous, charismatic new teacher and longs to be her pet. However, when a thief begins to target the school, Justine’s sense that something isn’t quite right grows ever stronger. With each twist of the plot, this gripping story of deception and the corrosive ...",
+    "authors": [
+      "Catherine Chidgey"
+    ],
+    "publishedDate": "2024-10-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/7723-1/{926B8C61-AA2D-40B6-AA7B-7DD1F446C2BC}IMG100.JPG",
+    "publisher": "W. F. Howes Ltd",
+    "categories": [
+      "Fiction",
+      "Thriller"
+    ],
+    "format": "audiobook"
   }
 ]
