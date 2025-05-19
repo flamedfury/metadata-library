@@ -5604,8 +5604,8 @@
       "libby": "11073895"
     },
     "dateStarted": "2025-05-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11073895.png",
     "link": "https://share.libbyapp.com/title/11073895",
     "title": "Pet",
@@ -5620,6 +5620,8 @@
       "Fiction",
       "Thriller"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-05-19",
+    "notes": "I enjoyed this story. A manipulative school teacher who can charm everyone around her. Who is stealing the kids stuff?"
   }
 ]
