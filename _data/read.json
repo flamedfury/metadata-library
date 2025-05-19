@@ -5623,5 +5623,29 @@
     "format": "audiobook",
     "dateFinished": "2025-05-19",
     "notes": "I enjoyed this story. A manipulative school teacher who can charm everyone around her. Who is stealing the kids stuff?"
+  },
+  {
+    "identifier": "11661792",
+    "identifiers": {
+      "libby": "11661792"
+    },
+    "dateStarted": "2025-05-19",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11661792.png",
+    "link": "https://share.libbyapp.com/title/11661792",
+    "title": "The Axeman's Carnival",
+    "description": "WINNER OF THE JANN MEDLICOTT ACORN PRIZE FOR FICTION AT THE 2023 OCKHAM NEW ZEALAND BOOK AWARDS A dazzling portrayal of humanity and the natural world that perfectly balances violence and humor Tama is just a helpless chick when he is rescued by Marnie, and this is where his story might have ended. “If it keeps me awake,” says Marnie’s husband Rob, a farmer, “I’ll have to wring its neck.” But with Tama come ne...",
+    "authors": [
+      "Catherine Chidgey"
+    ],
+    "publishedDate": "2025-04-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/7723-1/{9CE8803C-D107-4035-8AA2-108ABDF1EDEC}IMG100.JPG",
+    "publisher": "W. F. Howes Ltd",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook"
   }
 ]
