@@ -5551,8 +5551,8 @@
       "libby": "11704292"
     },
     "dateStarted": "2025-05-04",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11704292.png",
     "link": "https://share.libbyapp.com/title/11704292",
     "title": "Careless People",
@@ -5568,7 +5568,9 @@
       "Nonfiction"
     ],
     "format": "audiobook",
-    "duration": "PT13H15M"
+    "duration": "PT13H15M",
+    "dateFinished": "2025-05-08",
+    "notes": "This book was a great listen. The stories shared are so ridiculous, but so believable. I didn't need another reason to not trust this company or the people involved. If you're still kidding yourself, give this one a read to get your mind straight."
   },
   {
     "identifier": "10032944",
