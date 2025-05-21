@@ -5630,8 +5630,8 @@
       "libby": "11661792"
     },
     "dateStarted": "2025-05-19",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-11661792.png",
     "link": "https://share.libbyapp.com/title/11661792",
     "title": "The Axeman's Carnival",
@@ -5646,6 +5646,8 @@
       "Fiction",
       "Literature"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-05-20",
+    "notes": "A story about an abusive relationship told from the view of a domesitcated magpie. The magpie is also a viral sensation on the internet."
   }
 ]
