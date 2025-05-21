@@ -5649,5 +5649,31 @@
     "format": "audiobook",
     "dateFinished": "2025-05-20",
     "notes": "A story about an abusive relationship told from the view of a domesitcated magpie. The magpie is also a viral sensation on the internet."
+  },
+  {
+    "identifier": "11291304",
+    "identifiers": {
+      "libby": "11291304"
+    },
+    "dateStarted": "2025-05-21",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11291304.png",
+    "link": "https://share.libbyapp.com/title/11291304",
+    "title": "Northbound",
+    "description": "Alone in the wildernessAward-winning journalist Naomi Arnold spends nearly nine months walking the length of New Zealand on Te Araroa, fulfilling a 20-year dream. On her own, she traverses mountains, rivers, cities and plains from summer to spring, walking on through days of thick mud, blazing sun and lightning storms, and into cold, starlit nights. Along the way she encounters colourful locals and travellers who ...",
+    "authors": [
+      "Naomi Arnold"
+    ],
+    "publishedDate": "2025-04-16",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0293-1/{F8BDCE96-FB39-411A-BD03-3B26BAFA5490}IMG100.JPG",
+    "publisher": "HarperAudio",
+    "categories": [
+      "Nature",
+      "Sports & Recreations",
+      "Travel",
+      "Nonfiction"
+    ],
+    "format": "audiobook"
   }
 ]
