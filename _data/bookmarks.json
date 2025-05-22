@@ -5585,5 +5585,21 @@
       "linux"
     ],
     "waybackUrl": "http://web.archive.org/web/20250425023415/https://atthis.link/blog/2025/58671.html"
+  },
+  {
+    "title": "The revenge of Server Side Includes (SSI)",
+    "site": "",
+    "author": "Filip Hracek",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:10:30.511Z",
+    "description": "How a technology from 1993 makes so much sense for today's \"Indie Small Web\".",
+    "url": "https://filiph.net/text/the-revenge-of-server-side-includes.html",
+    "image": "",
+    "type": "article",
+    "notes": "Seeing a bit of chatter about the forgotten SSI recently. Filip shares how they're using SSI for templating locally to build static sites before publishing them",
+    "tags": [
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250509003232/https://filiph.net/text/the-revenge-of-server-side-includes.html"
   }
 ]
