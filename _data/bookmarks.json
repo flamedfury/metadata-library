@@ -5553,5 +5553,21 @@
       "webdev"
     ],
     "waybackUrl": "http://web.archive.org/web/20250521122534/https://justfuckingusehtml.com/"
+  },
+  {
+    "title": "You can just build a Steam Machine",
+    "site": "bret.io",
+    "author": "",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:06:30.732Z",
+    "description": "I built a Steam Machine and so can you!",
+    "url": "https://bret.io/blog/2025/you-can-just-build-a-steam-machine/",
+    "image": "",
+    "type": "object",
+    "notes": "Getting ready to do something similar with my own gaming desktop so this was a good read to help concrete my thought process.",
+    "tags": [
+      "gaming"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250514053257/https://bret.io/blog/2025/you-can-just-build-a-steam-machine/"
   }
 ]
