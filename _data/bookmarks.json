@@ -5620,5 +5620,25 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20250415084217/https://thejaymo.net/2019/12/14/114-please-for-the-love-of-blarg-start-a-blog/",
     "quote": "Your Twitter thread is great! But it is also ephemeral, temporal and easily forgotten. Start a damn Blog "
+  },
+  {
+    "title": "lmno.lol",
+    "site": "",
+    "author": "",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:15:42.979Z",
+    "description": "Wholesome blogs minus the yucky bits of the modern web",
+    "url": "https://lmno.lol/",
+    "image": "",
+    "type": "website",
+    "notes": "Another new small blogging service",
+    "tags": [
+      "web",
+      "smallweb",
+      "indieweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250501163916/https://lmno.lol/",
+    "quote": "  Wholesome blogs minus the yucky bits of the modern web"
   }
 ]
