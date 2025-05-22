@@ -5569,5 +5569,21 @@
       "gaming"
     ],
     "waybackUrl": "http://web.archive.org/web/20250514053257/https://bret.io/blog/2025/you-can-just-build-a-steam-machine/"
+  },
+  {
+    "title": "You Should Use /tmp/ More",
+    "site": "",
+    "author": "",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:09:01.001Z",
+    "description": "Thinking about how we can make computing better.",
+    "url": "https://atthis.link/blog/2025/58671.html",
+    "image": "",
+    "type": "website",
+    "notes": "Saw this one shared on the socials and thought it would be a neat trick to try and keep my home directory tidy",
+    "tags": [
+      "linux"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250425023415/https://atthis.link/blog/2025/58671.html"
   }
 ]
