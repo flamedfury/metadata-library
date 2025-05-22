@@ -5518,5 +5518,22 @@
       "web",
       "community"
     ]
+  },
+  {
+    "title": "Can Directories Rise Again? - The History of the Web",
+    "site": "The History of the Web",
+    "author": "Jay",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:00:46.514Z",
+    "description": "With search getting worse by the day, maybe it's time we rebounded in the other direction. The long forgotten directory.",
+    "url": "https://thehistoryoftheweb.com/can-directories-rise-again/",
+    "image": "",
+    "type": "article",
+    "notes": "Love a well maintained directory",
+    "tags": [
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250522003731/https://thehistoryoftheweb.com/can-directories-rise-again/",
+    "quote": "With search getting worse by the day, maybe it’s time we rebounded in the other direction. The long forgotten directory."
   }
 ]
