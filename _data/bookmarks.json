@@ -5535,5 +5535,23 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20250522003731/https://thehistoryoftheweb.com/can-directories-rise-again/",
     "quote": "With search getting worse by the day, maybe it’s time we rebounded in the other direction. The long forgotten directory."
+  },
+  {
+    "title": "Just fucking use HTML",
+    "site": "Just fucking use HTML",
+    "author": "",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:02:31.581Z",
+    "description": "Stop reinventing the wheel. The web was doing just fine before your bloated frameworks crawled out of the sewer.",
+    "url": "https://justfuckingusehtml.com",
+    "image": "",
+    "type": "website",
+    "notes": "Saw this one doing the rounds recently, bit tired of the way the message is delivered...",
+    "tags": [
+      "web",
+      "webmastery",
+      "webdev"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250521122534/https://justfuckingusehtml.com/"
   }
 ]
