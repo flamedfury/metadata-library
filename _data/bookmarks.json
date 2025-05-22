@@ -5657,5 +5657,23 @@
       "culture"
     ],
     "waybackUrl": "http://web.archive.org/web/20250514063011/https://www.youtube.com/watch?v=2z7kVH9xePM"
+  },
+  {
+    "title": "11tyCMS",
+    "site": "",
+    "author": "",
+    "date": "2025-05-22",
+    "timestamp": "2025-05-22T02:19:08.783Z",
+    "description": "",
+    "url": "https://thinkymeat.neocities.org/posts/11tycms/",
+    "image": "",
+    "type": "",
+    "notes": "Thinkymeat has a go at building an offline CMS for 11ty",
+    "tags": [
+      "webmastery",
+      "11ty"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250418072442/https://thinkymeat.neocities.org/posts/11tycms/",
+    "quote": "There's not a simple offline \"app\" for publishing on SSGs?!"
   }
 ]
