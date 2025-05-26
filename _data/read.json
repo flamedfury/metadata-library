@@ -5656,8 +5656,8 @@
       "libby": "11291304"
     },
     "dateStarted": "2025-05-21",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-11291304.png",
     "link": "https://share.libbyapp.com/title/11291304",
     "title": "Northbound",
@@ -5674,6 +5674,8 @@
       "Travel",
       "Nonfiction"
     ],
-    "format": "audiobook"
+    "format": "audiobook",
+    "dateFinished": "2025-05-26",
+    "notes": "Fantastic read. Naomi Arnold shares her story of walkinging the length of Aotearoa on the Te Araroa trail over nine months."
   }
 ]
