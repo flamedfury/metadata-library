@@ -5543,7 +5543,8 @@
       "Thriller"
     ],
     "format": "audiobook",
-    "duration": "PT9H11M"
+    "duration": "PT9H11M",
+    "notes": "This book follows the story of Tāmaki Makaurau's first serial killer and Hannah, the detective who is somehow related to the killers motives. Can she solve the case before more people are killed while also being a good mother?"
   },
   {
     "identifier": "11704292",
@@ -5596,7 +5597,8 @@
       "Thriller"
     ],
     "format": "audiobook",
-    "dateFinished": "2025-05-11"
+    "dateFinished": "2025-05-11",
+    "notes": "We're back with Hannah, now an ex detective who has moved back to her home town for a taste of the quiet life. But what's going on with the remains found in the sand dunes, and how do they relate to her past? Can she stay away or must she solve the case again?"
   },
   {
     "identifier": "11073895",
