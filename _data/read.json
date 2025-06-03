@@ -5686,8 +5686,8 @@
       "libby": "3540638"
     },
     "dateStarted": "2025-05-31",
-    "status": "started",
-    "rating": "unrated",
+    "status": "abandoned",
+    "rating": "⭐️",
     "image": "book-3540638.png",
     "link": "https://share.libbyapp.com/title/3540638",
     "title": "Radical Candor",
@@ -5705,6 +5705,8 @@
       "Nonfiction"
     ],
     "format": "audiobook",
-    "duration": "PT11H55M"
+    "duration": "PT11H55M",
+    "dateAbandoned": "2025-06-03",
+    "notes": "Silicon Valley drivel. Only started because I had this on my hold list for literal years. Don't bother"
   }
 ]
