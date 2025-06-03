@@ -5708,5 +5708,32 @@
     "duration": "PT11H55M",
     "dateAbandoned": "2025-06-03",
     "notes": "Silicon Valley drivel. Only started because I had this on my hold list for literal years. Don't bother"
+  },
+  {
+    "identifier": "11042773",
+    "identifiers": {
+      "libby": "11042773"
+    },
+    "dateStarted": "2025-06-03",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11042773.png",
+    "link": "https://share.libbyapp.com/title/11042773",
+    "title": "Carved in Blood",
+    "description": "THE GRIPPING NEW THRILLER FROM THE AWARD-WINNING AUTHOR OF BETTER THE BLOOD AND RETURN TO BLOOD. In the depths of the bleak New Zealand winter comes the rising of Matariki - a sacred constellation in Māori culture, heralding a time of new beginnings. For former Detective Senior Sergeant Hana Westerman, life is good: her work in her hometown of Tātā Bay is going well, the community is thriving, and her daughter...",
+    "authors": [
+      "Michael Bennett"
+    ],
+    "publishedDate": "2025-04-24",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/5054-1/{089B5091-CE9E-443C-B75B-1B38D7FAF50E}IMG100.JPG",
+    "publisher": "Simon & Schuster UK",
+    "categories": [
+      "Fiction",
+      "Mystery",
+      "Suspense",
+      "Thriller"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H26M"
   }
 ]
