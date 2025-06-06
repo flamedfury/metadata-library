@@ -5715,8 +5715,8 @@
       "libby": "11042773"
     },
     "dateStarted": "2025-06-03",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11042773.png",
     "link": "https://share.libbyapp.com/title/11042773",
     "title": "Carved in Blood",
@@ -5734,6 +5734,8 @@
       "Thriller"
     ],
     "format": "audiobook",
-    "duration": "PT8H26M"
+    "duration": "PT8H26M",
+    "dateFinished": "2025-06-05",
+    "notes": "Hana is back and this time the investigation is closer to home than ever before."
   }
 ]
