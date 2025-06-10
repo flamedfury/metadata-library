@@ -5737,5 +5737,32 @@
     "duration": "PT8H26M",
     "dateFinished": "2025-06-05",
     "notes": "Hana is back and this time the investigation is closer to home than ever before."
+  },
+  {
+    "identifier": "9026622",
+    "identifiers": {
+      "libby": "9026622"
+    },
+    "dateStarted": "2025-06-09",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9026622.png",
+    "link": "https://share.libbyapp.com/title/9026622",
+    "title": "A Broken Blade",
+    "description": "My body is made of scars,some were done to me,but most I did to myself.Keera is a killer. As the King’s Blade, she is the most talented spy in the kingdom. And the king’s favored assassin. When a mysterious figure moves against the Crown, Keera is called upon to hunt down the so-called Shadow.She tracks her target into the magical lands of the Fae, but Faeland is not what it seems - and neither is the Shadow. Keer...",
+    "authors": [
+      "Melissa Blair"
+    ],
+    "publishedDate": "2022-08-02",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/0887-1/{D5572819-0C47-4409-A6E2-0D700A428771}IMG100.JPG",
+    "publisher": "Blackstone Publishing",
+    "categories": [
+      "Fantasy",
+      "Fiction",
+      "Romance",
+      "Suspense"
+    ],
+    "format": "audiobook",
+    "duration": "PT13H21M"
   }
 ]
