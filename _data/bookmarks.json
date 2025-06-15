@@ -5833,5 +5833,24 @@
       "indieweb",
       "smallweb"
     ]
+  },
+  {
+    "title": "Don't Make a Blog, Make a Brain Dump",
+    "site": "",
+    "author": "",
+    "date": "2025-06-15",
+    "timestamp": "2025-06-15T22:00:21.046Z",
+    "description": "",
+    "url": "https://btxx.org/posts/dump/",
+    "image": "",
+    "type": "",
+    "notes": "Brad talks about the concept of a \"brain dump\" as a more approachable way to share personal experiences and thoughts without the pressures associated with traditional blogging.",
+    "tags": [
+      "web",
+      "blogging",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250409014032/https://btxx.org/posts/dump/"
   }
 ]
