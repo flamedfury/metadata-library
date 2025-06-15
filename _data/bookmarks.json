@@ -5852,5 +5852,23 @@
       "smallweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20250409014032/https://btxx.org/posts/dump/"
+  },
+  {
+    "title": "Building a Website Fit for 1999",
+    "site": "",
+    "author": "",
+    "date": "2025-06-15",
+    "timestamp": "2025-06-15T22:10:26.362Z",
+    "description": "Over the last week I’ve had a lot of fun building a little retro-themed\nwebsite that I’m hosting at home. Inspired by Ruben’s Retro Corner\nI’ve been meaning to do this for a while, and actually started on it in June\nlast year. More recently Joel Humphries shared on The Sizzle forum that he’d\nbuilt a little site that he was hosting at home on a Raspberry Pi. This\nreignited my interest in getting my own site up again. For the fun of it I\ndecided to implement it in HTML4 and serve it over plain HTTP so that it\nwould work on old computers.\n\n\n\n\n\n  \n  \n  \n  \n    \n  \n  \n  The site in IE 4.01 on Mac OS 8.1\n",
+    "url": "https://www.wezm.net/v2/posts/2025/website-fit-for-1999/",
+    "image": "",
+    "type": "article",
+    "notes": "Wes has built a retro website, with retro like hosting. What a fun project.",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250609011623/https://www.wezm.net/v2/posts/2025/website-fit-for-1999/"
   }
 ]
