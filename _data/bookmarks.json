@@ -5870,5 +5870,24 @@
       "smallweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20250609011623/https://www.wezm.net/v2/posts/2025/website-fit-for-1999/"
+  },
+  {
+    "title": "Making Space for a Handmade Web | Figma Blog",
+    "site": "Figma",
+    "author": "",
+    "date": "2025-06-15",
+    "timestamp": "2025-06-15T22:20:33.286Z",
+    "description": "There’s a resurgence of small, handcrafted sites challenging the current trajectory of the internet. Joining the movement is as simple as making your own.",
+    "url": "https://www.figma.com/blog/making-space-for-a-handmade-web/",
+    "image": "",
+    "type": "website",
+    "notes": "This article discusses the revival of personal, handcrafted websites as a counter to the commercialisation and uniformity of the modern internet. If only this was shared on a personal website rather than a commercial one?",
+    "tags": [
+      "web",
+      "indieweb",
+      "smallweb",
+      "history"
+    ],
+    "quote": "What if instead, there were millions of websites, each one handmade by a single person?"
   }
 ]
