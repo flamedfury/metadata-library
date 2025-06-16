@@ -5766,5 +5766,32 @@
     "duration": "PT13H21M",
     "dateFinished": "2025-06-15",
     "notes": "Was a slow start, but I eventually got into it and think I'm down to read the next three books. They sound like they will be one continuous story. "
+  },
+  {
+    "identifier": "11690126",
+    "identifiers": {
+      "libby": "11690126"
+    },
+    "dateStarted": "2025-06-15",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11690126.png",
+    "link": "https://share.libbyapp.com/title/11690126",
+    "title": "The Dream Hotel",
+    "description": "Bloomsbury presents The Dream Hotel by Laila Lalami, read by Frankie Corzo and Barton Caplan‘A gripping, Kafkaesque foray into an all-too-plausible future’ JENNIFER EGAN‘Extraordinary’ RUMAAN ALAM‘Absolutely unputdownable’ SANDRA NEWMANSara is returning home from a conference abroad when agents from the Risk Assessment Administration pull her aside at the airport. Using data from her dreams, their algorithm has de...",
+    "authors": [
+      "Laila Lalami"
+    ],
+    "publishedDate": "2025-03-04",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1559-1/{279A0806-29D8-4F33-B5DC-D06A353202AD}IMG100.JPG",
+    "publisher": "Bloomsbury Publishing",
+    "categories": [
+      "Fantasy",
+      "Fiction",
+      "Literature",
+      "Science Fiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT11H42M"
   }
 ]
