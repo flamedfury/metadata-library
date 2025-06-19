@@ -5773,8 +5773,8 @@
       "libby": "11690126"
     },
     "dateStarted": "2025-06-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-11690126.png",
     "link": "https://share.libbyapp.com/title/11690126",
     "title": "The Dream Hotel",
@@ -5792,6 +5792,8 @@
       "Science Fiction"
     ],
     "format": "audiobook",
-    "duration": "PT11H42M"
+    "duration": "PT11H42M",
+    "dateFinished": "2025-06-18",
+    "notes": "I really enjoyed The Dream Hotel, but it also unsettled me because the story was so believable. The world presented in The Dream Hotel is just a few steps removed from our current reality, and that made me feel really uncomfortable. The book takes a good look at surveillance, privacy and authoritarianism. "
   }
 ]
