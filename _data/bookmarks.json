@@ -5906,5 +5906,23 @@
       "indieweb",
       "culture"
     ]
+  },
+  {
+    "title": "You Can Make A Website",
+    "site": "",
+    "author": "Coyote",
+    "date": "2025-06-19",
+    "timestamp": "2025-06-19T05:02:37.242Z",
+    "description": "If you have any doubts, then you're the target audience of this guide.",
+    "url": "https://osteophage.neocities.org/essays/you-can-make-a-website",
+    "image": "",
+    "type": "post",
+    "notes": "Coyote has put together a comprehensive guide aimed at demystifying the process of creating a personal website for beginners. Filled with useful tips and links to other resources across the indie web.",
+    "tags": [
+      "webmastery",
+      "indieweb",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250609070715/https://osteophage.neocities.org/essays/you-can-make-a-website"
   }
 ]
