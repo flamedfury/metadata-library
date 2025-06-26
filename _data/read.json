@@ -5795,5 +5795,30 @@
     "duration": "PT11H42M",
     "dateFinished": "2025-06-18",
     "notes": "I really enjoyed The Dream Hotel, but it also unsettled me because the story was so believable. The world presented in The Dream Hotel is just a few steps removed from our current reality, and that made me feel really uncomfortable. The book takes a good look at surveillance, privacy and authoritarianism. "
+  },
+  {
+    "identifier": "11337691",
+    "identifiers": {
+      "libby": "11337691"
+    },
+    "dateStarted": "2025-06-24",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11337691.png",
+    "link": "https://share.libbyapp.com/title/11337691",
+    "title": "Wars Without End",
+    "description": "From the earliest days of European settlement in New Zealand, Maori have struggled to hold on to their land.Tensions began early, arising from disputed land sales. When open conflict between Maori and Imperial forces broke out in the 1840s and 1860s, the struggles only intensified. For both sides, land was at the heart of the conflict, one that casts a long shadow over race relations in modern-day New Zealand.Wars...",
+    "authors": [
+      "Danny Keenan"
+    ],
+    "publishedDate": "2024-12-03",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/2248-1/{2FE4CF05-3155-451C-A599-11A50A9E4FEB}IMG100.JPG",
+    "publisher": "Penguin Random House New Zealand",
+    "categories": [
+      "History",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT10H6M"
   }
 ]
