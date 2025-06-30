@@ -5802,8 +5802,8 @@
       "libby": "11337691"
     },
     "dateStarted": "2025-06-24",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11337691.png",
     "link": "https://share.libbyapp.com/title/11337691",
     "title": "Wars Without End",
@@ -5819,6 +5819,7 @@
       "Nonfiction"
     ],
     "format": "audiobook",
-    "duration": "PT10H6M"
+    "duration": "PT10H6M",
+    "dateFinished": "2025-06-30"
   }
 ]
