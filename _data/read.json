@@ -5821,5 +5821,30 @@
     "format": "audiobook",
     "duration": "PT10H6M",
     "dateFinished": "2025-06-30"
+  },
+  {
+    "identifier": "10180244",
+    "identifiers": {
+      "libby": "10180244"
+    },
+    "dateStarted": "2025-06-30",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10180244.png",
+    "link": "https://share.libbyapp.com/title/10180244",
+    "title": "Annie Bot",
+    "description": "A TIMES BOOK OF THE MONTH A GUARDIAN SCI-FI BOOK OF THE MONTH A JIMMY FALLON SPRING FAVOURITE SHORTLISTED FOR THE ARTHUR C. CLARKE AWARD A HARPER’S BAZAAR ‘BEST BOOK OF 2024’ AUDIBLE BEST OF THE MONTH AMAZON ‘BEST OF MARCH’ PICK ESQUIRE’S ‘BEST BOOKS OF 2024 (SO FAR)’ A ‘MOST ANTICIPATED NOVEL’ FOR GOODREADS AND READER’S DIGEST She’s human in every way that matters. Annie is the perfect girlfriend. She has dinn...",
+    "authors": [
+      "Sierra Greer"
+    ],
+    "publishedDate": "2024-03-14",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0292-1/{A34F757B-5427-4B50-ADA8-96379BAE10F9}IMG100.JPG",
+    "publisher": "HarperCollins Publishers",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT9H31M"
   }
 ]
