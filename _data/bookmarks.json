@@ -5924,5 +5924,21 @@
       "smallweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20250609070715/https://osteophage.neocities.org/essays/you-can-make-a-website"
+  },
+  {
+    "title": "Homestead the Web · Caolan",
+    "site": "",
+    "author": "",
+    "date": "2025-07-02",
+    "timestamp": "2025-07-02T08:29:58.270Z",
+    "description": "",
+    "url": "https://caolan.uk/notes/2025-06-30_homestead_the_web.cm",
+    "image": "",
+    "type": "",
+    "notes": "Rather than co-opting social media design, Caolan reminds us that we don't need to mimick when we already have all the control and freedom we need with our own websites. ",
+    "tags": [
+      "web",
+      "indieweb"
+    ]
   }
 ]
