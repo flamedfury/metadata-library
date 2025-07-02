@@ -5828,8 +5828,8 @@
       "libby": "10180244"
     },
     "dateStarted": "2025-06-30",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-10180244.png",
     "link": "https://share.libbyapp.com/title/10180244",
     "title": "Annie Bot",
@@ -5845,6 +5845,8 @@
       "Literature"
     ],
     "format": "audiobook",
-    "duration": "PT9H31M"
+    "duration": "PT9H31M",
+    "dateFinished": "2025-07-02",
+    "notes": "I'll comment on this later"
   }
 ]
