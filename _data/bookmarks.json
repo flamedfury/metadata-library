@@ -6026,5 +6026,22 @@
       "web",
       "search"
     ]
+  },
+  {
+    "title": "The Search For My First Website",
+    "site": "TribesmanJohn.au",
+    "author": "",
+    "date": "2025-07-29",
+    "timestamp": "2025-07-29T22:03:53.451Z",
+    "description": "I have been online for the better part of 30 years, and as you might expect it’s inevitable that as some who enjoys making online content that I will have some form of digital footprint as a …",
+    "url": "https://blog.tribesmanjohn.au/2025/07/the-search-for-my-first-website/",
+    "image": "",
+    "type": "article",
+    "notes": "TribesmanJohn goes searching for their original website",
+    "tags": [
+      "web",
+      "indieweb",
+      "nostalgia"
+    ]
   }
 ]
