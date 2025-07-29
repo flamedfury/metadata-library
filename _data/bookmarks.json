@@ -6061,5 +6061,23 @@
       "blogging"
     ],
     "waybackUrl": "http://web.archive.org/web/20250713075931/https://readbeanicecream.surge.sh/2025/07/03/the-indie-web-has-got-me-down/"
+  },
+  {
+    "title": "Writing HTML, Writing the Web, Righting the Web",
+    "site": "CogDogBlog",
+    "author": "",
+    "date": "2025-07-29",
+    "timestamp": "2025-07-29T22:09:57.513Z",
+    "description": "Come sit around the campfire for more old web person stories. As it was when I landed on the web in 1993, I am always thinking about the making, the literal weaving as the master wrote, of the web.…",
+    "url": "https://cogdogblog.com/2025/07/writing-html/",
+    "image": "",
+    "type": "article",
+    "notes": "cogdog reflects on their early days on the web, starting in 1993, and their passion for HTML, a foundation of the web.",
+    "tags": [
+      "web",
+      "indieweb",
+      "nostalgia",
+      "webdev"
+    ]
   }
 ]
