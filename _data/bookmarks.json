@@ -6010,5 +6010,21 @@
       "indieweb",
       "culture"
     ]
+  },
+  {
+    "title": "Finding Dead Websites",
+    "site": "",
+    "author": "",
+    "date": "2025-07-29",
+    "timestamp": "2025-07-29T22:00:51.443Z",
+    "description": "As some of the work planned for Marginalia Search this year has been progressing a bit faster than anticipated, there was time to implement an unplanned change.\nThis post details the implementation of a system for detecting when servers are online, to avoid serving dead links and improve data quality, and for detecting when websites have significant changes including ownership transfers and parking.\nTable Of Contents Feature Rationale Data Representation Live Data Event Data Change Detection Details Availability Detection Ownership Changes DNS Implementation Hurdles Scheduling Certificate Validation Conclusions Feature Rationale Availability detection is useful not just for filtering out dead links in the search results, but for informing the crawler that it should stop trying to reach a dead domain, as well as a host of other things.",
+    "url": "https://www.marginalia.nu/log/a_122_dead_websites/",
+    "image": "",
+    "type": "article",
+    "notes": "An interesting look at how marginalia detects dead websites to avoid serving dead links",
+    "tags": [
+      "web",
+      "search"
+    ]
   }
 ]
