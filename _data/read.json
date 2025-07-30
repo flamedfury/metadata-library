@@ -5848,5 +5848,32 @@
     "duration": "PT9H31M",
     "dateFinished": "2025-07-02",
     "notes": "I'll comment on this later"
+  },
+  {
+    "identifier": "11154803",
+    "identifiers": {
+      "libby": "11154803",
+      "isbn": "9780063318939"
+    },
+    "dateStarted": "2025-07-30",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11154803.png",
+    "link": "https://share.libbyapp.com/title/11154803",
+    "title": "Fahrenheit-182",
+    "description": "***The Instant #1 New York Times Bestseller!***A smart, funny, and refreshing memoir from Mark Hoppus, the vocalist, bassist, and founding member of pop-punk band blink-182.This is the story of an angst-filled kid from the desert, navigating the chaos of his parents' bitter divorce and searching for his place in the world. Each move across the country was a chance to reinvent himself, switching identities from dor...",
+    "authors": [
+      "Mark Hoppus"
+    ],
+    "publishedDate": "2025-04-08",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0293-1/{EB5D5707-4356-42BA-AA9E-F920CF3A380C}IMG100.JPG",
+    "publisher": "HarperCollins",
+    "categories": [
+      "Biography & Autobiography",
+      "Music",
+      "Nonfiction"
+    ],
+    "format": "ebook",
+    "duration": "PT7H13M"
   }
 ]
