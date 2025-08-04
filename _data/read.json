@@ -5856,8 +5856,8 @@
       "isbn": "9780063318939"
     },
     "dateStarted": "2025-07-30",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11154803.png",
     "link": "https://share.libbyapp.com/title/11154803",
     "title": "Fahrenheit-182",
@@ -5874,6 +5874,8 @@
       "Nonfiction"
     ],
     "format": "ebook",
-    "duration": "PT7H13M"
+    "duration": "PT7H13M",
+    "dateFinished": "2025-08-01",
+    "notes": "Fahrenheit 187 by Mark Hoppus offers an honest, entertaining, and heartfelt look into the life of the Blink-182 frontman Mark Hoppus, narrated by himself. The book recollects his formative years, the rise of Blink-182, the band’s huge success, and the fallout with Tom DeLonge. He dives deeply into his battle with cancer and eventually reconsilling with Tom to reuinite the band. A great read/listen/"
   }
 ]
