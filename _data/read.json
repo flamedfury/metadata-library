@@ -5877,5 +5877,32 @@
     "duration": "PT7H13M",
     "dateFinished": "2025-08-01",
     "notes": "Fahrenheit 187 by Mark Hoppus offers an honest, entertaining, and heartfelt look into the life of the Blink-182 frontman Mark Hoppus, narrated by himself. The book recollects his formative years, the rise of Blink-182, the band’s huge success, and the fallout with Tom DeLonge. He dives deeply into his battle with cancer and eventually reconsilling with Tom to reuinite the band. A great read/listen/"
+  },
+  {
+    "identifier": "11025012",
+    "identifiers": {
+      "libby": "11025012",
+      "isbn": "9781964721156"
+    },
+    "dateStarted": "2025-08-04",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11025012.png",
+    "link": "https://share.libbyapp.com/title/11025012",
+    "title": "Of Monsters and Mainframes",
+    "description": "Spaceships aren’t programmed to seek revenge - but for Dracula, Demeter will make an exception.Demeter just wants to do her job: shuttling humans between Earth and Alpha Centauri. Unfortunately, her passengers keep dying - and not from equipment failures, as her AI medical system, Steward, would have her believe. These are paranormal murders, and they began when one nasty, ancient vampire decided to board Demeter ...",
+    "authors": [
+      "Barbara Truelove"
+    ],
+    "publishedDate": "2025-06-03",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/6852-1/{6284C8BE-D3FB-4F7F-9E0B-40A7675D11B5}IMG100.JPG",
+    "publisher": "Bindery Books",
+    "categories": [
+      "Fiction",
+      "Horror",
+      "Science Fiction",
+      "Humor (Fiction)"
+    ],
+    "format": "ebook"
   }
 ]
