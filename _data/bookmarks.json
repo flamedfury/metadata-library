@@ -6079,5 +6079,22 @@
       "nostalgia",
       "webdev"
     ]
+  },
+  {
+    "title": "Seeing A Different Web",
+    "site": "Matt's Blog",
+    "author": "",
+    "date": "2025-08-10",
+    "timestamp": "2025-08-10T21:55:49.889Z",
+    "description": "When I first used the Internet, way back in the mid-90s, it wasn’t really a thing people thought about. It wasn’t a big deal, because most people didn’t even have it. If you wanted to use the Internet, if you even had a reason to do so, you had to go somewhere else to do it. The library or your school. It wasn’t until 2001 or 2002 that I finally got dial up at my house. And I know that my experiences there aren’t all that unusual. You can look up the stats if you want, but the saturation of Internet in private households didn’t take off until the mid-00s.\n",
+    "url": "https://mtwb.blog/posts/2025/tech/seeing-a-different-web/",
+    "image": "",
+    "type": "article",
+    "notes": "Matt’s post talks about how the return to the \"small web\" or \"IndieWeb\" has allowed new surfers to  recapture the original sense of community and direct interaction of the early days of the web, before social media and the five websites.",
+    "tags": [
+      "web",
+      "indieweb",
+      "nostalgia"
+    ]
   }
 ]
