@@ -5906,5 +5906,31 @@
     "format": "ebook",
     "dateAbandoned": "2025-08-07",
     "notes": "I didn't particularly care for the story and the voice acting was way too much for me."
+  },
+  {
+    "identifier": "3093027",
+    "identifiers": {
+      "libby": "3093027",
+      "isbn": "9781616207724"
+    },
+    "dateStarted": "2025-08-10",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-3093027.png",
+    "link": "https://share.libbyapp.com/title/3093027",
+    "title": "Young Jane Young",
+    "description": "FROM THE NEW YORK TIMES BESTSELLING AUTHOR OF TOMORROW, AND TOMORROW, AND TOMORROW AND THE STORIED LIFE OF A. J. FIKRY “SLY, EXHILARATING… HILARIOUS.” - People (Book of the Week) “BRILLIANT AND HILARIOUS.” - Chicago Tribune This is the story of five women… Meet Rachel Grossman. She’ll stop at nothing to protect her daughter, Aviva, even if it ends up costing her everything. Meet Jane Young. She’s disru...",
+    "authors": [
+      "Gabrielle Zevin"
+    ],
+    "publishedDate": "2017-08-22",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/0017-1/{DB52249C-59E5-4317-B6D0-CE08AA683E3B}IMG100.JPG",
+    "publisher": "Little, Brown and Company",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "ebook",
+    "duration": "PT8H18M"
   }
 ]
