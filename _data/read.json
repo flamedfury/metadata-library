@@ -5885,8 +5885,8 @@
       "isbn": "9781964721156"
     },
     "dateStarted": "2025-08-04",
-    "status": "started",
-    "rating": "unrated",
+    "status": "abandoned",
+    "rating": "⭐️⭐️",
     "image": "book-11025012.png",
     "link": "https://share.libbyapp.com/title/11025012",
     "title": "Of Monsters and Mainframes",
@@ -5903,6 +5903,8 @@
       "Science Fiction",
       "Humor (Fiction)"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateAbandoned": "2025-08-07",
+    "notes": "I didn't particularly care for the story and the voice acting was way too much for me."
   }
 ]
