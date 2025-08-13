@@ -5914,8 +5914,8 @@
       "isbn": "9781616207724"
     },
     "dateStarted": "2025-08-10",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-3093027.png",
     "link": "https://share.libbyapp.com/title/3093027",
     "title": "Young Jane Young",
@@ -5931,6 +5931,8 @@
       "Literature"
     ],
     "format": "ebook",
-    "duration": "PT8H18M"
+    "duration": "PT8H18M",
+    "dateFinished": "2025-08-13",
+    "notes": "This is a story about a young woman whose political scandal forces her to reinvent herself. The book explores the ripple effects of choices, shame, and resilience. Told through multiple perspectives, fantastic read."
   }
 ]
