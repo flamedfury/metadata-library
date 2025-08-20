@@ -5934,5 +5934,30 @@
     "duration": "PT8H18M",
     "dateFinished": "2025-08-13",
     "notes": "This is a story about a young woman whose political scandal forces her to reinvent herself. The book explores the ripple effects of choices, shame, and resilience. Told through multiple perspectives, fantastic read."
+  },
+  {
+    "identifier": "3652872",
+    "identifiers": {
+      "libby": "3652872"
+    },
+    "dateStarted": "2025-08-20",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-3652872.png",
+    "link": "https://share.libbyapp.com/title/3652872",
+    "title": "Product Management in Practice",
+    "description": "Product management has become a critical connective role for modern organizations, from small technology startups to global corporate enterprises. And yet the day-to-day work of product management remains largely misunderstood. In theory, product management is about building products that people love. The real-world practice of product management is often about difficult conversations, practical compromises, and h...",
+    "authors": [
+      "Matt LeMay"
+    ],
+    "publishedDate": "2017-11-08",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/2858-1/{03E4E0E8-7585-4FE6-BD4D-BBC4FE014AEC}Img100.jpg",
+    "publisher": "O'Reilly Media",
+    "categories": [
+      "Computer Technology",
+      "Nonfiction"
+    ],
+    "format": "ebook",
+    "duration": "PT10H11M"
   }
 ]
