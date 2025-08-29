@@ -5959,5 +5959,32 @@
     ],
     "format": "ebook",
     "duration": "PT10H11M"
+  },
+  {
+    "identifier": "11878354",
+    "identifiers": {
+      "libby": "11878354"
+    },
+    "dateStarted": "2025-08-28",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11878354.png",
+    "link": "https://share.libbyapp.com/title/11878354",
+    "title": "A Beautiful Family",
+    "description": "QVB FICTION BOOK OF THE MONTH BOOKTOPIA BOOK OF THE MONTH As the long summer holiday stretches ahead, with her older sister more interested in boys, her mother disappearing on long walks and her father, beer in hand, watching the cricket, the youngest in the family often finds herself alone. At the beach, she meets Kahu, a boy who tells her a tragic story. A couple of years ago, a little girl went missing, p...",
+    "authors": [
+      "Jennifer Trevelyan"
+    ],
+    "publishedDate": "2025-07-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/7723-1/{F6ECCECE-3350-469F-A338-F9C02176D658}IMG100.JPG",
+    "publisher": "W. F. Howes Ltd",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Mystery",
+      "Thriller"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H11M"
   }
 ]
