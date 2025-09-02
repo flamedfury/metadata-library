@@ -5966,8 +5966,8 @@
       "libby": "11878354"
     },
     "dateStarted": "2025-08-28",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11878354.png",
     "link": "https://share.libbyapp.com/title/11878354",
     "title": "A Beautiful Family",
@@ -5985,6 +5985,8 @@
       "Thriller"
     ],
     "format": "audiobook",
-    "duration": "PT8H11M"
+    "duration": "PT8H11M",
+    "dateFinished": "2025-09-02",
+    "notes": "A Beautiful Family is told through the eyes of a ten year old girl over the summer of 85/86 on the beach in the Kāpiti Coast. What starts as kids and holidays slowly hints at something darker, a drowning, an affair, creepy neighbours, parenting on edge, and a death."
   }
 ]
