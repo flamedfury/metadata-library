@@ -6147,5 +6147,24 @@
       "indieweb",
       "blogging"
     ]
+  },
+  {
+    "title": "blog comments - Jayeless.net",
+    "site": "Jayeless.net",
+    "author": "",
+    "date": "2025-09-03",
+    "timestamp": "2025-09-03T22:17:54.047Z",
+    "description": "Once upon a time, pretty much everyone who had a blog accepted comments on that blog.",
+    "url": "https://www.jayeless.net/blog-comments",
+    "image": "",
+    "type": "website",
+    "notes": "Jessica Smith goes deep into blog comments",
+    "tags": [
+      "web",
+      "indieweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250815161154/https://www.jayeless.net/blog-comments",
+    "quote": "Once upon a time, pretty much everyone who had a blog accepted comments on that blog"
   }
 ]
