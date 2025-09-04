@@ -6682,5 +6682,24 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20250815161154/https://www.jayeless.net/blog-comments",
     "quote": "Once upon a time, pretty much everyone who had a blog accepted comments on that blog"
+  },
+  {
+    "title": "Breaking Free from Social Media Silos",
+    "site": "D-INTEGRATION | Provisional Musings on Meaning",
+    "author": "Luke Sebastian Scalone",
+    "date": "2025-09-04",
+    "timestamp": "2025-09-04T02:13:18.522Z",
+    "description": "Why escape social media silos? A personal journey from social media burnout to the IndieWeb reveals what we've lost to algorithms and ads.",
+    "url": "https://d-integration.org/breaking-free-from-social-media-silos/",
+    "image": "",
+    "type": "article",
+    "notes": "Luke discovers the indie web and discusses the struggle of being out of touch when it seems like most of society exists on facebook rather than the web.",
+    "tags": [
+      "web",
+      "indieweb",
+      "personalweb",
+      "smallweb",
+      "culture"
+    ]
   }
 ]
