@@ -6701,5 +6701,24 @@
       "smallweb",
       "culture"
     ]
+  },
+  {
+    "title": "Bringing Back the Blogroll",
+    "site": "D-INTEGRATION | Provisional Musings on Meaning",
+    "author": "Luke Sebastian Scalone",
+    "date": "2025-09-04",
+    "timestamp": "2025-09-04T20:55:20.889Z",
+    "description": "Why choose authentic web connection over SEO? Discover how blogrolls foster genuine digital community in an algorithm-driven world.",
+    "url": "https://d-integration.org/bringing-back-the-blogroll/",
+    "image": "",
+    "type": "article",
+    "notes": "Luke wonders about the Blogroll and ends up slapping it on the homepage sidebar after some inspiration",
+    "tags": [
+      "blogging",
+      "personalweb",
+      "web",
+      "indieweb",
+      "smallweb"
+    ]
   }
 ]
