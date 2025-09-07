@@ -5963,5 +5963,30 @@
     "duration": "PT8H11M",
     "dateFinished": "2025-09-02",
     "notes": "A Beautiful Family is told through the eyes of a ten year old girl over the summer of 85/86 on the beach in the Kāpiti Coast. What starts as kids and holidays slowly hints at something darker, a drowning, an affair, creepy neighbours, parenting on edge, and a death."
+  },
+  {
+    "identifier": "11531911",
+    "identifiers": {
+      "libby": "11531911"
+    },
+    "dateStarted": "2025-09-07",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11531911.png",
+    "link": "https://share.libbyapp.com/title/11531911",
+    "title": "A Different Kind of Power",
+    "description": "Audiobook narrated by Jacinda Ardern.What if we could redefine leadership? What if kindness came first? Jacinda Ardern grew up the daughter of a police officer in small-town New Zealand, but as the 40th Prime Minister of her country, she commanded global respect for her empathetic leadership that put people first. This is the remarkable story of how a Mormon girl plagued by self-doubt made political history and ch...",
+    "authors": [
+      "Jacinda Ardern"
+    ],
+    "publishedDate": "2025-06-03",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/2248-1/{B800861F-28C4-492E-9F92-E317E507D2BA}IMG100.JPG",
+    "publisher": "Penguin Random House New Zealand",
+    "categories": [
+      "Biography & Autobiography",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT12H5M"
   }
 ]
