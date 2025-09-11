@@ -5970,8 +5970,8 @@
       "libby": "11531911"
     },
     "dateStarted": "2025-09-07",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11531911.png",
     "link": "https://share.libbyapp.com/title/11531911",
     "title": "A Different Kind of Power",
@@ -5987,6 +5987,8 @@
       "Nonfiction"
     ],
     "format": "audiobook",
-    "duration": "PT12H5M"
+    "duration": "PT12H5M",
+    "dateFinished": "2025-09-10",
+    "notes": "An insightful look into Jacinda Ardern’s early life and political journey, from her first steps in activism through to becoming Prime Minister. I’ve long admired her leadership and compassion, and appreciated how she guided the country through one crisis after another. A strong reminder of what made her such a respected leader."
   }
 ]
