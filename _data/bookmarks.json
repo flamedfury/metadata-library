@@ -6760,5 +6760,25 @@
     ],
     "waybackUrl": "http://web.archive.org/web/20250831190244/https://thehistoryoftheweb.com/do-blogs-need-to-be-so-lonely/",
     "quote": "If the web is participatory, and I really think it is, then how come blogging can feel so lonely?"
+  },
+  {
+    "title": "Curate your own newspaper with RSS",
+    "site": "Citation Needed",
+    "author": "",
+    "date": "2025-09-12",
+    "timestamp": "2025-09-12T08:13:02.025Z",
+    "description": "Escape newsletter inbox chaos and algorithmic surveillance by building your own enshittification-proof newspaper from the writers you already read",
+    "url": "https://www.citationneeded.news/curate-with-rss/",
+    "image": "",
+    "type": "article",
+    "notes": "Molly White wants us to escape newsletter inbox chaos and algorithmic surveillance by building your own enshittification-proof newspaper from the writers you already read",
+    "tags": [
+      "indieweb",
+      "web",
+      "personalweb",
+      "smallweb",
+      "blogging",
+      "tech"
+    ]
   }
 ]
