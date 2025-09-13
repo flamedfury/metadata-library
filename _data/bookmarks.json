@@ -6780,5 +6780,27 @@
       "blogging",
       "tech"
     ]
+  },
+  {
+    "title": "Why you should get (back) into RSS curation.",
+    "site": "Literary  Hub",
+    "author": "",
+    "date": "2025-09-13",
+    "timestamp": "2025-09-13T00:32:50.538Z",
+    "description": "Right after college, I moved to San Francisco, a city where I knew one person. I had a lonely time at first, and in particular I struggled to stay connected to the friends I no longer shared a camp…",
+    "url": "https://lithub.com/why-you-should-get-back-into-rss-curation/",
+    "image": "",
+    "type": "article",
+    "notes": "Another take on rediscovering RSS as a way to take control of what you read online, curating a personal, intentional feed instead of relying on algorithm-driven platforms",
+    "tags": [
+      "indieweb",
+      "web",
+      "personalweb",
+      "blogging",
+      "smallweb",
+      "culture",
+      "tech"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250910190739/https://lithub.com/why-you-should-get-back-into-rss-curation/"
   }
 ]
