@@ -8,9 +8,6 @@ on:
         description: The URL to bookmark.
         required: true
         type: string
-      quote:
-        description: Add a quote from the bookmark. Optional.
-        type: string
       notes:
         description: Notes about the bookmark.
         type: string
@@ -35,7 +32,7 @@ jobs:
         uses: library-pals/bookmark-action@v7.0.2
         with:
           fileName: _data/bookmarks.json
-          additional-properties: quote,notes,tags,date
+          additional-properties: notes,tags
           export-image: false
       - name: Commit files
         run: |
