@@ -6862,22 +6862,5 @@
       "culture",
       "blogging"
     ]
-  },
-  {
-    "title": "fLaMEd fury",
-    "site": "fLaMEd fury",
-    "author": "",
-    "date": "2025-09-15",
-    "timestamp": "2025-09-15T06:46:45.940Z",
-    "description": "What&#39;s going on Internet?",
-    "url": "https://flamedfury.com/",
-    "image": "",
-    "type": "website",
-    "notes": "This is my super awesome website",
-    "tags": [
-      "web",
-      "indieweb",
-      "culture"
-    ]
   }
 ]
