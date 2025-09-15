@@ -31,9 +31,9 @@ jobs:
       - name: Bookmark action
         uses: library-pals/bookmark-action@v7.0.2
         with:
-          fileName: _data/bookmarks.json
-          additional-properties: notes,tags
+          filename: _data/bookmarks.json
           export-image: false
+          # additional-properties: rating, quote
       - name: Commit files
         run: |
           git pull
