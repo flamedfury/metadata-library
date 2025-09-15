@@ -6842,21 +6842,5 @@
       "culture",
       "nostalgia"
     ]
-  },
-  {
-    "title": "Example Domain",
-    "site": "",
-    "author": "",
-    "date": "2025-09-15",
-    "timestamp": "2025-09-15T01:59:24.988Z",
-    "description": "",
-    "url": "https://example.com",
-    "image": "",
-    "type": "",
-    "tags": [
-      "personalweb",
-      "indieweb"
-    ],
-    "waybackUrl": "http://web.archive.org/web/20250912125958/https://example.com/"
   }
 ]
