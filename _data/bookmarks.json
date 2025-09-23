@@ -6883,5 +6883,26 @@
       ""
     ],
     "waybackUrl": "http://web.archive.org/web/20250811080432/https://nothingoriginalhere.com/posts/personal-blogs-are-the-best-i-love-yours-and-ill-try-and-tell-you-why"
+  },
+  {
+    "title": "bstn - RSS manifesto",
+    "site": "",
+    "author": "",
+    "date": "2025-09-23",
+    "timestamp": "2025-09-23T08:30:32.451Z",
+    "description": "Every day, we use an average of a dozen or so apps on our …",
+    "url": "https://bstn.info/2025/08/03/rss-manifesto.html",
+    "image": "",
+    "type": "",
+    "notes": "An RSS manifesto arguing for a return to open web standards and personal curation instead of algorithm-driven feeds",
+    "tags": [
+      "indieweb",
+      "web",
+      "personalweb",
+      "blogging",
+      "smallweb",
+      "tech",
+      "culture"
+    ]
   }
 ]
