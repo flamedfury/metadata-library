@@ -6904,5 +6904,26 @@
       "tech",
       "culture"
     ]
+  },
+  {
+    "title": "The HTML Hobbyist",
+    "site": "",
+    "author": "",
+    "date": "2025-09-24",
+    "timestamp": "2025-09-24T21:58:18.047Z",
+    "description": "Learning HTML to build your website, fanzine, or personal site.",
+    "url": "https://www.htmlhobbyist.com/",
+    "image": "",
+    "type": "",
+    "notes": "A personal website by HTML hobbyist, Nathan, sharing simple HTML, CSS, and RSS tutorials based on courses they taught at Berkley Computer Training between 1997-2003",
+    "tags": [
+      "web",
+      "personalweb",
+      "smallweb",
+      "blogging",
+      "nostalgia",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250815162936/https://www.htmlhobbyist.com/"
   }
 ]
