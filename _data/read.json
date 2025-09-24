@@ -5997,8 +5997,8 @@
       "apple": "id1688937882"
     },
     "dateStarted": "2025-09-14",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-id1688937882.png",
     "link": "https://libro.fm/audiobooks/9780593910719-toxic",
     "title": "Toxic",
@@ -6012,6 +6012,8 @@
       "Non-Fiction"
     ],
     "format": "audiobook",
-    "duration": "PT9H23M15S"
+    "duration": "PT9H23M15S",
+    "dateFinished": "2025-09-24",
+    "notes": "I enjoyed reading this one; it covers such an interesting time period, the author describes as the “upskirt decade,” beginning with Britney Spears and her breakout hit …Baby One More Time and ending with Robin Thicke’s Blurred Lines. Growing up in my early teens, I was really into this kind of pop culture. I engaged with the music videos, photoshoots, and magazines, as well as the gossip blogs, without really considering what might have been happening to the people on the other end. I was always a fan; I never hated anyone. But how much of the way I consumed this media, so normalised at the time, was toxic?"
   }
 ]
