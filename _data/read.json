@@ -6015,5 +6015,31 @@
     "duration": "PT9H23M15S",
     "dateFinished": "2025-09-24",
     "notes": "I enjoyed reading this one; it covers such an interesting time period, the author describes as the “upskirt decade,” beginning with Britney Spears and her breakout hit …Baby One More Time and ending with Robin Thicke’s Blurred Lines. Growing up in my early teens, I was really into this kind of pop culture. I engaged with the music videos, photoshoots, and magazines, as well as the gossip blogs, without really considering what might have been happening to the people on the other end. I was always a fan; I never hated anyone. But how much of the way I consumed this media, so normalised at the time, was toxic?"
+  },
+  {
+    "identifier": "11520198",
+    "identifiers": {
+      "libby": "11520198"
+    },
+    "dateStarted": "2025-09-28",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11520198.png",
+    "link": "https://share.libbyapp.com/title/11520198",
+    "title": "Glass Barbie",
+    "description": "‘Cockroach’ Karl Copley, a crackhead crim with a small brain and a big mouth, convinces his former best friend Richie McMullan - now a squeaky-clean senior cop - he can help rescue Barbara ‘Barbie’ Konstantinou, a high school crush apparently held for ransom by bikers in New Zealand’s sunny north.Problems pile up quickly, though, when Barbie doesn’t want to go back to her effed-up family and it emerges there’s muc...",
+    "authors": [
+      "Michael Botur"
+    ],
+    "publishedDate": "2025-01-12",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/7552-1/{B472DBDE-18AC-4EC3-BB52-7B0E94B14DC8}IMG100.JPG",
+    "publisher": "Lasavia Publishing",
+    "categories": [
+      "Fiction",
+      "Mystery",
+      "Thriller"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H6M"
   }
 ]
