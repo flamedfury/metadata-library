@@ -6961,5 +6961,22 @@
       "tech",
       "culture"
     ]
+  },
+  {
+    "title": "Understanding, not slop, is what’s interesting about LLMs - blakewatson.com",
+    "site": "",
+    "author": "",
+    "date": "2025-09-30",
+    "timestamp": "2025-09-30T22:36:54.679Z",
+    "description": "LLMs don't actually understand us. But, maybe a facsimile of understanding is good enough to make computers easier for everyone.",
+    "url": "https://www.blakewatson.com/journal/understanding-not-slop-is-whats-interesting-about-llms/",
+    "image": "",
+    "type": "",
+    "notes": "Blake Watson takes a look at LLMs and where the real value isn’t in the flood of AI generated content, but in understanding how they work to simplify human-computer interaction ",
+    "tags": [
+      "web",
+      "tech",
+      "culture"
+    ]
   }
 ]
