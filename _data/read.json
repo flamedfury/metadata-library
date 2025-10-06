@@ -6043,5 +6043,31 @@
     "duration": "PT8H6M",
     "dateFinished": "2025-09-29",
     "notes": "Glass Barbie was a fun read that got me thinking more about the concept of the \"unreliable narrator\" in books. I listened to the audiobook, which is read by Botur himself. The delivery was rough, but in a way, it suited the narrator's voice perfectly. I imagine this would be a tough read for those unfamiliar with Kiwi culture."
+  },
+  {
+    "identifier": "11326795",
+    "identifiers": {
+      "libby": "11326795"
+    },
+    "dateStarted": "2025-10-06",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11326795.png",
+    "link": "https://share.libbyapp.com/title/11326795",
+    "title": "The Seasonwife",
+    "description": "Feels, Bridie does, the spirit of herself wakening. A song under her, an ancient walking song, a cold, dark path song, a wending home to the hearth song. Always she has felt it, the unstoppable surge of it, the urge to wander to places secret, hidden from merchants and traders and hunters and missionary men, from all the struggling women and children, from all the toffs and pretenders and all the matters of busine...",
+    "authors": [
+      "Saige England"
+    ],
+    "publishedDate": "2024-07-03",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/7552-1/{B8F4EAB1-F329-4D67-ABC2-2481CE37E0FD}IMG100.JPG",
+    "publisher": "Bateman Books",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Historical Fiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H34M"
   }
 ]
