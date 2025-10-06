@@ -6978,5 +6978,22 @@
       "tech",
       "culture"
     ]
+  },
+  {
+    "title": "RSS - Jayeless.net",
+    "site": "Jayeless.net",
+    "author": "",
+    "date": "2025-10-06",
+    "timestamp": "2025-10-06T22:32:16.023Z",
+    "description": "RSS is an open standard which lets you subscribe to feeds of new content published on a site.",
+    "url": "https://www.jayeless.net/rss",
+    "image": "",
+    "type": "website",
+    "notes": "Another RSS post! Jayeless gives us a rundown on what RSS is, why it still matters and how to use ot to follow blogs and websites.",
+    "tags": [
+      "indieweb",
+      "web",
+      "tech"
+    ]
   }
 ]
