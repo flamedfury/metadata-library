@@ -6995,5 +6995,23 @@
       "web",
       "tech"
     ]
+  },
+  {
+    "title": "Blogging psuedo-anonymously",
+    "site": "",
+    "author": "",
+    "date": "2025-10-07",
+    "timestamp": "2025-10-07T00:16:31.173Z",
+    "description": "Running a blog is hard, but writing psuedo-anonymously makes it a bit easier and takes some of the pressure off.",
+    "url": "https://ersatz.website/~mattyblog/posts/blogging-pseudo-anonymously/",
+    "image": "",
+    "type": "",
+    "notes": "Matty reflects on blogging under a pseudonym. I can relate as I do the same. I don’t need my website to build a personal brand. I do wonder whether just sharing a bit of myself my help people relate more?",
+    "tags": [
+      "indieweb",
+      "blogging",
+      "personalweb",
+      "culture"
+    ]
   }
 ]
