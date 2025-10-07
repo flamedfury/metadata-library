@@ -7013,5 +7013,23 @@
       "personalweb",
       "culture"
     ]
+  },
+  {
+    "title": "Publishing personal content online while hiding yourself is a flawed but rational response to a broken internet",
+    "site": "",
+    "author": "This day’s portion",
+    "date": "2025-10-07",
+    "timestamp": "2025-10-07T00:47:43.128Z",
+    "description": "My website’s hidden from Google and I have a protected Mastodon account. Find out why on earth I do this and discover 3 Fall songs along the way.",
+    "url": "https://www.thisdaysportion.com/posts/exit-the-cloud/",
+    "image": "",
+    "type": "profile",
+    "notes": "Thoughts on the tension between wanting privacy online and the open nature of the web. Is a smaller internet the way to stay connected meaningfully?",
+    "tags": [
+      "indieweb",
+      "web",
+      "smallweb",
+      "culture"
+    ]
   }
 ]
