@@ -7031,5 +7031,23 @@
       "smallweb",
       "culture"
     ]
+  },
+  {
+    "title": "Be a Good Link",
+    "site": "David A. Kennedy",
+    "author": "David A. Kennedy",
+    "date": "2025-10-09",
+    "timestamp": "2025-10-09T06:30:57.466Z",
+    "description": "Send the right message.",
+    "url": "https://davidakennedy.com/blog/be-a-good-link/",
+    "image": "",
+    "type": "article",
+    "notes": "David A. Kennedy reminds us to “be a good link”. Don’t be a medium or substack. Share and connect thoughtfully on the web.",
+    "tags": [
+      "blogging",
+      "web",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250712124725/https://davidakennedy.com/blog/be-a-good-link/"
   }
 ]
