@@ -7049,5 +7049,24 @@
       "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20250712124725/https://davidakennedy.com/blog/be-a-good-link/"
+  },
+  {
+    "title": "RSS: A Well Formed Log Entry - The History of the Web",
+    "site": "The History of the Web",
+    "author": "Jay",
+    "date": "2025-10-16",
+    "timestamp": "2025-10-16T05:27:48.051Z",
+    "description": "How would you structure a feed for syndicating blog content? Remember, it would need to be standard enough for a computer […]",
+    "url": "https://thehistoryoftheweb.com/rss-well-formed-log-entry/",
+    "image": "",
+    "type": "article",
+    "notes": "An older one from Jay Hoffmann who revisits the early days of RSS, tracing how a simple log fromat evolved into one of the web’s most enduring standards for syndication",
+    "tags": [
+      "indieweb",
+      "web",
+      "webhistory",
+      "tech"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250729091958/https://thehistoryoftheweb.com/rss-well-formed-log-entry/"
   }
 ]
