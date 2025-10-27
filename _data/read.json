@@ -6050,7 +6050,7 @@
       "libby": "11326795"
     },
     "dateStarted": "2025-10-06",
-    "status": "started",
+    "status": "abandoned",
     "rating": "unrated",
     "image": "book-11326795.png",
     "link": "https://share.libbyapp.com/title/11326795",
@@ -6068,6 +6068,8 @@
       "Historical Fiction"
     ],
     "format": "audiobook",
-    "duration": "PT8H34M"
+    "duration": "PT8H34M",
+    "dateAbandoned": "2025-10-09",
+    "notes": "Not for me"
   }
 ]
