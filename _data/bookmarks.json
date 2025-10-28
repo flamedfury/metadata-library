@@ -7102,5 +7102,24 @@
       "indieweb blogging",
       "culture"
     ]
+  },
+  {
+    "title": "Visitor stats and the point of blogging",
+    "site": "",
+    "author": "",
+    "date": "2025-10-28",
+    "timestamp": "2025-10-28T08:38:54.210Z",
+    "description": "A blog on software development and other stuff",
+    "url": "https://underlap.org/visitor-stats-and-the-point-of-blogging/",
+    "image": "",
+    "type": "",
+    "notes": "Underlap shares thoughts on blogging without chasing analytics. Should personal websites exist for expression and connection rather than numbers? I dunno, it sure is nice to see what posts are popular and where people are finding your website from…",
+    "tags": [
+      "indieweb",
+      "blogging",
+      "personalweb",
+      "culture"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250903193545/https://underlap.org/visitor-stats-and-the-point-of-blogging/"
   }
 ]
