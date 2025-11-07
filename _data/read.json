@@ -6071,5 +6071,32 @@
     "duration": "PT8H34M",
     "dateAbandoned": "2025-10-09",
     "notes": "Not for me"
+  },
+  {
+    "identifier": "9167989",
+    "identifiers": {
+      "libby": "9167989"
+    },
+    "dateFinished": "2025-11-03",
+    "summaryEndDate": "2025-11-03",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
+    "notes": "Kerry leaves the UK and ends up in a small coastal New Zealand town, trying to prove he’s not a screw-up. The book digs into small-town life. Low tourism, job scarcity, mental health, and human nature.",
+    "image": "book-9167989.png",
+    "link": "https://share.libbyapp.com/title/9167989",
+    "title": "Gabriel's Bay",
+    "description": "The audio edition of a heart-warming, thoroughly entertaining novel about a whole community.Kerry Macfarlane has run away from his wedding-that-wasn’t. He lands in coastal Gabriel’s Bay, billed as ‘a well-appointed small town’ on its website (last updated two decades ago). Here Kerry hopes to prove he’s not a complete failure. Or, at least, to give his most convincing impression.But Gabriel’s Bay has its own probl...",
+    "authors": [
+      "Catherine Robertson"
+    ],
+    "publishedDate": "2022-08-02",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/2248-1/{A89F8999-720E-4C89-B748-26E7235FC356}IMG100.JPG",
+    "publisher": "Penguin Random House New Zealand",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT12H32M"
   }
 ]
