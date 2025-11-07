@@ -6813,7 +6813,7 @@
     "url": "https://shellsharks.com/just-put-it-on-your-blog",
     "image": "",
     "type": "article",
-    "notes": "Shellsharks reminds us to stop overthinking where content belongs and just publish it on our own blogs, embracing the spirit of the independent web.",
+    "notes": "Shellsharks urges us to stop overthinking and just post on our own blogs.",
     "tags": [
       "blogging",
       "personalweb",
@@ -6833,7 +6833,7 @@
     "url": "https://newpublic.substack.com/p/the-handmade-internet-is-making-a",
     "image": "",
     "type": "article",
-    "notes": "Shame it’s on Substack, but it explores the growing revival of the handmade web, where personal websites push back against the corporate internet.",
+    "notes": "Shame it’s on Substack. New Public explores the revival of the handmade web pushing back against the corporate internet.",
     "tags": [
       "web",
       "indieweb",
@@ -6853,7 +6853,7 @@
     "url": "https://stephvee.ca/blog/social%20media/the-internet-feels-broken/",
     "image": "",
     "type": "website",
-    "notes": "Stephanie reflects on how today’s internet feels broken under the weight of corporate platforms, and argues for reclaiming the web through personal websites and blogging.",
+    "notes": "Steph Vee reflects on how the internet feels broken and why we should reclaim it through personal websites.",
     "tags": [
       "web",
       "indieweb",
@@ -6873,7 +6873,7 @@
     "url": "https://nothingoriginalhere.com/posts/personal-blogs-are-the-best-i-love-yours-and-ill-try-and-tell-you-why",
     "image": "",
     "type": "website",
-    "notes": "Peter shares a post appreciating personal blogs for their honesty and connection, and why they matter more than social media.",
+    "notes": "Nothing Original Here writes about why personal blogs still matter more than social media.",
     "tags": [
       "blogging",
       "personalweb",
@@ -6893,7 +6893,7 @@
     "url": "https://bstn.info/2025/08/03/rss-manifesto.html",
     "image": "",
     "type": "",
-    "notes": "An RSS manifesto arguing for a return to open web standards and personal curation instead of algorithm-driven feeds",
+    "notes": "BSTN argues for a return to open web standards and RSS-based curation.",
     "tags": [
       "indieweb",
       "web",
@@ -6989,7 +6989,7 @@
     "url": "https://www.jayeless.net/rss",
     "image": "",
     "type": "website",
-    "notes": "Another RSS post! Jayeless gives us a rundown on what RSS is, why it still matters and how to use ot to follow blogs and websites.",
+    "notes": "Another RSS post! Jayeless explains what RSS is and how it helps you follow sites without algorithms.",
     "tags": [
       "indieweb",
       "web",
@@ -7006,7 +7006,7 @@
     "url": "https://ersatz.website/~mattyblog/posts/blogging-pseudo-anonymously/",
     "image": "",
     "type": "",
-    "notes": "Matty reflects on blogging under a pseudonym. I can relate as I do the same. I don’t need my website to build a personal brand. I do wonder whether just sharing a bit of myself my help people relate more?",
+    "notes": "Mattyblog writes about blogging under a pseudonym and the freedom it offers.",
     "tags": [
       "indieweb",
       "blogging",
@@ -7024,7 +7024,7 @@
     "url": "https://www.thisdaysportion.com/posts/exit-the-cloud/",
     "image": "",
     "type": "profile",
-    "notes": "Thoughts on the tension between wanting privacy online and the open nature of the web. Is a smaller internet the way to stay connected meaningfully?",
+    "notes": "This Day’s Portion wrestles with the tension between privacy and openness online.",
     "tags": [
       "indieweb",
       "web",
@@ -7042,7 +7042,7 @@
     "url": "https://davidakennedy.com/blog/be-a-good-link/",
     "image": "",
     "type": "article",
-    "notes": "David A. Kennedy reminds us to “be a good link”. Don’t be a medium or substack. Share and connect thoughtfully on the web.",
+    "notes": "David A. Kennedy reminds us to “be a good link” and strengthen the open web.",
     "tags": [
       "blogging",
       "web",
@@ -7060,7 +7060,7 @@
     "url": "https://thehistoryoftheweb.com/rss-well-formed-log-entry/",
     "image": "",
     "type": "article",
-    "notes": "An older one from Jay Hoffmann who revisits the early days of RSS, tracing how a simple log fromat evolved into one of the web’s most enduring standards for syndication",
+    "notes": "The History of the Web revisits how RSS became a cornerstone of the open internet.",
     "tags": [
       "indieweb",
       "web",
@@ -7097,7 +7097,7 @@
     "url": "https://adactio.com/journal/22213",
     "image": "",
     "type": "article",
-    "notes": "Jeremy Keith finds joy in receiving a reply written on someone’s own website instead of a social media post. Website-to-website communication is something I’ve been wanting to come back in vogue for ages. I better start doing it more again!",
+    "notes": "Jeremy Keith finds joy in replies written on someone’s own website.",
     "tags": [
       "indieweb blogging",
       "culture"
@@ -7113,7 +7113,7 @@
     "url": "https://underlap.org/visitor-stats-and-the-point-of-blogging/",
     "image": "",
     "type": "",
-    "notes": "Underlap shares thoughts on blogging without chasing analytics. Should personal websites exist for expression and connection rather than numbers? I dunno, it sure is nice to see what posts are popular and where people are finding your website from…",
+    "notes": "Underlap writes about blogging for connection instead of traffic.",
     "tags": [
       "indieweb",
       "blogging",
@@ -7132,7 +7132,7 @@
     "url": "https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/",
     "image": "",
     "type": "article",
-    "notes": "Finding real human connection through the small web; reaching out, sharing links, and building conversations between our personal websites. Bojidar, I enjoy reading your posts!",
+    "notes": "Bojidar reflects on finding real connection through the small web.",
     "tags": [
       "indieweb",
       "smallweb",
@@ -7143,8 +7143,8 @@
   },
   {
     "title": "The psychological cost of having an RSS feed",
-    "site": "",
-    "author": "",
+    "site": "refp.se",
+    "author": "refp",
     "date": "2025-11-07",
     "timestamp": "2025-11-07T19:39:06.102Z",
     "description": "Implementing an RSS feed for your blog is an easy task for any developer, but have you ever thought about the dangers in doing so? This article discusses such dangers, and why this blog (for now) does not have one.\n",
@@ -7157,6 +7157,25 @@
       "personalweb",
       "blogging",
       "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251107180534/https://refp.se/articles/the-weight-of-an-rss-feed"
+  },
+  {
+    "title": "My first months in cyberspace",
+    "site": "www.gyford.com",
+    "author": "philgyford",
+    "date": "2025-11-07",
+    "timestamp": "2025-11-07T19:43:06.102Z",
+    "description": "Recalling the difficulties and wonder of getting online for the first time in 1995, including diary extracts from the time.",
+    "url": "https://www.gyford.com/phil/writing/2025/10/15/1995-internet/",
+    "image": "",
+    "type": "article",
+    "notes": "Phil Gyford remembers the excitement and optimism of being online in 1995.",
+    "tags": [
+      "indieweb",
+      "webhistory",
+      "nostalgia",
+      "culture"
     ],
     "waybackUrl": "http://web.archive.org/web/20251107180534/https://refp.se/articles/the-weight-of-an-rss-feed"
   }
