@@ -7140,5 +7140,24 @@
       "culture"
     ],
     "waybackUrl": "http://web.archive.org/web/20251006213448/https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/"
+  },
+  {
+    "title": "The psychological cost of having an RSS feed",
+    "site": "",
+    "author": "",
+    "date": "2025-11-07",
+    "timestamp": "2025-11-07T19:39:06.102Z",
+    "description": "Implementing an RSS feed for your blog is an easy task for any developer, but have you ever thought about the dangers in doing so? This article discusses such dangers, and why this blog (for now) does not have one.\n",
+    "url": "https://refp.se/articles/the-weight-of-an-rss-feed",
+    "image": "",
+    "type": "article",
+    "notes": "Filip explores the anxiety that comes with writing a blog knowing it has an RSS feed.",
+    "tags": [
+      "indieweb",
+      "personalweb",
+      "blogging",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251107180534/https://refp.se/articles/the-weight-of-an-rss-feed"
   }
 ]
