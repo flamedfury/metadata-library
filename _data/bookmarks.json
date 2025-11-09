@@ -7178,5 +7178,24 @@
       "culture"
     ],
     "waybackUrl": "http://web.archive.org/web/20251107180534/https://refp.se/articles/the-weight-of-an-rss-feed"
+  },
+  {
+    "title": "Steps Towards a Web without The Internet",
+    "site": "",
+    "author": "~ajroach42.com",
+    "date": "2025-11-09",
+    "timestamp": "2025-11-09T21:15:28.697Z",
+    "description": "The web is broken. We’ve talked about this before (net noot, gopher). Today, I am here to talk about some potential solutions. Specifically I want to talk about how we can leverage some brand new technologies to build a network that operates independently from the Internet and supplements it, mitigating the ways the web is bad for users.\n\n",
+    "url": "https://ajroach42.com/steps-towards-a-web-without-the-internet/",
+    "image": "",
+    "type": "",
+    "notes": "AJ Roach imagines a web that could exist without the internet, built from small, local networks instead of centralised infrastructure.",
+    "tags": [
+      "web",
+      "smallweb",
+      "tech",
+      "indieweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251001064336/https://ajroach42.com/steps-towards-a-web-without-the-internet/"
   }
 ]
