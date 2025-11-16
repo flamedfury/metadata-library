@@ -6098,5 +6098,30 @@
     ],
     "format": "audiobook",
     "duration": "PT12H32M"
+  },
+  {
+    "identifier": "6383325",
+    "identifiers": {
+      "libby": "6383325"
+    },
+    "dateStarted": "2025-11-16",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6383325.png",
+    "link": "https://share.libbyapp.com/title/6383325",
+    "title": "7th Circle",
+    "description": "Five years ago, I masterminded the infamous massacre of the Tri-State Timberwolves. The streets outside the Wolves HQ ran red with the blood of the old guard, and not one of those members loyal to my father were spared mercy. Not a single one. I let the media twist and distort the story. My new recruits eagerly proved themselves in spreading false news, in covering our tracks. To the general public, the Tri-State ...",
+    "authors": [
+      "Tate James"
+    ],
+    "publishedDate": "2021-05-29",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0887-1/{C7F36B89-FF7B-4515-B213-E4E406890179}Img100.jpg",
+    "publisher": "Blackstone Publishing",
+    "categories": [
+      "Fiction",
+      "Romance"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H10M"
   }
 ]
