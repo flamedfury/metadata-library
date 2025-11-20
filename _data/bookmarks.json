@@ -7214,5 +7214,22 @@
       "web",
       "nostalgia"
     ]
+  },
+  {
+    "title": "I ❤ shortcuts #3: read a random blog post",
+    "site": "",
+    "author": "",
+    "date": "2025-11-20",
+    "timestamp": "2025-11-20T01:59:57.649Z",
+    "description": "",
+    "url": "https://lazybea.rs/ils3/",
+    "image": "",
+    "type": "",
+    "notes": "Hyde shares a neat script to help randomly surf the independent web.",
+    "tags": [
+      "personalweb",
+      "smallweb",
+      "indieweb"
+    ]
   }
 ]
