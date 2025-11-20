@@ -6105,8 +6105,8 @@
       "libby": "6383325"
     },
     "dateStarted": "2025-11-16",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-6383325.png",
     "link": "https://share.libbyapp.com/title/6383325",
     "title": "7th Circle",
@@ -6122,6 +6122,8 @@
       "Romance"
     ],
     "format": "audiobook",
-    "duration": "PT8H10M"
+    "duration": "PT8H10M",
+    "dateFinished": "2025-11-19",
+    "notes": "The 7th Circle by Tate James continues the Shadow Grove universe that began with the Maddison Kate series. I’m hooked on the storyline and must read all of the books."
   }
 ]
