@@ -6125,5 +6125,32 @@
     "duration": "PT8H10M",
     "dateFinished": "2025-11-19",
     "notes": "The 7th Circle by Tate James continues the Shadow Grove universe that began with the Maddison Kate series. I’m hooked on the storyline and must read all of the books."
+  },
+  {
+    "identifier": "11311926",
+    "identifiers": {
+      "libby": "11311926"
+    },
+    "dateFinished": "2025-11-19",
+    "summaryEndDate": "2025-11-19",
+    "status": "finished",
+    "rating": "unrated",
+    "image": "book-11311926.png",
+    "link": "https://share.libbyapp.com/title/11311926",
+    "title": "Atmosphere",
+    "description": "Brought to you by Penguin. AN EPIC NOVEL SET AGAINST THE BACKDROP OF THE 1980S SPACE SHUTTLE PROGRAM ABOUT THE EXTRAORDINARY LENGTHS WE GO TO LIVE AND LOVE BEYOND OUR LIMITS. In the summer of 1980, astrophysics professor Joan Goodwin begins training to be an astronaut at Houston’s Johnson Space Center, alongside an exceptional group of fellow candidates: Top Gun pilot Hank Redmond; mission specialists John Griff...",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "publishedDate": "2025-06-03",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/0211-1/{98FE2164-8A94-4C5E-8FB3-DBE2AC9C2A30}IMG100.JPG",
+    "publisher": "Random House",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Historical Fiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT9H57M"
   }
 ]
