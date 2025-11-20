@@ -7248,5 +7248,24 @@
       "web",
       "blogging"
     ]
+  },
+  {
+    "title": "Who's a blog for?",
+    "site": "",
+    "author": "",
+    "date": "2025-11-20",
+    "timestamp": "2025-11-20T02:01:28.727Z",
+    "description": "",
+    "url": "https://cobb.land/posts/whos-a-blog-for/",
+    "image": "",
+    "type": "",
+    "notes": "obb thinks through who a blog is really for and why writing for yourself remains the most sustainable approach.",
+    "tags": [
+      "indieweb",
+      "blogging",
+      "personalweb",
+      "culture"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250914162210/https://cobb.land/posts/whos-a-blog-for/"
   }
 ]
