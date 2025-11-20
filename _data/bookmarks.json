@@ -7284,5 +7284,22 @@
       "tech",
       "culture"
     ]
+  },
+  {
+    "title": "ChatGPT's Atlas: The Browser That's Anti-Web - Anil Dash",
+    "site": "",
+    "author": "Anil Dash",
+    "date": "2025-11-20",
+    "timestamp": "2025-11-20T02:05:22.007Z",
+    "description": "A blog about making culture. Since 1999.",
+    "url": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
+    "image": "",
+    "type": "article",
+    "notes": "Anil Dash argues that Atlas isn’t just an unusual browser but an anti-web tool that strips context from sites and traps users in a closed, distorted version of the internet.",
+    "tags": [
+      "web",
+      "tech",
+      "culture"
+    ]
   }
 ]
