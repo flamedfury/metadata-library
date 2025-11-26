@@ -7355,5 +7355,23 @@
       "nostalgia"
     ],
     "waybackUrl": "http://web.archive.org/web/20250908100707/https://jetgirl.art/blogs-used-to-be-very-different/"
+  },
+  {
+    "title": "PicoSSG",
+    "site": "",
+    "author": "Wolfram Kriesing",
+    "date": "2025-11-26",
+    "timestamp": "2025-11-26T21:05:46.792Z",
+    "description": "PicoSSG is a minimal static site generator built on the philosophy of simplicity and predictability.",
+    "url": "https://picossg.dev/",
+    "image": "",
+    "type": "",
+    "notes": "Pico is a tiny static site generator focused on simplicity, giving you a lightweight way to build plain HTML sites without a full framework.",
+    "tags": [
+      "tech",
+      "web",
+      "smallweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251126054423/https://picossg.dev/"
   }
 ]
