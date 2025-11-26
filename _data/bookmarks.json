@@ -7409,5 +7409,23 @@
       "personalweb",
       "culture"
     ]
+  },
+  {
+    "title": "Small Web, Big Voice",
+    "site": "Andre Franca",
+    "author": "Andre Franca",
+    "date": "2025-11-26",
+    "timestamp": "2025-11-26T21:25:31.907Z",
+    "description": "Tags: #Blogging #Technology #OpenWeb  Why to maintain a blog in 2025?  While the digital landscape continues to consolidate around many p...",
+    "url": "https://afranca.com.br/small-web-big-voice",
+    "image": "",
+    "type": "article",
+    "notes": "Afranca writes about how the small web still carries real weight, showing that personal sites and hand-built spaces can have a bigger impact than their size suggests.",
+    "tags": [
+      "indieweb",
+      "smallweb",
+      "personalweb",
+      "culture"
+    ]
   }
 ]
