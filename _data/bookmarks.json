@@ -7427,5 +7427,23 @@
       "personalweb",
       "culture"
     ]
+  },
+  {
+    "title": "How to Protect Your Privacy from ChatGPT and Other Chatbots",
+    "site": "Mozilla Foundation",
+    "author": "",
+    "date": "2025-11-26",
+    "timestamp": "2025-11-26T21:26:13.695Z",
+    "description": "Do AI chatbots spook your privacy spidey sense? You’re not alone! Here’s how you can protect more of your privacy while using ChatGPT and other AI chatbots.",
+    "url": "https://www.mozillafoundation.org/en/privacynotincluded/articles/how-to-protect-your-privacy-from-chatgpt-and-other-ai-chatbots/",
+    "image": "",
+    "type": "website",
+    "notes": "Mozilla explains how to protect your privacy when using ChatGPT and other AI tools, focusing on data control, account settings, and reducing what these systems can collect about you.",
+    "tags": [
+      "tech",
+      "web",
+      "culture"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250920163833/https://www.mozillafoundation.org/en/privacynotincluded/articles/how-to-protect-your-privacy-from-chatgpt-and-other-ai-chatbots/"
   }
 ]
