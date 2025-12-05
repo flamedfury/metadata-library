@@ -6124,7 +6124,6 @@
     ],
     "format": "audiobook",
     "duration": "PT8H10M",
-    "dateFinished": "2025-11-19",
     "notes": "The 7th Circle by Tate James continues the Shadow Grove universe that began with the Maddison Kate series. I’m hooked on the storyline and must read all of the books."
   },
   {
@@ -6153,5 +6152,30 @@
     ],
     "format": "audiobook",
     "duration": "PT9H57M"
+  },
+  {
+    "identifier": "6197868",
+    "identifiers": {
+      "libby": "6197868"
+    },
+    "dateStarted": "2025-12-04",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6197868.png",
+    "link": "https://share.libbyapp.com/title/6197868",
+    "title": "Daughter of No Worlds",
+    "description": "A former slave fighting for justice. A reclusive warrior who no longer believes it exists. And a dark magic that will entangle their fates.Ripped from a forgotten homeland as a child, Tisaanah learned how to survive with nothing but a sharp wit and a touch of magic. But the night she tries to buy her freedom, she barely escapes with her life.Desperate to save the best friend she left behind, Tisaanah journeys to t...",
+    "authors": [
+      "Carissa Broadbent"
+    ],
+    "publishedDate": "2021-07-20",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1219-1/{09B0A0A9-2C8F-44FF-A264-397FB45DD352}Img100.jpg",
+    "publisher": "Tantor Media, Inc",
+    "categories": [
+      "Fantasy",
+      "Fiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT15H32M"
   }
 ]
