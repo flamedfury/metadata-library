@@ -7464,5 +7464,22 @@
       "blogging"
     ],
     "waybackUrl": "http://web.archive.org/web/20251214091306/https://thehistoryoftheweb.com/what-happened-to-the-comment-section/"
+  },
+  {
+    "title": "Why RSS matters",
+    "site": "Ben Werdmuller",
+    "author": "",
+    "date": "2025-12-15",
+    "timestamp": "2025-12-15T08:06:05.116Z",
+    "description": "The future of the web depends on simple, open standards.",
+    "url": "https://werd.io/why-rss-matters/",
+    "image": "",
+    "type": "article",
+    "notes": "Ben Werd explains why RSS still matters as a simple, open way to follow content without relying on algorithms or platform lock in.",
+    "tags": [
+      "indieweb",
+      "web",
+      "tech"
+    ]
   }
 ]
