@@ -7481,5 +7481,22 @@
       "web",
       "tech"
     ]
+  },
+  {
+    "title": "App selection criteria • Cory Dransfeldt",
+    "site": "Cory Dransfeldt",
+    "author": "Cory Dransfeldt",
+    "date": "2025-12-15",
+    "timestamp": "2025-12-15T08:20:35.453Z",
+    "description": "The last app I bought through Apple's app store was a client for my [Audiobookshelf](https://www.audiobookshelf.org) instance and this reminded me why [I'd built a Navidrome client](/posts/2025/i-made-a-music-app). I wanted to use the web application as a PWA, but Apple doesn't support continuous audio playback in PWAs or Safari on iOS. Audio plays, but it never advances to the next track.",
+    "url": "https://www.coryd.dev/posts/2025/app-selection-criteria",
+    "image": "",
+    "type": "website",
+    "notes": "Cory writes about the criteria he uses to choose apps, prioritising privacy, performance, and tools that respect user control. He’s got me using PWAs for various websites now.",
+    "tags": [
+      "tech",
+      "web"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251212152828/https://www.coryd.dev/posts/2025/app-selection-criteria"
   }
 ]
