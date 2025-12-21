@@ -6179,5 +6179,30 @@
     "duration": "PT15H32M",
     "dateFinished": "2025-12-15",
     "notes": "I mostly enjoyed this book. I don't think I'll contnue the series. I don't care for it enough. I did not really enjoy the narrator. Reminded me of the Magician - but not nearly as good or exciting."
+  },
+  {
+    "identifier": "5536958",
+    "identifiers": {
+      "libby": "5536958",
+      "isbn": "9781775491934"
+    },
+    "dateStarted": "2025-12-19",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-5536958.png",
+    "link": "https://share.libbyapp.com/title/5536958",
+    "title": "Gangland",
+    "description": "New Zealand’s underworld of organised crime and deadly gangs‘The best true-crime book of the year by a long stretch.’- Steve Braunias, Newsroom ‘A series of rip-snorting yarns about gangs, drugs, fancy cars, wads of cash, violence, and guns - Aotearoa New Zealand style.’- Simon BridgesNew Zealand is now one of the most lucrative illicit drug markets in the world. Organised crime is about making money. It’s a busin...",
+    "authors": [
+      "Jared Savage"
+    ],
+    "publishedDate": "2020-12-02",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0355-1/{BA82D45A-20CF-4B71-845F-251D27A9CD3C}Img100.jpg",
+    "publisher": "HarperCollins",
+    "categories": [
+      "True Crime",
+      "Nonfiction"
+    ],
+    "format": "ebook"
   }
 ]
