@@ -7568,5 +7568,22 @@
       "nostalgia"
     ],
     "waybackUrl": "http://web.archive.org/web/20251216023447/https://www.artmann.co/articles/30-years-of-br-tags"
+  },
+  {
+    "title": "Backing up Spotify",
+    "site": "",
+    "author": "",
+    "date": "2025-12-26",
+    "timestamp": "2025-12-26T04:41:03.077Z",
+    "description": "We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.",
+    "url": "https://annas-archive.li/blog/backing-up-spotify.html",
+    "image": "",
+    "type": "article",
+    "notes": "Anna’s Archive explains how they managed to make a copy of Spotify’s metadata. ",
+    "tags": [
+      "music",
+      "tech"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251224160557/https://annas-archive.li/blog/backing-up-spotify.html"
   }
 ]
