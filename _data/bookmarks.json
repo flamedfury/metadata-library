@@ -7620,5 +7620,24 @@
       "blogging",
       "culture"
     ]
+  },
+  {
+    "title": "Static sites killed the blog comment star, but maybe old tech and a smaller web can resurrect them",
+    "site": "",
+    "author": "This day’s portion",
+    "date": "2025-12-26",
+    "timestamp": "2025-12-26T04:44:34.766Z",
+    "description": "Blog comments became unpopular because they weren’t worth the hassle of moderation, and even became a means to attack people. But a technological shift also did for them.",
+    "url": "https://www.thisdaysportion.com/posts/static-sites-killed-comments/",
+    "image": "",
+    "type": "profile",
+    "notes": "This Day’s Portion argues that the move to static sites didn’t just simplify publishing, but quietly stripped away comment sections and the everyday conversations that once lived on personal blogs.",
+    "tags": [
+      "inbdieweb",
+      "blogging",
+      "webhistory",
+      "culture"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251214034129/https://www.thisdaysportion.com/posts/static-sites-killed-comments/"
   }
 ]
