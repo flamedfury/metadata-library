@@ -7549,5 +7549,24 @@
       "web",
       "culture"
     ]
+  },
+  {
+    "title": "30 Years of <br> Tags",
+    "site": "",
+    "author": "",
+    "date": "2025-12-26",
+    "timestamp": "2025-12-26T04:37:20.308Z",
+    "description": "Three decades of making things on the internet",
+    "url": "https://www.artmann.co/articles/30-years-of-br-tags",
+    "image": "",
+    "type": "website",
+    "notes": "Artmann looks back on 30 years of the <br> tag, reflecting on how a tiny bit of HTML has shaped writing and layout on the web.",
+    "tags": [
+      "indieweb",
+      "webhistory",
+      "tech",
+      "nostalgia"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20251216023447/https://www.artmann.co/articles/30-years-of-br-tags"
   }
 ]
