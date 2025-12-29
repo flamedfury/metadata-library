@@ -6187,8 +6187,8 @@
       "isbn": "9781775491934"
     },
     "dateStarted": "2025-12-19",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-5536958.png",
     "link": "https://share.libbyapp.com/title/5536958",
     "title": "Gangland",
@@ -6203,6 +6203,8 @@
       "True Crime",
       "Nonfiction"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2025-12-29",
+    "notes": "Fascinating read, more later"
   }
 ]
