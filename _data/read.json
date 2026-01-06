@@ -5180,33 +5180,6 @@
     "notes": "A young woman makes a a deal with a demon in 1714, gaining immortality but cursed to be forgotten by everyone she meets. Travels the world for 300 years, forgotten by everyone, until she meets Henry, a man who can remember her."
   },
   {
-    "identifier": "6523863",
-    "identifiers": {
-      "libby": "6523863"
-    },
-    "dateStarted": "2025-12-22",
-    "status": "finished",
-    "rating": "⭐️⭐️⭐️⭐️",
-    "image": "book-6523863.png",
-    "link": "https://share.libbyapp.com/title/6523863",
-    "title": "Anarchy",
-    "description": "Five years ago, I made a choice that I haven’t regretted a day since. I protected the single most important person in my world, my little sister. I protected myself, and I seized control of the Tri-state Timberwolves.Since then, I’ve wielded that power with an iron fist. Done whatever it took to take care of my people. Kept us out of the public eye, and kept us safe.Now a ghost from my past is threatening my posit...",
-    "authors": [
-      "Tate James"
-    ],
-    "publishedDate": "2021-07-24",
-    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0887-1/{18F26022-E07B-44F2-AD96-C11446EEFD08}Img100.jpg",
-    "publisher": "Blackstone Publishing",
-    "categories": [
-      "Fiction",
-      "Romance"
-    ],
-    "format": "audiobook",
-    "duration": "PT9H58M",
-    "dateFinished": "2025-01-06",
-    "notes": "Just finished Anarchy by Tate James. The story keeps moving. Plays are made, attacks escalate, and mysteries and betrayals come to light. Everything’s going wrong for Hades. The big question now is, how can Hades wrest back control?"
-  },
-  {
     "identifier": "6177866",
     "identifiers": {
       "libby": "6177866"
@@ -6233,6 +6206,33 @@
     "format": "ebook",
     "dateFinished": "2025-12-29",
     "notes": "Fascinating read, more later"
+  },
+  {
+    "identifier": "6523863",
+    "identifiers": {
+      "libby": "6523863"
+    },
+    "dateStarted": "2025-12-22",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "book-6523863.png",
+    "link": "https://share.libbyapp.com/title/6523863",
+    "title": "Anarchy",
+    "description": "Five years ago, I made a choice that I haven’t regretted a day since. I protected the single most important person in my world, my little sister. I protected myself, and I seized control of the Tri-state Timberwolves.Since then, I’ve wielded that power with an iron fist. Done whatever it took to take care of my people. Kept us out of the public eye, and kept us safe.Now a ghost from my past is threatening my posit...",
+    "authors": [
+      "Tate James"
+    ],
+    "publishedDate": "2021-07-24",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0887-1/{18F26022-E07B-44F2-AD96-C11446EEFD08}Img100.jpg",
+    "publisher": "Blackstone Publishing",
+    "categories": [
+      "Fiction",
+      "Romance"
+    ],
+    "format": "audiobook",
+    "duration": "PT9H58M",
+    "dateFinished": "2026-01-06",
+    "notes": "The story keeps moving. Plays are made, attacks escalate, and mysteries and betrayals come to light. Everything’s going wrong for Hades. The big question now is, how can Hades wrest back control?"
   },
   {
     "identifier": "9765715",
