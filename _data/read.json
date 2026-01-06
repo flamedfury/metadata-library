@@ -6233,5 +6233,31 @@
     "format": "ebook",
     "dateFinished": "2025-12-29",
     "notes": "Fascinating read, more later"
+  },
+  {
+    "identifier": "9765715",
+    "identifiers": {
+      "libby": "9765715",
+      "isbn": "9781775492405"
+    },
+    "dateStarted": "2026-01-06",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9765715.png",
+    "link": "https://share.libbyapp.com/title/9765715",
+    "title": "Gangster's Paradise",
+    "description": "The much anticipated follow-up to the bestseller that exposed the escalation of organised crime in New Zealand.Gangster’s Paradise is about drugs, guns, gangs and money. Lots of money.A gang which took over a small rural town. A police officer shot and killed in a routine traffic stop. A port-worker who helped a gang whisk a shipping container off a wharf in the middle of the night. A crew of corrupt baggage handl...",
+    "authors": [
+      "Jared Savage"
+    ],
+    "publishedDate": "2023-10-04",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0355-1/{DB5ED7B0-7540-4EDC-80DB-5088EE495808}IMG100.JPG",
+    "publisher": "HarperCollins",
+    "categories": [
+      "Sociology",
+      "True Crime",
+      "Nonfiction"
+    ],
+    "format": "ebook"
   }
 ]
