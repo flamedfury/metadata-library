@@ -6286,5 +6286,31 @@
     ],
     "format": "audiobook",
     "duration": "PT11H3M"
+  },
+  {
+    "identifier": "11634625",
+    "identifiers": {
+      "libby": "11634625",
+      "isbn": "9781775492955"
+    },
+    "dateStarted": "2026-01-12",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11634625.png",
+    "link": "https://share.libbyapp.com/title/11634625",
+    "title": "Underworld",
+    "description": "From the author of the bestselling books about the escalation of organised crime and gangs in New Zealand.The brutal execution of an innocent man. The undercover DEA agent who fooled the Hells Angels in a 400kg cocaine plot. The brutal execution of a not-so innocent man. The never-ending quest to bring down New Zealand’s most wanted gangsters. These stories read like a crime novel - delving down into a parallel un...",
+    "authors": [
+      "Jared Savage"
+    ],
+    "publishedDate": "2025-08-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0355-1/{07190F82-7F1A-4B2B-87A1-8CD78C11BF45}IMG100.JPG",
+    "publisher": "HarperCollins",
+    "categories": [
+      "Sociology",
+      "True Crime",
+      "Nonfiction"
+    ],
+    "format": "ebook"
   }
 ]
