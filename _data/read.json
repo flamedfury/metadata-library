@@ -6241,8 +6241,8 @@
       "isbn": "9781775492405"
     },
     "dateStarted": "2026-01-06",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-9765715.png",
     "link": "https://share.libbyapp.com/title/9765715",
     "title": "Gangster's Paradise",
@@ -6258,6 +6258,8 @@
       "True Crime",
       "Nonfiction"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2026-01-12",
+    "notes": "Kicks off righ where Gang Land left off. Some recap with some of the cases covered in Gang Land. Big focus on the 501 gangs, Comencheros and Mongals."
   }
 ]
