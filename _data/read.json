@@ -6261,5 +6261,30 @@
     "format": "ebook",
     "dateFinished": "2026-01-12",
     "notes": "Kicks off righ where Gang Land left off. Some recap with some of the cases covered in Gang Land. Big focus on the 501 gangs, Comencheros and Mongals."
+  },
+  {
+    "identifier": "12499202",
+    "identifiers": {
+      "libby": "12499202"
+    },
+    "dateStarted": "2026-01-11",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-12499202.png",
+    "link": "https://share.libbyapp.com/title/12499202",
+    "title": "Good Things Come and Go",
+    "description": "The stunning second novel from the bestselling author of Everything Is Beautiful and Everything HurtsAfter the death of their young daughter, Penny Whittaker and Adam Riggs are struggling. Penny’s lifelong dream of becoming a successful artist has stalled, and Riggs, battling an addiction to prescription painkillers, is coming to grips with the end of his glittering professional skateboarding career. When Penny is...",
+    "authors": [
+      "Josie Shapiro"
+    ],
+    "publishedDate": "2026-01-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/7723-1/{F54B794F-5920-4E51-87C3-A596ED997F86}IMG100.JPG",
+    "publisher": "W. F. Howes Ltd",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT11H3M"
   }
 ]
