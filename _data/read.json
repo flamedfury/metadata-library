@@ -6268,8 +6268,8 @@
       "libby": "12499202"
     },
     "dateStarted": "2026-01-11",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-12499202.png",
     "link": "https://share.libbyapp.com/title/12499202",
     "title": "Good Things Come and Go",
@@ -6285,7 +6285,14 @@
       "Literature"
     ],
     "format": "audiobook",
-    "duration": "PT11H3M"
+    "duration": "PT11H3M",
+    "dateFinished": "2026-01-15",
+    "tags": [
+      "Loved this book. A story about friendship and betrayal",
+      "ambition",
+      "grief",
+      "homecoming and heartbreak. Reminded me of a Taylor Jenkins Reid book where we are introduced to the characters one and a time and follow them until their world's collide."
+    ]
   },
   {
     "identifier": "11634625",
