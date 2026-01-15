@@ -7692,5 +7692,23 @@
       "nostalgia",
       "culture"
     ]
+  },
+  {
+    "title": "How and Why Do I Blog?",
+    "site": "cmdr-nova@internet:~$",
+    "author": "⸸ commander ░ nova ⸸ :~$",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T23:43:30.264Z",
+    "description": "For part of 2023, a good amount of 2024, and all of 2025, so far, I’ve been blogging. In that, I’ve been writing down my thoughts on random things, or talking about topics I find important, or imperative. Originally, I was doing this across Wordpress blogs, and even successfully imported posts from even older blogs, so that I could sort of, kind of maintain a bit of continuity with my writing online. But, eventually, I made the switch to Jekyll for more control, and to build what you’re seeing now.",
+    "url": "https://mkultra.monster/thoughts/2025/08/08/blog-how-to/",
+    "image": "",
+    "type": "article",
+    "notes": "MKUltra.Monster reflects on how “how to blog” advice often overcomplicates things, arguing that blogging works best when you just start writing and figure it out as you go.",
+    "tags": [
+      "blogging",
+      "personalweb",
+      "culture",
+      "indieweb"
+    ]
   }
 ]
