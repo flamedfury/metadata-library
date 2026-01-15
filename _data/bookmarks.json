@@ -7657,5 +7657,23 @@
       "culture"
     ],
     "waybackUrl": "http://web.archive.org/web/20260108085855/https://susam.net/indieweb-does-not-need-to-take-off.html"
+  },
+  {
+    "title": "Building an IndieWeb house (I): introduction",
+    "site": "Coffee now | A personal blog",
+    "author": "Clare",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T23:34:02.050Z",
+    "description": "When an email went round at work asking if anyone was up for giving a lunchtime talk on a hobby, I volunteered to do so. I’ve got to be honest that I did suspect ‘static site personal blogging’ might be considered a bit too esoteric for them to accept, but no, they took me up on it. Whelp! That’s now done, so, to record the details, I’m also writing it up as a few blog posts…",
+    "url": "https://coffeenow.moomop.uk/post/2025/02/indieweb-i/",
+    "image": "",
+    "type": "article",
+    "notes": "An introduction to the IndieWeb from Coffee Now, explaining what drew them to it and why owning a small, independent site feels worthwhile",
+    "tags": [
+      "indieweb",
+      "personalweb",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20250920002927/https://coffeenow.moomop.uk/post/2025/02/indieweb-i/"
   }
 ]
