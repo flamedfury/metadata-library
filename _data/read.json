@@ -6319,5 +6319,31 @@
       "Nonfiction"
     ],
     "format": "ebook"
+  },
+  {
+    "identifier": "12136714",
+    "identifiers": {
+      "libby": "12136714"
+    },
+    "dateStarted": "2026-01-20",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-12136714.png",
+    "link": "https://share.libbyapp.com/title/12136714",
+    "title": "The Book of Sheen",
+    "description": "“We can live the stories or hear about them later from others. I choose the former.”Charlie Sheen should not be alive to tell these stories.But in The Book of Sheen, the star who has defied all odds - decades of addiction (to drugs, alcohol, gambling, and more), an HIV diagnosis, three divorces, a dust-up with the Sinaloan cartel, and other challenges that will leave readers stunned - finally presents the truth… o...",
+    "authors": [
+      "Charlie Sheen"
+    ],
+    "publishedDate": "2025-09-10",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/5054-1/{9395ECB0-A763-44E2-ACA0-D8D8B8608004}IMG100.JPG",
+    "publisher": "Simon & Schuster Australia",
+    "categories": [
+      "Biography & Autobiography",
+      "Performing Arts",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H58M"
   }
 ]
