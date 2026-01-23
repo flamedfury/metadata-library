@@ -6326,8 +6326,8 @@
       "libby": "12136714"
     },
     "dateStarted": "2026-01-20",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-12136714.png",
     "link": "https://share.libbyapp.com/title/12136714",
     "title": "The Book of Sheen",
@@ -6344,6 +6344,8 @@
       "Nonfiction"
     ],
     "format": "audiobook",
-    "duration": "PT8H58M"
+    "duration": "PT8H58M",
+    "dateFinished": "2026-01-22",
+    "notes": "This was an interesting enough read. Charlie Sheen recounts all of his benders, marriages, divorces across eight hours and spends five minutes at the end about going sober, lol"
   }
 ]
