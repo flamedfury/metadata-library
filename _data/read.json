@@ -6295,32 +6295,6 @@
     ]
   },
   {
-    "identifier": "11634625",
-    "identifiers": {
-      "libby": "11634625",
-      "isbn": "9781775492955"
-    },
-    "dateStarted": "2026-01-12",
-    "status": "started",
-    "rating": "unrated",
-    "image": "book-11634625.png",
-    "link": "https://share.libbyapp.com/title/11634625",
-    "title": "Underworld",
-    "description": "From the author of the bestselling books about the escalation of organised crime and gangs in New Zealand.The brutal execution of an innocent man. The undercover DEA agent who fooled the Hells Angels in a 400kg cocaine plot. The brutal execution of a not-so innocent man. The never-ending quest to bring down New Zealand’s most wanted gangsters. These stories read like a crime novel - delving down into a parallel un...",
-    "authors": [
-      "Jared Savage"
-    ],
-    "publishedDate": "2025-08-01",
-    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0355-1/{07190F82-7F1A-4B2B-87A1-8CD78C11BF45}IMG100.JPG",
-    "publisher": "HarperCollins",
-    "categories": [
-      "Sociology",
-      "True Crime",
-      "Nonfiction"
-    ],
-    "format": "ebook"
-  },
-  {
     "identifier": "12136714",
     "identifiers": {
       "libby": "12136714"
@@ -6347,5 +6321,33 @@
     "duration": "PT8H58M",
     "dateFinished": "2026-01-22",
     "notes": "This was an interesting enough read. Charlie Sheen recounts all of his benders, marriages, divorces across eight hours and spends five minutes at the end about going sober, lol"
+  },
+  {
+    "identifier": "11634625",
+    "identifiers": {
+      "libby": "11634625",
+      "isbn": "9781775492955"
+    },
+    "dateStarted": "2026-01-12",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "book-11634625.png",
+    "link": "https://share.libbyapp.com/title/11634625",
+    "title": "Underworld",
+    "description": "From the author of the bestselling books about the escalation of organised crime and gangs in New Zealand.The brutal execution of an innocent man. The undercover DEA agent who fooled the Hells Angels in a 400kg cocaine plot. The brutal execution of a not-so innocent man. The never-ending quest to bring down New Zealand’s most wanted gangsters. These stories read like a crime novel - delving down into a parallel un...",
+    "authors": [
+      "Jared Savage"
+    ],
+    "publishedDate": "2025-08-01",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0355-1/{07190F82-7F1A-4B2B-87A1-8CD78C11BF45}IMG100.JPG",
+    "publisher": "HarperCollins",
+    "categories": [
+      "Sociology",
+      "True Crime",
+      "Nonfiction"
+    ],
+    "format": "ebook",
+    "dateFinished": "2026-01-23",
+    "notes": "Continues where Gangsters Paradise left off and brings us up to date with the latest big busts in Aotearoa and cases that haven't finished in court yet. Fantastic series"
   }
 ]
