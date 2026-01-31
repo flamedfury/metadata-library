@@ -7803,5 +7803,23 @@
       "movies"
     ],
     "waybackUrl": "http://web.archive.org/web/20251226032356/https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix/"
+  },
+  {
+    "title": "Writing Hyperlinks: Salient, Descriptive, Start with Keyword",
+    "site": "Nielsen Norman Group",
+    "author": "",
+    "date": "2026-01-31",
+    "timestamp": "2026-01-31T05:54:59.623Z",
+    "description": "To help users quickly find what they need, anchor text should stand out from the body content and accurately describe the page that it refers to.",
+    "url": "https://www.nngroup.com/articles/writing-links/",
+    "image": "",
+    "type": "article",
+    "notes": "The Nielsen Norman Group, lol, explains why clear, descriptive link text matters, and how vague “click here” links make content harder to scan and understand",
+    "tags": [
+      "web",
+      "tech",
+      "blogging"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260113043811/https://www.nngroup.com/articles/writing-links/"
   }
 ]
