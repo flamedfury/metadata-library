@@ -7730,5 +7730,23 @@
       "culture",
       "indieweb"
     ]
+  },
+  {
+    "title": "Self-hosting versus lots of small indieweb providers",
+    "site": "",
+    "author": "This day’s portion",
+    "date": "2026-01-31",
+    "timestamp": "2026-01-31T05:45:51.873Z",
+    "description": "To self-host or to get a small, indie service to host for you? Sometimes self-hosting might be the right option.",
+    "url": "https://www.thisdaysportion.com/posts/self-host-or-indie/",
+    "image": "",
+    "type": "profile",
+    "notes": "This Day’s Portion questions whether “Indie” automatically means self-hosting, arguing that intent, control, and how you relate to the web matter more than the specific technical setup.",
+    "tags": [
+      "indieweb",
+      "personalweb",
+      "technology"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260105035147/https://www.thisdaysportion.com/posts/self-host-or-indie/"
   }
 ]
