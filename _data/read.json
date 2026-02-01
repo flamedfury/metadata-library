@@ -6349,5 +6349,30 @@
     "format": "ebook",
     "dateFinished": "2026-01-23",
     "notes": "Continues where Gangsters Paradise left off and brings us up to date with the latest big busts in Aotearoa and cases that haven't finished in court yet. Fantastic series"
+  },
+  {
+    "identifier": "1706327",
+    "identifiers": {
+      "libby": "1706327",
+      "isbn": "9780545652360"
+    },
+    "dateStarted": "2026-01-23",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-1706327.png",
+    "link": "https://share.libbyapp.com/title/1706327",
+    "title": "The Finisher",
+    "description": "The #1 New York Times bestseller by David Baldacci now includes a never-before-seen chapter, a behind-the-scenes look at the making of The Finisher, and a special world guide - for e-readers only!Vega Jane was always told no one could leave the town of Wormwood. She was told there was nothing outside but a forest filled with danger and death. And she always believed it - until the night she saw Quentin Herms run a...",
+    "authors": [
+      "David Baldacci"
+    ],
+    "publishedDate": "2014-03-04",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/0305-1/{E8B281D7-3461-4D5B-B13B-F28968DC01F8}IMG100.JPG",
+    "publisher": "Scholastic Inc.",
+    "categories": [
+      "Fantasy",
+      "Young Adult Fiction"
+    ],
+    "format": "ebook"
   }
 ]
