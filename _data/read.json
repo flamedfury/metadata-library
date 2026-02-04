@@ -6376,5 +6376,31 @@
     "format": "ebook",
     "dateFinished": "2026-02-04",
     "notes": "Enjoyed - right onto the next."
+  },
+  {
+    "identifier": "5979242",
+    "identifiers": {
+      "libby": "5979242",
+      "isbn": "9781760985394"
+    },
+    "dateStarted": "2026-02-04",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-5979242.png",
+    "link": "https://share.libbyapp.com/title/5979242",
+    "title": "Vega Jane and the Maze of Monsters",
+    "description": "Full of thrills, mystery and danger, Vega Jane and the Maze of Monsters is the second title in the fast-paced fantasy adventure series for children of 10+ by bestselling master storyteller David Baldacci.Everything Vega Jane has ever known is a lie. But if she and her best friend Delph are to find the truth about who they are and where they came from, they must first survive the Quag, a wild, enchanted place fille...",
+    "authors": [
+      "David Baldacci"
+    ],
+    "publishedDate": "2021-04-13",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/2283-1/{07F24EE3-FB34-4837-9FAB-CEB8532CC4DF}IMG100.JPG",
+    "publisher": "Pan Macmillan UK",
+    "categories": [
+      "Fantasy",
+      "Juvenile Fiction",
+      "Juvenile Literature"
+    ],
+    "format": "ebook"
   }
 ]
