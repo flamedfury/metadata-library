@@ -6357,8 +6357,8 @@
       "isbn": "9780545652360"
     },
     "dateStarted": "2026-01-23",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️",
     "image": "book-1706327.png",
     "link": "https://share.libbyapp.com/title/1706327",
     "title": "The Finisher",
@@ -6373,6 +6373,8 @@
       "Fantasy",
       "Young Adult Fiction"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2026-02-04",
+    "notes": "Enjoyed - right onto the next."
   }
 ]
