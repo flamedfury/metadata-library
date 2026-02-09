@@ -6402,5 +6402,32 @@
       "Juvenile Literature"
     ],
     "format": "ebook"
+  },
+  {
+    "identifier": "11682083",
+    "identifiers": {
+      "libby": "11682083"
+    },
+    "dateStarted": "2026-02-08",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11682083.png",
+    "link": "https://share.libbyapp.com/title/11682083",
+    "title": "The Art of Exile",
+    "description": "LegendbornmeetsThe Da Vinci Codein this “inventive, compelling” (Kirkus Reviews) light academia contemporary fantasy and “whirlwind romp” (Publishers Weekly) following a teen who infiltrates a secret school for the descendants of exiled Renaissance masters to steal their long-lost arts and sciences.Steal from a hidden utopia.Fake date your nemesis.Don’t fall for your mentor.And whatever you do - don’t get caught.F...",
+    "authors": [
+      "Andrea Max"
+    ],
+    "publishedDate": "2025-05-13",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/5054-1/{5292A7A6-B865-4307-8A78-9302066F55A9}IMG100.JPG",
+    "publisher": "Simon & Schuster Audio",
+    "categories": [
+      "Fantasy",
+      "Romance",
+      "Young Adult Fiction",
+      "Young Adult Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT14H27M"
   }
 ]
