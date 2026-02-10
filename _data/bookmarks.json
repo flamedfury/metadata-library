@@ -7912,5 +7912,22 @@
       "tech"
     ],
     "waybackUrl": "http://web.archive.org/web/20260121132034/https://www.mnot.net/blog/2026/01/20/open_web"
+  },
+  {
+    "title": "Patrick  - Fun with the web",
+    "site": "Patrick Brosset",
+    "author": "",
+    "date": "2026-02-10",
+    "timestamp": "2026-02-10T07:45:14.890Z",
+    "description": "Kids learn by playing, and so do adults! Let's explore fun experiments with the web, and how building silly things can help learn while having a good time.<br>Let's all keep the web weird and wonderful.",
+    "url": "https://patrickbrosset.com/articles/2026-01-06-fun-with-the-web/",
+    "image": "",
+    "type": "",
+    "notes": "Small playful experiments built in a blog post",
+    "tags": [
+      "web",
+      "personalweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260203101950/https://patrickbrosset.com/articles/2026-01-06-fun-with-the-web/"
   }
 ]
