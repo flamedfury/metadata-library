@@ -7893,5 +7893,24 @@
       "blogging"
     ],
     "waybackUrl": "http://web.archive.org/web/20251229201426/https://jotternook.bearblog.dev/the-lines-that-draw-us-together/"
+  },
+  {
+    "title": "Some Thoughts on the Open Web",
+    "site": "Mark Nottingham",
+    "author": "Mark Nottingham",
+    "date": "2026-02-10",
+    "timestamp": "2026-02-10T07:30:32.026Z",
+    "description": "The Open Web means several things to different people, depending on context, but recently discussions have focused on the Web's Openness in terms of access to information -- how easy it is to publish and obtain information without barriers there.",
+    "url": "https://www.mnot.net/blog/2026/01/20/open_web",
+    "image": "",
+    "type": "article",
+    "notes": "Reflections on what the open web actually means today",
+    "tags": [
+      "indieweb",
+      "web",
+      "culture",
+      "tech"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260121132034/https://www.mnot.net/blog/2026/01/20/open_web"
   }
 ]
