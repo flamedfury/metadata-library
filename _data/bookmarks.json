@@ -7857,5 +7857,23 @@
       "web"
     ],
     "waybackUrl": "http://web.archive.org/web/20260119184945/https://borretti.me/article/i-wish-people-were-more-public"
+  },
+  {
+    "title": "SSI (Server-Side Includes) - nekoweb.org",
+    "site": "",
+    "author": "",
+    "date": "2026-02-10",
+    "timestamp": "2026-02-10T01:42:43.177Z",
+    "description": "",
+    "url": "https://nekoweb.org/ssi",
+    "image": "",
+    "type": "",
+    "notes": "Nekoweb introduces SSI for static sites on their platform. Huge news for static site lovers. I could drop in a version of flamedfury.com from 1999 and it would render on Nekoweb. What a time to be alive",
+    "tags": [
+      "indieweb",
+      "personalweb",
+      "webmastery"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260201014434/https://nekoweb.org/ssi"
   }
 ]
