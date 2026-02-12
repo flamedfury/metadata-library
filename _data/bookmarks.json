@@ -7945,5 +7945,22 @@
       "personalweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20250914133304/https://arun.is/blog/desk-setup/"
+  },
+  {
+    "title": "Webspace Invaders · Matthias Ott",
+    "site": "Matthias Ott – User Experience Designer",
+    "author": "Matthias Ott",
+    "date": "2026-02-12",
+    "timestamp": "2026-02-12T21:24:08.060Z",
+    "description": "There’s something happening on the Web at the moment that almost feels like watching that old arcade game Space Invaders play out across our servers. Bots and scrapers marching in formation, attacking our servers wave after wave, systematically requesting page after page, relentlessly filling their data stores while we watch our access logs fill up.",
+    "url": "https://matthiasott.com/articles/webspace-invaders",
+    "image": "",
+    "type": "website",
+    "notes": "Matthias Ott discovers the web is being attacked by invasive patterns and dark designs from AI crawlers. How can we build services that respect users instead of extracting every last pixel from them?",
+    "tags": [
+      "web",
+      "tech"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260211065000/https://matthiasott.com/articles/webspace-invaders"
   }
 ]
