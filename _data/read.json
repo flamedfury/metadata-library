@@ -6409,7 +6409,7 @@
       "libby": "11682083"
     },
     "dateStarted": "2026-02-08",
-    "status": "started",
+    "status": "abandoned",
     "rating": "unrated",
     "image": "book-11682083.png",
     "link": "https://share.libbyapp.com/title/11682083",
@@ -6428,6 +6428,8 @@
       "Young Adult Literature"
     ],
     "format": "audiobook",
-    "duration": "PT14H27M"
+    "duration": "PT14H27M",
+    "dateAbandoned": "2026-02-13",
+    "notes": "I might come back to it - not really interested right now"
   }
 ]
