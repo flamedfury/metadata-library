@@ -6431,5 +6431,30 @@
     "duration": "PT14H27M",
     "dateAbandoned": "2026-02-13",
     "notes": "I might come back to it - not really interested right now"
+  },
+  {
+    "identifier": "12633411",
+    "identifiers": {
+      "libby": "12633411"
+    },
+    "dateStarted": "2026-02-13",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-12633411.png",
+    "link": "https://share.libbyapp.com/title/12633411",
+    "title": "1985",
+    "description": "It’s 1985 and Obi’s on the cusp of teenagehood, after a childhood marked by poverty, dysfunctional family dynamics, (dis)organised crime and violence. His dad’s delusional, his mum’s real sick, the Rainbow Warrior just exploded, and it’s time for Obi to grow up and get out of the spacies parlour.When he and his best mate Al discover a map leading to unknown riches, Obi wonders if this windfall could be the thing t...",
+    "authors": [
+      "Dominic Hoey"
+    ],
+    "publishedDate": "2025-12-09",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/2248-1/{B34F0F1E-B034-4F5C-9AC5-60AE8AF7DD91}IMG100.JPG",
+    "publisher": "Penguin Random House New Zealand",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT6H28M"
   }
 ]
