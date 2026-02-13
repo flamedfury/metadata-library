@@ -8015,5 +8015,23 @@
       "webhistory",
       "nostalgia"
     ]
+  },
+  {
+    "title": "The IndieWeb and Small web",
+    "site": "Christiano Anderson",
+    "author": "",
+    "date": "2026-02-13",
+    "timestamp": "2026-02-13T08:33:38.930Z",
+    "description": "As someone who values privacy and the open web, I’ve been fascinated by the growing movement away from centralised platforms toward more personal, user-controlled online experiences. What surprised me recently was discovering just how many people are embracing these concepts without even knowing their names.\nIndieWeb The IndieWeb is a community of people who own their websites and content rather than posting to third-party platforms (like Medium, Substack, etc). It’s built on principles like:",
+    "url": "https://christiano.dev/post/indieweb_smallweb/",
+    "image": "",
+    "type": "article",
+    "notes": "What’s the overlap between the IndieWeb and the small web?",
+    "tags": [
+      "indieweb",
+      "smallweb",
+      "personalweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260204214519/https://christiano.dev/post/indieweb_smallweb/"
   }
 ]
