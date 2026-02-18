@@ -6438,8 +6438,8 @@
       "libby": "12633411"
     },
     "dateStarted": "2026-02-13",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-12633411.png",
     "link": "https://share.libbyapp.com/title/12633411",
     "title": "1985",
@@ -6455,6 +6455,8 @@
       "Literature"
     ],
     "format": "audiobook",
-    "duration": "PT6H28M"
+    "duration": "PT6H28M",
+    "dateFinished": "2026-02-16",
+    "notes": "1985 One of those books I couldn’t put down.  Dominic Hoey’s voice is direct and unapologetic. No sanding down the rough edges.   Reading it while living here in Auckland allowed me to relate in a way. I’ve spent the last nine months walking these streets. Same geography, completely different lives.  Grey Lynn in 2026 is renovated villas and high property values, and the same poverty, just pushed out of sight. Two worlds sitting side by side.  Obi’s story carries constant tension. Kids navigating adult chaos. Systems that don’t show up. People surviving however they can."
   }
 ]
