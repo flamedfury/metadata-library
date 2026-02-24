@@ -6460,5 +6460,31 @@
     "duration": "PT6H28M",
     "dateFinished": "2026-02-16",
     "notes": "1985 One of those books I couldn’t put down.  Dominic Hoey’s voice is direct and unapologetic. No sanding down the rough edges.   Reading it while living here in Auckland allowed me to relate in a way. I’ve spent the last nine months walking these streets. Same geography, completely different lives.  Grey Lynn in 2026 is renovated villas and high property values, and the same poverty, just pushed out of sight. Two worlds sitting side by side.  Obi’s story carries constant tension. Kids navigating adult chaos. Systems that don’t show up. People surviving however they can."
+  },
+  {
+    "identifier": "6346155",
+    "identifiers": {
+      "libby": "6346155",
+      "isbn": "9781760988166"
+    },
+    "dateStarted": "2026-02-22",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-6346155.png",
+    "link": "https://share.libbyapp.com/title/6346155",
+    "title": "Vega Jane and the Rebels' Revolt",
+    "description": "Packed with monsters, excitement and danger, Vega Jane and the Rebels' Revolt is the third thrilling title in the fast-paced fantasy adventure series for children of 10+ by bestselling master storyteller David Baldacci. Illustrated in black and white throughout by Tomislav Tomic.Lied to her whole life, Vega Jane broke away from the only home she’d ever known in search of the truth. She has battled monsters, with h...",
+    "authors": [
+      "David Baldacci"
+    ],
+    "publishedDate": "2021-09-28",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/2283-1/{19D7726F-4B4C-4AD4-A564-7665550C3A25}IMG100.JPG",
+    "publisher": "Pan Macmillan UK",
+    "categories": [
+      "Fantasy",
+      "Juvenile Fiction",
+      "Juvenile Literature"
+    ],
+    "format": "ebook"
   }
 ]
