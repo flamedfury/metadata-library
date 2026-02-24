@@ -6384,8 +6384,8 @@
       "isbn": "9781760985394"
     },
     "dateStarted": "2026-02-04",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-5979242.png",
     "link": "https://share.libbyapp.com/title/5979242",
     "title": "Vega Jane and the Maze of Monsters",
@@ -6401,7 +6401,9 @@
       "Juvenile Fiction",
       "Juvenile Literature"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2026-02-21",
+    "notes": "Picks up exactly where the first book finished. Vega and Delph are in the Quag and must find their way through the five circles. Who is friend, who is foe?"
   },
   {
     "identifier": "11682083",
