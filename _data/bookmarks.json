@@ -8069,5 +8069,23 @@
       "indieweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20260210000153/https://blog.stephaniestimac.com/posts/2025/08/the-loss-of-curating/"
+  },
+  {
+    "title": "citations.css",
+    "site": "shellsharks",
+    "author": "Michael Sass",
+    "date": "2026-02-25",
+    "timestamp": "2026-02-25T22:28:15.269Z",
+    "description": "Writings on infosec, technology and life",
+    "url": "https://shellsharks.com/notes/2026/02/17/citations-css",
+    "image": "",
+    "type": "article",
+    "notes": "Shellsharks experiments with styling citations in CSS, showing how small tweaks can make references to authors clearer and more readable.",
+    "tags": [
+      "web",
+      "tech",
+      "personalweb"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260225081517/https://shellsharks.com/notes/2026/02/17/citations-css"
   }
 ]
