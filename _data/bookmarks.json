@@ -8087,5 +8087,24 @@
       "personalweb"
     ],
     "waybackUrl": "http://web.archive.org/web/20260225081517/https://shellsharks.com/notes/2026/02/17/citations-css"
+  },
+  {
+    "title": "Phoenix's Web Corner! - The Rise of Sanityware",
+    "site": "",
+    "author": "",
+    "date": "2026-02-26",
+    "timestamp": "2026-02-26T06:49:27.086Z",
+    "description": "",
+    "url": "https://thatshubham.com/blog/2026",
+    "image": "",
+    "type": "",
+    "notes": "Shubham talks about where they stand with the web in 2026, writing about independence, ownership, and what he wants his site to be moving forward.",
+    "tags": [
+      "indieweb",
+      "personalweb",
+      "blogging",
+      "culture"
+    ],
+    "waybackUrl": "http://web.archive.org/web/20260224154614/https://thatshubham.com/blog/2026"
   }
 ]
