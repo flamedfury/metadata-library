@@ -6468,8 +6468,8 @@
       "isbn": "9781760988166"
     },
     "dateStarted": "2026-02-22",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-6346155.png",
     "link": "https://share.libbyapp.com/title/6346155",
     "title": "Vega Jane and the Rebels' Revolt",
@@ -6485,6 +6485,7 @@
       "Juvenile Fiction",
       "Juvenile Literature"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2026-03-07"
   }
 ]
