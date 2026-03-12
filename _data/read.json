@@ -6487,5 +6487,31 @@
     ],
     "format": "ebook",
     "dateFinished": "2026-03-07"
+  },
+  {
+    "identifier": "8440647",
+    "identifiers": {
+      "libby": "8440647",
+      "isbn": "9781761261121"
+    },
+    "dateStarted": "2026-03-08",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-8440647.png",
+    "link": "https://share.libbyapp.com/title/8440647",
+    "title": "Vega Jane and the End of Time",
+    "description": "Packed with thrilling dangers and terrifying monsters Vega Jane and the End of Time is the fourth and final title in the epic, fast-paced fantasy adventures series for children of 10+ by bestselling master storyteller David Baldacci. Illustrated in black and white throughout by Tomislav Tomic.When evil comes, heroes stand to meet it. Vega Jane has tried to outrun, outsmart, and outlast her enemy, but the showdown ...",
+    "authors": [
+      "David Baldacci"
+    ],
+    "publishedDate": "2022-05-10",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/2283-1/{9CF88431-1056-4572-BEBB-9C3F58061BA8}IMG100.JPG",
+    "publisher": "Pan Macmillan UK",
+    "categories": [
+      "Fantasy",
+      "Juvenile Fiction",
+      "Juvenile Literature"
+    ],
+    "format": "ebook"
   }
 ]
