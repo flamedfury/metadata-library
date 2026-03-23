@@ -8124,5 +8124,21 @@
       "personalweb",
       "culture"
     ]
+  },
+  {
+    "title": "404 Page Not Found | Kate Wagner",
+    "site": "The Baffler",
+    "author": "",
+    "date": "2026-03-23",
+    "timestamp": "2026-03-23T02:01:12.258Z",
+    "description": "The artifacts of internet life are personal—that is, not professionally or historically notable—and therefore worthless.",
+    "url": "https://thebaffler.com/salvos/404-page-not-found-wagner",
+    "image": "",
+    "type": "article",
+    "notes": "Kate Wagner looks at how Big Tech has hallowed out the early web’s creative agentcy, selling its aesthetic back to us while stripping out everything that made it matter.",
+    "tags": [
+      "webhistory",
+      "culture"
+    ]
   }
 ]
