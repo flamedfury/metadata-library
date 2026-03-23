@@ -6495,8 +6495,8 @@
       "isbn": "9781761261121"
     },
     "dateStarted": "2026-03-08",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-8440647.png",
     "link": "https://share.libbyapp.com/title/8440647",
     "title": "Vega Jane and the End of Time",
@@ -6512,6 +6512,8 @@
       "Juvenile Fiction",
       "Juvenile Literature"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2026-03-17",
+    "notes": "I'll write this later"
   }
 ]
