@@ -6515,5 +6515,32 @@
     "format": "ebook",
     "dateFinished": "2026-03-17",
     "notes": "I'll write this later"
+  },
+  {
+    "identifier": "10371678",
+    "identifiers": {
+      "libby": "10371678",
+      "isbn": "9780007541478"
+    },
+    "dateStarted": "2026-03-17",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-10371678.png",
+    "link": "https://share.libbyapp.com/title/10371678",
+    "title": "A Darkness Returns",
+    "description": "As worlds collide… Hatushaly, last scion of the Firemane dynasty, his beloved Hava, and their dubious friend Donte have been transported across space and time from the war-torn world of Garn to the relative peace of Midkemia. There, on Sorcerer’s Isle, under the guidance of the magician Magnus and his erstwhile father Pug, in his reincarnated form, Hatu will explore and expand his unique magical abilities. With th...",
+    "authors": [
+      "Raymond E. Feist"
+    ],
+    "publishedDate": "2024-08-01",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/0292-1/{ECE72DBF-27D3-4008-BE0D-759B4F3F1B2D}IMG100.JPG",
+    "publisher": "HarperCollins Publishers",
+    "categories": [
+      "Fantasy",
+      "Fiction",
+      "Thriller",
+      "Historical Fiction"
+    ],
+    "format": "ebook"
   }
 ]
