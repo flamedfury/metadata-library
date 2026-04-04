@@ -6523,8 +6523,8 @@
       "isbn": "9780007541478"
     },
     "dateStarted": "2026-03-17",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
     "image": "book-10371678.png",
     "link": "https://share.libbyapp.com/title/10371678",
     "title": "A Darkness Returns",
@@ -6541,6 +6541,7 @@
       "Thriller",
       "Historical Fiction"
     ],
-    "format": "ebook"
+    "format": "ebook",
+    "dateFinished": "2026-04-04"
   }
 ]
