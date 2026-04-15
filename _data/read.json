@@ -6568,5 +6568,30 @@
       "Literature"
     ],
     "format": "ebook"
+  },
+  {
+    "identifier": "11996675",
+    "identifiers": {
+      "libby": "11996675"
+    },
+    "dateStarted": "2026-04-15",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-11996675.png",
+    "link": "https://share.libbyapp.com/title/11996675",
+    "title": "The New Girl",
+    "description": "Bloomsbury presents The New Girl by Emily Perkins, read by Takunda MuzondiwaIn a small town in New Zealand, lifelong friends, Rachel, Julia and Chicky, are celebrating the end of school, enjoying the liminal space of the summer holidays before their lives will be transformed by university, careers and adulthood.The arrival of Miranda, an exotically beautiful and charismatic woman, will have a profound effect on th...",
+    "authors": [
+      "Emily Perkins"
+    ],
+    "publishedDate": "2025-06-19",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1559-1/{157529FC-6085-4C82-98D1-4ACD8D763DFE}IMG100.JPG",
+    "publisher": "Bloomsbury Publishing",
+    "categories": [
+      "Young Adult Fiction",
+      "Young Adult Literature"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H26M"
   }
 ]
