@@ -6595,5 +6595,30 @@
     "duration": "PT8H26M",
     "dateFinished": "2026-04-21",
     "notes": "I loved reading this book. Perkins nails what I imagine small-town New Zealand feels like. The friendships you grow up with aren't really chosen, they're just who happened to be there. An outsider shows up, and suddenly those bonds reveal what they were always built on. Loved the tension that slowly builds up throughout the story."
+  },
+  {
+    "identifier": "524421",
+    "identifiers": {
+      "libby": "524421"
+    },
+    "dateStarted": "2026-04-27",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-524421.png",
+    "link": "https://share.libbyapp.com/title/524421",
+    "title": "The Lean Startup",
+    "description": "Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fort...",
+    "authors": [
+      "Eric Ries"
+    ],
+    "publishedDate": "2011-09-13",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1191-1/{B2EB30D4-1759-447F-9BC6-3A6412CBEDE7}IMG100.JPG",
+    "publisher": "Books on Tape",
+    "categories": [
+      "Business",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT8H38M"
   }
 ]
