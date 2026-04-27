@@ -6575,8 +6575,8 @@
       "libby": "11996675"
     },
     "dateStarted": "2026-04-15",
-    "status": "started",
-    "rating": "unrated",
+    "status": "finished",
+    "rating": "⭐️⭐️⭐️⭐️",
     "image": "book-11996675.png",
     "link": "https://share.libbyapp.com/title/11996675",
     "title": "The New Girl",
@@ -6592,6 +6592,8 @@
       "Young Adult Literature"
     ],
     "format": "audiobook",
-    "duration": "PT8H26M"
+    "duration": "PT8H26M",
+    "dateFinished": "2026-04-21",
+    "notes": "I loved reading this book. Perkins nails what I imagine small-town New Zealand feels like. The friendships you grow up with aren't really chosen, they're just who happened to be there. An outsider shows up, and suddenly those bonds reveal what they were always built on. Loved the tension that slowly builds up throughout the story."
   }
 ]
