@@ -6620,5 +6620,31 @@
     ],
     "format": "audiobook",
     "duration": "PT8H38M"
+  },
+  {
+    "identifier": "9967284",
+    "identifiers": {
+      "libby": "9967284"
+    },
+    "dateStarted": "2026-05-09",
+    "status": "started",
+    "rating": "unrated",
+    "image": "book-9967284.png",
+    "link": "https://share.libbyapp.com/title/9967284",
+    "title": "Platform Decay",
+    "description": "A most-anticipated title from USA Today, Goodreads, BookPage, BookRiot, Seattle Times, and The Nerd Daily!Everyone’s favorite lethal SecUnit is back in the next installment of Martha Wells' bestselling and award-winning Murderbot Diaries series.Having someone else support your bad decision feels kind of good.After volunteering to run a rescue mission, Murderbot realizes that it will have to spend significant time ...",
+    "authors": [
+      "Martha Wells"
+    ],
+    "publishedDate": "2026-05-05",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1694-1/{F0E89218-B244-469D-98AE-6392162CB2E7}IMG100.JPG",
+    "publisher": "Recorded Books, Inc.",
+    "categories": [
+      "Fiction",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "format": "audiobook",
+    "duration": "PT5H45M"
   }
 ]
