@@ -6545,31 +6545,6 @@
     "dateFinished": "2026-04-04"
   },
   {
-    "identifier": "12039182",
-    "identifiers": {
-      "libby": "12039182",
-      "isbn": "9781835417539"
-    },
-    "dateStarted": "2026-04-12",
-    "status": "started",
-    "rating": "unrated",
-    "image": "book-12039182.png",
-    "link": "https://share.libbyapp.com/title/12039182",
-    "title": "Blood Ties (World of Warcraft",
-    "description": "An official prequel novel to World of Warcraft: Midnight Arator the Redeemer was born to heroism. The son of High Exarch Turalyon and the legendary Alleria Windrunner, Arator has long borne the weight and expectations of their legacy… a legacy he inherited as a babe, the day his parents disappeared through the Dark Portal. Alleria and Turalyon’s journey took them farther afield than they’d intended. While their ab...",
-    "authors": [
-      "Christie Golden"
-    ],
-    "publishedDate": "2025-12-05",
-    "thumbnail": "https://img2.od-cdn.com/ImageType-100/16035-1/{0AA80C62-208D-49C6-BBCD-EA358BA60194}IMG100.JPG",
-    "publisher": "Titan Books",
-    "categories": [
-      "Fiction",
-      "Literature"
-    ],
-    "format": "ebook"
-  },
-  {
     "identifier": "11996675",
     "identifiers": {
       "libby": "11996675"
@@ -6595,6 +6570,33 @@
     "duration": "PT8H26M",
     "dateFinished": "2026-04-21",
     "notes": "I loved reading this book. Perkins nails what I imagine small-town New Zealand feels like. The friendships you grow up with aren't really chosen, they're just who happened to be there. An outsider shows up, and suddenly those bonds reveal what they were always built on. Loved the tension that slowly builds up throughout the story."
+  },
+  {
+    "identifier": "12039182",
+    "identifiers": {
+      "libby": "12039182",
+      "isbn": "9781835417539"
+    },
+    "dateStarted": "2026-04-12",
+    "status": "finished",
+    "rating": "⭐️⭐️",
+    "image": "book-12039182.png",
+    "link": "https://share.libbyapp.com/title/12039182",
+    "title": "Blood Ties (World of Warcraft",
+    "description": "An official prequel novel to World of Warcraft: Midnight Arator the Redeemer was born to heroism. The son of High Exarch Turalyon and the legendary Alleria Windrunner, Arator has long borne the weight and expectations of their legacy… a legacy he inherited as a babe, the day his parents disappeared through the Dark Portal. Alleria and Turalyon’s journey took them farther afield than they’d intended. While their ab...",
+    "authors": [
+      "Christie Golden"
+    ],
+    "publishedDate": "2025-12-05",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/16035-1/{0AA80C62-208D-49C6-BBCD-EA358BA60194}IMG100.JPG",
+    "publisher": "Titan Books",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "ebook",
+    "dateFinished": "2026-05-06",
+    "notes": "As much as I love World of Warcraft, and playing the latest expansion, Midnight which this book leads into I just didn't really like the book. I found the book quite boring. Sure it was following characters I like visiting places I love in game - the story just didn't engage me. Would it be different if I read this before the expansion launched? Who knows..."
   },
   {
     "identifier": "524421",
